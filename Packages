@@ -8,14 +8,14 @@ Size: 4224584
 MD5sum: 28ac97ec8196fd19ccb9483909ea0bc8
 SHA1: bb7faddbbbfae4e2b9e08bca44aef6514a21e2ef
 SHA256: 2037fc520a358d8ded23522692e4f8c83e7596d2b48ebfc886fb7518155e410e
-Section: Acreson-¶¨Î»(Localization)
-Description: GPS Manager¿ÉÒÔÔÚiOSÉè±¸ÖĞÅäÖÃÃ¿¸öÓ¦ÓÃ³ÌĞòµÄGPSÎ»ÖÃ¡£
- Ê¹ÓÃ²Ù×İ¸Ë£¬Äú¿ÉÒÔÔÚÊ¹ÓÃµØÍ¼»òÍæÓÎÏ·Ê±½«Ğé¼ÙµÄGPSÎ»ÖÃÒÆ¶¯µ½ËùĞèµÄÈÎºÎÎ»ÖÃ¡£
- GPS¶¨Î»¹Ü¼Ò£¬ÄÜ¹»¹ÜÀí¸÷¸öiOSÓ¦ÓÃµÄGPSÎ»ÖÃ¡£
- Í¨¹ıĞŞ¸ÄÓ¦ÓÃµÄGPS¶¨Î»£¬ÈÃÄãµÄÎ¢ĞÅ£¬¶¤¶¤ËæÊ±ËæµØ»·ÓÎÊÀ½ç¡£
+Section: Acreson-å®šä½(Localization)
+Description: GPS Managerå¯ä»¥åœ¨iOSè®¾å¤‡ä¸­é…ç½®æ¯ä¸ªåº”ç”¨ç¨‹åºçš„GPSä½ç½®ã€‚
+ ä½¿ç”¨æ“çºµæ†ï¼Œæ‚¨å¯ä»¥åœ¨ä½¿ç”¨åœ°å›¾æˆ–ç©æ¸¸æˆæ—¶å°†è™šå‡çš„GPSä½ç½®ç§»åŠ¨åˆ°æ‰€éœ€çš„ä»»ä½•ä½ç½®ã€‚
+ GPSå®šä½ç®¡å®¶ï¼Œèƒ½å¤Ÿç®¡ç†å„ä¸ªiOSåº”ç”¨çš„GPSä½ç½®ã€‚
+ é€šè¿‡ä¿®æ”¹åº”ç”¨çš„GPSå®šä½ï¼Œè®©ä½ çš„å¾®ä¿¡ï¼Œé’‰é’‰éšæ—¶éšåœ°ç¯æ¸¸ä¸–ç•Œã€‚
 Author: chencong & 7Loopy
-Icon: file:///Applications/Cydia.app/Sections/Acreson-¶¨Î»(Localization).png
-Name: GPS Manager Crack¡¸GPS¶¨Î»×¨¼Ò¡¹
+Icon: file:///Applications/Cydia.app/Sections/Acreson-å®šä½(Localization).png
+Name: GPS Manager Crackã€ŒGPSå®šä½ä¸“å®¶ã€
 Sponsor: Acreson <342080124@qq.com>
 
 Package: com.wechatpurification
@@ -29,7 +29,7 @@ MD5sum: a3da455dce05930ea90458db322548b4
 SHA1: fb6c768ad3a7e1b6ecfaa9dbdcdbfb84b99a85e6
 SHA256: 4957069e6cb1c16d8533a67e4ff90a5a6746f79d42cb8b21d8365736253979f8
 Section: Tweaks
-Description: Î¢ĞÅÖúÊÖ,×Ô¶¯ÇÀºì°ü,¿ªÆôcallkit,·À³·»Ø,ÉÏ´«³¤Í¼Ïñ,¹Ø±ÕÒ»Ğ©Î¢ĞÅÎŞÓÃ¹¦ÄÜ
+Description: å¾®ä¿¡åŠ©æ‰‹,è‡ªåŠ¨æŠ¢çº¢åŒ…,å¼€å¯callkit,é˜²æ’¤å›,ä¸Šä¼ é•¿å›¾åƒ,å…³é—­ä¸€äº›å¾®ä¿¡æ— ç”¨åŠŸèƒ½
 Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Messaging.png
 ModernDepiction: 
