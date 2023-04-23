@@ -1,18 +1,19 @@
-Package: com.wechatpurification
-Version: 2.2-3
-Architecture: iphoneos-arm
-Maintainer: bilings
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/com.wechatpurification_2.2-3_iphoneos-arm.deb
-Size: 650416
-MD5sum: a3da455dce05930ea90458db322548b4
-SHA1: fb6c768ad3a7e1b6ecfaa9dbdcdbfb84b99a85e6
-SHA256: 4957069e6cb1c16d8533a67e4ff90a5a6746f79d42cb8b21d8365736253979f8
-Section: Tweaks
-Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
-Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-ModernDepiction: 
-Name: wechat_pure
-Sponsor: bilings
+Windows Packager (wpkg) v1.0 Guide
+Building:
+wpkg -b            - Build .deb inside the local directory
+wpkg -b <Path>     - Build .deb in the given path
+
+Extraction:
+wpkg -x <PathToDeb> <DestFolder>   - Extract .deb to given path
+wpkg -x <PathToDeb>                - Extract .deb inside the original folder
+wpkg -x <DebfileName>              - Extract a .deb inside the folder you're in*
+ *: only works if you're in the same folder as the .deb!
+
+Extras:
+wpkg -h        - Show this helptext
+wpkg --theme   - Create a base for an iOS Theme in the directory you are currently
+
+
+If you stumble upon an error, please send an email at
+support@saadat.dev
 
