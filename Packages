@@ -17,26 +17,6 @@ Priority: optional
 Sponsor: Editornah
 Tag: purpose::extension, compatible::ios14
 
-Package: me.jjolano.shadow
-Version: 3.6.1
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
-Conflicts: me.jjolano.shadow.beta
-Replaces: me.jjolano.shadow.beta
-Filename: debs/shadow_3.6.1.deb
-Size: 153378
-MD5sum: 6827e27d61d9ad8a49a58ec9ae2a8e64
-SHA1: aa7ffbbe7c8c3f5aa7bd8b0300a89295093e726a
-SHA256: d570985593c4beeac7dd046769d1a3107fe11b59102ca3a758684e9aea0a21f0
-Section: System
-Description: A modern jailbreak detection bypass for jailbroken iOS.
-Author: jjolano
-Installed-Size: 1380
-Name: Shadow
-Provides: me.jjolano.shadow.beta
-Recommends: preferenceloader
-
 Package: cn.wechatpurification
 Version: 2.2-3
 Architecture: iphoneos-arm
@@ -124,4 +104,24 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
 Name: Fireball
 Priority: optional
 Sponsor: Acreson <342080124@qq.com>
+
+Package: me.jjolano.shadow
+Version: 3.6.1
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Filename: debs/me.jjolano.shadow_3.6.1_iphoneos-arm.deb
+Size: 172340
+MD5sum: 7dc6939cea6937cc94f8ec9ec712c828
+SHA1: ac04c30cf1c93b8ec68c5836ae8fb18850ebfdc1
+SHA256: f26dcf6d7aec60a1fb527f6e3dd69ede63eeba5ec8cd9540549a99a3ee9fda33
+Section: Tweaks
+Description: A modern jailbreak detection bypass for jailbroken iOS.
+Author: jjolano
+Installed-Size: 1380
+Name: Shadow
+Provides: me.jjolano.shadow.beta
+Recommends: preferenceloader
 
