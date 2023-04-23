@@ -105,3 +105,23 @@ ModernDepiction:
 Name: 微信净化
 Sponsor: 幺筒源<409774743@qq.com>
 
+Package: com.gpsmanager
+Version: 1.8.8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: debs/GpsManager.deb
+Size: 3387596
+MD5sum: bfe1d85c86cd58e725f8762831853806
+SHA1: 3462f6699658cc72080487ca3db4c25fcf77ab5b
+SHA256: 49fa13674118379419006b9bf1dbcac8a4924be517e0fc86c74aef6a90a49546
+Section: Tweaks
+Description: GPS Manager可以在iOS设备中配置每个应用程序的GPS位置。
+ 使用操纵杆，您可以在使用地图或玩游戏时将虚假的GPS位置移动到所需的任何位置。
+ GPS定位管家，能够管理各个iOS应用的GPS位置。
+ 通过修改应用的GPS定位，让你的微信，钉钉随时随地环游世界。
+Author: chencong & 7Loopy
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: GPS定位修改
+Sponsor: Acreson <342080124@qq.com>
+
