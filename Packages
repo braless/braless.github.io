@@ -17,39 +17,6 @@ Priority: optional
 Sponsor: Editornah
 Tag: purpose::extension, compatible::ios14
 
-Package: com.snail.photoskipdelandinfinitezoom
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: debs/照片删除无需确认.deb
-Size: 3754
-MD5sum: 479b9604ef41f79be068d15d6a006b4d
-SHA1: 481fee10e56b625a49976c9e6ff93884cd744e2b
-SHA256: 3226a23b7636fd6f974946436b67fd2ccffd78014a54c9692317d412e09239c3
-Section: 系统优化
-Description: 照片APP图片删除操作无需确认，无限放大照片，支持iOS12.0以上
-Author: Snail <snailsohi@gmail.com>
-Depiction: https://repo.snailovet.com/package/18
-Homepage: https://repo.snailovet.com/
-Installed-Size: 216
-Name: 照片直接删除&无限放大
-
-Package: com.aifeng.su
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: HBS
-Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: debs/屏蔽35更新.deb
-Size: 1096
-MD5sum: bb34f787359f91dee25b23cc6da2aac3
-SHA1: fd35a1afdab232c0eea392b556efbfdad1bac0fd
-SHA256: 9a8fdc6984996e2b01619aa054bb11b32c2187dcf3f077b55e07e1caf91508a5
-Section: 删除
-Author: HBS
-Installed-Size: 165
-Name: Xina清除35条更新（iOS15）
-Priority: optional
-
 Package: me.jjolano.shadow
 Version: 3.6.1
 Architecture: iphoneos-arm
@@ -108,20 +75,53 @@ Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
 Name: GPS定位修改
 Sponsor: Acreson <342080124@qq.com>
 
+Package: com.aifeng.su
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: HBS
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: debs/屏蔽35更新.deb
+Size: 750
+MD5sum: 658c0db213f0acf6a138d0005d360f3e
+SHA1: 2f92d53bd5fc31208664573156e739b686f450c0
+SHA256: 2fdbd6c9763b904e0a2f55764b242d54ce13c05311e88a5d37100663392160e4
+Section: Tweaks
+Author: HBS
+Installed-Size: 165
+Name: 清除35条更新（iOS15）
+Priority: optional
+
+Package: com.snail.photoskipdelandinfinitezoom
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/照片删除无需确认.deb
+Size: 3656
+MD5sum: 66659c51f7d42043699e69536a4404aa
+SHA1: f6882088521c4596e3247b4161a415693867d385
+SHA256: d1ae3e6fa78c050e47bcc1448bbea43066057e7f04ece37b294b01d8b393fae3
+Section: Tweaks
+Description: 照片APP图片删除操作无需确认，无限放大照片，支持iOS12.0以上
+Author: Snail <snailsohi@gmail.com>
+Depiction: https://repo.snailovet.com/package/18
+Homepage: https://repo.snailovet.com/
+Installed-Size: 216
+Name: 照片直接删除&无限放大
+
 Package: com.FileballCrack
 Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/FileballCrack.deb
-Size: 19808
-MD5sum: 183eb61f7852a35c38475259be25bdb0
-SHA1: 2222cb688d3a3f421f7003de120078157986bf4e
-SHA256: 392d44aad4cc17c8c09b42895fd1b388e55c0b995961f603c426060a91ac7812
+Size: 19800
+MD5sum: 6dc66b7f8a46aa86211ba61d74560274
+SHA1: d329db7353e7a03e88e8b2bd9bcf90ba882ba3fa
+SHA256: daa5b2a9d21c662552cb16850328901225bc7aea4c2bf139079ea503f0f237d2
 Section: Tweaks
 Description: 解锁FileBall高级版所有功能
 Author: Pay Ne
 Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
-Name: Filebal
+Name: Fireball
 Priority: optional
 Sponsor: Acreson <342080124@qq.com>
 
