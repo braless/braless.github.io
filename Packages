@@ -1,0 +1,127 @@
+Package: x.DingTalkHelperX2
+Version: 2.1.7
+Architecture: iphoneos-arm
+Maintainer: Editornah
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
+Filename: debs/钉钉助手.deb
+Size: 123410
+MD5sum: 40dea4329f12a7ca4d7d591b1896eaad
+SHA1: f7ded8d75f0297b03c19cfba3ad2bfa41fc4f298
+SHA256: af93b2f7e0b3f4f11ac8b563a1b154b82404613c59eb5dc8b439a0703992c54f
+Section: Tweaks
+Author: Editornah
+Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
+Name: DingTalkHelperX2
+Priority: optional
+Sponsor: Editornah
+Tag: purpose::extension, compatible::ios14
+
+Package: com.snail.photoskipdelandinfinitezoom
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/照片删除无需确认.deb
+Size: 3754
+MD5sum: 479b9604ef41f79be068d15d6a006b4d
+SHA1: 481fee10e56b625a49976c9e6ff93884cd744e2b
+SHA256: 3226a23b7636fd6f974946436b67fd2ccffd78014a54c9692317d412e09239c3
+Section: 系统优化
+Description: 照片APP图片删除操作无需确认，无限放大照片，支持iOS12.0以上
+Author: Snail <snailsohi@gmail.com>
+Depiction: https://repo.snailovet.com/package/18
+Homepage: https://repo.snailovet.com/
+Installed-Size: 216
+Name: 照片直接删除&无限放大
+
+Package: com.aifeng.su
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: HBS
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: debs/屏蔽35更新.deb
+Size: 1096
+MD5sum: bb34f787359f91dee25b23cc6da2aac3
+SHA1: fd35a1afdab232c0eea392b556efbfdad1bac0fd
+SHA256: 9a8fdc6984996e2b01619aa054bb11b32c2187dcf3f077b55e07e1caf91508a5
+Section: 删除
+Author: HBS
+Installed-Size: 165
+Name: Xina清除35条更新（iOS15）
+Priority: optional
+
+Package: me.jjolano.shadow
+Version: 3.6.1
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Filename: debs/shadow_3.6.1.deb
+Size: 153378
+MD5sum: 6827e27d61d9ad8a49a58ec9ae2a8e64
+SHA1: aa7ffbbe7c8c3f5aa7bd8b0300a89295093e726a
+SHA256: d570985593c4beeac7dd046769d1a3107fe11b59102ca3a758684e9aea0a21f0
+Section: System
+Description: A modern jailbreak detection bypass for jailbroken iOS.
+Author: jjolano
+Installed-Size: 1380
+Name: Shadow
+Provides: me.jjolano.shadow.beta
+Recommends: preferenceloader
+
+Package: cn.wechatpurification
+Version: 2.2-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/微信净化_2.2-3.deb
+Size: 650522
+MD5sum: 5513a0373a4e10d713f1a2412e8b0f0c
+SHA1: 8cecce1331a07541eb3c12a5eaf9639fd39860aa
+SHA256: 8ad1aed9257e8b561dffcf37b52dd0dfa1c1b91d78cb647bbbad116c300689fd
+Section: Tweaks
+Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+ModernDepiction: 
+Name: 微信净化
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: com.gpsmanager
+Version: 1.8.8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: debs/GpsManager.deb
+Size: 3387596
+MD5sum: bfe1d85c86cd58e725f8762831853806
+SHA1: 3462f6699658cc72080487ca3db4c25fcf77ab5b
+SHA256: 49fa13674118379419006b9bf1dbcac8a4924be517e0fc86c74aef6a90a49546
+Section: Tweaks
+Description: GPS Manager可以在iOS设备中配置每个应用程序的GPS位置。
+ 使用操纵杆，您可以在使用地图或玩游戏时将虚假的GPS位置移动到所需的任何位置。
+ GPS定位管家，能够管理各个iOS应用的GPS位置。
+ 通过修改应用的GPS定位，让你的微信，钉钉随时随地环游世界。
+Author: chencong & 7Loopy
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: GPS定位修改
+Sponsor: Acreson <342080124@qq.com>
+
+Package: com.FileballCrack
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/FileballCrack.deb
+Size: 19808
+MD5sum: 183eb61f7852a35c38475259be25bdb0
+SHA1: 2222cb688d3a3f421f7003de120078157986bf4e
+SHA256: 392d44aad4cc17c8c09b42895fd1b388e55c0b995961f603c426060a91ac7812
+Section: Tweaks
+Description: 解锁FileBall高级版所有功能
+Author: Pay Ne
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
+Name: Filebal
+Priority: optional
+Sponsor: Acreson <342080124@qq.com>
+

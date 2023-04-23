@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "开始生成Pakages..."
-python3 dpkg-scanpackages.py -m /debs > Packages
+python3 dpkg-scanpackages.py -m debs > Packages
 
 
 echo "生成Packages完成！"
