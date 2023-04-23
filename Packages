@@ -1,18 +1,18 @@
-Package: com.wechatpurification
+Package: cn.yttxcs.wechatpurification
 Version: 2.2-3
 Architecture: iphoneos-arm
-Maintainer: bilings
+Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/com.wechatpurification_2.2-3_iphoneos-arm.deb
-Size: 650416
-MD5sum: a3da455dce05930ea90458db322548b4
-SHA1: fb6c768ad3a7e1b6ecfaa9dbdcdbfb84b99a85e6
-SHA256: 4957069e6cb1c16d8533a67e4ff90a5a6746f79d42cb8b21d8365736253979f8
-Section: Tweaks
+Filename: debs/微信净化_2.2-3.deb
+Size: 559494
+MD5sum: c9fa518855994c64a98656ddff4f88dc
+SHA1: dfdcfe365502b491c3fe17134d0beb77d30423df
+SHA256: dae7b14756bbaf6088c7485100c7d014a9b17ac185b743fbd74f39d1316cf718
+Section: 微信
 Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
 Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Messaging.png
 ModernDepiction: 
-Name: wechat_pure
-Sponsor: bilings
+Name: WeChatPurification 「微信净化」
+Sponsor: 幺筒源<409774743@qq.com>
 
