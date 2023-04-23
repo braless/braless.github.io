@@ -11,3 +11,4 @@ echo "压缩Packages完成！"
 git add .
 git commit -m "update repo"
 git push
+echo "上传完成！！"
