@@ -35,26 +35,6 @@ ModernDepiction:
 Name: 微信净化
 Sponsor: 幺筒源<409774743@qq.com>
 
-Package: com.gpsmanager
-Version: 1.8.8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Filename: /APP-JD/braless.github.io/debs/GpsManager.deb
-Size: 3387596
-MD5sum: bfe1d85c86cd58e725f8762831853806
-SHA1: 3462f6699658cc72080487ca3db4c25fcf77ab5b
-SHA256: 49fa13674118379419006b9bf1dbcac8a4924be517e0fc86c74aef6a90a49546
-Section: Tweaks
-Description: GPS Manager可以在iOS设备中配置每个应用程序的GPS位置。
- 使用操纵杆，您可以在使用地图或玩游戏时将虚假的GPS位置移动到所需的任何位置。
- GPS定位管家，能够管理各个iOS应用的GPS位置。
- 通过修改应用的GPS定位，让你的微信，钉钉随时随地环游世界。
-Author: chencong & 7Loopy
-Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Name: GPS定位修改
-Sponsor: Acreson <342080124@qq.com>
-
 Package: com.aifeng.su
 Version: 0.1
 Architecture: iphoneos-arm
@@ -87,43 +67,6 @@ Depiction: https://repo.snailovet.com/package/18
 Homepage: https://repo.snailovet.com/
 Installed-Size: 216
 Name: 照片直接删除&无限放大
-
-Package: com.FileballCrack
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /APP-JD/braless.github.io/debs/FileballCrack.deb
-Size: 19800
-MD5sum: 6dc66b7f8a46aa86211ba61d74560274
-SHA1: d329db7353e7a03e88e8b2bd9bcf90ba882ba3fa
-SHA256: daa5b2a9d21c662552cb16850328901225bc7aea4c2bf139079ea503f0f237d2
-Section: Tweaks
-Description: 解锁FileBall高级版所有功能
-Author: Pay Ne
-Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
-Name: Fireball
-Priority: optional
-Sponsor: Acreson <342080124@qq.com>
-
-Package: me.jjolano.shadow
-Version: 3.6.1
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
-Conflicts: me.jjolano.shadow.beta
-Replaces: me.jjolano.shadow.beta
-Filename: /APP-JD/braless.github.io/debs/me.jjolano.shadow_3.6.1_iphoneos-arm.deb
-Size: 172340
-MD5sum: 7dc6939cea6937cc94f8ec9ec712c828
-SHA1: ac04c30cf1c93b8ec68c5836ae8fb18850ebfdc1
-SHA256: f26dcf6d7aec60a1fb527f6e3dd69ede63eeba5ec8cd9540549a99a3ee9fda33
-Section: Tweaks
-Description: A modern jailbreak detection bypass for jailbroken iOS.
-Author: jjolano
-Installed-Size: 1380
-Name: Shadow
-Provides: me.jjolano.shadow.beta
-Recommends: preferenceloader
 
 Package: com.ejiaogl.tuboshuhook
 Version: 0.0.1-1
@@ -164,7 +107,7 @@ Version: 4.0.9
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: /APP-JD/braless.github.io/debs/com.hk.youtubereborn.cn_4.0.9_iphoneos-arm.deb
+Filename: /APP-JD/braless.github.io/debs/Youtube-cn.deb
 Size: 11626
 MD5sum: 8bfc7e328441a966fd0c264c09d55ffe
 SHA1: 26c9873f2694cee8135f9582981e0235e6a6c2c8
@@ -173,4 +116,61 @@ Section: Tweaks
 Author: 妖刀
 Installed-Size: 136
 Name: YouTube Reborn 简体中文包
+
+Package: me.jjolano.shadow
+Version: 3.6.1
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Filename: /APP-JD/braless.github.io/debs/shadow_3.6.1.deb
+Size: 172340
+MD5sum: 7dc6939cea6937cc94f8ec9ec712c828
+SHA1: ac04c30cf1c93b8ec68c5836ae8fb18850ebfdc1
+SHA256: f26dcf6d7aec60a1fb527f6e3dd69ede63eeba5ec8cd9540549a99a3ee9fda33
+Section: Tweaks
+Description: A modern jailbreak detection bypass for jailbroken iOS.
+Author: jjolano
+Installed-Size: 1380
+Name: Shadow
+Provides: me.jjolano.shadow.beta
+Recommends: preferenceloader
+
+Package: com.gpsmanager
+Version: 1.8.8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: /APP-JD/braless.github.io/debs/gpsManager.deb
+Size: 3387596
+MD5sum: bfe1d85c86cd58e725f8762831853806
+SHA1: 3462f6699658cc72080487ca3db4c25fcf77ab5b
+SHA256: 49fa13674118379419006b9bf1dbcac8a4924be517e0fc86c74aef6a90a49546
+Section: Tweaks
+Description: GPS Manager可以在iOS设备中配置每个应用程序的GPS位置。
+ 使用操纵杆，您可以在使用地图或玩游戏时将虚假的GPS位置移动到所需的任何位置。
+ GPS定位管家，能够管理各个iOS应用的GPS位置。
+ 通过修改应用的GPS定位，让你的微信，钉钉随时随地环游世界。
+Author: chencong & 7Loopy
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: GPS定位修改
+Sponsor: Acreson <342080124@qq.com>
+
+Package: com.FileballCrack
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: /APP-JD/braless.github.io/debs/fileballCrack.deb
+Size: 19800
+MD5sum: 6dc66b7f8a46aa86211ba61d74560274
+SHA1: d329db7353e7a03e88e8b2bd9bcf90ba882ba3fa
+SHA256: daa5b2a9d21c662552cb16850328901225bc7aea4c2bf139079ea503f0f237d2
+Section: Tweaks
+Description: 解锁FileBall高级版所有功能
+Author: Pay Ne
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
+Name: Fireball
+Priority: optional
+Sponsor: Acreson <342080124@qq.com>
 
