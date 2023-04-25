@@ -125,3 +125,19 @@ Name: Shadow
 Provides: me.jjolano.shadow.beta
 Recommends: preferenceloader
 
+Package: com.ejiaogl.tuboshuhook
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 土拨鼠
+Depends: mobilesubstrate
+Filename: debs/土拨鼠.deb
+Size: 17872
+MD5sum: 37f905c5ce0b496787cb682b046aac44
+SHA1: 58b21f929de2ddffdb36df19f1f706174d976802
+SHA256: f08f785477b841f51036399d742ed1d2319a9fdddd955b6c00093c83d94789cc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 土拨鼠
+Installed-Size: 316
+Name: 土拨鼠个人插件
+
