@@ -11,7 +11,7 @@ echo "压缩Packages完成！"
 
 cd /APP-JD/braless.github.io/
 echo "进入项目目录..."
-git add .
+git add --all .
 git commit -m "update repo"
 git push
 echo "上传完成！！"
