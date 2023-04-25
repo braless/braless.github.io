@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Editornah
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
-Filename: debs/钉钉助手.deb
+Filename: /APP-JD/braless.github.io/debs/钉钉助手.deb
 Size: 123410
 MD5sum: 40dea4329f12a7ca4d7d591b1896eaad
 SHA1: f7ded8d75f0297b03c19cfba3ad2bfa41fc4f298
@@ -22,7 +22,7 @@ Version: 2.2-3
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/微信净化_2.2-3.deb
+Filename: /APP-JD/braless.github.io/debs/微信净化_2.2-3.deb
 Size: 650522
 MD5sum: 5513a0373a4e10d713f1a2412e8b0f0c
 SHA1: 8cecce1331a07541eb3c12a5eaf9639fd39860aa
@@ -40,7 +40,7 @@ Version: 1.8.8
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Filename: debs/GpsManager.deb
+Filename: /APP-JD/braless.github.io/debs/GpsManager.deb
 Size: 3387596
 MD5sum: bfe1d85c86cd58e725f8762831853806
 SHA1: 3462f6699658cc72080487ca3db4c25fcf77ab5b
@@ -60,7 +60,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: HBS
 Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: debs/屏蔽35更新.deb
+Filename: /APP-JD/braless.github.io/debs/屏蔽35更新.deb
 Size: 750
 MD5sum: 658c0db213f0acf6a138d0005d360f3e
 SHA1: 2f92d53bd5fc31208664573156e739b686f450c0
@@ -75,7 +75,7 @@ Package: com.snail.photoskipdelandinfinitezoom
 Version: 0.0.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: debs/照片删除无需确认.deb
+Filename: /APP-JD/braless.github.io/debs/照片删除无需确认.deb
 Size: 3656
 MD5sum: 66659c51f7d42043699e69536a4404aa
 SHA1: f6882088521c4596e3247b4161a415693867d385
@@ -92,7 +92,7 @@ Package: com.FileballCrack
 Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/FileballCrack.deb
+Filename: /APP-JD/braless.github.io/debs/FileballCrack.deb
 Size: 19800
 MD5sum: 6dc66b7f8a46aa86211ba61d74560274
 SHA1: d329db7353e7a03e88e8b2bd9bcf90ba882ba3fa
@@ -112,7 +112,7 @@ Maintainer: jjolano
 Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
 Conflicts: me.jjolano.shadow.beta
 Replaces: me.jjolano.shadow.beta
-Filename: debs/me.jjolano.shadow_3.6.1_iphoneos-arm.deb
+Filename: /APP-JD/braless.github.io/debs/me.jjolano.shadow_3.6.1_iphoneos-arm.deb
 Size: 172340
 MD5sum: 7dc6939cea6937cc94f8ec9ec712c828
 SHA1: ac04c30cf1c93b8ec68c5836ae8fb18850ebfdc1
@@ -130,7 +130,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: 土拨鼠
 Depends: mobilesubstrate
-Filename: debs/土拨鼠.deb
+Filename: /APP-JD/braless.github.io/debs/土拨鼠.deb
 Size: 17872
 MD5sum: 37f905c5ce0b496787cb682b046aac44
 SHA1: 58b21f929de2ddffdb36df19f1f706174d976802
@@ -148,7 +148,7 @@ Maintainer: Lillie
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiu
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: debs/Youtube.deb
+Filename: /APP-JD/braless.github.io/debs/Youtube.deb
 Size: 10321206
 MD5sum: 44afc78fcc4cea49290092afff7a89af
 SHA1: e7a7ef871796d00d5f34f997800738bf3cd2c2d7
@@ -164,7 +164,7 @@ Version: 4.0.9
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: debs/com.hk.youtubereborn.cn_4.0.9_iphoneos-arm.deb
+Filename: /APP-JD/braless.github.io/debs/com.hk.youtubereborn.cn_4.0.9_iphoneos-arm.deb
 Size: 11626
 MD5sum: 8bfc7e328441a966fd0c264c09d55ffe
 SHA1: 26c9873f2694cee8135f9582981e0235e6a6c2c8
