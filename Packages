@@ -141,3 +141,36 @@ Author: 土拨鼠
 Installed-Size: 316
 Name: 土拨鼠个人插件
 
+Package: com.ryan.youtubereborn
+Version: 4.0.9
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiu
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: debs/Youtube.deb
+Size: 10321206
+MD5sum: 44afc78fcc4cea49290092afff7a89af
+SHA1: e7a7ef871796d00d5f34f997800738bf3cd2c2d7
+SHA256: 413d8f3f468dac479c3cf592f96f389acdea50e6b4f4d3a9c436ddba63c69080
+Section: Tweaks
+Author: Lillie
+Installed-Size: 24876
+Name: YouTube Reborn
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+
+Package: com.youtubereborn.cn
+Version: 4.0.9
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/com.hk.youtubereborn.cn_4.0.9_iphoneos-arm.deb
+Size: 11626
+MD5sum: 8bfc7e328441a966fd0c264c09d55ffe
+SHA1: 26c9873f2694cee8135f9582981e0235e6a6c2c8
+SHA256: 55a05d20160b2294a0dcfb17a0545559b6c5bcb379715f1ace78a01a838b0cd1
+Section: Tweaks
+Author: 妖刀
+Installed-Size: 136
+Name: YouTube Reborn 简体中文包
+
