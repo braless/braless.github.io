@@ -157,23 +157,6 @@ Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
 Name: GPS定位修改
 Sponsor: Acreson <342080124@qq.com>
 
-Package: com.FileballCrack
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/fileballCrack.deb
-Size: 19800
-MD5sum: 6dc66b7f8a46aa86211ba61d74560274
-SHA1: d329db7353e7a03e88e8b2bd9bcf90ba882ba3fa
-SHA256: daa5b2a9d21c662552cb16850328901225bc7aea4c2bf139079ea503f0f237d2
-Section: Tweaks
-Description: 解锁FileBall高级版所有功能
-Author: Pay Ne
-Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
-Name: Fireball
-Priority: optional
-Sponsor: Acreson <342080124@qq.com>
-
 Package: com.wxqzgz
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -192,12 +175,30 @@ Installed-Size: 208
 Name: 公众号强制关注
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/wxqzgzsileo
 
+Package: com.yanshen.jdnoad
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 小奶罩
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/JDNoad.deb
+Size: 3448
+MD5sum: 2cd7ec8f0d08e5f9b9aa7f241d663def
+SHA1: bce4626baa2f6401647186ffd18bf7a9213dc770
+SHA256: 17df6f2f67c16af21f6fafc198308b2d10a1cd5c0949bc01930de47cb99e99d6
+Section: Tweaks
+Description: 去除启动广告、去除个人主页底部推荐、精简搜索栏、屏蔽升级弹窗
+Author: Yanshen
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 168
+Name: 京东NoAd
+Sponsor: 搬运工
+
 Package: cn.yanshen.lastlook
 Version: 3.6.2
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: debs/lastlook_zhcn.deb
+Filename: debs/Lastlook_Zh.deb
 Size: 8676
 MD5sum: 293af5020354e6b1a7c7998b256178f7
 SHA1: 6be0d265a92a4c227bc8fa68549313815eb51906
@@ -210,4 +211,111 @@ Installed-Size: 1563
 ModernDepiction: 
 Name: LastLook 「汉化」
 Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.net.videos
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/随机小姐姐.deb
+Size: 24358
+MD5sum: f4d2e7bbc233c124a10bd41f28e513f3
+SHA1: 44a86945495f0b9d747f9b61b59aaff857b113fd
+SHA256: a1021dc100d371877d7c22a0cad3561ef1dcc2d6c823b6c20b9c727f1ff0b82e
+Section: Tewaks
+Description: 随机小姐姐插件，听起来很牛批，其实就是在微信聊天界面发送小姐姐视频，由老猫开发泄露出来，搬运工整合网络资源编译支持rootless。需要安装老猫的微信助手插件，添加聊天工具栏，具体操作看截图。使用中如果有问题，请缷载！
+Author: Mao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 随机小姐姐
+Priority: optional
+Sponsor: Mao
+
+Package: cm.net.bfdecryptor
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: debs/砸壳工具.deb
+Size: 77468
+MD5sum: 81fb7b7d18b2b7cabfa2e8d43528581f
+SHA1: 0d7de91ab0fc402621c6be5f7d88bc1a1697b784
+SHA256: 5fac449726ff8077c6afefc0436b2d2ed67433b53c118245332fd0ead75dd067
+Section: Tweaks
+Description: bfdecrypt for rootless/Ellekit巨魔商店分享的砸壳神器，貌似有用，有需要的可以尝试，应该不是全权限的，特征是小组件不显示。如果安装了没反应可能就是你的越狱环境不行，不知道怎么砸壳的可以看群文件，有录屏，很简单，配合appdate插件快速找到砸壳之后保存的位置，在数据目录
+Author: BishopFox
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: bfdecryptor砸壳
+Sponsor: 搬运工
+
+Package: com.fzyewechat
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Jan
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/Jan-Wechat.deb
+Size: 693228
+MD5sum: 3e098c992ed95fa79f9db87e064d569a
+SHA1: 8c11bda5264f8576f3683b16bedd63530cb9fac7
+SHA256: 0746aa0b89471000c23b0e117e5e00970aa51f9a9494d7d1b5e35d8f3595189e
+Section: Tweaks
+Description: 微信助手兼容最新版8.0.7微信，支持语音转发，朋友圈文本转发，视频转发，收藏语音转发（需缓存语音），具体功能预览截图
+A12: 1
+Author: Jan.
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: WeChat微信助手
+Sponsor: Jan
+
+Package: cn.net.vcam
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/虚拟摄像头.deb
+Size: 58720
+MD5sum: 4cd1a74a4285aac23c6dcc4954146b29
+SHA1: e1709ea6b828b796b2ff00388cb6cf3cd974885a
+SHA256: 08410203e793cd66d8dd3826843f99853b90ceb38fb60cc9070dfa0b9ed2cc84
+Section: Tweaks
+Description: 虚拟摄像头多巴胺版本请勿用于违法！如果无效，就是插件无效了，可以卸载了！
+Author: trizau
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 288
+Name: 虚拟摄像头
+Sponsor: 搬运工
+
+Package: com.FileballCrack
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/FileballCrack_0.1-arm.deb
+Size: 19814
+MD5sum: 0c52c07a8663e1e0761847f2ac54bf03
+SHA1: 7344fe4001b37411cc77cdeebd4350956731fa23
+SHA256: e910c5c5c57a99cbb47c3ecfbede088ebb0ec2ad6fcf791ab5fdf166621dc902
+Section: Tweaks
+Description: 解锁FileBall高级版所有功能
+Author: Pay Ne
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
+Name: Fireball-Crack
+Priority: optional
+Sponsor: Acreson <342080124@qq.com>
+
+Package: cn.Fileball.root
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Pay Ne
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/Fileball_0.2.deb
+Size: 19526
+MD5sum: 263f7a45a0338ba7ca7256a5fe4bfa36
+SHA1: e2b53219ca654b332d731030cf0883dbb3ddd968
+SHA256: a9dd391dd71f544d9d3bf03b1d3da8c23b18aa1ff1a0797be54a44132f298d95
+Section: Tweaks
+Description: Fileball高级版，这是一款播放器，可以直接去appstore搜索查看详细介绍，好不好用，不太清楚。
+Author: Pay Ne
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Fileball播放器 破解-Rootless
+Priority: optional
+Sponsor: Acreson <342080124@qq.com>
 
