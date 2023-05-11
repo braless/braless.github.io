@@ -157,24 +157,6 @@ Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
 Name: GPS定位修改
 Sponsor: Acreson <342080124@qq.com>
 
-Package: com.wxqzgz
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: lenglengyu <lenglengyu@126.com>
-Depends: mobilesubstrate
-Filename: debs/公众号关注.deb
-Size: 61712
-MD5sum: 314b8d53407c0374756fa2238651dd92
-SHA1: 91ec51a0d327813502acd199903965f8fc996745
-SHA256: 98e8251a22763759882fbc2dd920b77d8ec167072c28a525352eb5aa0b80c49e
-Section: Tweaks
-Description: 强制关注微信公众号。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/wxqzgz.html
-Installed-Size: 208
-Name: 公众号强制关注
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/wxqzgzsileo
-
 Package: com.yanshen.jdnoad
 Version: 1.1
 Architecture: iphoneos-arm
