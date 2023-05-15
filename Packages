@@ -1,251 +1,20 @@
-Package: x.DingTalkHelperX2
-Version: 2.1.7
+Package: com.foxfort.exiwall
+Version: 2.0.4
 Architecture: iphoneos-arm
-Maintainer: Editornah
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
-Filename: debs/钉钉助手.deb
-Size: 123410
-MD5sum: 40dea4329f12a7ca4d7d591b1896eaad
-SHA1: f7ded8d75f0297b03c19cfba3ad2bfa41fc4f298
-SHA256: af93b2f7e0b3f4f11ac8b563a1b154b82404613c59eb5dc8b439a0703992c54f
+Maintainer: FoxfortMobile
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.3.4), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
+Filename: debs/Exiwall.2.0.4.deb
+Size: 23887034
+MD5sum: e9fd7b2681ac3682dab4bc897f50b784
+SHA1: 6b4bbc8803b4373dd3c6b8f6a9ebfaa0c02afe71
+SHA256: 3b8827f3789a43586288dbac7286bee1d6ac102d9362292e408d81e99244e081
 Section: Tweaks
-Author: Editornah
-Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
-Name: DingTalkHelperX2
-Priority: optional
-Sponsor: Editornah
-Tag: purpose::extension, compatible::ios14
-
-Package: cn.wechatpurification
-Version: 2.2-3
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/微信净化_2.2-3.deb
-Size: 650522
-MD5sum: 5513a0373a4e10d713f1a2412e8b0f0c
-SHA1: 8cecce1331a07541eb3c12a5eaf9639fd39860aa
-SHA256: 8ad1aed9257e8b561dffcf37b52dd0dfa1c1b91d78cb647bbbad116c300689fd
-Section: Tweaks
-Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
-Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-ModernDepiction: 
-Name: 微信净化
-Sponsor: 幺筒源<409774743@qq.com>
-
-Package: com.aifeng.su
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: HBS
-Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: debs/屏蔽35更新.deb
-Size: 750
-MD5sum: 658c0db213f0acf6a138d0005d360f3e
-SHA1: 2f92d53bd5fc31208664573156e739b686f450c0
-SHA256: 2fdbd6c9763b904e0a2f55764b242d54ce13c05311e88a5d37100663392160e4
-Section: Tweaks
-Author: HBS
-Installed-Size: 165
-Name: 清除35条更新（iOS15）
-Priority: optional
-
-Package: com.snail.photoskipdelandinfinitezoom
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: debs/照片删除无需确认.deb
-Size: 3656
-MD5sum: 66659c51f7d42043699e69536a4404aa
-SHA1: f6882088521c4596e3247b4161a415693867d385
-SHA256: d1ae3e6fa78c050e47bcc1448bbea43066057e7f04ece37b294b01d8b393fae3
-Section: Tweaks
-Description: 照片APP图片删除操作无需确认，无限放大照片，支持iOS12.0以上
-Author: Snail <snailsohi@gmail.com>
-Depiction: https://repo.snailovet.com/package/18
-Homepage: https://repo.snailovet.com/
-Installed-Size: 216
-Name: 照片直接删除&无限放大
-
-Package: com.ejiaogl.tuboshuhook
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Maintainer: 土拨鼠
-Depends: mobilesubstrate
-Filename: debs/土拨鼠.deb
-Size: 17872
-MD5sum: 37f905c5ce0b496787cb682b046aac44
-SHA1: 58b21f929de2ddffdb36df19f1f706174d976802
-SHA256: f08f785477b841f51036399d742ed1d2319a9fdddd955b6c00093c83d94789cc
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: 土拨鼠
-Installed-Size: 316
-Name: 土拨鼠个人插件
-
-Package: com.ryan.youtubereborn
-Version: 4.0.9
-Architecture: iphoneos-arm
-Maintainer: Lillie
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiu
-Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: debs/Youtube.deb
-Size: 10321206
-MD5sum: 44afc78fcc4cea49290092afff7a89af
-SHA1: e7a7ef871796d00d5f34f997800738bf3cd2c2d7
-SHA256: 413d8f3f468dac479c3cf592f96f389acdea50e6b4f4d3a9c436ddba63c69080
-Section: Tweaks
-Author: Lillie
-Installed-Size: 24876
-Name: YouTube Reborn
-Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-
-Package: com.youtubereborn.cn
-Version: 4.0.9
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: debs/Youtube-cn.deb
-Size: 11626
-MD5sum: 8bfc7e328441a966fd0c264c09d55ffe
-SHA1: 26c9873f2694cee8135f9582981e0235e6a6c2c8
-SHA256: 55a05d20160b2294a0dcfb17a0545559b6c5bcb379715f1ace78a01a838b0cd1
-Section: Tweaks
-Author: 妖刀
-Installed-Size: 136
-Name: YouTube Reborn 简体中文包
-
-Package: me.jjolano.shadow
-Version: 3.6.1
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
-Conflicts: me.jjolano.shadow.beta
-Replaces: me.jjolano.shadow.beta
-Filename: debs/shadow_3.6.1.deb
-Size: 172340
-MD5sum: 7dc6939cea6937cc94f8ec9ec712c828
-SHA1: ac04c30cf1c93b8ec68c5836ae8fb18850ebfdc1
-SHA256: f26dcf6d7aec60a1fb527f6e3dd69ede63eeba5ec8cd9540549a99a3ee9fda33
-Section: Tweaks
-Description: A modern jailbreak detection bypass for jailbroken iOS.
-Author: jjolano
-Installed-Size: 1380
-Name: Shadow
-Provides: me.jjolano.shadow.beta
-Recommends: preferenceloader
-
-Package: com.gpsmanager
-Version: 1.8.8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Filename: debs/gpsManager.deb
-Size: 3387596
-MD5sum: bfe1d85c86cd58e725f8762831853806
-SHA1: 3462f6699658cc72080487ca3db4c25fcf77ab5b
-SHA256: 49fa13674118379419006b9bf1dbcac8a4924be517e0fc86c74aef6a90a49546
-Section: Tweaks
-Description: GPS Manager可以在iOS设备中配置每个应用程序的GPS位置。
- 使用操纵杆，您可以在使用地图或玩游戏时将虚假的GPS位置移动到所需的任何位置。
- GPS定位管家，能够管理各个iOS应用的GPS位置。
- 通过修改应用的GPS定位，让你的微信，钉钉随时随地环游世界。
-Author: chencong & 7Loopy
-Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Name: GPS定位修改
-Sponsor: Acreson <342080124@qq.com>
-
-Package: com.yanshen.jdnoad
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: 小奶罩
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/JDNoad.deb
-Size: 3448
-MD5sum: 2cd7ec8f0d08e5f9b9aa7f241d663def
-SHA1: bce4626baa2f6401647186ffd18bf7a9213dc770
-SHA256: 17df6f2f67c16af21f6fafc198308b2d10a1cd5c0949bc01930de47cb99e99d6
-Section: Tweaks
-Description: 去除启动广告、去除个人主页底部推荐、精简搜索栏、屏蔽升级弹窗
-Author: Yanshen
-Icon: https://chinesebuilding.club/pic/cydia.png
-Installed-Size: 168
-Name: 京东NoAd
-Sponsor: 搬运工
-
-Package: cn.net.videos
-Version: 0.1-1
-Architecture: iphoneos-arm
-Maintainer: 搬运工
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/随机小姐姐.deb
-Size: 24358
-MD5sum: f4d2e7bbc233c124a10bd41f28e513f3
-SHA1: 44a86945495f0b9d747f9b61b59aaff857b113fd
-SHA256: a1021dc100d371877d7c22a0cad3561ef1dcc2d6c823b6c20b9c727f1ff0b82e
-Section: Tewaks
-Description: 随机小姐姐插件，听起来很牛批，其实就是在微信聊天界面发送小姐姐视频，由老猫开发泄露出来，搬运工整合网络资源编译支持rootless。需要安装老猫的微信助手插件，添加聊天工具栏，具体操作看截图。使用中如果有问题，请缷载！
-Author: Mao
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 随机小姐姐
-Priority: optional
-Sponsor: Mao
-
-Package: cm.net.bfdecryptor
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: 搬运工
-Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: debs/砸壳工具.deb
-Size: 77468
-MD5sum: 81fb7b7d18b2b7cabfa2e8d43528581f
-SHA1: 0d7de91ab0fc402621c6be5f7d88bc1a1697b784
-SHA256: 5fac449726ff8077c6afefc0436b2d2ed67433b53c118245332fd0ead75dd067
-Section: Tweaks
-Description: bfdecrypt for rootless/Ellekit巨魔商店分享的砸壳神器，貌似有用，有需要的可以尝试，应该不是全权限的，特征是小组件不显示。如果安装了没反应可能就是你的越狱环境不行，不知道怎么砸壳的可以看群文件，有录屏，很简单，配合appdate插件快速找到砸壳之后保存的位置，在数据目录
-Author: BishopFox
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: bfdecryptor砸壳
-Sponsor: 搬运工
-
-Package: com.fzyewechat
-Version: 1.1.5
-Architecture: iphoneos-arm
-Maintainer: Jan
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/Jan-Wechat.deb
-Size: 693228
-MD5sum: 3e098c992ed95fa79f9db87e064d569a
-SHA1: 8c11bda5264f8576f3683b16bedd63530cb9fac7
-SHA256: 0746aa0b89471000c23b0e117e5e00970aa51f9a9494d7d1b5e35d8f3595189e
-Section: Tweaks
-Description: 微信助手兼容最新版8.0.7微信，支持语音转发，朋友圈文本转发，视频转发，收藏语音转发（需缓存语音），具体功能预览截图
-A12: 1
-Author: Jan.
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-Icon2: 10.png
-Name: WeChat微信助手
-Sponsor: Jan
-
-Package: cn.net.vcam
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: 搬运工
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/虚拟摄像头.deb
-Size: 58720
-MD5sum: 4cd1a74a4285aac23c6dcc4954146b29
-SHA1: e1709ea6b828b796b2ff00388cb6cf3cd974885a
-SHA256: 08410203e793cd66d8dd3826843f99853b90ceb38fb60cc9070dfa0b9ed2cc84
-Section: Tweaks
-Description: 虚拟摄像头多巴胺版本请勿用于违法！如果无效，就是插件无效了，可以卸载了！
-Author: trizau
-Icon: https://chinesebuilding.club/pic/cydia.png
-Installed-Size: 288
-Name: 虚拟摄像头
-Sponsor: 搬运工
+Description: Depth effect for lockscreen wallpaper
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
+Installed-Size: 27508
+Name: Exiwall
 
 Package: com.FileballCrack
 Version: 0.1-1
@@ -282,6 +51,43 @@ Name: Fileball播放器 破解-Rootless
 Priority: optional
 Sponsor: Acreson <342080124@qq.com>
 
+Package: com.yanshen.jdnoad
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 小奶罩
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/JDNoad.deb
+Size: 3448
+MD5sum: 2cd7ec8f0d08e5f9b9aa7f241d663def
+SHA1: bce4626baa2f6401647186ffd18bf7a9213dc770
+SHA256: 17df6f2f67c16af21f6fafc198308b2d10a1cd5c0949bc01930de47cb99e99d6
+Section: Tweaks
+Description: 去除启动广告、去除个人主页底部推荐、精简搜索栏、屏蔽升级弹窗
+Author: Yanshen
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 168
+Name: 京东NoAd
+Sponsor: 搬运工
+
+Package: com.fzyewechat
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Jan
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/Jan-Wechat.deb
+Size: 693228
+MD5sum: 3e098c992ed95fa79f9db87e064d569a
+SHA1: 8c11bda5264f8576f3683b16bedd63530cb9fac7
+SHA256: 0746aa0b89471000c23b0e117e5e00970aa51f9a9494d7d1b5e35d8f3595189e
+Section: Tweaks
+Description: 微信助手兼容最新版8.0.7微信，支持语音转发，朋友圈文本转发，视频转发，收藏语音转发（需缓存语音），具体功能预览截图
+A12: 1
+Author: Jan.
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: WeChat微信助手
+Sponsor: Jan
+
 Package: cn.yanshen.lastlook
 Version: 3.6.2
 Architecture: iphoneos-arm
@@ -300,4 +106,216 @@ Installed-Size: 1563
 ModernDepiction: 
 Name: LastLook 「汉化」
 Sponsor: 幺筒源<409774743@qq.com>
+
+Package: com.youtubereborn.cn
+Version: 4.0.9
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/Youtube-cn.deb
+Size: 11626
+MD5sum: 8bfc7e328441a966fd0c264c09d55ffe
+SHA1: 26c9873f2694cee8135f9582981e0235e6a6c2c8
+SHA256: 55a05d20160b2294a0dcfb17a0545559b6c5bcb379715f1ace78a01a838b0cd1
+Section: Tweaks
+Author: 妖刀
+Installed-Size: 136
+Name: YouTube Reborn 简体中文包
+
+Package: com.ryan.youtubereborn
+Version: 4.0.9
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiu
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: debs/Youtube.deb
+Size: 10321206
+MD5sum: 44afc78fcc4cea49290092afff7a89af
+SHA1: e7a7ef871796d00d5f34f997800738bf3cd2c2d7
+SHA256: 413d8f3f468dac479c3cf592f96f389acdea50e6b4f4d3a9c436ddba63c69080
+Section: Tweaks
+Author: Lillie
+Installed-Size: 24876
+Name: YouTube Reborn
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+
+Package: com.gpsmanager
+Version: 1.8.8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: debs/gpsManager.deb
+Size: 3387596
+MD5sum: bfe1d85c86cd58e725f8762831853806
+SHA1: 3462f6699658cc72080487ca3db4c25fcf77ab5b
+SHA256: 49fa13674118379419006b9bf1dbcac8a4924be517e0fc86c74aef6a90a49546
+Section: Tweaks
+Description: GPS Manager可以在iOS设备中配置每个应用程序的GPS位置。
+ 使用操纵杆，您可以在使用地图或玩游戏时将虚假的GPS位置移动到所需的任何位置。
+ GPS定位管家，能够管理各个iOS应用的GPS位置。
+ 通过修改应用的GPS定位，让你的微信，钉钉随时随地环游世界。
+Author: chencong & 7Loopy
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: GPS定位修改
+Sponsor: Acreson <342080124@qq.com>
+
+Package: me.jjolano.shadow
+Version: 3.6.1
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Filename: debs/shadow_3.6.1.deb
+Size: 172340
+MD5sum: 7dc6939cea6937cc94f8ec9ec712c828
+SHA1: ac04c30cf1c93b8ec68c5836ae8fb18850ebfdc1
+SHA256: f26dcf6d7aec60a1fb527f6e3dd69ede63eeba5ec8cd9540549a99a3ee9fda33
+Section: Tweaks
+Description: A modern jailbreak detection bypass for jailbroken iOS.
+Author: jjolano
+Installed-Size: 1380
+Name: Shadow
+Provides: me.jjolano.shadow.beta
+Recommends: preferenceloader
+
+Package: com.ejiaogl.tuboshuhook
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 土拨鼠
+Depends: mobilesubstrate
+Filename: debs/土拨鼠.deb
+Size: 17872
+MD5sum: 37f905c5ce0b496787cb682b046aac44
+SHA1: 58b21f929de2ddffdb36df19f1f706174d976802
+SHA256: f08f785477b841f51036399d742ed1d2319a9fdddd955b6c00093c83d94789cc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 土拨鼠
+Installed-Size: 316
+Name: 土拨鼠个人插件
+
+Package: com.aifeng.su
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: HBS
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: debs/屏蔽35更新.deb
+Size: 750
+MD5sum: 658c0db213f0acf6a138d0005d360f3e
+SHA1: 2f92d53bd5fc31208664573156e739b686f450c0
+SHA256: 2fdbd6c9763b904e0a2f55764b242d54ce13c05311e88a5d37100663392160e4
+Section: Tweaks
+Author: HBS
+Installed-Size: 165
+Name: 清除35条更新（iOS15）
+Priority: optional
+
+Package: cn.wechatpurification
+Version: 2.2-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/微信净化_2.2-3.deb
+Size: 650522
+MD5sum: 5513a0373a4e10d713f1a2412e8b0f0c
+SHA1: 8cecce1331a07541eb3c12a5eaf9639fd39860aa
+SHA256: 8ad1aed9257e8b561dffcf37b52dd0dfa1c1b91d78cb647bbbad116c300689fd
+Section: Tweaks
+Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+ModernDepiction: 
+Name: 微信净化
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: com.snail.photoskipdelandinfinitezoom
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/照片删除无需确认.deb
+Size: 3656
+MD5sum: 66659c51f7d42043699e69536a4404aa
+SHA1: f6882088521c4596e3247b4161a415693867d385
+SHA256: d1ae3e6fa78c050e47bcc1448bbea43066057e7f04ece37b294b01d8b393fae3
+Section: Tweaks
+Description: 照片APP图片删除操作无需确认，无限放大照片，支持iOS12.0以上
+Author: Snail <snailsohi@gmail.com>
+Depiction: https://repo.snailovet.com/package/18
+Homepage: https://repo.snailovet.com/
+Installed-Size: 216
+Name: 照片直接删除&无限放大
+
+Package: cm.net.bfdecryptor
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: debs/砸壳工具.deb
+Size: 77468
+MD5sum: 81fb7b7d18b2b7cabfa2e8d43528581f
+SHA1: 0d7de91ab0fc402621c6be5f7d88bc1a1697b784
+SHA256: 5fac449726ff8077c6afefc0436b2d2ed67433b53c118245332fd0ead75dd067
+Section: Tweaks
+Description: bfdecrypt for rootless/Ellekit巨魔商店分享的砸壳神器，貌似有用，有需要的可以尝试，应该不是全权限的，特征是小组件不显示。如果安装了没反应可能就是你的越狱环境不行，不知道怎么砸壳的可以看群文件，有录屏，很简单，配合appdate插件快速找到砸壳之后保存的位置，在数据目录
+Author: BishopFox
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: bfdecryptor砸壳
+Sponsor: 搬运工
+
+Package: cn.net.vcam
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/虚拟摄像头.deb
+Size: 58720
+MD5sum: 4cd1a74a4285aac23c6dcc4954146b29
+SHA1: e1709ea6b828b796b2ff00388cb6cf3cd974885a
+SHA256: 08410203e793cd66d8dd3826843f99853b90ceb38fb60cc9070dfa0b9ed2cc84
+Section: Tweaks
+Description: 虚拟摄像头多巴胺版本请勿用于违法！如果无效，就是插件无效了，可以卸载了！
+Author: trizau
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 288
+Name: 虚拟摄像头
+Sponsor: 搬运工
+
+Package: x.DingTalkHelperX2
+Version: 2.1.7
+Architecture: iphoneos-arm
+Maintainer: Editornah
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
+Filename: debs/钉钉助手.deb
+Size: 123410
+MD5sum: 40dea4329f12a7ca4d7d591b1896eaad
+SHA1: f7ded8d75f0297b03c19cfba3ad2bfa41fc4f298
+SHA256: af93b2f7e0b3f4f11ac8b563a1b154b82404613c59eb5dc8b439a0703992c54f
+Section: Tweaks
+Author: Editornah
+Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
+Name: DingTalkHelperX2
+Priority: optional
+Sponsor: Editornah
+Tag: purpose::extension, compatible::ios14
+
+Package: cn.net.videos
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/随机小姐姐.deb
+Size: 24358
+MD5sum: f4d2e7bbc233c124a10bd41f28e513f3
+SHA1: 44a86945495f0b9d747f9b61b59aaff857b113fd
+SHA256: a1021dc100d371877d7c22a0cad3561ef1dcc2d6c823b6c20b9c727f1ff0b82e
+Section: Tewaks
+Description: 随机小姐姐插件，听起来很牛批，其实就是在微信聊天界面发送小姐姐视频，由老猫开发泄露出来，搬运工整合网络资源编译支持rootless。需要安装老猫的微信助手插件，添加聊天工具栏，具体操作看截图。使用中如果有问题，请缷载！
+Author: Mao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 随机小姐姐
+Priority: optional
+Sponsor: Mao
 
