@@ -307,15 +307,49 @@ Architecture: iphoneos-arm
 Maintainer: 搬运工
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/随机小姐姐.deb
-Size: 24358
-MD5sum: f4d2e7bbc233c124a10bd41f28e513f3
-SHA1: 44a86945495f0b9d747f9b61b59aaff857b113fd
-SHA256: a1021dc100d371877d7c22a0cad3561ef1dcc2d6c823b6c20b9c727f1ff0b82e
-Section: Tewaks
+Size: 24370
+MD5sum: 58de9d819e0226a6475284b7bf61a1e8
+SHA1: 1e0e80fb95c07a90a0e97e421f8f0a0022158593
+SHA256: c5d65849b6b1828350cbf2a276f8e5c125f8705db21d94712a10e5b26ef3b09a
+Section: Tweaks
 Description: 随机小姐姐插件，听起来很牛批，其实就是在微信聊天界面发送小姐姐视频，由老猫开发泄露出来，搬运工整合网络资源编译支持rootless。需要安装老猫的微信助手插件，添加聊天工具栏，具体操作看截图。使用中如果有问题，请缷载！
 Author: Mao
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 随机小姐姐
 Priority: optional
 Sponsor: Mao
+
+Package: com.HBWechatHelper.ailun
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/黄白助手1.3.2.deb
+Size: 10337650
+MD5sum: f18df89d3daf7b8b3fcb07c64b370d01
+SHA1: 825a721e55fbebed2b72e53fb730c7f8ba819fd6
+SHA256: d7ca76b810411406ef32b17891fa4b1c591791c83caaa37ebaae8bdce7d0326a
+Section: Tweaks
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信娱乐插件)
+Sponsor: Mao
+dev: HuangBai
+
+Package: com.HBWechatHelper.ailun
+Version: 1.0.8-4
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/黄白助手_1.0.8-4_tg巨魔商店.deb
+Size: 3777018
+MD5sum: 0c05cadbf58f68f28fdc38eb3d693219
+SHA1: 9d8fb5784020ff4eb366c010d926842890749591
+SHA256: 04e8ec0545a8d942d778713f34139c50e2e0559cc9075dc1566d7a4dddac804a
+Section: Tweaks
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信娱乐插件)
+Sponsor: Mao
+dev: HuangBai
 
