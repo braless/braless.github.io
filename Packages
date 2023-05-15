@@ -353,3 +353,18 @@ Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 dev: HuangBai
 
+Package: com.pingfan.wechat
+Version: 2.1-3
+Architecture: iphoneos-arm
+Maintainer: pingfan
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/虚拟视频_2.1-3.deb
+Size: 3551784
+MD5sum: 50a62a8bc14f186369c4a571ebe6b7f6
+SHA1: 16a272dc83b00106f7900f77f6e3721675bfc3d5
+SHA256: a8e8394df59a79452e1a33a3906760ad30fa2403d4c1ba8cb59819b0ddc2bdb3
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询,新增语音包，一键已读消息等。
+Author: pingfan
+Name: 虚拟视频
+
