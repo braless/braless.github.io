@@ -368,3 +368,17 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: pingfan
 Name: 虚拟视频
 
+Package: com.yanshen.blacklist
+Version: 0.0.1-61+debug
+Architecture: iphoneos-arm
+Maintainer: xina520 <3608063@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yanshen.blacklist_0.0.1-61+debug_iphoneos-arm.deb
+Size: 40310
+MD5sum: eca61364f1c793b5bc1e8370227230b1
+SHA1: bfee31760fb195bf75304d3d5ba9de9c8065b40a
+SHA256: 79f2a3b2a7bd2e4748d72ef6bd5db2d25da4a5a85db248531aa68fbd80f4d521
+Section: Tweaks
+Author: xina520 <3608063@qq.com>
+Name: 禁止注入
+
