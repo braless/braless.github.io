@@ -1,21 +1,3 @@
-Package: com.foxfort.exiwall
-Version: 2.0.4
-Architecture: iphoneos-arm
-Maintainer: FoxfortMobile
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.3.4), firmware (>= 14.0)
-Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
-Filename: debs/Exiwall.2.0.4.deb
-Size: 23887034
-MD5sum: e9fd7b2681ac3682dab4bc897f50b784
-SHA1: 6b4bbc8803b4373dd3c6b8f6a9ebfaa0c02afe71
-SHA256: 3b8827f3789a43586288dbac7286bee1d6ac102d9362292e408d81e99244e081
-Section: Tweaks
-Description: Depth effect for lockscreen wallpaper
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
-Installed-Size: 27508
-Name: Exiwall
-
 Package: com.FileballCrack
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -381,4 +363,40 @@ SHA256: 79f2a3b2a7bd2e4748d72ef6bd5db2d25da4a5a85db248531aa68fbd80f4d521
 Section: Tweaks
 Author: xina520 <3608063@qq.com>
 Name: 禁止注入
+
+Package: com.foxfort.exiwall
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.3.4), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
+Filename: debs/Exiwall.2.0.4.deb
+Size: 23887034
+MD5sum: e9fd7b2681ac3682dab4bc897f50b784
+SHA1: 6b4bbc8803b4373dd3c6b8f6a9ebfaa0c02afe71
+SHA256: 3b8827f3789a43586288dbac7286bee1d6ac102d9362292e408d81e99244e081
+Section: Tweaks
+Description: Depth effect for lockscreen wallpaper
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
+Installed-Size: 27508
+Name: Exiwall
+
+Package: com.foxfort.exiwall
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.4.0), firmware (>= 14.0)
+Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
+Filename: debs/Exiwall.2.1.0.deb
+Size: 23534588
+MD5sum: 698a5d743757b20d3005294e8baf9d9e
+SHA1: 7c98aaee782f81ed0fcb2d8332b919b85572f660
+SHA256: c03a0de9218abdc21974b1a37dbd8b7e0f1e2a6c621f80769e34217b2fe93a4d
+Section: Tweaks
+Description: Depth effect for lockscreen wallpaper
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
+Installed-Size: 27512
+Name: Exiwall
 
