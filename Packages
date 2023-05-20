@@ -400,3 +400,25 @@ Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
 Installed-Size: 27512
 Name: Exiwall
 
+Package: com.curtin.pkc
+Version: 0.2-4
+Architecture: iphoneos-arm
+Maintainer: Curtin curtinlv@126.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Filename: debs/PKC微信助手_0.2-4.deb
+Size: 59648
+MD5sum: 25d9aaa6ca8d50f0627f55dde7013c91
+SHA1: f6e3c3fdd6c07f4dda491dd796ef1b6e4295f109
+SHA256: 18062f79b36bf60587f8d59deb6c89627658d42170f81583932cd7a35068ae19
+Section: 微信插件
+Description: <br/><h3>Bark消息推送 <br/>防撤回<br />退群监控<br />步数修改<br />定时问候<br />JD京东对接查询自动签到领京豆</h3>
+Author: Curtin Lv
+Depiction: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Homepage: https://github.com/curtinlv
+Icon: https://raw.githubusercontent.com/curtinlv/JD-Script/main/pkc7.ico
+Name: PKC微信助手
+Priority: optional
+dev: 
+
