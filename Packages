@@ -422,3 +422,22 @@ Name: PKC微信助手
 Priority: optional
 dev: 
 
+Package: yanshen.dw.gpsmaster
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
+Filename: debs/虚拟定位.deb
+Size: 4050046
+MD5sum: 20dd4e3666dd38457d82a0f781a24636
+SHA1: c91d7c6c62f0a96e3a75968bc7b6909d00ffddfc
+SHA256: c4f9dfad6d7a8bd97c595e8aed8e41a5cce5ca5814b13f1f9b9d3e4e96f3f262
+Section: 定位
+Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: GPS Master Crack「GPS定位大师」
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
