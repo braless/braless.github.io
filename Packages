@@ -450,15 +450,15 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: apt.tinyapps.location360pro
 Filename: debs/虚拟定位-补丁.deb
-Size: 346962
-MD5sum: 84f37652f0c816a74451c1357d606fea
-SHA1: 71ec8b0b674da11a1afd7302c2af2fd65d4634b9
-SHA256: cd728f4ea5bf0d28dbbcd1f4ac8f9252a03e77e9be85e374e7c01a211ff43598
+Size: 346958
+MD5sum: 67477b2875014e0c5175b8da36cff0a6
+SHA1: 8b5db794ad207890abe7d5fa5bc7c353c719957a
+SHA256: b4c79117de77d4cacd9f6ce5787f13fbbf5594b3253e165a1bb8ebf43bbd1728
 Section: 定位
 Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
 Author: Joe Bruce <joebruce1122@hotmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Name: GPS-扫街补丁
+Name: 虚拟定位-补丁
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
