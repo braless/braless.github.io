@@ -405,25 +405,6 @@ Name: PKC微信助手
 Priority: optional
 dev: 
 
-Package: yanshen.bk.gpsmaster
-Version: 1.8.1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
-Filename: debs/定位修改-原版.deb
-Size: 4049696
-MD5sum: 97620cb347e25723709b06eadbad79a2
-SHA1: 55167069fc0129b06aa6047410d75a31bc1a3898
-SHA256: c57ceb30fc6c890b232c1612bf73d70edfa0b015880763411dfb2f91ed30aa19
-Section: 定位
-Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
-Author: Joe Bruce <joebruce1122@hotmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Name: GPS定位大师
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-
 Package: yanshen.dw.gpsmaster
 Version: 1.8.1
 Architecture: iphoneos-arm
@@ -432,18 +413,37 @@ Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), 
 Conflicts: apt.tinyapps.location360pro
 Filename: debs/虚拟定位-修改.deb
 Size: 4049916
-MD5sum: 5d07b4b30c02a2020e450b8dba731a5b
-SHA1: 93b62df3338d1d112ad912a2c8a5555efdc580b1
-SHA256: 17a39e6759683a3c70e7bbad0e35782b8d309d2802ce128bb0a3c6d2fba4511e
+MD5sum: 4843827c7ea369eef50912e70b1db9c8
+SHA1: 441eff8369f02b19953703556826d115a00c9503
+SHA256: 1aa7ac55e0d3404778bf1764f5e5a9bea527c115afe2cd00e52014c7b569465e
 Section: 定位
 Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
 Author: Joe Bruce <joebruce1122@hotmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Name: 扫街大师
+Name: 虚拟定位-修改
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
-Package: yanshen.dw.gpsmaster
+Package: yanshen.bk.gpsmaster
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: app.weiphone.tinyapps.location360pro
+Filename: debs/虚拟定位-原版.deb
+Size: 4049596
+MD5sum: 194187888dd21eb1041577b702aa6b0d
+SHA1: c2adef1c13bd7de1c1960888a61ad6f1913143e9
+SHA256: f4b2bd665930fd7dab15539616fac727f0a6f140fd3fe314138d30ba197fce7e
+Section: 定位
+Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: 虚拟定位-原版
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
+Package: yanshen.dw.gpsmaster.bd
 Version: 1.8.1
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -451,9 +451,9 @@ Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), 
 Conflicts: apt.tinyapps.location360pro
 Filename: debs/虚拟定位-补丁.deb
 Size: 346962
-MD5sum: 6587dadc3ab3ff372f85ad8bfb5cda86
-SHA1: be375e8e538072bdda76eadb11077fbbb591b10e
-SHA256: aa685cccc080be9b645ccf4cc6f4d0d85b1d7b1fc1961e8cf5b364dd14f2146b
+MD5sum: 84f37652f0c816a74451c1357d606fea
+SHA1: 71ec8b0b674da11a1afd7302c2af2fd65d4634b9
+SHA256: cd728f4ea5bf0d28dbbcd1f4ac8f9252a03e77e9be85e374e7c01a211ff43598
 Section: 定位
 Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
 Author: Joe Bruce <joebruce1122@hotmail.com>
