@@ -229,23 +229,6 @@ Homepage: https://repo.snailovet.com/
 Installed-Size: 216
 Name: 照片直接删除&无限放大
 
-Package: cm.net.bfdecryptor
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: 搬运工
-Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: debs/砸壳工具.deb
-Size: 77468
-MD5sum: 81fb7b7d18b2b7cabfa2e8d43528581f
-SHA1: 0d7de91ab0fc402621c6be5f7d88bc1a1697b784
-SHA256: 5fac449726ff8077c6afefc0436b2d2ed67433b53c118245332fd0ead75dd067
-Section: Tweaks
-Description: bfdecrypt for rootless/Ellekit巨魔商店分享的砸壳神器，貌似有用，有需要的可以尝试，应该不是全权限的，特征是小组件不显示。如果安装了没反应可能就是你的越狱环境不行，不知道怎么砸壳的可以看群文件，有录屏，很简单，配合appdate插件快速找到砸壳之后保存的位置，在数据目录
-Author: BishopFox
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: bfdecryptor砸壳
-Sponsor: 搬运工
-
 Package: cn.net.vcam
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -422,22 +405,60 @@ Name: PKC微信助手
 Priority: optional
 dev: 
 
-Package: yanshen.dw.gpsmaster
+Package: yanshen.bk.gpsmaster
 Version: 1.8.1
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
-Filename: debs/虚拟定位.deb
-Size: 4050046
-MD5sum: 20dd4e3666dd38457d82a0f781a24636
-SHA1: c91d7c6c62f0a96e3a75968bc7b6909d00ffddfc
-SHA256: c4f9dfad6d7a8bd97c595e8aed8e41a5cce5ca5814b13f1f9b9d3e4e96f3f262
+Filename: debs/定位修改-原版.deb
+Size: 4049696
+MD5sum: 97620cb347e25723709b06eadbad79a2
+SHA1: 55167069fc0129b06aa6047410d75a31bc1a3898
+SHA256: c57ceb30fc6c890b232c1612bf73d70edfa0b015880763411dfb2f91ed30aa19
 Section: 定位
 Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
 Author: Joe Bruce <joebruce1122@hotmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Name: GPS Master Crack「GPS定位大师」
+Name: GPS定位大师
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
+Package: yanshen.dw.gpsmaster
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: apt.tinyapps.location360pro
+Filename: debs/虚拟定位-修改.deb
+Size: 4049916
+MD5sum: 5d07b4b30c02a2020e450b8dba731a5b
+SHA1: 93b62df3338d1d112ad912a2c8a5555efdc580b1
+SHA256: 17a39e6759683a3c70e7bbad0e35782b8d309d2802ce128bb0a3c6d2fba4511e
+Section: 定位
+Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: 扫街大师
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
+Package: yanshen.dw.gpsmaster
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: apt.tinyapps.location360pro
+Filename: debs/虚拟定位-补丁.deb
+Size: 346962
+MD5sum: 6587dadc3ab3ff372f85ad8bfb5cda86
+SHA1: be375e8e538072bdda76eadb11077fbbb591b10e
+SHA256: aa685cccc080be9b645ccf4cc6f4d0d85b1d7b1fc1961e8cf5b364dd14f2146b
+Section: 定位
+Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: GPS-扫街补丁
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
