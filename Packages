@@ -462,3 +462,22 @@ Name: 虚拟定位-补丁
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
+Package: cn.jb.latchkey
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/LatchKey「解锁美观」.2.3.deb
+Size: 263066
+MD5sum: 03db84bf21771a1bab221df20f14528f
+SHA1: 364177d2826bab50625912810f034f5563269f1b
+SHA256: 138f9cb0ec0671c3fac56c1152eba7606020c9d58d50794f2a2f01c3c61c9778
+Section: 插件
+Description: 自定义iPhone X 锁屏界面
+Author: Maxwell Dausch <409774743@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Installed-Size: 12401
+ModernDepiction: 
+Name: LatchKey  「解锁美观」
+Sponsor: 幺筒源<409774743@qq.com>
+
