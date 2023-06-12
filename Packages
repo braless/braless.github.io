@@ -481,3 +481,19 @@ ModernDepiction:
 Name: LatchKey  「解锁美观」
 Sponsor: 幺筒源<409774743@qq.com>
 
+Package: netskao.weibooverseasnoads
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/微博轻享版NoAds.1.1-8.deb
+Size: 107382
+MD5sum: d4019446e0cdf5a82c49c2e1cb2d8a61
+SHA1: 9522fd7bb8ef68ea4ef0c3892898f16bccd3c6d9
+SHA256: 8d50971bab18b41607cc39285c0d354107871b79406e777558ddebdef7fccb01
+Section: Tweaks
+Description: 微博轻享版(原国际版)去除启动广告，去除信息流中广告，去除网址拦截。仅支持6.0.0及以上版本
+Author: Netskao
+Installed-Size: 376
+Name: 微博轻享版 NoAds
+
