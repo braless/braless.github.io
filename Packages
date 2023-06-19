@@ -347,42 +347,6 @@ Section: Tweaks
 Author: xina520 <3608063@qq.com>
 Name: 禁止注入
 
-Package: com.foxfort.exiwall
-Version: 2.0.4
-Architecture: iphoneos-arm
-Maintainer: FoxfortMobile
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.3.4), firmware (>= 14.0)
-Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
-Filename: debs/Exiwall.2.0.4.deb
-Size: 23887034
-MD5sum: e9fd7b2681ac3682dab4bc897f50b784
-SHA1: 6b4bbc8803b4373dd3c6b8f6a9ebfaa0c02afe71
-SHA256: 3b8827f3789a43586288dbac7286bee1d6ac102d9362292e408d81e99244e081
-Section: Tweaks
-Description: Depth effect for lockscreen wallpaper
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
-Installed-Size: 27508
-Name: Exiwall
-
-Package: com.foxfort.exiwall
-Version: 2.1.0
-Architecture: iphoneos-arm
-Maintainer: FoxfortMobile
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.foxfort.foxforttools (>= 1.4.0), firmware (>= 14.0)
-Conflicts: com.p2kdev.vartaman, com.julioverne.autowall, com.spark.freshwall, com.shinvou.wallmart, com.yourepo.cydiageek.lsvibrantclockdate, ru.rj.exiwallhack
-Filename: debs/Exiwall.2.1.0.deb
-Size: 23534588
-MD5sum: 698a5d743757b20d3005294e8baf9d9e
-SHA1: 7c98aaee782f81ed0fcb2d8332b919b85572f660
-SHA256: c03a0de9218abdc21974b1a37dbd8b7e0f1e2a6c621f80769e34217b2fe93a4d
-Section: Tweaks
-Description: Depth effect for lockscreen wallpaper
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/exiwallsettings.bundle/icon@3x.png
-Installed-Size: 27512
-Name: Exiwall
-
 Package: com.curtin.pkc
 Version: 0.2-4
 Architecture: iphoneos-arm
@@ -496,4 +460,42 @@ Description: 微博轻享版(原国际版)去除启动广告，去除信息流�
 Author: Netskao
 Installed-Size: 376
 Name: 微博轻享版 NoAds
+
+Package: com.cydiabc.patalluser
+Version: 0.1-5
+Architecture: iphoneos-arm
+Maintainer: Mao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/拍了拍所有人.0.1-5.deb
+Size: 470382
+MD5sum: 084a57e7a8371ff68c171a3dc1bc7e7a
+SHA1: 177178b02b717d05375b8d786d42bd2aff5c6f41
+SHA256: 5f21538631e4be50a97f85b15350c727b91da2d709d5c5d119d226258489342c
+Section: 微信
+Description: 拍所有人插件，使用方式，前往插件设置开启拍所有人，在群里发送拍所有人，不能带引用消息，否则识别不到，跟拍方式，开启插件的拍所有人，前往群资料开启跟拍此群，群员发送消息后会自动跟拍
+A12: 1
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: 拍了拍所有人
+Priority: optional
+Sponsor: Mao
+
+Package: byg.iosios.net.wceablefriendsstar.rootless
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: netskao.wceablefriendsstar
+Filename: debs/微信朋友圈置顶.deb
+Size: 66212
+MD5sum: de1269aa7ebb7081563ce7406bf56136
+SHA1: 2b40fe2825d261bb40d1297ee5c0c4de69b49a33
+SHA256: 4497f7ca74a99dc225d1d2dd12524e9ed0e1bcb200e7fe1c7b35aad5aae3a6fa
+Section: Tweaks
+Description: 直接启用微信朋友圈置顶功能，无设置，应该仅支持8.0.36及以上。应群友要求，所以上架。
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 微信朋友圈置顶-Rootless
+Sponsor: 搬运工
 
