@@ -194,24 +194,6 @@ Installed-Size: 165
 Name: 清除35条更新（iOS15）
 Priority: optional
 
-Package: cn.wechatpurification
-Version: 2.2-3
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/微信净化_2.2-3.deb
-Size: 650522
-MD5sum: 5513a0373a4e10d713f1a2412e8b0f0c
-SHA1: 8cecce1331a07541eb3c12a5eaf9639fd39860aa
-SHA256: 8ad1aed9257e8b561dffcf37b52dd0dfa1c1b91d78cb647bbbad116c300689fd
-Section: Tweaks
-Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
-Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-ModernDepiction: 
-Name: 微信净化
-Sponsor: 幺筒源<409774743@qq.com>
-
 Package: com.snail.photoskipdelandinfinitezoom
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -332,20 +314,6 @@ Section: Tweaks
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询,新增语音包，一键已读消息等。
 Author: pingfan
 Name: 虚拟视频
-
-Package: com.yanshen.blacklist
-Version: 0.0.1-61+debug
-Architecture: iphoneos-arm
-Maintainer: xina520 <3608063@qq.com>
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yanshen.blacklist_0.0.1-61+debug_iphoneos-arm.deb
-Size: 40310
-MD5sum: eca61364f1c793b5bc1e8370227230b1
-SHA1: bfee31760fb195bf75304d3d5ba9de9c8065b40a
-SHA256: 79f2a3b2a7bd2e4748d72ef6bd5db2d25da4a5a85db248531aa68fbd80f4d521
-Section: Tweaks
-Author: xina520 <3608063@qq.com>
-Name: 禁止注入
 
 Package: com.curtin.pkc
 Version: 0.2-4
@@ -498,4 +466,64 @@ Author: Netskao
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信朋友圈置顶-Rootless
 Sponsor: 搬运工
+
+Package: com.yanshen.blacklist
+Version: 0.0.1-61+debug
+Architecture: iphoneos-arm
+Maintainer: xina520 <3608063@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/blacklist.deb
+Size: 40310
+MD5sum: eca61364f1c793b5bc1e8370227230b1
+SHA1: bfee31760fb195bf75304d3d5ba9de9c8065b40a
+SHA256: 79f2a3b2a7bd2e4748d72ef6bd5db2d25da4a5a85db248531aa68fbd80f4d521
+Section: Tweaks
+Author: xina520 <3608063@qq.com>
+Name: 禁止注入
+
+Package: com.answeringmachinexs.cn
+Version: 1.2-32
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: debs/AnsweringMachineXS简体.deb
+Size: 6746
+MD5sum: 293fbde250730b0a498b1fe36a860cfa
+SHA1: 7da9862cbd3d15c2792780e9a834cf5829aaab98
+SHA256: 9aebf5e9b95a4cff64bceac269720ccf14ef759dae0620faa8aa518fbedefec0
+Section: 汉化
+Description: AnsweringMachine XS 简体中文包。某些地方无法汉化。
+Author: Sandy0、妖刀
+Name: AnsweringMachine XS 简体中文包
+
+Package: com.voicecgangerxs.cn
+Version: 2.0-12
+Architecture: iphoneos-arm
+Filename: debs/VoiceChangerXs简体.deb
+Size: 2430
+MD5sum: d49b132a4a490b7a4ba43e0081d95a71
+SHA1: 42d986f291594fd6ae8aac69d67d52b83dd1065f
+SHA256: d1dae1d4c953e3ee911514b4aed60549cab455144e2becc4935ad63412343c7c
+Section: 汉化
+Description: VoiceChanger Xs 简体中文包。VoiceChanger Xs 介绍在通话过程中改变你的声音！
+Author: Ball
+Name: VoiceChanger Xs 简体中文包
+
+Package: cn.yanshen.wechatpurification
+Version: 2.2-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/微信净化_2.deb
+Size: 650486
+MD5sum: 89ec500a1ccc303b08f1fed45f8f12f0
+SHA1: d3f2a32d2c704eff3ab60df358e0de67d98864c1
+SHA256: af8165b0aa7b564c86ce436df747e567a7f8fdff2532cfd443e9e5b937766602
+Section: Tweaks
+Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+ModernDepiction: 
+Name: WeChatPurification 「微信净化」
+Sponsor: 幺筒源<409774743@qq.com>
 
