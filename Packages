@@ -467,20 +467,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信朋友圈置顶-Rootless
 Sponsor: 搬运工
 
-Package: com.yanshen.blacklist
-Version: 0.0.1-61+debug
-Architecture: iphoneos-arm
-Maintainer: xina520 <3608063@qq.com>
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/blacklist.deb
-Size: 40310
-MD5sum: eca61364f1c793b5bc1e8370227230b1
-SHA1: bfee31760fb195bf75304d3d5ba9de9c8065b40a
-SHA256: 79f2a3b2a7bd2e4748d72ef6bd5db2d25da4a5a85db248531aa68fbd80f4d521
-Section: Tweaks
-Author: xina520 <3608063@qq.com>
-Name: 禁止注入
-
 Package: com.answeringmachinexs.cn
 Version: 1.2-32
 Architecture: iphoneos-arm
@@ -526,4 +512,70 @@ Icon: file:///Applications/Cydia.app/Sections/Messaging.png
 ModernDepiction: 
 Name: WeChatPurification 「微信净化」
 Sponsor: 幺筒源<409774743@qq.com>
+
+Package: com.hk.ccplus15.cn
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, netskao.ccsim, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
+Filename: debs/CC++iOS15.1.0.5.deb
+Size: 239258
+MD5sum: df48f15ee299227b3153085801c7a324
+SHA1: 820fa2c480e42b00a71f352a37978c53440035a1
+SHA256: 284eebf22b60b218dc747a547052a4bce76ef761e83d9a0deb6e4ce583895c1e
+Section: 嗨-工具
+Author: 妖刀
+Name: CC++(iOS15)
+
+Package: com.yanshen.blacklist
+Version: 0.0.1-61+debug
+Architecture: iphoneos-arm
+Maintainer: xina520 <3608063@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/禁止注入.0.0.1-61+debug.deb
+Size: 40280
+MD5sum: b3bbd9a3fb9c184c9f3678085091b6d0
+SHA1: e56940fac8238db9a29f30ee163af3fdde828ed9
+SHA256: 09b184dfb155996c35202784dd02d408417a760685be6ce2e84b03c2894cea0b
+Section: Tweaks
+Author: xina520 <3608063@qq.com>
+Name: 禁止注入
+
+Package: com.cydiabc.jianfaxiangce
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Depends: mobilesubstrate
+Filename: debs/减法相册Pro.1.0-1.deb
+Size: 164640
+MD5sum: b89f0202029e7d06e211112b7cdf3331
+SHA1: 82bec9d2ff068b690d682a1667732e344aa27359
+SHA256: 24e95bcc36789a4a8318921e764ed7895333de34a2a18d0804fa8907dee236ff
+Section: 插件
+Description: 减法相册是一款简单实用的照片视频整理工具
+A12: 1
+Author: Ai-小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Installed-Size: 680
+Name: 减法相册Pro
+Sponsor: Ai-小苹果™
+
+Package: com.25mao.wxurlexpand
+Version: 0.2-0
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/微信URL扩展.0.2-0.deb
+Size: 42792
+MD5sum: 712001055336f7059577bacee50c506d
+SHA1: 0535c5a77f0251a5e44d3a0724ce4633ed09b106
+SHA256: 8e98c36e15144245591ceef1231b5ccbe05c59db1ebd3e3ab4b7130298f06c98
+Section: 微信插件
+Description: 扩展微信URLScheme接口
+Author: Mao
+Name: 微信URL扩展
+Priority: optional
+Sponsor: admin@25mao.com
 
