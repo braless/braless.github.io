@@ -1,38 +1,3 @@
-Package: com.FileballCrack
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/FileballCrack_0.1-arm.deb
-Size: 19814
-MD5sum: 0c52c07a8663e1e0761847f2ac54bf03
-SHA1: 7344fe4001b37411cc77cdeebd4350956731fa23
-SHA256: e910c5c5c57a99cbb47c3ecfbede088ebb0ec2ad6fcf791ab5fdf166621dc902
-Section: Tweaks
-Description: 解锁FileBall高级版所有功能
-Author: Pay Ne
-Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
-Name: Fireball-Crack
-Priority: optional
-Sponsor: Acreson <342080124@qq.com>
-
-Package: cn.Fileball.root
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: Pay Ne
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/Fileball_0.2.deb
-Size: 19526
-MD5sum: 263f7a45a0338ba7ca7256a5fe4bfa36
-SHA1: e2b53219ca654b332d731030cf0883dbb3ddd968
-SHA256: a9dd391dd71f544d9d3bf03b1d3da8c23b18aa1ff1a0797be54a44132f298d95
-Section: Tweaks
-Description: Fileball高级版，这是一款播放器，可以直接去appstore搜索查看详细介绍，好不好用，不太清楚。
-Author: Pay Ne
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: Fileball播放器 破解-Rootless
-Priority: optional
-Sponsor: Acreson <342080124@qq.com>
-
 Package: com.yanshen.jdnoad
 Version: 1.1
 Architecture: iphoneos-arm
@@ -50,44 +15,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Installed-Size: 168
 Name: 京东NoAd
 Sponsor: 搬运工
-
-Package: com.fzyewechat
-Version: 1.1.5
-Architecture: iphoneos-arm
-Maintainer: Jan
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/Jan-Wechat.deb
-Size: 693228
-MD5sum: 3e098c992ed95fa79f9db87e064d569a
-SHA1: 8c11bda5264f8576f3683b16bedd63530cb9fac7
-SHA256: 0746aa0b89471000c23b0e117e5e00970aa51f9a9494d7d1b5e35d8f3595189e
-Section: Tweaks
-Description: 微信助手兼容最新版8.0.7微信，支持语音转发，朋友圈文本转发，视频转发，收藏语音转发（需缓存语音），具体功能预览截图
-A12: 1
-Author: Jan.
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-Icon2: 10.png
-Name: WeChat微信助手
-Sponsor: Jan
-
-Package: cn.yanshen.lastlook
-Version: 3.6.2
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: debs/Lastlook_Zh.deb
-Size: 8672
-MD5sum: b71bd875ed939d1ebe98a14e78854592
-SHA1: 3b578edce54483efd59e101f2efeef9b7213717e
-SHA256: 0c1f288a1f409e15f8016527cc07b8691dea5b633b1f3fd99c890ed9bfc62228
-Section: Tweaks
-Description: 锁定手机时，以息屏状态渐淡锁屏！
-Author: AnthoPak
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Installed-Size: 1563
-ModernDepiction: 
-Name: LastLook 「汉化」
-Sponsor: 幺筒源<409774743@qq.com>
 
 Package: com.youtubereborn.cn
 Version: 4.0.9
@@ -315,28 +242,6 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: pingfan
 Name: 虚拟视频
 
-Package: com.curtin.pkc
-Version: 0.2-4
-Architecture: iphoneos-arm
-Maintainer: Curtin curtinlv@126.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: 
-Replaces: 
-Filename: debs/PKC微信助手_0.2-4.deb
-Size: 59648
-MD5sum: 25d9aaa6ca8d50f0627f55dde7013c91
-SHA1: f6e3c3fdd6c07f4dda491dd796ef1b6e4295f109
-SHA256: 18062f79b36bf60587f8d59deb6c89627658d42170f81583932cd7a35068ae19
-Section: 微信插件
-Description: <br/><h3>Bark消息推送 <br/>防撤回<br />退群监控<br />步数修改<br />定时问候<br />JD京东对接查询自动签到领京豆</h3>
-Author: Curtin Lv
-Depiction: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
-Homepage: https://github.com/curtinlv
-Icon: https://raw.githubusercontent.com/curtinlv/JD-Script/main/pkc7.ico
-Name: PKC微信助手
-Priority: optional
-dev: 
-
 Package: yanshen.dw.gpsmaster
 Version: 1.8.1
 Architecture: iphoneos-arm
@@ -394,25 +299,6 @@ Name: 虚拟定位-补丁
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
-Package: cn.jb.latchkey
-Version: 2.3
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs/LatchKey「解锁美观」.2.3.deb
-Size: 263066
-MD5sum: 03db84bf21771a1bab221df20f14528f
-SHA1: 364177d2826bab50625912810f034f5563269f1b
-SHA256: 138f9cb0ec0671c3fac56c1152eba7606020c9d58d50794f2a2f01c3c61c9778
-Section: 插件
-Description: 自定义iPhone X 锁屏界面
-Author: Maxwell Dausch <409774743@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Installed-Size: 12401
-ModernDepiction: 
-Name: LatchKey  「解锁美观」
-Sponsor: 幺筒源<409774743@qq.com>
-
 Package: netskao.weibooverseasnoads
 Version: 1.1-8
 Architecture: iphoneos-arm
@@ -428,44 +314,6 @@ Description: 微博轻享版(原国际版)去除启动广告，去除信息流�
 Author: Netskao
 Installed-Size: 376
 Name: 微博轻享版 NoAds
-
-Package: com.cydiabc.patalluser
-Version: 0.1-5
-Architecture: iphoneos-arm
-Maintainer: Mao
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/拍了拍所有人.0.1-5.deb
-Size: 470382
-MD5sum: 084a57e7a8371ff68c171a3dc1bc7e7a
-SHA1: 177178b02b717d05375b8d786d42bd2aff5c6f41
-SHA256: 5f21538631e4be50a97f85b15350c727b91da2d709d5c5d119d226258489342c
-Section: 微信
-Description: 拍所有人插件，使用方式，前往插件设置开启拍所有人，在群里发送拍所有人，不能带引用消息，否则识别不到，跟拍方式，开启插件的拍所有人，前往群资料开启跟拍此群，群员发送消息后会自动跟拍
-A12: 1
-Author: Mao
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-Icon2: 10.png
-Name: 拍了拍所有人
-Priority: optional
-Sponsor: Mao
-
-Package: byg.iosios.net.wceablefriendsstar.rootless
-Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Depends: mobilesubstrate, firmware (>= 13.0)
-Conflicts: netskao.wceablefriendsstar
-Filename: debs/微信朋友圈置顶.deb
-Size: 66212
-MD5sum: de1269aa7ebb7081563ce7406bf56136
-SHA1: 2b40fe2825d261bb40d1297ee5c0c4de69b49a33
-SHA256: 4497f7ca74a99dc225d1d2dd12524e9ed0e1bcb200e7fe1c7b35aad5aae3a6fa
-Section: Tweaks
-Description: 直接启用微信朋友圈置顶功能，无设置，应该仅支持8.0.36及以上。应群友要求，所以上架。
-Author: Netskao
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 微信朋友圈置顶-Rootless
-Sponsor: 搬运工
 
 Package: com.answeringmachinexs.cn
 Version: 1.2-32
@@ -495,53 +343,6 @@ Description: VoiceChanger Xs 简体中文包。VoiceChanger Xs 介绍在通话�
 Author: Ball
 Name: VoiceChanger Xs 简体中文包
 
-Package: cn.yanshen.wechatpurification
-Version: 2.2-3
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/微信净化_2.deb
-Size: 650486
-MD5sum: 89ec500a1ccc303b08f1fed45f8f12f0
-SHA1: d3f2a32d2c704eff3ab60df358e0de67d98864c1
-SHA256: af8165b0aa7b564c86ce436df747e567a7f8fdff2532cfd443e9e5b937766602
-Section: Tweaks
-Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
-Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-ModernDepiction: 
-Name: WeChatPurification 「微信净化」
-Sponsor: 幺筒源<409774743@qq.com>
-
-Package: com.hk.ccplus15.cn
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, netskao.ccsim, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
-Filename: debs/CC++iOS15.1.0.5.deb
-Size: 239258
-MD5sum: df48f15ee299227b3153085801c7a324
-SHA1: 820fa2c480e42b00a71f352a37978c53440035a1
-SHA256: 284eebf22b60b218dc747a547052a4bce76ef761e83d9a0deb6e4ce583895c1e
-Section: 嗨-工具
-Author: 妖刀
-Name: CC++(iOS15)
-
-Package: com.yanshen.blacklist
-Version: 0.0.1-61+debug
-Architecture: iphoneos-arm
-Maintainer: xina520 <3608063@qq.com>
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/禁止注入.0.0.1-61+debug.deb
-Size: 40280
-MD5sum: b3bbd9a3fb9c184c9f3678085091b6d0
-SHA1: e56940fac8238db9a29f30ee163af3fdde828ed9
-SHA256: 09b184dfb155996c35202784dd02d408417a760685be6ce2e84b03c2894cea0b
-Section: Tweaks
-Author: xina520 <3608063@qq.com>
-Name: 禁止注入
-
 Package: com.cydiabc.jianfaxiangce
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -562,6 +363,154 @@ Installed-Size: 680
 Name: 减法相册Pro
 Sponsor: Ai-小苹果™
 
+Package: com.anthopak.addtofolder
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: debs/AddToFolder.1.4.deb
+Size: 123958
+MD5sum: e093f2d3584ce1c97d0e0226cd976025
+SHA1: 4b2fd95872ef40c2c423fd277eccda52ae69f243
+SHA256: 3ee44cc1c27c4fe4953f64e0cac347e8cb74807702765397b9242a64eec0c5ca
+Section: Tweaks
+Description: Easily move apps to your folders
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder.php
+Homepage: https://repo.anthopak.dev
+Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
+Name: AddToFolder
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
+
+Package: com.hk.crane.cn
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Crane中文修复包.1.3.6.deb
+Size: 11478
+MD5sum: e8d7ea4511920c4949799dd9e5731d2c
+SHA1: f593a5b4e396852e70718bac7b28897eb18cf4a0
+SHA256: 99d112ee3d0c4ecae8a0242663082fdd4fe3f7c1594a6f996247445e241cea9f
+Section: Tweaks
+Author: 妖刀
+Name: Crane 中文修复包
+
+Package: com.udevs.dictmojix
+Version: 1.4.17
+Architecture: iphoneos-arm
+Maintainer: udevs
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: debs/DictMojiX.1.4.17.deb
+Size: 61326
+MD5sum: 8adfb7678f7718d074258a7b8efc5a61
+SHA1: bc1fde079e3e4d5b72318a4a03c3b852f62ae41c
+SHA256: 7bf8f0a0d67a95f5c6587cea44353baeccae14a5f05cc0725edd5def79f8293c
+Section: Tweaks
+Description: Replace dictation key with emoji key on iPhone X/XS! Support iOS 11-14.
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.dictmojix
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dictmojix/icon/icon.png
+Installed-Size: 336
+Name: DictMojiX
+
+Package: com.fidele007.noticopy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/NotiCopy.1.0.deb
+Size: 13242
+MD5sum: 8e7a8b559cb6f91aae185102446c3941
+SHA1: 0cb66d5456126186375d28d07a55453e51a05d1d
+SHA256: 5b62dccbf02994f774a2cfa4375da233372ced67f2a065b886d35ae6f77e3e8e
+Section: Tweaks
+Description: Long press to copy notifications.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noticopyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noticopyDp
+Installed-Size: 116
+Name: NotiCopy
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+dev: fidele007
+
+Package: com.hk.shuffle.xina134
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Conflicts: com.creaturecoding.libcspreferences, com.creaturecoding.shuffle, com.hk.ball.shuffle.cn, com.cpdigitaldarkroom.placeholder, com.hk.shuffle.xina, com.hk.shuffle
+Filename: debs/ShuffleXinaA15专版.1.0.deb
+Size: 1072460
+MD5sum: ae01d35f5bd13dab07e63b7defcbe959
+SHA1: 69daf8dc1bae58deffc64c3378ca8094425e7ff1
+SHA256: 8250fbd65301c9debaaaba9276f8f93d703da4895da77f3bf814983564356014
+Section: Tweaks
+Author: CreatureSurvive/妖刀
+Name: Shuffle(XinaA15专版)-临时版
+
+Package: acreson.cj.storesenior
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 14), mobilesubstrate
+Filename: debs/StoreSenior.deb
+Size: 44680
+MD5sum: 523be2304af9615b1a8a2f736e3cdb18
+SHA1: 61eadc758ca1aa62da8232d1dc2f24d2a94a2fdf
+SHA256: 1a87c0281cd664eea8f819401d0a595e050604b7ce7bbc4f694bbe0f79c24ab4
+Section: Tweaks
+Description: AppStore中账号切换
+Author: Acreson <342080124@qq.com>
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Tweaks).png
+Icon1: file:///Applications/Cydia.app/Sections/Acreson-插件(Tweaks).png
+Installed-Size: 276
+Name: StoreSenior
+Sponsor: Acreson <342080124@qq.com>
+
+Package: com.fzyewechat
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Jan
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/JanWechat.deb
+Size: 693172
+MD5sum: 75fa457297b04b7635473c90b7dda63c
+SHA1: afa9f70eebfeee62b4472db273a664c19e966b00
+SHA256: 841c5d8715e89811575c837dfe3d489c4a2936db88668daf4b292455f105d0ad
+Section: 微信插件
+Description: 微信助手兼容最新版8.0.7微信，支持语音转发，朋友圈文本转发，视频转发，收藏语音转发（需缓存语音），具体功能预览截图
+A12: 1
+Author: Jan.
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: WeChat微信助手
+Sponsor: Jan
+
+Package: com.curtin.pkc
+Version: 0.2-4
+Architecture: iphoneos-arm
+Maintainer: Curtin curtinlv@126.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Filename: debs/PKC微信助手.deb
+Size: 67670
+MD5sum: 3760c50297d497f5c133facfd2bfb042
+SHA1: 33634b8bae183a52faa0918f4364120b0db5f264
+SHA256: 2974dcc4399e593631741bf4cecefd4fdf5fdf26ab87dde655d0a9b1f1941436
+Section: 微信插件
+Description: <br/><h3>Bark消息推送 <br/>防撤回<br />退群监控<br />步数修改<br />定时问候<br />JD京东对接查询自动签到领京豆</h3>
+Author: Curtin Lv
+Depiction: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Homepage: https://github.com/curtinlv
+Icon: https://raw.githubusercontent.com/curtinlv/JD-Script/main/pkc7.ico
+Name: PKC微信助手
+Priority: optional
+dev: 
+
 Package: com.25mao.wxurlexpand
 Version: 0.2-0
 Architecture: iphoneos-arm
@@ -578,4 +527,179 @@ Author: Mao
 Name: 微信URL扩展
 Priority: optional
 Sponsor: admin@25mao.com
+
+Package: com.cydiabc.patalluser
+Version: 0.1-5
+Architecture: iphoneos-arm
+Maintainer: Mao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/拍了拍所有人.0.1-5.deb
+Size: 470420
+MD5sum: 83a21b4e5ee0600dc1264b0679152dc5
+SHA1: 2bf4c5572f070f3d2aacfa42aec76133b6a29c4d
+SHA256: cd1388a774e3cecc3461d994c8e54eb339ed4586b2225fc9549651ca17387e84
+Section: 微信插件
+Description: 拍所有人插件，使用方式，前往插件设置开启拍所有人，在群里发送拍所有人，不能带引用消息，否则识别不到，跟拍方式，开启插件的拍所有人，前往群资料开启跟拍此群，群员发送消息后会自动跟拍
+A12: 1
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: 拍了拍所有人
+Priority: optional
+Sponsor: Mao
+
+Package: byg.iosios.net.wceablefriendsstar.rootless
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: netskao.wceablefriendsstar
+Filename: debs/朋友圈置顶.deb
+Size: 66210
+MD5sum: d227f0bd076e4309b41bdbe08019f850
+SHA1: e66245e606e7348058ac7167fdaf40520f6ca35f
+SHA256: c507081dd25b27e294edb1a72c88d262426da1a82398ac73f4c1138e63195689
+Section: 微信插件
+Description: 直接启用微信朋友圈置顶功能，无设置，应该仅支持8.0.36及以上。应群友要求，所以上架。
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 微信朋友圈置顶-Rootless
+Sponsor: 搬运工
+
+Package: com.hk.ccplus15.cn
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, netskao.ccsim, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
+Filename: debs/CC++iOS15.1.0.5.deb
+Size: 239252
+MD5sum: 10c783c5f62af183863192ded146395b
+SHA1: 2c5d6eb2c87d48c5218f0e5ebbed3d80953e67c8
+SHA256: a7f55257eb4328ac55f293b273f89e7f77b2f0a8cf8b826235b6c8d92780cb07
+Section: Tweaks
+Author: 妖刀
+Name: CC++(iOS15)
+
+Package: com.FileballCrack
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/FileballRootful.deb
+Size: 19816
+MD5sum: 603588358e0299d9f44038f6909dc11a
+SHA1: 16f4a74e357caabc8f9aa0c2bf5fc99dbcbf6b7c
+SHA256: e87d4a7971f65aef665a00e428827acca93e3cdacff97f09d9300f3cd5be7a4d
+Section: Tweaks
+Description: 解锁FileBall高级版所有功能
+Author: Pay Ne
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
+Name: Fireball_root
+Priority: optional
+Sponsor: Acreson <342080124@qq.com>
+
+Package: cn.Fileball.root
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Pay Ne
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/FileballRootless.deb
+Size: 19610
+MD5sum: abdcc069d9bb9e6a8ef843f1eeeb4cd8
+SHA1: 64bde0c52870f697ecb4f00771094a8ac1ce039c
+SHA256: 54027ec94c0588e06794724e13d84335ce2dd5cca570b07ca02d495749c8e163
+Section: Tweaks
+Description: Fileball高级版，这是一款播放器，可以直接去appstore搜索查看详细介绍，好不好用，不太清楚。
+Author: Pay Ne
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Fileball
+Priority: optional
+Sponsor: Acreson <342080124@qq.com>
+
+Package: cn.jb.latchkey
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/LatchKey-2.3.deb
+Size: 263066
+MD5sum: 03db84bf21771a1bab221df20f14528f
+SHA1: 364177d2826bab50625912810f034f5563269f1b
+SHA256: 138f9cb0ec0671c3fac56c1152eba7606020c9d58d50794f2a2f01c3c61c9778
+Section: 插件
+Description: 自定义iPhone X 锁屏界面
+Author: Maxwell Dausch <409774743@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Installed-Size: 12401
+ModernDepiction: 
+Name: LatchKey  「解锁美观」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yanshen.wechatpurification
+Version: 2.2-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/微信净化2.2.3.deb
+Size: 650472
+MD5sum: 5edc2f102dbf28b274d9fb9d3b439724
+SHA1: 877def6277bff3cc76f268ddc55686c9bc71d66c
+SHA256: 4bbdb5d09156645607048e2aed4272bb61e672b09592b4f2c69280bfbf04d966
+Section: 微信插件
+Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+ModernDepiction: 
+Name: WeChatPurification 「微信净化」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yanshen.lastlook
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Filename: debs/Lastlook-zh.deb
+Size: 8678
+MD5sum: 479c7c2218517dcca8658adea3571758
+SHA1: 3089893f31355b1f98d2ea45c0bb15b8830712fa
+SHA256: 4c7ae4cee6d55e6d7057502d34485400e89ca2acce03da95a5ac63ad9e516946
+Section: 汉化
+Description: 锁定手机时，以息屏状态渐淡锁屏！
+Author: AnthoPak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Installed-Size: 1563
+ModernDepiction: 
+Name: LastLook 「汉化」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: com.localipastore
+Version: 1.5-1x
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: debs/LocalIAPStore.1.5-1x.deb
+Size: 51992
+MD5sum: 453fa236f2a07352c78e458944fb694f
+SHA1: 091dbdcddca7b62c1c92076730657b6bb597af69
+SHA256: 48bf15f96778301b59c70b668294ba8a3ed3edeb2489a7acfcb558f563023707
+Section: Tweaks
+Description: 内购破解.
+Author: anondev
+Depiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStore.html
+Name: LocalIAPStore 内购破解
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStoresileo
+
+Package: com.yanshen.blacklist
+Version: 0.0.1-61+debug
+Architecture: iphoneos-arm
+Maintainer: xina520 <3608063@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/禁止注入.deb
+Size: 40280
+MD5sum: b3bbd9a3fb9c184c9f3678085091b6d0
+SHA1: e56940fac8238db9a29f30ee163af3fdde828ed9
+SHA256: 09b184dfb155996c35202784dd02d408417a760685be6ce2e84b03c2894cea0b
+Section: Tweaks
+Author: xina520 <3608063@qq.com>
+Name: 禁止注入
 
