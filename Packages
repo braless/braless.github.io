@@ -16,39 +16,6 @@ Installed-Size: 168
 Name: 京东NoAd
 Sponsor: 搬运工
 
-Package: com.youtubereborn.cn
-Version: 4.0.9
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: debs/Youtube-cn.deb
-Size: 11626
-MD5sum: 8bfc7e328441a966fd0c264c09d55ffe
-SHA1: 26c9873f2694cee8135f9582981e0235e6a6c2c8
-SHA256: 55a05d20160b2294a0dcfb17a0545559b6c5bcb379715f1ace78a01a838b0cd1
-Section: Tweaks
-Author: 妖刀
-Installed-Size: 136
-Name: YouTube Reborn 简体中文包
-
-Package: com.ryan.youtubereborn
-Version: 4.0.9
-Architecture: iphoneos-arm
-Maintainer: Lillie
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiu
-Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: debs/Youtube.deb
-Size: 10321206
-MD5sum: 44afc78fcc4cea49290092afff7a89af
-SHA1: e7a7ef871796d00d5f34f997800738bf3cd2c2d7
-SHA256: 413d8f3f468dac479c3cf592f96f389acdea50e6b4f4d3a9c436ddba63c69080
-Section: Tweaks
-Author: Lillie
-Installed-Size: 24876
-Name: YouTube Reborn
-Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-
 Package: com.gpsmanager
 Version: 1.8.8
 Architecture: iphoneos-arm
@@ -635,24 +602,6 @@ ModernDepiction:
 Name: LatchKey  「解锁美观」
 Sponsor: 幺筒源<409774743@qq.com>
 
-Package: cn.yanshen.wechatpurification
-Version: 2.2-3
-Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/微信净化2.2.3.deb
-Size: 650472
-MD5sum: 5edc2f102dbf28b274d9fb9d3b439724
-SHA1: 877def6277bff3cc76f268ddc55686c9bc71d66c
-SHA256: 4bbdb5d09156645607048e2aed4272bb61e672b09592b4f2c69280bfbf04d966
-Section: 微信插件
-Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
-Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-ModernDepiction: 
-Name: WeChatPurification 「微信净化」
-Sponsor: 幺筒源<409774743@qq.com>
-
 Package: cn.yanshen.lastlook
 Version: 3.6.2
 Architecture: iphoneos-arm
@@ -702,4 +651,149 @@ SHA256: 09b184dfb155996c35202784dd02d408417a760685be6ce2e84b03c2894cea0b
 Section: Tweaks
 Author: xina520 <3608063@qq.com>
 Name: 禁止注入
+
+Package: com.hk.appdata.old
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Ball & Netskao
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/AppData老版本样式.1.2.6.deb
+Size: 188660
+MD5sum: 56ccc8045a5e0a60cfd65263e67447c6
+SHA1: 719bb541cca4cc44880c52771f9042a35474e716
+SHA256: 66a565230ca7408c14bf38ac4d713527584b26283bb23d1995f97600ca83b3f4
+Section: Tweaks
+Author: Fouad Raheb
+Installed-Size: 768
+Name: AppData(老版本样式)
+
+Package: com.parrotgeek.globalize
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: parrotgeek1
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: debs/Globalize.0.3.2.deb
+Size: 16912
+MD5sum: 9c4b3cb877d5cd9c593853996494dac7
+SHA1: 2e9e3143e7d2dded33f30df0d07d10439267f059
+SHA256: 0ab1cad3a3f862a7dd53ebd14edb46baa2dd90925226e089f99fecc09f4b2311
+Section: Tweaks
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Author: parrotgeek1
+Installed-Size: 536
+Name: Globalize
+
+Package: com.michael.globalizefix
+Version: 0.4.0-1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: com.parrotgeek.globalize, com.michael.suer, mobilesubstrate
+Filename: debs/GlobalizeFix.0.4.0-1.deb
+Size: 9622
+MD5sum: 95021e25d8ba6b1b7d3e4a71d935c5ab
+SHA1: d911c7c1a78e06e2512860eb3883a0465a61726d
+SHA256: 9f541bebb688c686bc26d533e6b01eaf92699de040b4fc467ecd8ac526dfbdab
+Section: Tweaks
+Description: Fixed an issue that reboot may caused Globalize lose its effect.
+Author: Halo_Michael <yc992147156@me.com>
+Installed-Size: 136
+Name: GlobalizeFix
+
+Package: com.spark.sneakycam
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/SneakyCam.2.0.6.deb
+Size: 121170
+MD5sum: d615a29393be1a60ed39b5e7c33e8fec
+SHA1: 0fa11bd40943f6e8b53e2e06e31d92a4ca1b63d8
+SHA256: 4da39a03f4e5ed1a8573984e4cc4c19f32a630be8faff8c9c59245cd7d1934f6
+Section: Tweaks
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Author: Spark
+Installed-Size: 560
+Name: SneakyCam
+
+Package: com.ball.sneakycam.ch.cn
+Version: 2.0.4
+Architecture: iphoneos-arm
+Filename: debs/SneakyCam简体中文包.2.0.4.deb
+Size: 2260
+MD5sum: 3a312735d899e4a47f2e5f5b77942a95
+SHA1: d3d3d9150438b76a510bf06e196fcece1f822efc
+SHA256: 36e9f4a2e735737b60044b59469b5be2c9f1a34178e8adfb821118f1e5784db4
+Section: 汉化
+Author: Ball <434479917@qq.com>
+Name: SneakyCam 简体中文包
+
+Package: com.michael.suer
+Version: 0.6.5
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: firmware (>= 9.0)
+Filename: debs/suer.0.6.5.deb
+Size: 19638
+MD5sum: 2c02f4ebafc92492d691b942b50b68bc
+SHA1: 016363c9d7d1a9a28d385975b5eb46905fc8f89e
+SHA256: bd8e1cb0f8e0feaeda964d074cb788808f973eb58c0ed8937d7f1cb0c1f5945d
+Section: Tweaks
+Description: Temporarily assume root privileges but need not password.
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/suer
+Name: suer
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.yourepo.lenglengyu.weiphonenoads
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: debs/威锋去广告.0.0.5.deb
+Size: 72296
+MD5sum: 7c2691f2bd8a10228e0d53aa58cb1a79
+SHA1: ece785d87b5b65382f296cf9600bf711f62ece25
+SHA256: ee408b2ceddf94fb46e1391193830e5b3927ad9ad855d11120be7d811c092175
+Section: Tweaks
+Description: 去除最新版威锋启动广告、贴间广告。
+Author: lenglengyu <lenglengyu@126.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/weiphone.html
+Installed-Size: 240
+Name: 威锋去广告
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/weiphonesileo
+
+Package: com.25mao.msgfilt
+Version: 1.0-5.1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/消息屏蔽助手.1.0-5.1.deb
+Size: 143766
+MD5sum: 9c6ec996a14b13d41b4441bf8b784b67
+SHA1: 22d784dbbb0a49182f0823229aaaf9290dea110a
+SHA256: 9fc4b223540fa28521638f32e385aeb1b987e7f9cd2bb18ef42d512895abffb7
+Section: 微信插件
+Description: 微信消息屏蔽助手
+Author: Mao
+Name: 消息屏蔽助手
+Priority: optional
+Sponsor: admin@25mao.com
+
+Package: cn.yanshen.wechatpurification
+Version: 2.2-3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/微信净化2.2.3.deb
+Size: 650452
+MD5sum: ed9b9f2eedf0bf2ac51e506a324bf178
+SHA1: 65d7bffb41ea0d5be9e9e69df272097f447eac01
+SHA256: 36f1807ac0a9149ddc3f2e2980b246d09958bdbeca01cde89bff7f7d72236a44
+Section: 微信插件
+Description: 微信助手,自动抢红包,开启callkit,防撤回,上传长图像,关闭一些微信无用功能
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+ModernDepiction: 
+Name: 微信净化2.2.3
+Sponsor: 幺筒源<409774743@qq.com>
 
