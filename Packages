@@ -791,3 +791,37 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: LocaliAPHeper 内购神器
 Sponsor: Cydiakk中文源™ <https://apt.cydiakk.com/>
 
+Package: com.kdt.caperfhud
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: khanhduy032
+Filename: debs/CAPerfHUD_0.0.1_有根版tg巨魔商店.deb
+Size: 9604
+MD5sum: 457b6157b37937a3c2a94f83334348bc
+SHA1: 576c9f440057c71c547aed44ea6fda98d35f019d
+SHA256: bf2a4679b9f91352d394a9b368f1fc0a4b43419537eed23d74ea371586f48315
+Section: Utilities
+Description: Enable system-wide performance HUD
+Author: khanhduy032
+Installed-Size: 80
+Name: CAPerfHUD
+
+Package: cn.wechat.callkit
+Version: 1.0k
+Architecture: iphoneos-arm
+Maintainer: Jianan Tian <409774743@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/Callkit.deb
+Size: 9558
+MD5sum: e828120bce6211c1b25215265a024b59
+SHA1: 8354cb6b02f27d4b6aeb921609dc3b5c5137acd5
+SHA256: 7396c2e510b88ba98c3e841ba3b7630e6b2a5a5bc742e7ddff68735aff298063
+Section: 微信插件
+Description: 开启微信电话接口功能,使通话录音能够拾取微信录音.
+Author: Jianan Tian <409774743@qq.com>
+Icon: https://yttxcs.com/image/icon/wechat.callkit.png
+Installed-Size: 120
+ModernDepiction: https://yttxcs.cn/depiction/sileo/wechat.callkit.json
+Name: CallKit
+Sponsor: 幺筒源<409774743@qq.com>
+
