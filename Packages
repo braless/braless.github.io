@@ -382,28 +382,6 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dictmojix/icon/ico
 Installed-Size: 336
 Name: DictMojiX
 
-Package: com.fidele007.noticopy
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/NotiCopy.1.0.deb
-Size: 13242
-MD5sum: 8e7a8b559cb6f91aae185102446c3941
-SHA1: 0cb66d5456126186375d28d07a55453e51a05d1d
-SHA256: 5b62dccbf02994f774a2cfa4375da233372ced67f2a065b886d35ae6f77e3e8e
-Section: Tweaks
-Description: Long press to copy notifications.
-Author: fidele007 <kforcefidele@yahoo.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noticopyDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noticopyDp
-Installed-Size: 116
-Name: NotiCopy
-Priority: optional
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios9
-dev: fidele007
-
 Package: com.hk.shuffle.xina134
 Version: 1.0
 Architecture: iphoneos-arm
@@ -796,4 +774,20 @@ Icon: file:///Applications/Cydia.app/Sections/Messaging.png
 ModernDepiction: 
 Name: 微信净化2.2.3
 Sponsor: 幺筒源<409774743@qq.com>
+
+Package: com.icraze.noticopy15
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/NotiCopy15.1.1.deb
+Size: 11700
+MD5sum: 37af7662a6768effec894225cf62ff10
+SHA1: f96e6a4ab22195156e15a247257db27da1ba3955
+SHA256: 200d1f73957a114f5d3e2ff5aa319e19cd35a8e8dcc4c655f60c71f1a08de845
+Section: Tweaks
+Description: Tap a notification with two fingers to copy its text. Hold with two fingers to copy its title.
+Author: iCraze
+Installed-Size: 168
+Name: NotiCopy15
 
