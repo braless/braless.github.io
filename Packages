@@ -599,23 +599,6 @@ ModernDepiction:
 Name: LastLook 「汉化」
 Sponsor: 幺筒源<409774743@qq.com>
 
-Package: com.localipastore
-Version: 1.5-1x
-Architecture: iphoneos-arm
-Maintainer: lenglengyu <lenglengyu@126.com>
-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: debs/LocalIAPStore.1.5-1x.deb
-Size: 51992
-MD5sum: 453fa236f2a07352c78e458944fb694f
-SHA1: 091dbdcddca7b62c1c92076730657b6bb597af69
-SHA256: 48bf15f96778301b59c70b668294ba8a3ed3edeb2489a7acfcb558f563023707
-Section: Tweaks
-Description: 内购破解.
-Author: anondev
-Depiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStore.html
-Name: LocalIAPStore 内购破解
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStoresileo
-
 Package: com.yanshen.blacklist
 Version: 0.0.1-61+debug
 Architecture: iphoneos-arm
@@ -790,4 +773,21 @@ Description: Tap a notification with two fingers to copy its text. Hold with two
 Author: iCraze
 Installed-Size: 168
 Name: NotiCopy15
+
+Package: apt.cydiakk.localiapheper
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/LocaliAPHeper内购神器.2.0.deb
+Size: 63984
+MD5sum: 9362c46b47618fe9c23ff21c3148b3c4
+SHA1: fc986ed0c40579666e63818c8518ce8d93532bc5
+SHA256: 9cf04342c1636492e9dc507e97c0916ba8900f3bc1dd70ff66287cee93de766d
+Section: 工具
+Description: LocaliAPHeper 内购神器破解小助手破解部分软件的收费，弹窗付款点击取消即可
+Author: ant
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: LocaliAPHeper 内购神器
+Sponsor: Cydiakk中文源™ <https://apt.cydiakk.com/>
 
