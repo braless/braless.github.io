@@ -791,21 +791,6 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: LocaliAPHeper 内购神器
 Sponsor: Cydiakk中文源™ <https://apt.cydiakk.com/>
 
-Package: com.kdt.caperfhud
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: khanhduy032
-Filename: debs/CAPerfHUD_0.0.1_有根版tg巨魔商店.deb
-Size: 9604
-MD5sum: 457b6157b37937a3c2a94f83334348bc
-SHA1: 576c9f440057c71c547aed44ea6fda98d35f019d
-SHA256: bf2a4679b9f91352d394a9b368f1fc0a4b43419537eed23d74ea371586f48315
-Section: Utilities
-Description: Enable system-wide performance HUD
-Author: khanhduy032
-Installed-Size: 80
-Name: CAPerfHUD
-
 Package: cn.wechat.callkit
 Version: 1.0k
 Architecture: iphoneos-arm
@@ -824,4 +809,37 @@ Installed-Size: 120
 ModernDepiction: https://yttxcs.cn/depiction/sileo/wechat.callkit.json
 Name: CallKit
 Sponsor: 幺筒源<409774743@qq.com>
+
+Package: byg.iosios.net.wechatvfa
+Version: 1.0.4-2+debug
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: debs/微信公众号去广告.1.0.4-2+debug.deb
+Size: 9474
+MD5sum: 06608d106f937ef89940c316bd39609a
+SHA1: 8f5a95eac7693bfdbde03aa02f3e38e4f983f76e
+SHA256: 2ccdba34caa2dab5340cb65a5ecb903a89c0811617a464f23e70e072274b3133
+Section: 微信插件
+Description: （修复不显示阅读数量和“在看”）去掉微信公众号文章内置、底部的广告
+Author: 糖醋丶炒排骨
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 168
+Name: 微信公众号去广告
+Sponsor: 搬运工
+
+Package: com.kdt.caperfhud
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: khanhduy032
+Filename: debs/CAPerfHUD_0.0.1.deb
+Size: 9604
+MD5sum: 457b6157b37937a3c2a94f83334348bc
+SHA1: 576c9f440057c71c547aed44ea6fda98d35f019d
+SHA256: bf2a4679b9f91352d394a9b368f1fc0a4b43419537eed23d74ea371586f48315
+Section: Utilities
+Description: Enable system-wide performance HUD
+Author: khanhduy032
+Installed-Size: 80
+Name: CAPerfHUD
 
