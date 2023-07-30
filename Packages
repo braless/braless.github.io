@@ -209,6 +209,40 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: pingfan
 Name: 虚拟视频
 
+Package: xyz.cypwn.smartnotifications2
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.cokepokes.libnotifications
+Conflicts: com.eliassfeir.smartnotifications
+Filename: debs/SmartNotifications2.1.7.deb
+Size: 2511002
+MD5sum: af144658adfb49a0cbb5ecb84d19f8d4
+SHA1: cf948f06fd8218abc10ccc5b8ae9bdbb8ac22fc8
+SHA256: 557d69d45efd6cdc4591fb302b04b9f5ebcbff7e466f859ea04c122ba7ff2d07
+Section: Tweaks
+Description: The ultimate tweak to customize your notifications such as adding custom ringtones for apps, enable time frame, snooze notifications, block contacts and much more
+Author: Elias Sfeir
+Depiction: https://repo.cypwn.xyz/depiction/1081
+Icon: https://media.havoc.app/61fc6f0394bb9ecb0d31f0f1
+Name: SmartNotifications 2
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1081
+
+Package: com.hk.ytlite
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: debs/YTLite.2.3.1.deb
+Size: 63638
+MD5sum: b9e03d8746653cbf17480ce5e88ca0c0
+SHA1: 71c021cf3f7ef0ba7350e4550566c43c399077f0
+SHA256: 19b3c65e4127abde5c1d0bc72bf83c638b4972509bcc9332d296fa87e366d37a
+Section: 嗨-工具
+Author: dvntm
+Name: YTLite
+
 Package: yanshen.dw.gpsmaster
 Version: 1.8.1
 Architecture: iphoneos-arm
@@ -281,6 +315,92 @@ Description: 微博轻享版(原国际版)去除启动广告，去除信息流�
 Author: Netskao
 Installed-Size: 376
 Name: 微博轻享版 NoAds
+
+Package: netskao.limneoscrack
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs/LimneosCrack.1.1-3.deb
+Size: 10246
+MD5sum: 574a501ff84007d91db8a2cbade50a6c
+SHA1: aa7312c946ecccb3ef4b36ef7dfcbdcde96b4dea
+SHA256: 87c854ccbfc33c26a1e8bb6f66a21692cd83471b80ca8f1acbed9047ea3a93d2
+Section: Netskao-Cracks
+Description: 解锁Limneos所有插件全功能
+Author: Netskao
+Installed-Size: 136
+Name: Limneos Crack
+
+Package: com.localipastore
+Version: 1.5-1x
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: debs/LocalIAPStore内购破解.1.5-1x.deb
+Size: 52338
+MD5sum: 6434e724e3c7b80a40fb3a1868a6b888
+SHA1: f3c28888853f3d110d635fbe2ce45e08f7ef205a
+SHA256: 87522e112ada7ea43e68d8ba4b37d1ac04738ae4d63e283834ed467da814887b
+Section: Tweaks
+Description: 内购破解.
+Author: anondev
+Depiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStore.html
+Name: LocalIAPStore 内购破解
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/LocalIAPStoresileo
+
+Package: com.niceios.nicelogx13
+Version: 1.0.1.3-1
+Architecture: iphoneos-arm
+Maintainer: niceios
+Depends: com.niceios.nicehelper (>= 4.4), preferenceloader
+Filename: debs/NiceLogX.1.0.1.3-1.deb
+Size: 2171860
+MD5sum: ac20f07c235cd2364e47ae74e4d4f0d2
+SHA1: 903092aec4fbe0fd87bd2bf5a23a4e40dbd1fe6f
+SHA256: 604c8bbd4130cb2351894bb9696f1759bf463a7292211fbc14dedf89337515a0
+Section: Tweaks
+Description: 常用语分类保存,快捷输入,剪贴板内容记录,文本翻译等功能.
+Author: niceios
+Installed-Size: 7188
+Name: NiceLogX
+Sponsor: niceios
+
+Package: com.spark.snowboard
+Version: 1.5.21-Beta3
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/SnowBoard.1.5.21-Beta3.deb
+Size: 1534098
+MD5sum: 4eb4189dc54bf96ff3057d24aeda653d
+SHA1: 82f21e695eb28714fd2cc353332d9d27f7fe9d75
+SHA256: bd4614d6036c98fa47628b32db681036452612d153a1b3ddb76448652a65cc3f
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Installed-Size: 4260
+Name: SnowBoard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+
+Package: byg.iosios.net.hbwechathelper
+Version: 1.5.5
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/黄白助手-微信娱乐插件.1.5.5.deb
+Size: 8784976
+MD5sum: c7c436b74968f932632a5edf40f1152a
+SHA1: 50efc7031901c74cdf06d989f19b6e8b29005bd9
+SHA256: 4dd265f4375d9cede3e6ce7a0aef7cfc1f661e3ecf35eae7656e7630e2f7e566
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能                                                                                                                                                            一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 黄白助手-微信娱乐插件
+Sponsor: Mao
 
 Package: com.answeringmachinexs.cn
 Version: 1.2-32
@@ -774,23 +894,6 @@ Author: iCraze
 Installed-Size: 168
 Name: NotiCopy15
 
-Package: apt.cydiakk.localiapheper
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/LocaliAPHeper内购神器.2.0.deb
-Size: 63984
-MD5sum: 9362c46b47618fe9c23ff21c3148b3c4
-SHA1: fc986ed0c40579666e63818c8518ce8d93532bc5
-SHA256: 9cf04342c1636492e9dc507e97c0916ba8900f3bc1dd70ff66287cee93de766d
-Section: 工具
-Description: LocaliAPHeper 内购神器破解小助手破解部分软件的收费，弹窗付款点击取消即可
-Author: ant
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: LocaliAPHeper 内购神器
-Sponsor: Cydiakk中文源™ <https://apt.cydiakk.com/>
-
 Package: cn.wechat.callkit
 Version: 1.0k
 Architecture: iphoneos-arm
@@ -876,4 +979,107 @@ Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
 Name: CoreUI
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
+
+Package: com.hk.crane.cn
+Version: 1.3.9
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Crane中文修复包.1.3.9.deb
+Size: 11722
+MD5sum: 7c28a9856fd271a3545b8384a52f5ec2
+SHA1: e95cc277d9b884c52c5b324cd77ee49071fe6cf7
+SHA256: f0b31a172e26ef737c6aa5c7e39fa6101660c37ae4d3edd0e079dd0bcbd4dbec
+Section: 嗨-汉化
+Author: 妖刀
+Name: Crane 中文修复包
+
+Package: com.hk.goodwifi
+Version: 0.0~beta6.5-daodao
+Architecture: iphoneos-arm
+Maintainer: julioverne
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.goodwifi, com.alucard.goodwifi.cn
+Filename: debs/GoodWiFi中文版.0.0~beta6.5-daodao.deb
+Size: 73416
+MD5sum: c219b08224f65bfec9bc4998254f64e0
+SHA1: 32d74d52c440ae2339c1b306b2be0fd5dddc74f7
+SHA256: 4328612c08f8c12f016e143fe730cdffcc997f0473dfb3f0d0b9a95bf7e3d7f9
+Section: 嗨-工具
+Author: julioverne
+Installed-Size: 472
+Name: GoodWiFi中文版
+
+Package: com.cokepokes.libnotifications
+Version: 0.3-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0)
+Filename: debs/libnotifications.0.3-5.deb
+Size: 97606
+MD5sum: 7dd6bfb80ab9ac4ba57a87d6481e6294
+SHA1: 9ba1fbf106afb4584e34ae2cfa96d59b45638a78
+SHA256: 24786bab2e5e5fe4946189111f6f40d0faea87ab3b973be1260e99066314cd4b
+Section: Development
+Description: App notification library.
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Installed-Size: 980
+Name: libnotifications
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+dev: cokepokes
+
+Package: com.spark.libsparkapplist
+Version: 1.0.10
+Architecture: iphoneos-arm
+Maintainer: Spark
+Filename: debs/libSparkAppList.1.0.10.deb
+Size: 40094
+MD5sum: f39c92f911308d67eb4fd0ccfc47a8f1
+SHA1: e0a28b189c4884e2544093c856158eaa28c9fe9f
+SHA256: f24d5e46cdc6b2ef99cf54e9c6577bcc5e4e5aa55038ae50b385fc425e7c4fc2
+Section: Development
+Description: AppList alternative
+Author: Spark
+Installed-Size: 404
+Name: libSparkAppList
+Tag: role::developer
+
+Package: com.niceios.nicehelper
+Version: 5.3-63
+Architecture: iphoneos-arm
+Maintainer: niceios
+Filename: debs/NiceHelper.5.3-63.deb
+Size: 836340
+MD5sum: ab5beb0069ed7976d6935bb90c626c1a
+SHA1: f7c901d0f19048d1b9c58383711f274c1d9b6c33
+SHA256: 961fe44e96ad42c94dbcdfa14b5a61677211356c2fb98345664ac08ab3b84118
+Section: Addons
+Description: nice插件依赖组件.
+Author: niceios
+Installed-Size: 2512
+Name: NiceHelper
+Sponsor: niceios
+
+Package: com.nightwind.searchdots
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/SearchDots.1.1.5.deb
+Size: 116406
+MD5sum: 1fe474e4caa688f6268f95f0beb8bac7
+SHA1: ba54efb3a750482e4c8e962415ee86a6c9665791
+SHA256: dc6590186517307663a9721ca32a6fa4132398045ede398115b8cc57be72af67
+Section: Tweaks
+Description: Search Pill Ported from iOS 16
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/get/searchdots
+Icon: https://img.chariz.cloud/icon/searchdots/icon@3x.png
+Installed-Size: 498
+Name: SearchDots
+Tag: compatible_min::ios14.0
 
