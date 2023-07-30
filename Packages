@@ -843,3 +843,37 @@ Author: khanhduy032
 Installed-Size: 80
 Name: CAPerfHUD
 
+Package: com.hk.flex3patch.xina
+Version: 3~Beta98-xina
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=15.0)
+Filename: debs/Flex3 Patch For Xina.deb
+Size: 414022
+MD5sum: 064e83150a040942b250c4928914fae5
+SHA1: f6166e7a321934bec0fb613382465f141763d303
+SHA256: 7f9ad6b34e0fe2237e1f392370f22bdd7ebdf3083bbb956f29604f2c32acb184
+Section: 嗨-工具
+Description: XinaA15越狱Flex3补丁。装完此补丁，巨魔安装Flex3程序即可。
+Author: John Coates/妖刀
+Name: Flex3 Patch For Xina
+
+Package: coreui.bd
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0)
+Conflicts: 
+Filename: debs/CoreUI.deb
+Size: 6766
+MD5sum: 65952ec254339a36f0a257fcf7fcb2e9
+SHA1: 191243660b85ca12ffa93063f3fb72c7daa17149
+SHA256: 6dafde35f121c2b5c77cda6f0b231ed0aa2d9cb9846d9885dfe08a3244f16555
+Section: 字体
+Description: 锁屏字体
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: CoreUI
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
