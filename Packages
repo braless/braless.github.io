@@ -50,6 +50,23 @@ Author: julioverne
 Installed-Size: 472
 Name: GoodWiFi中文版
 
+Package: byg.iosios.net.hbwechathelper
+Version: 1.5.5
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/黄白助手1.5.5.deb
+Size: 8784976
+MD5sum: c7c436b74968f932632a5edf40f1152a
+SHA1: 50efc7031901c74cdf06d989f19b6e8b29005bd9
+SHA256: 4dd265f4375d9cede3e6ce7a0aef7cfc1f661e3ecf35eae7656e7630e2f7e566
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能                                                                                                                                                            一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 黄白助手-微信娱乐插件
+Sponsor: Mao
+
 Package: com.gpsmanager
 Version: 1.8.8
 Architecture: iphoneos-arm
@@ -206,23 +223,6 @@ SHA1: 825a721e55fbebed2b72e53fb730c7f8ba819fd6
 SHA256: d7ca76b810411406ef32b17891fa4b1c591791c83caaa37ebaae8bdce7d0326a
 Section: Tweaks
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-dev: HuangBai
-
-Package: com.HBWechatHelper.ailun
-Version: 1.0.8-4
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/黄白助手_1.0.8-4_tg巨魔商店.deb
-Size: 3777018
-MD5sum: 0c05cadbf58f68f28fdc38eb3d693219
-SHA1: 9d8fb5784020ff4eb366c010d926842890749591
-SHA256: 04e8ec0545a8d942d778713f34139c50e2e0559cc9075dc1566d7a4dddac804a
-Section: Tweaks
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
@@ -437,29 +437,29 @@ Installed-Size: 4260
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 
-Package: byg.iosios.net.hbwechathelper
-Version: 1.5.5
+Package: com.HBWechatHelper.ailun
+Version: 1.0.8-4
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/黄白助手-微信娱乐插件.1.5.5.deb
-Size: 8784976
-MD5sum: c7c436b74968f932632a5edf40f1152a
-SHA1: 50efc7031901c74cdf06d989f19b6e8b29005bd9
-SHA256: 4dd265f4375d9cede3e6ce7a0aef7cfc1f661e3ecf35eae7656e7630e2f7e566
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能                                                                                                                                                            一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 黄白助手-微信娱乐插件
+Filename: debs/黄白助手1.0.8-4.deb
+Size: 3777018
+MD5sum: 0c05cadbf58f68f28fdc38eb3d693219
+SHA1: 9d8fb5784020ff4eb366c010d926842890749591
+SHA256: 04e8ec0545a8d942d778713f34139c50e2e0559cc9075dc1566d7a4dddac804a
+Section: Tweaks
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
+dev: HuangBai
 
 Package: com.answeringmachinexs.cn
 Version: 1.2-32
 Architecture: iphoneos-arm
 Maintainer: Sandy0
 Depends: mobilesubstrate
-Filename: debs/AnsweringMachineXS简体.deb
+Filename: debs/Answering简体.deb
 Size: 6746
 MD5sum: 293fbde250730b0a498b1fe36a860cfa
 SHA1: 7da9862cbd3d15c2792780e9a834cf5829aaab98
@@ -468,6 +468,21 @@ Section: 汉化
 Description: AnsweringMachine XS 简体中文包。某些地方无法汉化。
 Author: Sandy0、妖刀
 Name: AnsweringMachine XS 简体中文包
+
+Package: com.hk.appdata.old
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Ball & Netskao
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/AppData.1.2.6.deb
+Size: 188660
+MD5sum: 56ccc8045a5e0a60cfd65263e67447c6
+SHA1: 719bb541cca4cc44880c52771f9042a35474e716
+SHA256: 66a565230ca7408c14bf38ac4d713527584b26283bb23d1995f97600ca83b3f4
+Section: Tweaks
+Author: Fouad Raheb
+Installed-Size: 768
+Name: AppData(老版本样式)
 
 Package: com.voicecgangerxs.cn
 Version: 2.0-12
@@ -766,21 +781,6 @@ Section: Tweaks
 Author: xina520 <3608063@qq.com>
 Name: 禁止注入
 
-Package: com.hk.appdata.old
-Version: 1.2.6
-Architecture: iphoneos-arm
-Maintainer: Ball & Netskao
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/AppData老版本样式.1.2.6.deb
-Size: 188660
-MD5sum: 56ccc8045a5e0a60cfd65263e67447c6
-SHA1: 719bb541cca4cc44880c52771f9042a35474e716
-SHA256: 66a565230ca7408c14bf38ac4d713527584b26283bb23d1995f97600ca83b3f4
-Section: Tweaks
-Author: Fouad Raheb
-Installed-Size: 768
-Name: AppData(老版本样式)
-
 Package: com.parrotgeek.globalize
 Version: 0.3.2
 Architecture: iphoneos-arm
@@ -927,6 +927,24 @@ Author: iCraze
 Installed-Size: 168
 Name: NotiCopy15
 
+Package: byg.iosios.net.wechatvfa
+Version: 1.0.4-2+debug
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: debs/微信公众号去广告.1.0.4-2.deb
+Size: 9474
+MD5sum: 06608d106f937ef89940c316bd39609a
+SHA1: 8f5a95eac7693bfdbde03aa02f3e38e4f983f76e
+SHA256: 2ccdba34caa2dab5340cb65a5ecb903a89c0811617a464f23e70e072274b3133
+Section: 微信插件
+Description: （修复不显示阅读数量和“在看”）去掉微信公众号文章内置、底部的广告
+Author: 糖醋丶炒排骨
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 168
+Name: 微信公众号去广告
+Sponsor: 搬运工
+
 Package: cn.wechat.callkit
 Version: 1.0k
 Architecture: iphoneos-arm
@@ -945,24 +963,6 @@ Installed-Size: 120
 ModernDepiction: https://yttxcs.cn/depiction/sileo/wechat.callkit.json
 Name: CallKit
 Sponsor: 幺筒源<409774743@qq.com>
-
-Package: byg.iosios.net.wechatvfa
-Version: 1.0.4-2+debug
-Architecture: iphoneos-arm
-Maintainer: 搬运工
-Depends: mobilesubstrate
-Filename: debs/微信公众号去广告.1.0.4-2+debug.deb
-Size: 9474
-MD5sum: 06608d106f937ef89940c316bd39609a
-SHA1: 8f5a95eac7693bfdbde03aa02f3e38e4f983f76e
-SHA256: 2ccdba34caa2dab5340cb65a5ecb903a89c0811617a464f23e70e072274b3133
-Section: 微信插件
-Description: （修复不显示阅读数量和“在看”）去掉微信公众号文章内置、底部的广告
-Author: 糖醋丶炒排骨
-Icon: https://chinesebuilding.club/pic/cydia.png
-Installed-Size: 168
-Name: 微信公众号去广告
-Sponsor: 搬运工
 
 Package: com.kdt.caperfhud
 Version: 0.0.1
