@@ -228,6 +228,21 @@ Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 dev: HuangBai
 
+Package: com.snail.xianyunoad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/闲鱼去广告.0.0.1.deb
+Size: 10700
+MD5sum: b1b4e95b81133101a09cc00090e99c51
+SHA1: 75502a64452bc66e758eee4d56fe0f61ff20a6c4
+SHA256: 6877d13d322d6ac321684adf541182d691558e3414fb37cd6b812b036e3f0aa9
+Section: 广告净化
+Description: 咸鱼去广告，支持所有版本。
+Author: Snail <snailsohi@gmail.com>
+Installed-Size: 216
+Name: 闲鱼去广告
+
 Package: com.pingfan.wechat
 Version: 2.1-3
 Architecture: iphoneos-arm
@@ -277,23 +292,20 @@ Section: 嗨-工具
 Author: dvntm
 Name: YTLite
 
-Package: byg.iosios.net.wceablefriendsstar.rootless
-Version: 1.1-2
+Package: com.snail.smzdmnoad
+Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: 搬运工
-Depends: mobilesubstrate, firmware (>= 13.0)
-Conflicts: netskao.wceablefriendsstar
-Filename: debs/朋友圈置顶.deb
-Size: 66200
-MD5sum: 4087de1af831fcc312cc6d4d10403639
-SHA1: f665d527a9cbe167a59efc7dd094ce227a198f25
-SHA256: 9d995a7bd4e46156eb480eba4e76fe5b8a9bc45590050104e17f6d59b9f172a3
-Section: 微信插件
-Description: 直接启用微信朋友圈置顶功能，无设置，应该仅支持8.0.36及以上。应群友要求，所以上架。
-Author: Netskao
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 微信朋友圈置顶-Rootless
-Sponsor: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/什么值得买无广告.deb
+Size: 8312
+MD5sum: ea5e1130173b7d407ee7e0416db0661d
+SHA1: be9114868d04142d6cbe0e80040f19b403f09870
+SHA256: c53f00050a5481b92e63a4475041b175324ab6b7efb3afe0a00be2cf3b5ec3c3
+Section: 软件优化
+Description: 去掉什么值得买APP首页广告。Remove Home Ad of SMZDM App/
+Author: Snail <mu514983786@gmail.com>
+Installed-Size: 168
+Name: 什么值得买去首页广告 // SMZDMNOAD
 
 Package: yanshen.dw.gpsmaster
 Version: 1.8.1
@@ -484,6 +496,22 @@ Author: Fouad Raheb
 Installed-Size: 768
 Name: AppData(老版本样式)
 
+Package: com.hk.trollstore.cn
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/TrollStore简体中文包.1.1-1.deb
+Size: 17502
+MD5sum: e114fec9dd0c9a2166358dab70c4fcf5
+SHA1: b7bc915663c2a0d5781de2253e32d2931718c74a
+SHA256: 8a02bcd14588d83767e555b628496afe2e0045a0ff168a8551bed6b656d490d8
+Section: 嗨-汉化
+Description: TrollStore 简体中文包。
+Author: 妖刀
+Installed-Size: 152
+Name: TrollStore 简体中文包
+
 Package: com.voicecgangerxs.cn
 Version: 2.0-12
 Architecture: iphoneos-arm
@@ -509,6 +537,24 @@ SHA256: 6223521a1fa7f88a1c6eb6c386736d8615639f3535574ec34a1aae88491783d4
 Section: 嗨-汉化
 Author: 妖刀
 Name: Choicy 简体中文包
+
+Package: byg.iosios.net.wceablefriendsstar.rootless
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: netskao.wceablefriendsstar
+Filename: debs/朋友圈置顶.deb
+Size: 66196
+MD5sum: 5bf7eec91cfda92c468fc3ed2d5c6653
+SHA1: e008c2653c85c74be030ae386b1c80a6952750c1
+SHA256: 4088e2fe1184d06afed6743112a51d5de0d559efbe1ce63335f2862cddb8fdb9
+Section: 微信插件
+Description: 直接启用微信朋友圈置顶功能，无设置，应该仅支持8.0.36及以上。应群友要求，所以上架。
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 微信朋友圈置顶
+Sponsor: 搬运工
 
 Package: com.cydiabc.jianfaxiangce
 Version: 1.0-1
@@ -567,6 +613,22 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.dictmojix
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dictmojix/icon/icon.png
 Installed-Size: 336
 Name: DictMojiX
+
+Package: com.icraze.keepmyjb
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Depends: mobilesubstrate
+Filename: debs/KeepMyJB.1.1.deb
+Size: 9114
+MD5sum: 44fbe170cb7d2b8a7e602957bd42a64e
+SHA1: 471330ae428766c6c52fe049a056141e93fa47f8
+SHA256: dec5643e6db4331b63321035ac76a988cb845005392edc60da4a430b0e8053ea
+Section: Tweaks
+Description: Remove the "Software Update" and "Erase All Content And Settings" tabs in the Settings app!
+Author: iCraze
+Installed-Size: 136
+Name: KeepMyJB
 
 Package: com.hk.shuffle.xina134
 Version: 1.0
