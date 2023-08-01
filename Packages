@@ -1007,6 +1007,22 @@ Installed-Size: 168
 Name: 微信公众号去广告
 Sponsor: 搬运工
 
+Package: netskao.fakemodel
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: debs/FakeModel.1.1-9.deb
+Size: 186098
+MD5sum: 7da443cdceeee93cabd2b747a0e26e68
+SHA1: a7f2e64d9dc58e9eafb7eb02e3567cf06c538b7d
+SHA256: 0e614bd469d7783fb72690cc87d4fe762e03cb2bcda7f9862a8e9f3e0aa8b31e
+Section: Netskao-Tweaks
+Description: Fake Device Models
+Author: Netskao
+Installed-Size: 612
+Name: FakeModel
+
 Package: cn.wechat.callkit
 Version: 1.0k
 Architecture: iphoneos-arm
