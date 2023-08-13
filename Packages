@@ -1042,6 +1042,23 @@ ModernDepiction: https://yttxcs.cn/depiction/sileo/wechat.callkit.json
 Name: CallKit
 Sponsor: 幺筒源<409774743@qq.com>
 
+Package: byg.iosios.net.hbwechathelper
+Version: 1.5.9-1
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/黄白助手-微信娱乐插件.1.5.9-1.deb
+Size: 9519602
+MD5sum: 59668481a35d81f8969cc4824d15ab45
+SHA1: 45fbca51c947b7d7a21a1de606f5edfde2ba1be8
+SHA256: 0d8af04f0b4dcad20d90eb41b00a2db52059bd26192327e69ff54a02ebee47a9
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能                                                                                                                                                            一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 黄白助手-微信娱乐插件
+Sponsor: 搬运工
+
 Package: com.kdt.caperfhud
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -1104,6 +1121,22 @@ SHA256: f0b31a172e26ef737c6aa5c7e39fa6101660c37ae4d3edd0e079dd0bcbd4dbec
 Section: 嗨-汉化
 Author: 妖刀
 Name: Crane 中文修复包
+
+Package: com.hk.bhtwitter.cn
+Version: 3.9.1
+Architecture: iphoneos-arm
+Maintainer: BandarHL
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Filename: debs/BHTwitter中文修复版.3.9.1.deb
+Size: 893602
+MD5sum: e3d50bba60f61a53ce313fe3a77bab2f
+SHA1: f3d80afac9fd450e2163bd9aa02b3ad2684399d5
+SHA256: d2ca667a3659f2dedc4f7e896043d1e802ea6b07d9962bead3bd0bedcd4bc02d
+Section: 嗨-工具
+Author: Mo
+Name: BHTwitter 中文修复版
+Priority: optional
 
 Package: com.cokepokes.libnotifications
 Version: 0.3-5
@@ -1193,4 +1226,55 @@ Section: 嗨-工具
 Author: Netskao
 Installed-Size: 272
 Name: 头条NoAds
+
+Package: net.limneos.answeringmachinex
+Version: 2.0-17
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158), firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: debs/AnsweringMachineXSiOS11to16.2.0-17.deb
+Size: 279870
+MD5sum: 2071661856d7764aea1ffacb24dc5abe
+SHA1: 3139b0af10d367102217b7cd8bcb40a99f8798c6
+SHA256: 7c4529a3fad9144cae12036fce884d4bcc34c0623d03bdd5e383e0dec92fff86
+Section: Tweaks
+Description: Receive voicemails on device!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
+Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/AnsweringMachine@2x.png
+Installed-Size: 2432
+Name: AnsweringMachine XS (iOS 11 to 16)
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: limneos
+
+Package: com.hk.bhtiktok.cn
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/BHTikTok简体中文包.0.0.1-1.deb
+Size: 11834
+MD5sum: 4c57c15b379ccf7e7f2ef0f0cbd9e6fa
+SHA1: b676803c270cb9c29feb0db8f32e4e3e5490edbf
+SHA256: 24f4c246a51a92ac8983d8b31d3f4f5820aeb356bdf445a6091d05cb2009f13d
+Section: 嗨-汉化
+Author: 妖刀
+Name: BHTikTok 简体中文包
+
+Package: com.hk.nfcwriterxs.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: debs/NFCWriterXS简体中文包.1.1.deb
+Size: 16428
+MD5sum: a9398f2f67e629015746b1ec2d55a0ed
+SHA1: fbe031b3b046cdc7ab0cd042262fcbb49bb2567a
+SHA256: 208c4c24212b410c429a3356b75398846ae7d741476a20231d74e0813d0f3609
+Section: 嗨-汉化
+Author: Ball
+Name: NFCWriter XS 简体中文包
 
