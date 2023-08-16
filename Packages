@@ -228,21 +228,6 @@ Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 dev: HuangBai
 
-Package: com.snail.xianyunoad
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: debs/闲鱼去广告.0.0.1.deb
-Size: 10700
-MD5sum: b1b4e95b81133101a09cc00090e99c51
-SHA1: 75502a64452bc66e758eee4d56fe0f61ff20a6c4
-SHA256: 6877d13d322d6ac321684adf541182d691558e3414fb37cd6b812b036e3f0aa9
-Section: 广告净化
-Description: 咸鱼去广告，支持所有版本。
-Author: Snail <snailsohi@gmail.com>
-Installed-Size: 216
-Name: 闲鱼去广告
-
 Package: com.pingfan.wechat
 Version: 2.1-3
 Architecture: iphoneos-arm
@@ -297,11 +282,11 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/什么值得买无广告.deb
-Size: 8312
-MD5sum: ea5e1130173b7d407ee7e0416db0661d
-SHA1: be9114868d04142d6cbe0e80040f19b403f09870
-SHA256: c53f00050a5481b92e63a4475041b175324ab6b7efb3afe0a00be2cf3b5ec3c3
-Section: 软件优化
+Size: 8320
+MD5sum: f278cfa7435d979de96523fe3d1d851d
+SHA1: 50d7f32cffea3c8f32d1079045856bcb8f9793ee
+SHA256: af5c5db38a5153d43fe10bf2251b5f5fe1c0f2bc4f85e3d164ea9a16968db8a2
+Section: 插件
 Description: 去掉什么值得买APP首页广告。Remove Home Ad of SMZDM App/
 Author: Snail <mu514983786@gmail.com>
 Installed-Size: 168
@@ -502,11 +487,11 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: debs/TrollStore简体中文包.1.1-1.deb
-Size: 17502
-MD5sum: e114fec9dd0c9a2166358dab70c4fcf5
-SHA1: b7bc915663c2a0d5781de2253e32d2931718c74a
-SHA256: 8a02bcd14588d83767e555b628496afe2e0045a0ff168a8551bed6b656d490d8
-Section: 嗨-汉化
+Size: 17498
+MD5sum: 6537163c2ebb0c0e91099ce61917c55b
+SHA1: e38636b6715a6e3a8b48b880f97604b38e5bd23d
+SHA256: 629d0f8a48f87b14867212ca8e4cca7a58d71e357433b9c307c928ed14cf9c88
+Section: 汉化
 Description: TrollStore 简体中文包。
 Author: 妖刀
 Installed-Size: 152
@@ -524,19 +509,6 @@ Section: 汉化
 Description: VoiceChanger Xs 简体中文包。VoiceChanger Xs 介绍在通话过程中改变你的声音！
 Author: Ball
 Name: VoiceChanger Xs 简体中文包
-
-Package: com.hk.choicy.cn
-Version: 1.4.6
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: debs/Choicy简体中文包.1.4.6.deb
-Size: 4176
-MD5sum: 44420a5c479af5d1cbc3bdce12170071
-SHA1: 1ba775aa147770814063e3e24ffb39049a07bece
-SHA256: 6223521a1fa7f88a1c6eb6c386736d8615639f3535574ec34a1aae88491783d4
-Section: 嗨-汉化
-Author: 妖刀
-Name: Choicy 简体中文包
 
 Package: byg.iosios.net.wceablefriendsstar.rootless
 Version: 1.1-2
@@ -1007,22 +979,6 @@ Installed-Size: 168
 Name: 微信公众号去广告
 Sponsor: 搬运工
 
-Package: netskao.fakemodel
-Version: 1.1-9
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Filename: debs/FakeModel.1.1-9.deb
-Size: 186098
-MD5sum: 7da443cdceeee93cabd2b747a0e26e68
-SHA1: a7f2e64d9dc58e9eafb7eb02e3567cf06c538b7d
-SHA256: 0e614bd469d7783fb72690cc87d4fe762e03cb2bcda7f9862a8e9f3e0aa8b31e
-Section: Netskao-Tweaks
-Description: Fake Device Models
-Author: Netskao
-Installed-Size: 612
-Name: FakeModel
-
 Package: cn.wechat.callkit
 Version: 1.0k
 Architecture: iphoneos-arm
@@ -1108,20 +1064,6 @@ Name: CoreUI
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
-Package: com.hk.crane.cn
-Version: 1.3.9
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Crane中文修复包.1.3.9.deb
-Size: 11722
-MD5sum: 7c28a9856fd271a3545b8384a52f5ec2
-SHA1: e95cc277d9b884c52c5b324cd77ee49071fe6cf7
-SHA256: f0b31a172e26ef737c6aa5c7e39fa6101660c37ae4d3edd0e079dd0bcbd4dbec
-Section: 嗨-汉化
-Author: 妖刀
-Name: Crane 中文修复包
-
 Package: com.hk.bhtwitter.cn
 Version: 3.9.1
 Architecture: iphoneos-arm
@@ -1129,11 +1071,11 @@ Maintainer: BandarHL
 Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
 Filename: debs/BHTwitter中文修复版.3.9.1.deb
-Size: 893602
-MD5sum: e3d50bba60f61a53ce313fe3a77bab2f
-SHA1: f3d80afac9fd450e2163bd9aa02b3ad2684399d5
-SHA256: d2ca667a3659f2dedc4f7e896043d1e802ea6b07d9962bead3bd0bedcd4bc02d
-Section: 嗨-工具
+Size: 893606
+MD5sum: 1d3741a3e000ac6eed92227fdfe310f7
+SHA1: 265de518f15ce1f9e7add6bb93d2ecc7e946fbd1
+SHA256: 420dad737448cca6024d707a86d7a3b923c3216f80dba99cbecfe54869c1aa13
+Section: 插件
 Author: Mo
 Name: BHTwitter 中文修复版
 Priority: optional
@@ -1250,17 +1192,109 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension
 dev: limneos
 
+Package: netskao.fakemodel
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: debs/FakeModel.1.1-9.deb
+Size: 186136
+MD5sum: a265ca6fe0fae5d078ee93fc2bb5cfe5
+SHA1: aae71bc10b7b923246f06986b42a9acba30335a6
+SHA256: e3a5e8b658617ce922f8348b76173cb6a7f14165bbab84d0949afb02c38b1009
+Section: 插件
+Description: Fake Device Models
+Author: Netskao
+Installed-Size: 612
+Name: FakeModel
+
+Package: cn.yttxcs.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate
+Filename: debs/LocalIAPStore13「内购破解」.0.0.2.deb
+Size: 8686
+MD5sum: af0c65c6c86db17ce718967dd3f583a1
+SHA1: 40c2ff01c36a446fb128930120073bff86580364
+SHA256: a04fb09773a58e41e5f8f70f9aaa95b8a97bbb5da8a60cc81e5237d18db90e6e
+Section: 插件
+Description: 免费的应用内购买包括IOS 13旁路锁iCloud（绕过验证密码、触摸ID或人脸ID）
+Author: pxcex <409774743@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Installed-Size: 131
+ModernDepiction: 
+Name: LocalIAPStore13 「内购破解」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: com.chr1s.atlas
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Chr1s
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.15.1)
+Filename: debs/Atlas.1.0.4.deb
+Size: 110610
+MD5sum: aac8fc5cace96eeeddd89e5773212235
+SHA1: 4b6cf0f647a4ffb8b5a114a5005eb6e9eb72732d
+SHA256: 02b80e0bd6b580559d6c7fd1ea6a3bca7eccde241fd1e956d9f5827ea2504fd4
+Section: Tweaks
+Description: Minimalistic video player replacement
+Author: Chr1s
+Icon: https://chr1s.dev/assets/atlasRound.png
+Installed-Size: 4608
+Name: Atlas
+
+Package: com.hk.crane.cn
+Version: 1.3.9
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Crane中文修复包.1.3.9.deb
+Size: 11732
+MD5sum: 545d563c9e388a442b76872c9037a035
+SHA1: b91825db5995f78f3d07936b41ba9d06f0340587
+SHA256: d81cd867cb1d376cac1bb92a4b33060114dbacd5a01e99bb1699bb4312e678e9
+Section: 汉化
+Author: 妖刀
+Name: Crane 中文修复包
+
+Package: com.hk.choicy.cn
+Version: 1.4.6
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/Choicy简体中文包.1.4.6.deb
+Size: 4188
+MD5sum: dd3d1fbfdc50c488ecf56d01cd4759a1
+SHA1: 36262d3d33f8aa201a3e2878b6f01fd08a5fbc50
+SHA256: 3f5a4380108c834af89729215256200d94fcd698487385d7153434cdb589f781
+Section: 汉化
+Author: 妖刀
+Name: Choicy 简体中文包
+
+Package: com.hk.atlas.cn
+Version: 1.0.4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/Atlas简体中文包.1.0.4.deb
+Size: 1460
+MD5sum: c65f26e1c8137481b9061dceffbcb8f6
+SHA1: 761982e5ff97fe24be664789a35c8a413af089a5
+SHA256: 51b72fa8ce3aaa267cd4915c139be3601f4d112d8e5f7fce82c20304807894e2
+Section: 汉化
+Author: 妖刀
+Name: Atlas 简体中文包
+
 Package: com.hk.bhtiktok.cn
 Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: debs/BHTikTok简体中文包.0.0.1-1.deb
-Size: 11834
-MD5sum: 4c57c15b379ccf7e7f2ef0f0cbd9e6fa
-SHA1: b676803c270cb9c29feb0db8f32e4e3e5490edbf
-SHA256: 24f4c246a51a92ac8983d8b31d3f4f5820aeb356bdf445a6091d05cb2009f13d
-Section: 嗨-汉化
+Size: 11928
+MD5sum: 9edb7ffeb3503c187a892607956571fc
+SHA1: d377eacf7cb8b31be86dd0ad3b3c878fea2dd139
+SHA256: fc824f1ec8de22046d70eb7f826082aaf7bb0601570d39c9d0ba773ffedec369
+Section: 汉化
 Author: 妖刀
 Name: BHTikTok 简体中文包
 
@@ -1270,11 +1304,26 @@ Architecture: iphoneos-arm
 Maintainer: Ball
 Depends: mobilesubstrate
 Filename: debs/NFCWriterXS简体中文包.1.1.deb
-Size: 16428
-MD5sum: a9398f2f67e629015746b1ec2d55a0ed
-SHA1: fbe031b3b046cdc7ab0cd042262fcbb49bb2567a
-SHA256: 208c4c24212b410c429a3356b75398846ae7d741476a20231d74e0813d0f3609
-Section: 嗨-汉化
+Size: 16430
+MD5sum: 598105ce8980982e11b4d11e9ddf3c06
+SHA1: 0408354f196a7e88948a0cc5b1c4ec6a351870c5
+SHA256: 667d996e188f819475fb54576e7c2e729ae90ed72423ff26c0f734c6fecc1787
+Section: 汉化
 Author: Ball
 Name: NFCWriter XS 简体中文包
+
+Package: com.snail.xianyunoad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/闲鱼去广告.0.0.1.deb
+Size: 10732
+MD5sum: d7a9a820f728a28aa501b343e92499f5
+SHA1: cbb9ea7ca6e475bc4bd97743fa41571b30743bfd
+SHA256: f12c2da7d3dbed7c33757b487f97bffd7328a6c3d2d386c3aceaa5be943fc64c
+Section: 插件
+Description: 咸鱼去广告，支持所有版本。
+Author: Snail <snailsohi@gmail.com>
+Installed-Size: 216
+Name: 闲鱼去广告
 
