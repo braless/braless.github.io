@@ -16,6 +16,22 @@ Installed-Size: 208
 Name: 微信公众号强制关注
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/wxqzgzsileo
 
+Package: com.niceios.nicehelper
+Version: 5.3-63
+Architecture: iphoneos-arm
+Maintainer: niceios
+Filename: debs/NiceHelper.5.3-63.deb
+Size: 836274
+MD5sum: 80de1ca4ee56bacff3c8cb7777e3a40f
+SHA1: dc70c849e38e7c6129311aae9b7dd9fe25524f13
+SHA256: e57e762c2d2169da5fa59c8eb74050b8b2d37dfefaf80a9ddcadb0f7ea146f27
+Section: Development
+Description: nice插件依赖组件.
+Author: niceios
+Installed-Size: 2512
+Name: NiceHelper
+Sponsor: niceios
+
 Package: com.yanshen.jdnoad
 Version: 1.1
 Architecture: iphoneos-arm
@@ -33,22 +49,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Installed-Size: 168
 Name: 京东NoAd
 Sponsor: 搬运工
-
-Package: com.hk.goodwifi
-Version: 0.0~beta6.5-daodao
-Architecture: iphoneos-arm
-Maintainer: julioverne
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.goodwifi, com.alucard.goodwifi.cn
-Filename: debs/GoodWiFi中文版.deb
-Size: 73416
-MD5sum: c219b08224f65bfec9bc4998254f64e0
-SHA1: 32d74d52c440ae2339c1b306b2be0fd5dddc74f7
-SHA256: 4328612c08f8c12f016e143fe730cdffcc997f0473dfb3f0d0b9a95bf7e3d7f9
-Section: 嗨-工具
-Author: julioverne
-Installed-Size: 472
-Name: GoodWiFi中文版
 
 Package: byg.iosios.net.hbwechathelper
 Version: 1.5.5
@@ -156,6 +156,22 @@ Homepage: https://repo.snailovet.com/
 Installed-Size: 216
 Name: 照片直接删除&无限放大
 
+Package: netskao.limneoscrack
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs/LimneosCrack.1.1-3.deb
+Size: 10306
+MD5sum: af35723d0ae117578c2a90ebd4b15a9d
+SHA1: 7ed1d5381f9a2109fbd63101878cccd8e212cdba
+SHA256: d8f2061f862ac4d6452d17ac528477e43d1a0db3ab340f7a7db61dd447be286c
+Section: Tweaks
+Description: 解锁Limneos所有插件全功能
+Author: Netskao
+Installed-Size: 136
+Name: Limneos Crack
+
 Package: cn.net.vcam
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -228,6 +244,21 @@ Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 dev: HuangBai
 
+Package: com.hk.ytlite
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: debs/YTLite.2.3.1.deb
+Size: 63654
+MD5sum: 8dbeda4056b6d15c0208fb037ae4ddbf
+SHA1: 6610b468c5a7ac12565bdd282d6660fd483dc768
+SHA256: be7bcc0f5bf03a34819b8df809cebc37382ea08570d9cb360aaaa559eeec48ca
+Section: Tweaks
+Author: dvntm
+Name: YTLite
+
 Package: com.pingfan.wechat
 Version: 2.1-3
 Architecture: iphoneos-arm
@@ -262,21 +293,6 @@ Icon: https://media.havoc.app/61fc6f0394bb9ecb0d31f0f1
 Name: SmartNotifications 2
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1081
 
-Package: com.hk.ytlite
-Version: 2.3.1
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: debs/YTLite.2.3.1.deb
-Size: 63638
-MD5sum: b9e03d8746653cbf17480ce5e88ca0c0
-SHA1: 71c021cf3f7ef0ba7350e4550566c43c399077f0
-SHA256: 19b3c65e4127abde5c1d0bc72bf83c638b4972509bcc9332d296fa87e366d37a
-Section: 嗨-工具
-Author: dvntm
-Name: YTLite
-
 Package: com.snail.smzdmnoad
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -291,6 +307,21 @@ Description: 去掉什么值得买APP首页广告。Remove Home Ad of SMZDM App/
 Author: Snail <mu514983786@gmail.com>
 Installed-Size: 168
 Name: 什么值得买去首页广告 // SMZDMNOAD
+
+Package: com.kdt.caperfhud
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: khanhduy032
+Filename: debs/CAPerfHUD_0.0.1.deb
+Size: 10248
+MD5sum: 058b977a41a217d50a5609d44bfa087d
+SHA1: 266b8e86faf6d164418864a866a1d6b152ad863b
+SHA256: 0a71c354736d38df60bf86f778a7320b484e73bf4fdacb9b4bb72c3a4069bb1a
+Section: Tweaks
+Description: Enable system-wide performance HUD
+Author: khanhduy032
+Installed-Size: 80
+Name: CAPerfHUD
 
 Package: yanshen.dw.gpsmaster
 Version: 1.8.1
@@ -364,22 +395,6 @@ Description: 微博轻享版(原国际版)去除启动广告，去除信息流�
 Author: Netskao
 Installed-Size: 376
 Name: 微博轻享版 NoAds
-
-Package: netskao.limneoscrack
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: debs/LimneosCrack.1.1-3.deb
-Size: 10246
-MD5sum: 574a501ff84007d91db8a2cbade50a6c
-SHA1: aa7312c946ecccb3ef4b36ef7dfcbdcde96b4dea
-SHA256: 87c854ccbfc33c26a1e8bb6f66a21692cd83471b80ca8f1acbed9047ea3a93d2
-Section: Netskao-Cracks
-Description: 解锁Limneos所有插件全功能
-Author: Netskao
-Installed-Size: 136
-Name: Limneos Crack
 
 Package: com.localipastore
 Version: 1.5-1x
@@ -979,6 +994,22 @@ Installed-Size: 168
 Name: 微信公众号去广告
 Sponsor: 搬运工
 
+Package: com.hk.jrttnoads
+Version: 1.3-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: com.hk.toutiao
+Filename: debs/头条NoAds.1.3-3.deb
+Size: 86536
+MD5sum: d9072230c92be0626a0eb0f300c2bb4e
+SHA1: a2f321e00c96deabd062201b3937851670035e2c
+SHA256: 1bb26550af56734854785a173542e14ed1bb4f122c9c2c4b1859863123bca6c6
+Section: Tweaks
+Author: Netskao
+Installed-Size: 272
+Name: 头条NoAds
+
 Package: cn.wechat.callkit
 Version: 1.0k
 Architecture: iphoneos-arm
@@ -1015,35 +1046,21 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 黄白助手-微信娱乐插件
 Sponsor: 搬运工
 
-Package: com.kdt.caperfhud
-Version: 0.0.1
+Package: com.hk.goodwifi
+Version: 0.0~beta6.5-daodao
 Architecture: iphoneos-arm
-Maintainer: khanhduy032
-Filename: debs/CAPerfHUD_0.0.1.deb
-Size: 9604
-MD5sum: 457b6157b37937a3c2a94f83334348bc
-SHA1: 576c9f440057c71c547aed44ea6fda98d35f019d
-SHA256: bf2a4679b9f91352d394a9b368f1fc0a4b43419537eed23d74ea371586f48315
-Section: Utilities
-Description: Enable system-wide performance HUD
-Author: khanhduy032
-Installed-Size: 80
-Name: CAPerfHUD
-
-Package: com.hk.flex3patch.xina
-Version: 3~Beta98-xina
-Architecture: iphoneos-arm
-Maintainer: John Coates
-Depends: mobilesubstrate, firmware (>=15.0)
-Filename: debs/Flex3 Patch For Xina.deb
-Size: 414022
-MD5sum: 064e83150a040942b250c4928914fae5
-SHA1: f6166e7a321934bec0fb613382465f141763d303
-SHA256: 7f9ad6b34e0fe2237e1f392370f22bdd7ebdf3083bbb956f29604f2c32acb184
-Section: 嗨-工具
-Description: XinaA15越狱Flex3补丁。装完此补丁，巨魔安装Flex3程序即可。
-Author: John Coates/妖刀
-Name: Flex3 Patch For Xina
+Maintainer: julioverne
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.goodwifi, com.alucard.goodwifi.cn
+Filename: debs/GoodWiFi中文版.deb
+Size: 73398
+MD5sum: 633fb1bb169bad1e036cf28832e63b5c
+SHA1: be3e4912bdf6e46aa209a7be4a2c3d76772270bb
+SHA256: 460e1634b03172591473461f59a03a1248119792d2782d604d1578b487012ffd
+Section: Tweaks
+Author: julioverne
+Installed-Size: 472
+Name: GoodWiFi中文版
 
 Package: coreui.bd
 Version: 0.0.1
@@ -1079,6 +1096,24 @@ Section: 插件
 Author: Mo
 Name: BHTwitter 中文修复版
 Priority: optional
+
+Package: cn.yanshen.qqpurification
+Version: 1.9-9.8
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/qqpurification_1.9-9.deb
+Size: 161948
+MD5sum: ce34dc2b3680f9fa9c2411707d433294
+SHA1: d5e378e109810688cbed8b276bf8b22401bf800f
+SHA256: 3ce951f2bdba3ff95459f2ce89f5b0a282c13ab8ff0e6a247a81c0d0ccdd3c4c
+Section: Tweaks
+Description: QQ净化，还原聊天本质，干净的QQ给你
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+ModernDepiction: 
+Name: QQ 「净化」
+Sponsor: 幺筒源<409774743@qq.com>
 
 Package: com.cokepokes.libnotifications
 Version: 0.3-5
@@ -1118,22 +1153,6 @@ Installed-Size: 404
 Name: libSparkAppList
 Tag: role::developer
 
-Package: com.niceios.nicehelper
-Version: 5.3-63
-Architecture: iphoneos-arm
-Maintainer: niceios
-Filename: debs/NiceHelper.5.3-63.deb
-Size: 836340
-MD5sum: ab5beb0069ed7976d6935bb90c626c1a
-SHA1: f7c901d0f19048d1b9c58383711f274c1d9b6c33
-SHA256: 961fe44e96ad42c94dbcdfa14b5a61677211356c2fb98345664ac08ab3b84118
-Section: Addons
-Description: nice插件依赖组件.
-Author: niceios
-Installed-Size: 2512
-Name: NiceHelper
-Sponsor: niceios
-
 Package: com.nightwind.searchdots
 Version: 1.1.5
 Architecture: iphoneos-arm
@@ -1152,22 +1171,6 @@ Icon: https://img.chariz.cloud/icon/searchdots/icon@3x.png
 Installed-Size: 498
 Name: SearchDots
 Tag: compatible_min::ios14.0
-
-Package: com.hk.jrttnoads
-Version: 1.3-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 9.0), mobilesubstrate
-Conflicts: com.hk.toutiao
-Filename: debs/头条NoAds.1.3-3.deb
-Size: 86510
-MD5sum: 4c7d825a297dc771c9a2f512aedf573d
-SHA1: 106aa4a9b4217ce10410b0eddf342ed936c55dce
-SHA256: 07571400483a5d26e18b6352b880b92982fd4984638711b860fca062239e69bc
-Section: 嗨-工具
-Author: Netskao
-Installed-Size: 272
-Name: 头条NoAds
 
 Package: net.limneos.answeringmachinex
 Version: 2.0-17
@@ -1207,6 +1210,21 @@ Description: Fake Device Models
 Author: Netskao
 Installed-Size: 612
 Name: FakeModel
+
+Package: com.hk.flex3patch.xina
+Version: 3~Beta98-xina
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=15.0)
+Filename: debs/Flex3Patch.deb
+Size: 279014
+MD5sum: c2ce3a5114c8d3b57c9751c1d5f4ea8c
+SHA1: 0c82c3444d1af690b94c455944c2d0e9a06be7eb
+SHA256: fc087e1cef88c181267c013fcf06e99093d9502c54c059ae444bcad7fe4078d1
+Section: Tweaks
+Description: XinaA15越狱Flex3补丁。装完此补丁，巨魔安装Flex3程序即可。
+Author: John Coates/妖刀
+Name: Flex3 Patch For Xina
 
 Package: cn.yttxcs.localiapstore13
 Version: 0.0.2
