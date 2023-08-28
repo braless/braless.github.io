@@ -190,25 +190,6 @@ Installed-Size: 288
 Name: 虚拟摄像头
 Sponsor: 搬运工
 
-Package: x.DingTalkHelperX2
-Version: 2.1.7
-Architecture: iphoneos-arm
-Maintainer: Editornah
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
-Filename: debs/钉钉助手.deb
-Size: 123410
-MD5sum: 40dea4329f12a7ca4d7d591b1896eaad
-SHA1: f7ded8d75f0297b03c19cfba3ad2bfa41fc4f298
-SHA256: af93b2f7e0b3f4f11ac8b563a1b154b82404613c59eb5dc8b439a0703992c54f
-Section: Tweaks
-Author: Editornah
-Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
-Name: DingTalkHelperX2
-Priority: optional
-Sponsor: Editornah
-Tag: purpose::extension, compatible::ios14
-
 Package: cn.net.videos
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -380,6 +361,26 @@ Name: 虚拟定位-补丁
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
+Package: x.DingTalkHelperX2
+Version: 2.1.7
+Architecture: iphoneos-arm
+Maintainer: Editornah
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
+Filename: debs/钉钉助手.deb
+Size: 101486
+MD5sum: d47578f6d57c4c27766fc896977588ff
+SHA1: d73d08fb19c0863b1eb598df167d1a07805a6df7
+SHA256: 2b59c8f5c0e16aa4974ff19ad096cb090197a53bad666c32c6eb34d25094a817
+Section: Tweaks
+Description: 钉钉助手打卡
+Author: Editornah
+Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
+Name: DingTalkHelperX2
+Priority: optional
+Sponsor: Editornah
+Tag: purpose::extension, compatible::ios14
+
 Package: netskao.weibooverseasnoads
 Version: 1.1-8
 Architecture: iphoneos-arm
@@ -525,6 +526,21 @@ Description: VoiceChanger Xs 简体中文包。VoiceChanger Xs 介绍在通话�
 Author: Ball
 Name: VoiceChanger Xs 简体中文包
 
+Package: com.hk.lastlook.cn
+Version: 3.6.3
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/LastLook简体中文包.3.6.3.deb
+Size: 8682
+MD5sum: f6043c59c1575c93a2e7825e1cf1185d
+SHA1: ce8d2ae43c15a01c988d16b7de76f3c19b83c945
+SHA256: 6407075f6729504263f3ffa42eb85c486048005af276c241f6d751862cd21fd7
+Section: Tweaks
+Description: LastLook 简体中文包。
+Author: 妖刀
+Name: LastLook 简体中文包
+
 Package: byg.iosios.net.wceablefriendsstar.rootless
 Version: 1.1-2
 Architecture: iphoneos-arm
@@ -582,6 +598,29 @@ Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
 Name: AddToFolder
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
+
+Package: net.limneos.answeringmachinex
+Version: 2.0-17
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158), firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: debs/AnsweringM-16.2.0-17.deb
+Size: 279870
+MD5sum: 2071661856d7764aea1ffacb24dc5abe
+SHA1: 3139b0af10d367102217b7cd8bcb40a99f8798c6
+SHA256: 7c4529a3fad9144cae12036fce884d4bcc34c0623d03bdd5e383e0dec92fff86
+Section: Tweaks
+Description: Receive voicemails on device!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
+Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/AnsweringMachine@2x.png
+Installed-Size: 2432
+Name: AnsweringMachine XS (iOS 11 to 16)
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: limneos
 
 Package: com.udevs.dictmojix
 Version: 1.4.17
@@ -1172,28 +1211,40 @@ Installed-Size: 498
 Name: SearchDots
 Tag: compatible_min::ios14.0
 
-Package: net.limneos.answeringmachinex
-Version: 2.0-17
+Package: com.hk.nocshare
+Version: 1.1.2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158), firmware (>= 11.0)
-Conflicts: net.limneos.audiorecorder (<= 1.7-4)
-Filename: debs/AnsweringMachineXSiOS11to16.2.0-17.deb
-Size: 279870
-MD5sum: 2071661856d7764aea1ffacb24dc5abe
-SHA1: 3139b0af10d367102217b7cd8bcb40a99f8798c6
-SHA256: 7c4529a3fad9144cae12036fce884d4bcc34c0623d03bdd5e383e0dec92fff86
+Maintainer: Devvix
+Depends: mobilesubstrate
+Conflicts: com.devvix.nocshare
+Filename: debs/NoCShareiOS13-15.1.1.2.deb
+Size: 9880
+MD5sum: 000508df754a4a306fac8e2ee6a4b3d8
+SHA1: eda1477b5a844fe1ff7b628ab0de5a696f1ab810
+SHA256: 446fdad7f36eeabe9bc2c02bd9e271ee8c705d4863ba2989ba153b14450b4972
 Section: Tweaks
-Description: Receive voicemails on device!
-Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
-Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/AnsweringMachine@2x.png
-Installed-Size: 2432
-Name: AnsweringMachine XS (iOS 11 to 16)
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension
-dev: limneos
+Author: Devvix
+Name: NoCShare(iOS13-15)
+
+Package: com.cydiabc.shieldalert
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/ShieldAlert屏蔽弹窗.1.2.2.deb
+Size: 52062
+MD5sum: 7add92d4647fd2b41119342c5ab7ab0b
+SHA1: 50bb43a70295bf221507b7088abc1f8b4e57fba5
+SHA256: bd88038ab61f2c33d9291560a04c0085cfffc5069b0f3fa65ae1c7e39d29532b
+Section: Tweaks
+Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等
+A12: 1
+Author: Ai-小苹果
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 12.png
+Installed-Size: 380
+Name: ShieldAlert屏蔽弹窗
+Sponsor: Ai-小苹果
 
 Package: netskao.fakemodel
 Version: 1.1-9
