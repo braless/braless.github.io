@@ -599,29 +599,6 @@ ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofo
 Name: AddToFolder
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
 
-Package: net.limneos.answeringmachinex
-Version: 2.0-17
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158), firmware (>= 11.0)
-Conflicts: net.limneos.audiorecorder (<= 1.7-4)
-Filename: debs/AnsweringM-16.2.0-17.deb
-Size: 279870
-MD5sum: 2071661856d7764aea1ffacb24dc5abe
-SHA1: 3139b0af10d367102217b7cd8bcb40a99f8798c6
-SHA256: 7c4529a3fad9144cae12036fce884d4bcc34c0623d03bdd5e383e0dec92fff86
-Section: Tweaks
-Description: Receive voicemails on device!
-Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
-Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/AnsweringMachine@2x.png
-Installed-Size: 2432
-Name: AnsweringMachine XS (iOS 11 to 16)
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension
-dev: limneos
-
 Package: com.udevs.dictmojix
 Version: 1.4.17
 Architecture: iphoneos-arm
