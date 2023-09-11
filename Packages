@@ -633,6 +633,25 @@ Author: iCraze
 Installed-Size: 136
 Name: KeepMyJB
 
+Package: com.net.wechatnotiavatar
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
+Conflicts: netskao.smallbanners-rootless, netskao.smallbanners
+Filename: debs/微信头像.deb
+Size: 235822
+MD5sum: 8d0cd323c32f61c6f6191bc6b2a996d8
+SHA1: c41516058435cf600d16ceedbe7bf20e01b627d8
+SHA256: a09e88b9b1e2878e130edfd5720d56539d3b01c51a63e9d50500e14a9aa7a44f
+Section: 微信插件
+Description: Display Notification Avatars for WeChat App using iOS15 APIs微信通知显示好友头像，仅iOS15Xina可用！可以说是非常的骚气的！效果看截图！
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 1060
+Name: 微信头像
+Sponsor: 搬运工
+
 Package: com.hk.shuffle.xina134
 Version: 1.0
 Architecture: iphoneos-arm
