@@ -881,6 +881,24 @@ Section: Tweaks
 Author: xina520 <3608063@qq.com>
 Name: 禁止注入
 
+Package: acreson.zq.autohome
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Depends: mobilesubstrate
+Filename: debs/Autohome汽车之家.deb
+Size: 12220
+MD5sum: 1c1d5c100da5feff20b74f5c9670c176
+SHA1: 9ec92b9e6b99d857bfb2359f67ba8219cbbc6bbf
+SHA256: 884cb53dd1aca81a3af53aa86a3b9db1dcef041a178f43f8162a32d0c835a162
+Section: Tweaks
+Description: 汽车之家去广告
+Author: 糖醋丶炒排骨
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
+Installed-Size: 72
+Name: 汽车之家去广告
+Sponsor: Acreson <342080124@qq.com>
+
 Package: com.parrotgeek.globalize
 Version: 0.3.2
 Architecture: iphoneos-arm
@@ -1325,6 +1343,24 @@ Icon: https://chr1s.dev/assets/atlasRound.png
 Installed-Size: 4608
 Name: Atlas
 
+Package: acreson.zq.neteasemusichook
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/网易云增强.deb
+Size: 12442
+MD5sum: d241e2791add60d7d9793fa121ab9844
+SHA1: afdab6dd26b388db9bc4cdbe5ae7106bc7f9acfa
+SHA256: 852fa129957c1cc6d084aaa275209ffb146556e3797d524ffa0c924948759fd7
+Section: Tweaks
+Description: 去除启动广告，去除越狱检测，去除评论限制，去除直播间广告
+Author: Acreson <342080124@qq.com>
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
+Installed-Size: 140
+Name: NeteaseMusicHook
+Sponsor: Acreson <342080124@qq.com>
+
 Package: com.hk.crane.cn
 Version: 1.3.9
 Architecture: iphoneos-arm
@@ -1425,4 +1461,20 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.answeringmachinex
 Installed-Size: 2464
 Name: AnsweringMachine XS
+
+Package: netskao.qqnotiavatar
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
+Filename: debs/netskao.qqnotiavatar_1.1-3_iphoneos-arm.deb
+Size: 47874
+MD5sum: b57675d3fb5f69c8772b51b1855b32be
+SHA1: 3f15c0f69ce17df1a1563447d3d73de75cb8f983
+SHA256: 0fcb29d089650db88d62a05500c8d6d0f721c0547e0f687cd69c7e87b72f3e2e
+Section: Tweaks
+Description: Display Notification Avatars for QQ App using iOS15 APIs
+Author: Netskao
+Installed-Size: 232
+Name: QQNotiAvatar
 
