@@ -50,6 +50,22 @@ Installed-Size: 168
 Name: 京东NoAd
 Sponsor: 搬运工
 
+Package: netskao.wechatnotiavatar
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
+Filename: debs/WeChatNotiAvatar.deb
+Size: 258596
+MD5sum: 611e655c49b45fa1f7a229f42fbb9074
+SHA1: d4d06f9a3e5983bcbab835e0b496fdb1d2f6beab
+SHA256: 6b8196af7f12508f1a26bf58eae5a73e1ceedf8168586a4a918c200b8722b3e8
+Section: Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15 APIs
+Author: Netskao
+Installed-Size: 1140
+Name: WeChatNotiAvatar
+
 Package: byg.iosios.net.hbwechathelper
 Version: 1.5.5
 Architecture: iphoneos-arm
