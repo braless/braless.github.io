@@ -83,6 +83,25 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 黄白助手-微信娱乐插件
 Sponsor: Mao
 
+Package: xyz.cypwn.satella
+Version: 1.9.0
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Filename: debs/Satella.1.9.0.deb
+Size: 82704
+MD5sum: a7b860903041e77329c9a77307b1a0f2
+SHA1: 5088a7a9da325c977f4e81fc40f44dd04f2bbc8e
+SHA256: 63d36a89f1d4d037be411646a0bdd9e902d4791d14439d8d2b6563bab5817514
+Section: Tweaks
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://repo.cypwn.xyz/depiction/1569
+Icon: https://paisseon.github.io/icons/Satella.png
+Installed-Size: 456
+Name: Satella
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1569
+
 Package: com.gpsmanager
 Version: 1.8.8
 Architecture: iphoneos-arm
@@ -413,6 +432,24 @@ Author: Netskao
 Installed-Size: 376
 Name: 微博轻享版 NoAds
 
+Package: cn.yanshen.qqpurification
+Version: 1.9-9.8
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/QQ净化_1.9-9.deb
+Size: 161948
+MD5sum: ce34dc2b3680f9fa9c2411707d433294
+SHA1: d5e378e109810688cbed8b276bf8b22401bf800f
+SHA256: 3ce951f2bdba3ff95459f2ce89f5b0a282c13ab8ff0e6a247a81c0d0ccdd3c4c
+Section: Tweaks
+Description: QQ净化，还原聊天本质，干净的QQ给你
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+ModernDepiction: 
+Name: QQ 「净化」
+Sponsor: 幺筒源<409774743@qq.com>
+
 Package: com.localipastore
 Version: 1.5-1x
 Architecture: iphoneos-arm
@@ -594,6 +631,22 @@ Icon2: 1.png
 Installed-Size: 680
 Name: 减法相册Pro
 Sponsor: Ai-小苹果™
+
+Package: cn.llld.smartnotifications
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Smartnotifion汉化.deb
+Size: 17048
+MD5sum: 19e7cc73b3e5588e0511df18f6aa7dd7
+SHA1: 570e376dd7f548d11b29920d6d6610405fa65092
+SHA256: 983401dc65887cd4a26ab2bfcb967147be6ad0ff59dc2d8c60fa75cb36245422
+Section: 汉化
+Description: SmartNotifications2汉化
+Author: 来了老弟
+Installed-Size: 168
+Name: SmartNotifications2汉化
 
 Package: com.anthopak.addtofolder
 Version: 1.4
@@ -862,6 +915,25 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Installed-Size: 12401
 ModernDepiction: 
 Name: LatchKey  「解锁美观」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.zfbbs
+Version: 0.0.2-8
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate
+Filename: debs/支付宝随机刷步数.deb
+Size: 8352
+MD5sum: 52953d50ae9b35bbdb750b0cd20ec9f9
+SHA1: ef8495b615bce5e1ce29862890394a32012c1293
+SHA256: 18096724a7d88eb76fd2e790b2643c952ebc5c8dce44dd2956f976c40226a356
+Section: 插件
+Description: 支付宝刷步数随机20000-26666~
+Author: 真皮 <409774743@qq.com>
+Icon: https://yttxcs.com/image/icon/cn.yttxcs.zfbbs.png
+Installed-Size: 98
+ModernDepiction: 
+Name: 支付宝随机刷步数
 Sponsor: 幺筒源<409774743@qq.com>
 
 Package: cn.yanshen.lastlook
@@ -1182,23 +1254,21 @@ Author: Mo
 Name: BHTwitter 中文修复版
 Priority: optional
 
-Package: cn.yanshen.qqpurification
-Version: 1.9-9.8
+Package: cn.llld.cocoatop
+Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs/qqpurification_1.9-9.deb
-Size: 161948
-MD5sum: ce34dc2b3680f9fa9c2411707d433294
-SHA1: d5e378e109810688cbed8b276bf8b22401bf800f
-SHA256: 3ce951f2bdba3ff95459f2ce89f5b0a282c13ab8ff0e6a247a81c0d0ccdd3c4c
-Section: Tweaks
-Description: QQ净化，还原聊天本质，干净的QQ给你
-Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-ModernDepiction: 
-Name: QQ 「净化」
-Sponsor: 幺筒源<409774743@qq.com>
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/CocoaTop汉化.deb
+Size: 24814
+MD5sum: 20c0b64fb85b469c5a5500f28bc2514d
+SHA1: 25489099c07244024e033d48dcaff63fea90cef4
+SHA256: a2a23e0d97148c31603eefba45cf354d8a6d0c1e6d28d1938f02c4fe64de7e93
+Section: 汉化
+Description: CocoaTop汉化
+Author: 来了老弟
+Installed-Size: 200
+Name: CocoaTop汉化-rootful
 
 Package: com.cokepokes.libnotifications
 Version: 0.3-5
