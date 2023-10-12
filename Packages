@@ -955,6 +955,23 @@ ModernDepiction:
 Name: LastLook 「汉化」
 Sponsor: 幺筒源<409774743@qq.com>
 
+Package: xyz.cypwn.anthocrack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: firmware (>= 12.2)
+Filename: debs/AnthoCrack.0.0.2.deb
+Size: 35426
+MD5sum: c50e1257bc252c853396a1d301a61d67
+SHA1: e9e5e27ff6442442c209772979dedd5a3acc3128
+SHA256: 7806617e6c8cabfa5ca8f5ed778db5984c2888b66fa59f8a5f174673b18d2571
+Section: Tweaks
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!
+Author: Paisseon
+Depiction: https://repo.cypwn.xyz/depiction/1524
+Name: AnthoCrack
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1524
+
 Package: com.yanshen.blacklist
 Version: 0.0.1-61+debug
 Architecture: iphoneos-arm
