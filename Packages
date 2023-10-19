@@ -207,6 +207,21 @@ Author: Netskao
 Installed-Size: 136
 Name: Limneos Crack
 
+Package: com.snail.swipeunlocktext
+Version: 1.1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: debs/锁屏美化.deb
+Size: 162312
+MD5sum: 74cb8ee15795f10e500a1adfe286f046
+SHA1: 495c632e0d5063d652accc46fb82b52c943938b0
+SHA256: ac42dc3f33f20cd6156f5b52388c5aca6125bb5721c5c801aa2bd61234fec63c
+Section: Tweaks
+Description: 随意隐藏系统锁屏界面元素及修改”向上轻扫以解锁”等文字。
+Author: Snail <mu514983786@gmail.com>
+Installed-Size: 688
+Name: 锁屏美化
+
 Package: cn.net.vcam
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -377,24 +392,21 @@ Name: 虚拟定位-原版
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
-Package: yanshen.dw.gpsmaster.bd
-Version: 1.8.1
+Package: netskao.pullclearnc
+Version: 1.1-8
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: apt.tinyapps.location360pro
-Filename: debs/虚拟定位-补丁.deb
-Size: 346958
-MD5sum: 67477b2875014e0c5175b8da36cff0a6
-SHA1: 8b5db794ad207890abe7d5fa5bc7c353c719957a
-SHA256: b4c79117de77d4cacd9f6ce5787f13fbbf5594b3253e165a1bb8ebf43bbd1728
-Section: 定位
-Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
-Author: Joe Bruce <joebruce1122@hotmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Name: 虚拟定位-补丁
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios11, compatible::ios12
+Maintainer: Nets
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: debs/PullClearNC.1.1-8.deb
+Size: 14492
+MD5sum: e570d3e4b96e4133a39d2429dd0733db
+SHA1: 38b9b297181a34cfb60458f4c190bc7b1a16e013
+SHA256: fc826fcc76fbdc4a7a68433c84bf21d3ee8f859e6588e60022bfbafaa23432d8
+Section: Tweaks
+Description: Notifications page quick drop down to clean up all notifications
+Author: Netskao
+Installed-Size: 168
+Name: PullClearNC
 
 Package: x.DingTalkHelperX2
 Version: 2.1.7
@@ -1325,6 +1337,23 @@ Installed-Size: 404
 Name: libSparkAppList
 Tag: role::developer
 
+Package: yanshen.dw.gpsmanager
+Version: 1.8.8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: debs/虚拟定位-补丁1.8.8.deb
+Size: 313050
+MD5sum: 77f7f6ef769e2586f5da1654725a1d04
+SHA1: 1d7daf87026a6680a6f6a1bbf00ad901b445210e
+SHA256: 84f3365fab6717111ea4c5861cb8a80b8165b4de1fe7e98274200af1ff029783
+Section: 定位
+Description: GPS Manager可以在iOS设备中配置每个应用程序的GPS位置。
+Author: chencong & 7Loopy
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: 虚拟定位-补丁1.8.8
+Sponsor: Acreson <342080124@qq.com>
+
 Package: com.nightwind.searchdots
 Version: 1.1.5
 Architecture: iphoneos-arm
@@ -1547,6 +1576,25 @@ Author: Snail <snailsohi@gmail.com>
 Installed-Size: 216
 Name: 闲鱼去广告
 
+Package: yanshen.dw.gpsmaster.bd
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: apt.tinyapps.location360pro
+Filename: debs/虚拟定位-补丁1.8.1.deb
+Size: 346958
+MD5sum: 67477b2875014e0c5175b8da36cff0a6
+SHA1: 8b5db794ad207890abe7d5fa5bc7c353c719957a
+SHA256: b4c79117de77d4cacd9f6ce5787f13fbbf5594b3253e165a1bb8ebf43bbd1728
+Section: 定位
+Description: GPS定位大师，通过修改苹果手机的GPS定位，实现虚拟定位和模拟驾驶功能。
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: 虚拟定位-补丁
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
 Package: net.limneos.answeringmachinex
 Version: 2.0-17
 Architecture: iphoneos-arm
@@ -1580,4 +1628,37 @@ Description: Display Notification Avatars for QQ App using iOS15 APIs
 Author: Netskao
 Installed-Size: 232
 Name: QQNotiAvatar
+
+Package: com.lenglengyu.bilibilihz
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: debs/bilibili会员画质.deb
+Size: 79080
+MD5sum: c4bafb2374672ea094d731ec8bd20607
+SHA1: fb53d5fce70b43947c5496bf3eb1b60a261bbdae
+SHA256: a4b094bb81e9b616051494fd16fa07dd41a662c5c0fa93a8bc45229287be2ef8
+Section: Tweaks
+Description: 解锁大会员画质。
+Author: lenglengyu <lenglengyu@126.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/bilibilihz.html
+Installed-Size: 244
+Name: 哔哩哔-会员画质
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/bilibilihzsileo
+
+Package: com.hk.sa.cn
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/SwitchAccounts简体中文包.1.0.1.deb
+Size: 8660
+MD5sum: 63255251906c94c0366d9e671c7d68b8
+SHA1: cdc24594a736b3eb63db35d8a55b100938f16e02
+SHA256: a7e0cb004dc0729b292f747d6d0b2a38b756e5cf5a9fcba949c5f8afdf70883c
+Section: 汉化
+Description: SwitchAccounts 简体中文包。
+Author: 妖刀
+Name: SwitchAccounts 简体中文包
 
