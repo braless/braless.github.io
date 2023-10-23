@@ -240,6 +240,25 @@ Installed-Size: 288
 Name: 虚拟摄像头
 Sponsor: 搬运工
 
+Package: com.curtin.pkc
+Version: 0.4-3
+Architecture: iphoneos-arm
+Maintainer: Curtin curtinlv@126.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/PKC.0.4-3.deb
+Size: 337208
+MD5sum: d87192e5ea98907e22dcf5893856014e
+SHA1: 21ba092de588b6c190f52fbff1216c8652f9bf54
+SHA256: e2a76eac62823aa008b2263c69e3fcc2fe0ac2e457b60fb2167eec8fd33b60c0
+Section: 微信插件
+Author: Curtin
+Depiction: 
+Homepage: https://github.com/curtinlv
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC
+Priority: optional
+dev: 
+
 Package: cn.net.videos
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -1661,4 +1680,20 @@ Section: 汉化
 Description: SwitchAccounts 简体中文包。
 Author: 妖刀
 Name: SwitchAccounts 简体中文包
+
+Package: netskao.joker
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: debs/netskao.joker_1.1-2_iphoneos-arm.deb
+Size: 58130
+MD5sum: 5a467ce90400e1870096624735427d4b
+SHA1: f6037001076b9b8a1c9f50cebed5c2067ad0f73b
+SHA256: 1f93cc5daa31e5f422f774b2e324385ef715afde417d4412264151352c6dd037
+Section: 微信插件
+Description: Joker for WeChat
+Author: Netskao
+Installed-Size: 220
+Name: Joker
 
