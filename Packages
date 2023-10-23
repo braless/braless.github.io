@@ -625,23 +625,21 @@ Description: LastLook 简体中文包。
 Author: 妖刀
 Name: LastLook 简体中文包
 
-Package: byg.iosios.net.wceablefriendsstar.rootless
-Version: 1.1-2
+Package: com.wx.pyqnoads.rl
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: 搬运工
-Depends: mobilesubstrate, firmware (>= 13.0)
-Conflicts: netskao.wceablefriendsstar
-Filename: debs/朋友圈置顶.deb
-Size: 66196
-MD5sum: 5bf7eec91cfda92c468fc3ed2d5c6653
-SHA1: e008c2653c85c74be030ae386b1c80a6952750c1
-SHA256: 4088e2fe1184d06afed6743112a51d5de0d559efbe1ce63335f2862cddb8fdb9
+Maintainer: 佚名
+Depends: mobilesubstrate
+Filename: debs/微信朋友圈去广告.deb
+Size: 4532
+MD5sum: e8b3e34f2eab1bee9780e4c13676b591
+SHA1: 199e72e9d787c5aeb97b4034f6e1c0ff9af38871
+SHA256: fb7e3cfc3e5e48bd4a5356906887a9b4c990d157bc875e1e13507685507efbf9
 Section: 微信插件
-Description: 直接启用微信朋友圈置顶功能，无设置，应该仅支持8.0.36及以上。应群友要求，所以上架。
-Author: Netskao
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 微信朋友圈置顶
-Sponsor: 搬运工
+Description: 微信去朋友圈广告，无设置。群友分享不知道作者，使用自行承担风险。转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
+Author: 佚名
+Name: 微信朋友圈NoAds
+Sponsor: 佚名
 
 Package: com.cydiabc.jianfaxiangce
 Version: 1.0-1
@@ -1696,4 +1694,38 @@ Description: Joker for WeChat
 Author: Netskao
 Installed-Size: 220
 Name: Joker
+
+Package: com.daodao.rootless.vfa
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Mo <cydia778899@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/微信公众号去广告1.1.deb
+Size: 4928
+MD5sum: 294bcfcb4762c3ad77221ee4c3a6ebd2
+SHA1: e66b44f52b6bf4974e9ace2d9e0697d12bdbf381
+SHA256: 0f23b550279453eebb921c5c7d65a6d739776cc3e9a7a6f3ff3de43a2a119b7a
+Section: 微信插件
+Description: 原作者：糖醋丶炒排骨，去掉微信公众号文章内置、底部的广告，无设置。
+Author: Mo <cydia778899@gmail.com>
+Name: 微信公众号去广告1.1
+dev: Mo <cydia778899@gmail.com>
+
+Package: byg.iosios.net.wceablefriendsstar.rootless
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: netskao.wceablefriendsstar
+Filename: debs/微信朋友圈置顶.deb
+Size: 66196
+MD5sum: 5bf7eec91cfda92c468fc3ed2d5c6653
+SHA1: e008c2653c85c74be030ae386b1c80a6952750c1
+SHA256: 4088e2fe1184d06afed6743112a51d5de0d559efbe1ce63335f2862cddb8fdb9
+Section: 微信插件
+Description: 直接启用微信朋友圈置顶功能，无设置，应该仅支持8.0.36及以上。应群友要求，所以上架。
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 微信朋友圈置顶
+Sponsor: 搬运工
 
