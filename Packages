@@ -1729,3 +1729,18 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信朋友圈置顶
 Sponsor: 搬运工
 
+Package: com.HBWechatHelper.ailun
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手1.6.2.deb
+Size: 9498360
+MD5sum: d6c3cbc4fbbf47ccd86c50a3dafcc143
+SHA1: 928bcbc4a62123a341f856ea46e6443432cee4fe
+SHA256: ac5359f8087590605027be46d78af42085d799b4c4891198bac4665eec722e2e
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)
+
