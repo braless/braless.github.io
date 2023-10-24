@@ -1744,3 +1744,18 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)
 
+Package: com.HBWechatHelper.ailun
+Version: 1.6.3
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手1.6.3.deb
+Size: 9511112
+MD5sum: f83d7578eddd57cd94573102eb19f5d8
+SHA1: 22a1fb9a758a09e67c4a0647d8fe341e25392bd2
+SHA256: 51e0ecbc4db7a4f1e985963e2d746e321165dc0d1e560737abef972c2d44339a
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)
+
