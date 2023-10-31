@@ -343,6 +343,24 @@ Icon: https://media.havoc.app/61fc6f0394bb9ecb0d31f0f1
 Name: SmartNotifications 2
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1081
 
+Package: ld.net.time
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/时间主宰1.4.deb
+Size: 3870
+MD5sum: 4647215591596509193ceadf5d317838
+SHA1: 40ec89f293021ef498ff39f820b19725a1a7b3d6
+SHA256: 88c7b8e4bf09ff64f03832a0362901333ccdc0b83120dbb8f5b83e05b7764ce6
+Section: Tweaks
+Description: 微信净化，抖音净化永在你心（本身自用的，常聊天的群里发下视频被泄漏了，加友信息不断，索性发布，我也是做定期更新，没了的时候来我源里更新安装（关于抖音内就有源地址），非月月掉，全看我心意，起步让你们耍几个月吧）
+Author: llld
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 168
+Name: 时间主宰
+Sponsor: 搬运工
+
 Package: com.snail.smzdmnoad
 Version: 1.0.0
 Architecture: iphoneos-arm
