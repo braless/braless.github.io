@@ -391,6 +391,24 @@ Author: khanhduy032
 Installed-Size: 80
 Name: CAPerfHUD
 
+Package: byg.iosios.net.souvenir
+Version: 1.22
+Architecture: iphoneos-arm
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Souvenir.deb
+Size: 110398
+MD5sum: 5d14aac26d62827c47ec8b85f2e31504
+SHA1: a8afb91bf5835f8fc3dfff4be6b6baeb3ea3c120
+SHA256: 8279841a06077df5e55c74438853b3254b03d447f268d8ce040b62ec240835de
+Section: 杂七杂八
+Description: Lockscreen customization tweak!又一款锁屏美化插件，搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
+Author: Elio Feghali
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 604
+Name: Souvenir锁屏美化
+Sponsor: 搬运工
+
 Package: yanshen.dw.gpsmaster
 Version: 1.8.1
 Architecture: iphoneos-arm
@@ -737,11 +755,11 @@ Version: 1.4.17
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Filename: debs/DictMojiX.1.4.17.deb
-Size: 61326
-MD5sum: 8adfb7678f7718d074258a7b8efc5a61
-SHA1: bc1fde079e3e4d5b72318a4a03c3b852f62ae41c
-SHA256: 7bf8f0a0d67a95f5c6587cea44353baeccae14a5f05cc0725edd5def79f8293c
+Filename: debs/dictmojix_1.4.17.deb
+Size: 52864
+MD5sum: 46a8be415e60e5a8dbaf293597bc92cf
+SHA1: d93b80a5ac9eceacf7aa67002a205882347f76d9
+SHA256: 3402da9d1b8dcdef13b805d4ca0da10381713b12f37100d32869b5604e02083a
 Section: Tweaks
 Description: Replace dictation key with emoji key on iPhone X/XS! Support iOS 11-14.
 Author: udevs
