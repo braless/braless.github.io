@@ -1963,3 +1963,19 @@ Author: Netskao
 Installed-Size: 300
 Name: StoreSwitchAccounts
 
+Package: com.huayuarc.neteasemusicnoads
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate
+Filename: debs/网易云NoAds.deb
+Size: 140202
+MD5sum: 233db794d73dfb9b4764029481e03358
+SHA1: c7d7b7dec7af2741081eec1a676b93e52257c630
+SHA256: fd27e4d480edad8be2efa571d711c235d3e9643a8cdc05a83c66d8be5c89bbe5
+Section: Tweaks
+Description: 网易云音乐开启播放VIP歌曲及免费下载普通音质VIP歌曲（设置页面开启后，进入歌单等待加载完毕后点击下载普通音质），去启动广告，留言区域广告
+Author: 7Loopy
+Name: 网易云音乐 NoAds
+Sponsor: Nets
+
