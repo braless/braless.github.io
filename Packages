@@ -713,26 +713,6 @@ Author: 来了老弟
 Installed-Size: 168
 Name: SmartNotifications2汉化
 
-Package: com.anthopak.addtofolder
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: debs/AddToFolder.1.4.deb
-Size: 123958
-MD5sum: e093f2d3584ce1c97d0e0226cd976025
-SHA1: 4b2fd95872ef40c2c423fd277eccda52ae69f243
-SHA256: 3ee44cc1c27c4fe4953f64e0cac347e8cb74807702765397b9242a64eec0c5ca
-Section: Tweaks
-Description: Easily move apps to your folders
-Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder.php
-Homepage: https://repo.anthopak.dev
-Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
-ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
-Name: AddToFolder
-SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
-
 Package: netskao.wechatnotiavatar
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -876,6 +856,23 @@ Name: PKC微信助手
 Priority: optional
 dev: 
 
+Package: netskao.kanoads
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: netskao.kanosplash
+Filename: debs/KuanNoAds.deb
+Size: 104956
+MD5sum: 8181fcfa7c69d1b0318f53b7f98d688a
+SHA1: 79409094afbbf710134c65ebdd0bb0922cd22a29
+SHA256: ad15ffc83473831bf6c7b57e7eb166b9ed26d7dc5751ee693ac879a91c7b9ee3
+Section: Tweaks
+Description: 酷安去除启动广告，去除评论区插入广告，仅支持5.0及以上版本
+Author: Netskao
+Installed-Size: 376
+Name: 酷安 NoAds
+
 Package: com.25mao.wxurlexpand
 Version: 0.2-0
 Architecture: iphoneos-arm
@@ -912,6 +909,25 @@ Icon2: 10.png
 Name: 拍了拍所有人
 Priority: optional
 Sponsor: Mao
+
+Package: cn.yttxcs.zfbbs
+Version: 0.0.2-8
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate
+Filename: debs/cn.yttxcs.zfbbs.deb
+Size: 14802
+MD5sum: 4bc39a2efb7d0f2d53fcc1ce3fb6c932
+SHA1: d7caf53b89ebadaeee2a766f9d840e46a69e2c12
+SHA256: 2579366bc6edd2665030ca7436e9d46dfde38103c6197963a7c590a7ac02edd9
+Section: 插件
+Description: 支付宝刷步数随机20000-26666~
+Author: 真皮 <409774743@qq.com>
+Icon: https://yttxcs.com/image/icon/cn.yttxcs.zfbbs.png
+Installed-Size: 98
+ModernDepiction: 
+Name: zfbbs 「支付宝随机刷步数」
+Sponsor: 幺筒源<409774743@qq.com>
 
 Package: com.hk.ccplus15.cn
 Version: 1.0.5
@@ -1300,6 +1316,26 @@ Section: Tweaks
 Author: julioverne
 Installed-Size: 472
 Name: GoodWiFi中文版
+
+Package: com.anthopak.addtofolder
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: debs/AddToFolder.1.4.deb
+Size: 124080
+MD5sum: 5d70ed0a135284c6d0229eba69c01066
+SHA1: 1187250eae875f3fec917b43b4b9b5a074342cd3
+SHA256: 9a5cad099b33143aa8316fdd3f6c194a6393b335212032b9f00b67be2423697f
+Section: Tweaks
+Description: Easily move apps to your folders
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder.php
+Homepage: https://repo.anthopak.dev
+Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
+Name: AddToFolder
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
 
 Package: coreui.bd
 Version: 0.0.1
@@ -1816,4 +1852,55 @@ Icon:
 Name: dkWechatHelper
 Priority: optional
 dev: 
+
+Package: xyz.cypwn.lastlook
+Version: 3.6.4k
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Filename: debs/xyz.cypwn.lastlook.deb
+Size: 619092
+MD5sum: 045f38c493d8d3184029efb944c834c6
+SHA1: 9701e6d12fa8a433c6492f15eaa5b69d99e9d57e
+SHA256: 948b69b155843b9c75eb1f1fdf5abb6e77f498398895df2f48cbcf3946ec6372
+Section: Tweaks
+Description: An AOD tweak that feels stock, with endless possibilities!
+Author: AnthoPak
+Depiction: https://repo.cypwn.xyz/depiction/1251
+Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
+Name: LastLook
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1251
+
+Package: com.xybp888.callassist15
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/电话助手1.4.4.deb
+Size: 4558874
+MD5sum: 95b906f29ec7eefb049a4823b196aefe
+SHA1: ae8e2bf2b14c9f4cb158e8bab08ad0bc08d31e37
+SHA256: 3317aa9413bdd2e88d2b378a418f2a19fe6458712629f0b8e72f4a152cdbb399
+Section: Tweaks
+Description: 电话助手授权版本,T9双卡选卡拨号键盘,短信双卡选卡,通话录音,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/625
+Name: 电话助手iOS15-测试版(XinaA15)
+SileoDepiction: https://apt.htv123.com/sileo/625
+
+Package: netskao.awemepurification
+Version: 2.9-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: debs/抖音净化2.9.6.deb
+Size: 1258704
+MD5sum: 5650bb8236f63e69e890e7d7c5b0dcc9
+SHA1: 113a223503f3bd89bdd147194e05ff908c956149
+SHA256: 9442cb8e7043ce6d6e73af55e2ea521acbfa72f0d8fed5f56c1bc1b97afe59c6
+Section: Tweaks
+Description: 抖音净化！设置位于抖音-设置，仅支持25.8.0及以上版本抖音。去掉时间失效限制 By 威锋网友：kp223977修复，上传备用。
+Author: Netskao
+Name: 抖音净化
+Sponsor: Nets
 
