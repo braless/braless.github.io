@@ -66,41 +66,41 @@ Author: Netskao
 Installed-Size: 1140
 Name: WeChatNotiAvatar
 
-Package: byg.iosios.net.hbwechathelper
-Version: 1.5.5
+Package: netskao.kanoads
+Version: 1.1-2
 Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/黄白助手1.5.5.deb
-Size: 8784976
-MD5sum: c7c436b74968f932632a5edf40f1152a
-SHA1: 50efc7031901c74cdf06d989f19b6e8b29005bd9
-SHA256: 4dd265f4375d9cede3e6ce7a0aef7cfc1f661e3ecf35eae7656e7630e2f7e566
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能                                                                                                                                                            一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 黄白助手-微信娱乐插件
-Sponsor: Mao
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: netskao.kanosplash
+Filename: debs/酷安NoAds.deb
+Size: 104956
+MD5sum: 8181fcfa7c69d1b0318f53b7f98d688a
+SHA1: 79409094afbbf710134c65ebdd0bb0922cd22a29
+SHA256: ad15ffc83473831bf6c7b57e7eb166b9ed26d7dc5751ee693ac879a91c7b9ee3
+Section: Tweaks
+Description: 酷安去除启动广告，去除评论区插入广告，仅支持5.0及以上版本
+Author: Netskao
+Installed-Size: 376
+Name: 酷安 NoAds
 
 Package: xyz.cypwn.satella
 Version: 1.9.0
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
-Filename: debs/Satella.1.9.0.deb
-Size: 82704
-MD5sum: a7b860903041e77329c9a77307b1a0f2
-SHA1: 5088a7a9da325c977f4e81fc40f44dd04f2bbc8e
-SHA256: 63d36a89f1d4d037be411646a0bdd9e902d4791d14439d8d2b6563bab5817514
+Filename: debs/satella_1.9.0.deb
+Size: 76972
+MD5sum: 2f21e0ab4f5dbfc7be9589cec9112459
+SHA1: 100cbdb63a9329726e7813ae5ebcd1530c17d130
+SHA256: ce2619b3f34c62daa83fec18112ac9ca99606c8746f92953351648bd8b375fc9
 Section: Tweaks
 Description: Modern in-app purchase cracker
 Author: Paisseon
-Depiction: https://repo.cypwn.xyz/depiction/1569
+Depiction: https://repo.cypwn.xyz/depiction/1570
 Icon: https://paisseon.github.io/icons/Satella.png
 Installed-Size: 456
 Name: Satella
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1569
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1570
 
 Package: com.gpsmanager
 Version: 1.8.8
@@ -278,21 +278,19 @@ Priority: optional
 Sponsor: Mao
 
 Package: com.HBWechatHelper.ailun
-Version: 1.3.2
+Version: 1.6.3
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/黄白助手1.3.2.deb
-Size: 10337650
-MD5sum: f18df89d3daf7b8b3fcb07c64b370d01
-SHA1: 825a721e55fbebed2b72e53fb730c7f8ba819fd6
-SHA256: d7ca76b810411406ef32b17891fa4b1c591791c83caaa37ebaae8bdce7d0326a
-Section: Tweaks
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Depends: mobilesubstrate
+Filename: debs/黄白助手1.6.3.deb
+Size: 11315184
+MD5sum: 6d9ea9137b78617e3f8a83306fb09d0a
+SHA1: baf4283f77d2f0bb47491faaade05a6d4a079767
+SHA256: f8d866cbf2ede7ced0aa97f4ffc8062ae4b02245a2797a20b72558325c1adba2
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-dev: HuangBai
+Name: 黄白助手(微信插件)
 
 Package: com.hk.ytlite
 Version: 2.3.1
@@ -397,11 +395,11 @@ Architecture: iphoneos-arm
 Maintainer: 搬运工
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/Souvenir.deb
-Size: 110398
-MD5sum: 5d14aac26d62827c47ec8b85f2e31504
-SHA1: a8afb91bf5835f8fc3dfff4be6b6baeb3ea3c120
-SHA256: 8279841a06077df5e55c74438853b3254b03d447f268d8ce040b62ec240835de
-Section: 杂七杂八
+Size: 110390
+MD5sum: 5b630aa7945f112796692f14716d4865
+SHA1: b2ee6e1133a9a778c25dd2a23197ae54d99a0bb1
+SHA256: eaadd8549416aaa6dbbcc722794c4417d31ac78a1fc802bcfb3bead45b9bc557
+Section: Tweaks
 Description: Lockscreen customization tweak!又一款锁屏美化插件，搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
 Author: Elio Feghali
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -571,21 +569,19 @@ Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 
 Package: com.HBWechatHelper.ailun
-Version: 1.0.8-4
+Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/黄白助手1.0.8-4.deb
-Size: 3777018
-MD5sum: 0c05cadbf58f68f28fdc38eb3d693219
-SHA1: 9d8fb5784020ff4eb366c010d926842890749591
-SHA256: 04e8ec0545a8d942d778713f34139c50e2e0559cc9075dc1566d7a4dddac804a
-Section: Tweaks
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Depends: mobilesubstrate
+Filename: debs/黄白助手1.6.2.deb
+Size: 11310586
+MD5sum: 06c71532e91b90125dd68f3485ff47a2
+SHA1: 2fd32e25e3d7936a493b2ee05f93268764717461
+SHA256: e0e27e55843c60001cde7e4cab3cccec58b084e85dbf7abd7499a24b5ad4b261
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-dev: HuangBai
+Name: 黄白助手(微信插件)
 
 Package: com.answeringmachinexs.cn
 Version: 1.2-32
@@ -712,6 +708,25 @@ Description: SmartNotifications2汉化
 Author: 来了老弟
 Installed-Size: 168
 Name: SmartNotifications2汉化
+
+Package: coreui.bd
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0)
+Conflicts: 
+Filename: debs/CoreUI.deb
+Size: 6776
+MD5sum: 7b1a8a4bbeebfd8e18dab86910dee7f2
+SHA1: 954aef053dbbf2823e7b6a460fcffb98d610a0dd
+SHA256: 174599188089776c75587d00eebb6a2bbd2fc3b952ff12bdb4b55a47055ec002
+Section: Tweaks
+Description: 锁屏字体
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
+Name: CoreUI
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 
 Package: netskao.wechatnotiavatar
 Version: 1.1-3
@@ -855,23 +870,6 @@ Icon: https://raw.githubusercontent.com/curtinlv/JD-Script/main/pkc7.ico
 Name: PKC微信助手
 Priority: optional
 dev: 
-
-Package: netskao.kanoads
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: netskao.kanosplash
-Filename: debs/KuanNoAds.deb
-Size: 104956
-MD5sum: 8181fcfa7c69d1b0318f53b7f98d688a
-SHA1: 79409094afbbf710134c65ebdd0bb0922cd22a29
-SHA256: ad15ffc83473831bf6c7b57e7eb166b9ed26d7dc5751ee693ac879a91c7b9ee3
-Section: Tweaks
-Description: 酷安去除启动广告，去除评论区插入广告，仅支持5.0及以上版本
-Author: Netskao
-Installed-Size: 376
-Name: 酷安 NoAds
 
 Package: com.25mao.wxurlexpand
 Version: 0.2-0
@@ -1284,22 +1282,20 @@ ModernDepiction: https://yttxcs.cn/depiction/sileo/wechat.callkit.json
 Name: CallKit
 Sponsor: 幺筒源<409774743@qq.com>
 
-Package: byg.iosios.net.hbwechathelper
-Version: 1.5.9-1
+Package: com.HBWechatHelper.ailun
+Version: 1.6.4
 Architecture: iphoneos-arm
-Maintainer: 搬运工
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/黄白助手-微信娱乐插件.1.5.9-1.deb
-Size: 9519602
-MD5sum: 59668481a35d81f8969cc4824d15ab45
-SHA1: 45fbca51c947b7d7a21a1de606f5edfde2ba1be8
-SHA256: 0d8af04f0b4dcad20d90eb41b00a2db52059bd26192327e69ff54a02ebee47a9
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手1.6.4.deb
+Size: 9893584
+MD5sum: 56c951e52616c4fb421e3aefd12c2bf8
+SHA1: 6662af269f81b46bb8f06c99c10d5a7d59af92de
+SHA256: c1a3fa515a4a621d002fa13472f6e4265689c7df5008c304a64458f9522abba6
 Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能                                                                                                                                                            一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 黄白助手-微信娱乐插件
-Sponsor: 搬运工
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)
 
 Package: com.hk.goodwifi
 Version: 0.0~beta6.5-daodao
@@ -1336,25 +1332,6 @@ Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
 Name: AddToFolder
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
-
-Package: coreui.bd
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 6.0)
-Conflicts: 
-Filename: debs/CoreUI.deb
-Size: 6766
-MD5sum: 65952ec254339a36f0a257fcf7fcb2e9
-SHA1: 191243660b85ca12ffa93063f3fb72c7daa17149
-SHA256: 6dafde35f121c2b5c77cda6f0b231ed0aa2d9cb9846d9885dfe08a3244f16555
-Section: 字体
-Description: 锁屏字体
-Author: Joe Bruce <joebruce1122@hotmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Acreson-定位(Localization).png
-Name: CoreUI
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios11, compatible::ios12
 
 Package: com.hk.bhtwitter.cn
 Version: 3.9.1
@@ -1528,6 +1505,25 @@ Description: XinaA15越狱Flex3补丁。装完此补丁，巨魔安装Flex3程�
 Author: John Coates/妖刀
 Name: Flex3 Patch For Xina
 
+Package: com.tool.autotouch
+Version: 6.1.2
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: debs/Autotouch_6.1.2.deb
+Size: 32967468
+MD5sum: d01ee7b18cff968c9e1ef2a232bd8c5e
+SHA1: 62add932d9ccd50cf9fcd44cd31a57cc53e1ff40
+SHA256: 94ceb9af65ad8e939bc64436d8f839efa7e0cc3143ecb39691141aeaf4e488ff
+Section: Tweaks
+Description: 使用前进设置先下载授权，才能正常使用。AutoTouch用于记录和播放您在移动设备中的操作，如iPhone、iPad、iPad Mini、iPod Touch。通常，它用于运行预先编写的lua脚本，以实现更强大的功能。你可以用它自动玩游戏来获得更多的分数和硬币，甚至可以用它模拟人工操作来测试你的程序。在安装AutoTouch之前，您必须越狱。越狱很容易，你可以从互联网上搜索。
+Author: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 107265
+Name: AutoTouch Crack
+Priority: optional
+Sponsor: Acreson
+
 Package: cn.yttxcs.localiapstore13
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -1684,24 +1680,6 @@ Name: 虚拟定位-补丁
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 
-Package: net.limneos.answeringmachinex
-Version: 2.0-17
-Architecture: iphoneos-arm
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158) ,  firmware (>= 11.0)
-Conflicts: net.limneos.audiorecorder (<= 1.7-4)
-Filename: debs/Answeringmachinex_2.0-17_iphoneos-arm.deb
-Size: 2440574
-MD5sum: 6b0f04d4bbe7eeec86814f8ba78b4d62
-SHA1: 0c9bf12113268f7de379cc968faf06141f185a49
-SHA256: 519dac394de1e58aae9f2f523dd1b3d887f11c9697085508befa1b0c1297d193
-Section: Tweaks
-Description: AnsweringMachine XS (iOS 11 to 16)
-Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.answeringmachinex
-Installed-Size: 2464
-Name: AnsweringMachine XS
-
 Package: netskao.qqnotiavatar
 Version: 1.1-3
 Architecture: iphoneos-arm
@@ -1801,58 +1779,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信朋友圈置顶
 Sponsor: 搬运工
 
-Package: com.HBWechatHelper.ailun
-Version: 1.6.2
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: debs/黄白助手1.6.2.deb
-Size: 9498360
-MD5sum: d6c3cbc4fbbf47ccd86c50a3dafcc143
-SHA1: 928bcbc4a62123a341f856ea46e6443432cee4fe
-SHA256: ac5359f8087590605027be46d78af42085d799b4c4891198bac4665eec722e2e
-Section: Mao
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信插件)
-
-Package: com.HBWechatHelper.ailun
-Version: 1.6.3
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: debs/黄白助手1.6.3.deb
-Size: 9511112
-MD5sum: f83d7578eddd57cd94573102eb19f5d8
-SHA1: 22a1fb9a758a09e67c4a0647d8fe341e25392bd2
-SHA256: 51e0ecbc4db7a4f1e985963e2d746e321165dc0d1e560737abef972c2d44339a
-Section: Mao
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Name: 黄白助手(微信插件)
-
-Package: com.dkjone.wecahtHelper
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: 
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: 
-Replaces: 
-Filename: debs/com.dkjone.wecahtHelper_1.1.0_iphoneos-arm.deb
-Size: 265346
-MD5sum: bcbbe40c96a2ab6950f0645e7c73acca
-SHA1: 641a550e737979293dcfbe177196c2083704f301
-SHA256: 9055fc75af278ea7c8934232b77ba2eb6cdcfbde10b39c70badc50b132d19f35
-Section: System
-Description: 不止于抢红包，功能丰富的微信插件
-Author: DKJone
-Depiction: 不止于抢红包，功能丰富的微信插件(适配8.0.38)
-Homepage: https://github.com/DKJone/DKWechatHelper
-Icon: 
-Name: dkWechatHelper
-Priority: optional
-dev: 
-
 Package: xyz.cypwn.lastlook
 Version: 3.6.4k
 Architecture: iphoneos-arm
@@ -1903,4 +1829,49 @@ Description: 抖音净化！设置位于抖音-设置，仅支持25.8.0及以上
 Author: Netskao
 Name: 抖音净化
 Sponsor: Nets
+
+Package: com.dkjone.wecahtHelper
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: 
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Filename: debs/wecahtHelper_1.1.0.deb
+Size: 204386
+MD5sum: be3ee4de0ab9da4c933a039fda17d5cc
+SHA1: 682cf55d6729bac78d2eaeb4eae7a9844c3d133c
+SHA256: b39d7a2f31fdc563121bf050888df87b084b4d6c124fbc69e5dce3a8b3f0495a
+Section: 微信插件
+Description: 不止于抢红包，功能丰富的微信插件
+Author: DKJone
+Depiction: 不止于抢红包，功能丰富的微信插件(适配8.0.38)
+Homepage: https://github.com/DKJone/DKWechatHelper
+Icon: 
+Name: dkWechatHelper
+Priority: optional
+dev: 
+
+Package: net.limneos.answeringmachinex
+Version: 2.0-17
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158), firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: debs/AnsweringMachine_2.0-17.deb
+Size: 496788
+MD5sum: 1dc4c509bdbbe0f42edd19f9071bddc7
+SHA1: 88a3b3b0e912886c2208f92c73d3e7653a436281
+SHA256: 58b331dfdfde24407602fa530a728d52d85aaaac468ce6f2acb4c3b62266da8b
+Section: Tweaks
+Description: Receive voicemails on device!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
+Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/AnsweringMachine@2x.png
+Installed-Size: 2432
+Name: AnsweringMachine XS (iOS 11 to 16)
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: limneos
 
