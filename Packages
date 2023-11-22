@@ -1979,3 +1979,25 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)
 
+Package: com.yanshen.axj
+Version: 8.0.0-50
+Architecture: iphoneos-arm
+Maintainer: AXJ爱新机(64位)
+Depends: mobilesubstrate, coreutils-bin, zip, unzip
+Conflicts: app.weiphone.ALS, app.weiphone.IGG, app.weiphone.NZT, app.weiphone.LRN
+Filename: debs/AXJ爱新机破解版_8.0.0-50.deb
+Size: 7842874
+MD5sum: 480933377356510b2de9e4f41ab12016
+SHA1: 6cd1c0f923d195dede97039edd9baf304c8ec8f6
+SHA256: 9159b7b01383f562c4a80ba04dfe338d5d4ac46dbb5ad6d4a146f4d4bbeb2f8c
+Section: Tweaks
+Description: AXJ爱新机,一键新机,破解版,群友提供,仅在11、12、13系统测试,14系统自行测试。 国行手机需用netcontrol给予联网权限。AXJ爱新机(64位) 禁止用于违法目的，否则后果自负。
+Author: AXJ爱新机(64位)
+Essential: no
+Icon: file:///Applications/AXJ.app/AppIcon60x60@2x.png
+Installed-Size: 31924
+Name: AXJ爱新机破解版
+Priority: standard
+Sponsor: AXJ爱新机(64位)
+Tag: role::enduser
+
