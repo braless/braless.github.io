@@ -250,16 +250,18 @@ ModernDepiction: https://yttxcs.cn/depiction/sileo/wechat.callkit.json
 Name: CallKit
 Sponsor: 幺筒源<409774743@qq.com>
 
-Package: com.hk.choicy.cn
+Package: com.yanshen.choicy.cn
 Version: 1.4.6
 Architecture: iphoneos-arm
+Maintainer: Yanshen
 Depends: mobilesubstrate
 Filename: debs/Choicy简体中文包.1.4.6.deb
-Size: 4188
-MD5sum: dd3d1fbfdc50c488ecf56d01cd4759a1
-SHA1: 36262d3d33f8aa201a3e2878b6f01fd08a5fbc50
-SHA256: 3f5a4380108c834af89729215256200d94fcd698487385d7153434cdb589f781
+Size: 4226
+MD5sum: f4a297d1fac022ca5b94e853e4033a23
+SHA1: f495168a9e076ac86c7edd4b333692af78c6718c
+SHA256: c01f01730d4b4f2f4e47d0e535d2a3c54e36e79676de5360952c2094cdd6eb51
 Section: 汉化
+Description: 用于choicy汉化
 Author: 妖刀
 Name: Choicy 简体中文包
 
@@ -2386,4 +2388,40 @@ Author: Arway_Aw
 Installed-Size: 284
 Name: 闲鱼 NoAds
 Sponsor: 野心源™ <http://apt.ambier.cn/>
+
+Package: gawk
+Version: 4.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Filename: debs/gawk_4.2.1-1_iphoneos-arm.deb
+Size: 286996
+MD5sum: 7e986572e0d837e044b1a0d6455c5348
+SHA1: 56021a27ae94c604fa3283607031212825106d9f
+SHA256: be9250381c0150cca3ed46d4b27d737e77229337e04eec878f99550077490ad8
+Section: Tweaks
+Description: GNU's heavy-weight implementation of awk
+Homepage: http://www.gnu.org/software/gawk/
+Installed-Size: 2952
+Multi-Arch: foreign
+Name: Gawk
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: important
+
+Package: xyz.cypwn.debra
+Version: 2.8.5
+Architecture: all
+Maintainer: CyPwn
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/xyz.cypwn.debra_2.8.5_all.deb
+Size: 14484
+MD5sum: 2a0d414cf7b120a7cb6e80c3bd5d8629
+SHA1: 7118ae22c964fbde430975477762a1b35ad9cba4
+SHA256: 311f88e7eeaa476116cb647c05a5ea34c5a2fd723a5e5a41359b20b55bdba0c3
+Section: Tweaks
+Description: Deb Repackaging Assistant. Simply type 'debra' into a terminal. For rooted & rootless jailbreaks.
+Author: Sudo & Paisseon
+Depiction: https://repo.cypwn.xyz/depiction/1528
+Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
+Name: Debra
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1528
 
