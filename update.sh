@@ -1,5 +1,8 @@
 #!/bin/sh
 #压缩打包
+echo "Waiting for 120 seconds..."
+sleep 120
+
 cd /APP-JD/braless.github.io/
 echo "开始生成Pakages..."
 python3 dpkg-scanpackages.py -m debs > Packages
