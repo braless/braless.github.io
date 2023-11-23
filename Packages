@@ -41,21 +41,6 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension
 dev: limneos
 
-Package: com.answeringmachinexs.cn
-Version: 1.2-32
-Architecture: iphoneos-arm
-Maintainer: Sandy0
-Depends: mobilesubstrate
-Filename: debs/Answering简体.deb
-Size: 6746
-MD5sum: 293fbde250730b0a498b1fe36a860cfa
-SHA1: 7da9862cbd3d15c2792780e9a834cf5829aaab98
-SHA256: 9aebf5e9b95a4cff64bceac269720ccf14ef759dae0620faa8aa518fbedefec0
-Section: 汉化
-Description: AnsweringMachine XS 简体中文包。某些地方无法汉化。
-Author: Sandy0、妖刀
-Name: AnsweringMachine XS 简体中文包
-
 Package: xyz.cypwn.anthocrack
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -105,18 +90,23 @@ Icon: https://chr1s.dev/assets/atlasRound.png
 Installed-Size: 4608
 Name: Atlas
 
-Package: com.hk.atlas.cn
-Version: 1.0.4
+Package: com.udevs.dictmojix
+Version: 1.4.17
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: debs/Atlas简体中文包.1.0.4.deb
-Size: 1460
-MD5sum: c65f26e1c8137481b9061dceffbcb8f6
-SHA1: 761982e5ff97fe24be664789a35c8a413af089a5
-SHA256: 51b72fa8ce3aaa267cd4915c139be3601f4d112d8e5f7fce82c20304807894e2
-Section: 汉化
-Author: 妖刀
-Name: Atlas 简体中文包
+Maintainer: udevs
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: debs/Dictmojix_1.4.17.deb
+Size: 52932
+MD5sum: eb1932a8788aaec6fb3d976dd154a699
+SHA1: 4e8fe1f95e85d737a5929ee774c40dd556213616
+SHA256: 266432c11ac387e63b259efce5597dc62ca21e8722bd5975127617deb1e4dba9
+Section: Tweaks
+Description: Replace dictation key with emoji key on iPhone X/XS! Support iOS 11-14.
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.dictmojix
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dictmojix/icon/icon.png
+Installed-Size: 336
+Name: DictMojiX
 
 Package: com.huayuarc.tool.autotouch
 Version: 6.1.2
@@ -137,23 +127,20 @@ Name: AutoTouch Crack
 Priority: optional
 Sponsor: Acreson
 
-Package: acreson.zq.autohome
-Version: 1.0.0-1
+Package: com.answeringmachinexs.cn
+Version: 1.2-32
 Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
+Maintainer: Sandy0
 Depends: mobilesubstrate
-Filename: debs/Autohome汽车之家.deb
-Size: 12220
-MD5sum: 1c1d5c100da5feff20b74f5c9670c176
-SHA1: 9ec92b9e6b99d857bfb2359f67ba8219cbbc6bbf
-SHA256: 884cb53dd1aca81a3af53aa86a3b9db1dcef041a178f43f8162a32d0c835a162
-Section: Tweaks
-Description: 汽车之家去广告
-Author: 糖醋丶炒排骨
-Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
-Installed-Size: 72
-Name: 汽车之家去广告
-Sponsor: Acreson <342080124@qq.com>
+Filename: debs/AnsweringMachine-汉化.deb
+Size: 6746
+MD5sum: 293fbde250730b0a498b1fe36a860cfa
+SHA1: 7da9862cbd3d15c2792780e9a834cf5829aaab98
+SHA256: 9aebf5e9b95a4cff64bceac269720ccf14ef759dae0620faa8aa518fbedefec0
+Section: 汉化
+Description: AnsweringMachine XS 简体中文包。某些地方无法汉化。
+Author: Sandy0、妖刀
+Name: AnsweringMachine XS 简体中文包
 
 Package: com.hk.bhtiktok.cn
 Version: 0.0.1-1
@@ -1041,24 +1028,6 @@ Name: RocketBootstrap
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, role::developer
 dev: rpetrich
-
-Package: com.udevs.dictmojix
-Version: 1.4.17
-Architecture: iphoneos-arm
-Maintainer: udevs
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Filename: debs/dictmojix_1.4.17.deb
-Size: 52932
-MD5sum: eb1932a8788aaec6fb3d976dd154a699
-SHA1: 4e8fe1f95e85d737a5929ee774c40dd556213616
-SHA256: 266432c11ac387e63b259efce5597dc62ca21e8722bd5975127617deb1e4dba9
-Section: Tweaks
-Description: Replace dictation key with emoji key on iPhone X/XS! Support iOS 11-14.
-Author: udevs
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.dictmojix
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dictmojix/icon/icon.png
-Installed-Size: 336
-Name: DictMojiX
 
 Package: com.gpsmanager
 Version: 1.8.8
@@ -2424,4 +2393,35 @@ Description: Display Notification Avatars for WeChat App using iOS15 APIs
 Author: Netskao
 Installed-Size: 1140
 Name: WeChatNotiAvatar
+
+Package: acreson.zq.autohome
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Depends: mobilesubstrate
+Filename: debs/Auto-home汽车之家.deb
+Size: 12220
+MD5sum: 1c1d5c100da5feff20b74f5c9670c176
+SHA1: 9ec92b9e6b99d857bfb2359f67ba8219cbbc6bbf
+SHA256: 884cb53dd1aca81a3af53aa86a3b9db1dcef041a178f43f8162a32d0c835a162
+Section: Tweaks
+Description: 汽车之家去广告
+Author: 糖醋丶炒排骨
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
+Installed-Size: 72
+Name: 汽车之家去广告
+Sponsor: Acreson <342080124@qq.com>
+
+Package: com.hk.atlas.cn
+Version: 1.0.4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/Atlas.1.0.4.简体中文包.1.0.4.deb
+Size: 1460
+MD5sum: c65f26e1c8137481b9061dceffbcb8f6
+SHA1: 761982e5ff97fe24be664789a35c8a413af089a5
+SHA256: 51b72fa8ce3aaa267cd4915c139be3601f4d112d8e5f7fce82c20304807894e2
+Section: 汉化
+Author: 妖刀
+Name: Atlas 简体中文包
 
