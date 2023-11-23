@@ -1018,24 +1018,22 @@ Installed-Size: 244
 Name: 哔哩哔-会员画质
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/bilibilihzsileo
 
-Package: cn.yttxcs.zfbbs
-Version: 0.0.2-8
+Package: com.tencent.voices
+Version: 1.0-4
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: mobilesubstrate
-Filename: debs/cn.yttxcs.zfbbs.deb
-Size: 8268
-MD5sum: 19e6da04da1b7692b996f20fe9fdc25c
-SHA1: 73e9c5efbf18c4003de1661c1988d8fea0baa465
-SHA256: 089f5e6c4dbe2e92e984d11238d45f60f02e7728f26007ffb10a2226f21584d8
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/语音包_1.0-4.deb
+Size: 716468
+MD5sum: 3be813470d027054439a049bac96e92f
+SHA1: fb9bfab8a075ae77f40e2e3b7205e1d5cddc29b8
+SHA256: 1a52c40944e63f4c5f71708e6302559429038737312857290689e008d767481a
 Section: Tweaks
-Description: 支付宝刷步数随机20000-26666~
-Author: 真皮 <409774743@qq.com>
-Icon: https://yttxcs.com/image/icon/cn.yttxcs.zfbbs.png
-Installed-Size: 98
-ModernDepiction: 
-Name: zfbbs 「支付宝随机刷步数」
-Sponsor: 幺筒源<409774743@qq.com>
+Description: 微信本地收藏语音包
+Author: Mao
+Name: 语音包
+Priority: optional
+Sponsor: Mao
 
 Package: com.rpetrich.rocketbootstrap
 Version: 1.0.10~beta2
@@ -1379,24 +1377,24 @@ Installed-Size: 165
 Name: 清除35条更新（iOS15）
 Priority: optional
 
-Package: netskao.wcpureextension
-Version: 4.2-6
+Package: cn.yttxcs.zfbbs
+Version: 0.0.2-8
 Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Filename: debs/微信-净化4.2.6.deb
-Size: 8229320
-MD5sum: 8f4b12c3cb261f98104bd907fb7f10d4
-SHA1: 48aec3efcda43a28ffca6e5ea25e7e6b99e734c1
-SHA256: e2317fd19d9335376fee4f29dfbb0554bb8094bd5d792b2a0030f4896339b342
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Installed-Size: 19660
-Name: 微信净化
-Provides: netskao.wechatpurification
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate
+Filename: debs/支付宝步数.deb
+Size: 8268
+MD5sum: 19e6da04da1b7692b996f20fe9fdc25c
+SHA1: 73e9c5efbf18c4003de1661c1988d8fea0baa465
+SHA256: 089f5e6c4dbe2e92e984d11238d45f60f02e7728f26007ffb10a2226f21584d8
+Section: Tweaks
+Description: 支付宝刷步数随机20000-26666~
+Author: 真皮 <409774743@qq.com>
+Icon: https://yttxcs.com/image/icon/cn.yttxcs.zfbbs.png
+Installed-Size: 98
+ModernDepiction: 
+Name: zfbbs 「支付宝随机刷步数」
+Sponsor: 幺筒源<409774743@qq.com>
 
 Package: com.25mao.wxurlexpand
 Version: 0.2-0
@@ -1979,25 +1977,413 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)
 
-Package: com.yanshen.axj
-Version: 8.0.0-50
+Package: com.yanshen.wcpureextension
+Version: 4.2-6
 Architecture: iphoneos-arm
-Maintainer: AXJ爱新机(64位)
-Depends: mobilesubstrate, coreutils-bin, zip, unzip
-Conflicts: app.weiphone.ALS, app.weiphone.IGG, app.weiphone.NZT, app.weiphone.LRN
-Filename: debs/AXJ爱新机破解版_8.0.0-50.deb
-Size: 7842874
-MD5sum: 480933377356510b2de9e4f41ab12016
-SHA1: 6cd1c0f923d195dede97039edd9baf304c8ec8f6
-SHA256: 9159b7b01383f562c4a80ba04dfe338d5d4ac46dbb5ad6d4a146f4d4bbeb2f8c
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Filename: debs/微信净化_4.2-6.deb
+Size: 8127356
+MD5sum: 2fe7d60a873a3ccb2679b5dce3f3ef2c
+SHA1: daf2b9a34226548ffa46f1b58b982ca7d276bda5
+SHA256: 24ed76da1d59f257230ae15fbf1f7b873b544c00d25bfb1201f03262a8472bbc
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化
+Provides: netskao.wechatpurification
+Sponsor: Nets
+
+Package: com.netskao.xhsnoads
+Version: 1.3-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/小红书 NoAds_1.3-5.deb
+Size: 157988
+MD5sum: ee1497fd97436586706b70a5597b6212
+SHA1: 596f22253cfc08dd3dc897988a60c7008a6aeaa8
+SHA256: ed2bde140dea2bf5ea437c57d644f0b0a9682c76d6fd688b76ca4ca0ae21ccbc
 Section: Tweaks
-Description: AXJ爱新机,一键新机,破解版,群友提供,仅在11、12、13系统测试,14系统自行测试。 国行手机需用netcontrol给予联网权限。AXJ爱新机(64位) 禁止用于违法目的，否则后果自负。
-Author: AXJ爱新机(64位)
-Essential: no
-Icon: file:///Applications/AXJ.app/AppIcon60x60@2x.png
-Installed-Size: 31924
-Name: AXJ爱新机破解版
-Priority: standard
-Sponsor: AXJ爱新机(64位)
-Tag: role::enduser
+Description: 小红书去除启动广告，去除信息流视频流广告，修改原始按钮保存无水印视频和图片，解除部分视频无法下载，添加快捷按钮保存无水印图片，添加长按文案快捷复制作者名或文案，仅支持7.30及以上版本
+Author: Netskao
+Installed-Size: 544
+Name: 小红书 NoAds
+Sponsor: Nets
+
+Package: com.netskao.ccbjailbreakedbypass
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/中国建设银行 Jailbreaked Bypass_1.1-2.deb
+Size: 60902
+MD5sum: 6c69f307571977a30719563a04298504
+SHA1: bdcdfdd9bb031f4103819afb149b5d7e2c942db6
+SHA256: 1d65082599d4bdee49d7f1782de3d2656d6bf62446150da2fe9490e221b9f26f
+Section: Tweaks
+Description: 中国建设银行绕过越狱检测
+Author: Netskao
+Installed-Size: 236
+Name: 中国建设银行 Jailbreaked Bypass
+Sponsor: Nets
+
+Package: com.llld.yghsh
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/阳光惠生活屏蔽越獄檢測_0.0.1-2+debug.deb
+Size: 3166
+MD5sum: a94d1dd3837135408ea37c2905cfc69c
+SHA1: 651ef82df73c85c73f2c907b27a83238bad07f73
+SHA256: fbe7ff584cd17bdb5804aa0766117bd9984d6c025fcfafb408ad132c1d55423f
+Section: Tweaks
+Description: 阳光惠生活(去除越狱提示，不影响任何插件注入，都可用)
+Author: 来了老弟
+Installed-Size: 168
+Name: 阳光惠生活屏蔽越獄檢測
+Sponsor: 来了老弟
+
+Package: com.netskao.xhsnoads
+Version: 1.3-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/小红书 NoAds_1.3-7.deb
+Size: 102936
+MD5sum: 17379e2291a5aa45e7f213c92e178ee2
+SHA1: c2140435b3f7485acdc486f521baebcfc46bcdcc
+SHA256: 423d25b6869a2fb76da7060119571fbb22c22a48d7db58bbd948e3d4027ad60b
+Section: Tweaks
+Description: 小红书去除启动广告, 去除信息流视频流广告, 修改原始按钮保存无水印视频和图片和live图和评论区图片, 解除部分视频无法下载, 添加长按文案快捷复制作者名或文案, 仅支持8.5及以上版本
+Author: Netskao
+Installed-Size: 392
+Name: 小红书 NoAds
+Sponsor: Nets
+
+Package: com.cike.zhonguoydnoads
+Version: 0.0.1.1+debug
+Architecture: iphoneos-arm
+Maintainer: Huayuarc
+Depends: mobilesubstrate
+Filename: debs/中国移动 NoAds_0.0.1.1+debug.deb
+Size: 7252
+MD5sum: 1fde81ff8cba8d206854b7e4d15d31e7
+SHA1: 185829efcc854ea7c5ef4cce24ced14c34894426
+SHA256: a86054de1575157dc8c25dbf53b1a79b3ec28fd982469facbc458b0b3e92ebef
+Section: Tweaks
+Description: 中国移动去启动广告、主页右下角悬浮窗、去广告优化支持APPStore最新版本。
+Author: cike
+Installed-Size: 284
+Name: 中国移动 NoAds
+Sponsor: 野心源™ <http://apt.ambier.cn/>
+
+Package: com.yanshen.zgnyyh
+Version: 0.0.1.1+debug
+Architecture: iphoneos-arm
+Maintainer: Huayuarc
+Depends: mobilesubstrate
+Filename: debs/中国农业银行 屏蔽越狱检测_0.0.1.1+debug.deb
+Size: 6320
+MD5sum: 032072b3a24a67746794d02754a67144
+SHA1: 9ee2bb5bcac2a9b6ed9969fe0d65980735ef070e
+SHA256: 0149f1c840ed11886e04391d95f802eea1eccf80eba69ba71b47b89536ebdc9c
+Section: Tweaks
+Description: 屏蔽越狱检测.测试适配8.1.0版本正常使用.
+Author: Huayuarc
+Installed-Size: 92
+Name: 中国农业银行 屏蔽越狱检测
+Sponsor: Huayuarc
+
+Package: com.netskao.bilibilipure
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/哔哩哔哩净化 NoAds_1.2-6.deb
+Size: 929746
+MD5sum: 0047e6814dee3ad43fd248cb3ea576ae
+SHA1: a232a46c8cff2a02d24a3293b659a88883d90371
+SHA256: 6c777858f8a23d381c5a987dcbb6fcfadf3be38110e869d4675dc88163e9c1c5
+Section: Tweaks
+Description: 哔哩哔哩净化，设置位于我的页面顶部，仅支持7.3.0及以上版本
+Author: Netskao
+Installed-Size: 1468
+Name: 哔哩哔哩净化 NoAds
+Sponsor: 野心源™ <http://apt.ambier.cn/>
+
+Package: com.netskao.imgplaycrack
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: debs/ImgPlay Crack_1.1-5.deb
+Size: 126274
+MD5sum: ec1c50b8d881f548f1fad4abacca6f5a
+SHA1: 2187165a6f39b12cb3bb9829c34f4514a53c77a4
+SHA256: 979206e1bac8fca97a3b861e74dfcc276d8d909ce7148a9b1fdac2d8999e914f
+Section: Tweaks
+Description: ImgPlay解锁全功能，仅支持6.3.2及以上版本
+Author: Netskao
+Installed-Size: 440
+Name: ImgPlay Crack
+Sponsor: Nets
+
+Package: com.yanshen.relocate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
+Filename: debs/Relocate-虚拟定位工具_1.0.1.deb
+Size: 80900
+MD5sum: bcc363ace6dcfc76f2835a0762ef7d1c
+SHA1: e19f1512f6fe49b4cc5835dd4a5e63734fb34155
+SHA256: faf63fe5ee9537912e61075539591ead389bd77b9bc2c586709b4c558e51295c
+Section: Tweaks
+Description: Relocate Reborn: 可以为越狱用户自定义任何虚假的 iPhone 位置。
+Author: Nepeta
+Installed-Size: 70
+Name: Relocate-虚拟定位工具
+Sponsor: Nepeta
+
+Package: com.netskao.bilibilipure
+Version: 1.2-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/哔哩哔哩 NoAds_1.2-7.deb
+Size: 83728
+MD5sum: 6e9f13796a8d4e37a6cad8856a089b05
+SHA1: bb1dd73619813363addcab39e12c646344507b13
+SHA256: bd87e43ec4204a10016608188a9e27a4f598ab21ea70ebc31147c7da5a3217b5
+Section: Tweaks
+Description: 哔哩哔哩去除启动广告, 去除青少年提示, 去除AppStore评分提示, 去除底部动态\发布\会员购按钮, 去除瀑布流中插入广告, 去除视频详情页面推荐视频中的创作推广, 去除评论区顶部会员推广, 我的页面推广等, 仅支持7.48.0及以上版本
+Author: Netskao
+Installed-Size: 328
+Name: 哔哩哔哩 NoAds
+Sponsor: Nets
+
+Package: com.netskao.stormsniffercrack
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate
+Filename: debs/StormSniffer Crack_1.1-4.deb
+Size: 99898
+MD5sum: d8364949203ec071c3ff0ce2c4fd3cb8
+SHA1: b1f18966b44fd34104c812aa4abcd71cd539b423
+SHA256: 455f9aa15f30c9ef9e6057cd6edd0737672b0c052d38102e9667bd750be930f9
+Section: Tweaks
+Description: Storm Sniffer是一款HTTP抓包工具。不用连接电脑就可以捕获并查看本机所有HTTP/HTTPS请求和响应，轻松调试应用程序的网络问题。
+Author: Netskao
+Installed-Size: 1108
+Name: StormSniffer Crack
+Sponsor: Nets
+
+Package: com.yanshen.gaodeditunoads
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Huayuarc
+Depends: mobilesubstrate
+Filename: debs/高德地图 NoAds_0.0.1-1+debug.deb
+Size: 3822
+MD5sum: 40239a343fb9d2675f6e46547bfd09dd
+SHA1: 5d9faeecb3711fa710c925d3f9598e104b281a0b
+SHA256: 0f14e373b366645547b3dda06c1c135fe6180584c26ee2fe1fcfa02ac5707f13
+Section: Tweaks
+Description: 去广告优化、支持13.01.1以上版本。
+Author: Huayuarc
+Installed-Size: 80
+Name: 高德地图 NoAds
+Sponsor: Huayuarc
+
+Package: com.netskao.tbnoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/淘宝 NoAds_1.2-1.deb
+Size: 71950
+MD5sum: 30cf708ddfdf07d06e9d8930f81541d7
+SHA1: 955b29df55a3dfd0b18e3ce841fe571d5106c8fe
+SHA256: 9bf6a26f48eb1295d67d9e7010fa44c0bdfa06ce08c9b2592b0be7f5f8de1a66
+Section: Tweaks
+Description: 淘宝去除启动广告，去除搜索列表中广告商品，去除购物车推荐和订单列表中推荐商品，逛逛原始按钮保存图片/视频去除水印，增加长按商品视频评论视频保存到相册
+Author: Netskao
+Installed-Size: 256
+Name: 淘宝 NoAds
+Sponsor: Nets
+
+Package: com.yanshen.mgylnoads
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Huayuarc
+Depends: mobilesubstrate
+Filename: debs/咪咕音乐 NoAds_0.0.1-1.deb
+Size: 5132
+MD5sum: 9949e3de1c7574fe5ffe5c459ec264dc
+SHA1: da5bc29809f3f2d75963c3f530426323bdc34f18
+SHA256: 1a63ccf41d734558ab3e820e9cbedad650bc548066b60f4f19334144cadaf3c8
+Section: Tweaks
+Description: 去除启动广告，首页广告。
+Author: Huayuarc
+Installed-Size: 72
+Name: 咪咕音乐 NoAds
+Sponsor: Huayuarc
+
+Package: com.5201314zhang.jdnoads
+Version: 0.0.1.1+debug
+Architecture: iphoneos-arm
+Maintainer: 5201314zhang
+Depends: mobilesubstrate
+Filename: debs/京东 NoAds_0.0.1.1+debug.deb
+Size: 11752
+MD5sum: 35eeb339a246ea35fc92d77c62df6552
+SHA1: 4214e000022c80ac48d40303ba223bef8e1b63c9
+SHA256: 4ba689bd783526df6acfdb768ba70c8ba4b53c46bf50760ecbfdb02bdd2b5a73
+Section: Tweaks
+Description: 去启动广告，精简为你推荐页面，精简我的页面。商品推荐等列表的屏蔽。
+Author: 5201314zhang
+Installed-Size: 260
+Name: 京东 NoAds
+Sponsor: 5201314zhang
+
+Package: com.netskao.mtwmnosplash
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate
+Filename: debs/美团外卖 NoSplash_1.1-1.deb
+Size: 89530
+MD5sum: 490daff458ebacdef1e28d3fb95aa120
+SHA1: 15a2353c8dad74f67556da9e6a22e93315a97e50
+SHA256: ae3e1d19e5d6d0664edd8b295f657da1e1913d550c912a55b49ff8c8cdcde8f9
+Section: Tweaks
+Description: 美团外卖去除启动广告
+Author: Netskao
+Installed-Size: 320
+Name: 美团外卖 NoSplash
+Sponsor: Nets
+
+Package: com.netskao.weibonoads
+Version: 1.9-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/微博 NoAds_1.9-8.deb
+Size: 34428
+MD5sum: 73c0e08590adcff1d6cfc540aa856935
+SHA1: 1aefdee9b4b3372d3bac4e020dd1adc2f052ecda
+SHA256: 08cbfe959862a5aab64216c8e79e56b7df19201b42405c524b243ac93e6d3d54
+Section: Tweaks
+Description: 微博去除启动广告, 去除各种信息流中广告, 仅支持微博13.9.0及以上版本
+Author: Netskao
+Installed-Size: 156
+Name: 微博 NoAds
+Sponsor: Nets
+
+Package: com.netskao.wyyyynoads
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/网易云音乐 NoAds_1.2-6.deb
+Size: 476816
+MD5sum: 3f21c8897d7b99c06880b22e04b466e2
+SHA1: cae9db5e73cc50d9910a48181ccb9d6eba2ad2d0
+SHA256: 1d82354d7d894c8d82afed868ce283e9666b372812232fcd3a5ecdb54e1226ef
+Section: Tweaks
+Description: 网易云音乐去除启动广告，去除评论区相关信息和广告，去除首页顶部横幅中插入的广告，去除搜索页面顶部广告，去除播放页面顶部右上角在唱，去除左侧设置无关紧要选项，绕过越狱检测可收藏可评论，解除非中国地区播放限制，增加使用原始分享按钮保存任意视频到相册，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密ncm格式)
+Author: Netskao
+Installed-Size: 2116
+Name: 网易云音乐 NoAds
+Sponsor: 野心源™ <http://apt.ambier.cn/>
+
+Package: com.netskao.weibonoads
+Version: 1.9-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/微博 NoAds_1.9-2.deb
+Size: 156764
+MD5sum: 59a170731d09682ee1beb2315005320c
+SHA1: 5da794c7d0f393ddb396e5d854e898516aabef68
+SHA256: e9514cdfb1abb32f3233c940a3746e8a2e3d8a2c8558aee826de016dd82b7706
+Section: Tweaks
+Description: 微博去除启动广告，去除首页信息流中广告，去除发现信息流中广告，去除个人详情页信息流中广告，去除搜索中广告，去除热搜榜中的广告，去除视频号信息流中广告，去除全屏视频流中的视频广告，去除评论中广，去除热搜榜页面底部潮物按钮，去除发现页面上方的广告横幅和随机出现的视频广告，去除首页顶部故事，去除首页顶部随机弹出的红包，去除首页红包悬浮窗，去除用户头像上方的挂件，去除信息卡片上的个性装饰，去除我的页面任务和推荐关注，去除底部视频或超话随机出现的更新提示，去除截图后分享提示，去除网址拦截，修改复制评论不带用户ID，增加视频详情页面按钮保存视频到相册，增加视频流和视频号页面双击保存视频到相册，支持720P/420P/360P选择等，仅支持微博13.7.0及以上版本
+Author: Netskao
+Installed-Size: 556
+Name: 微博 NoAds
+Sponsor: Nets
+
+Package: com.yanshen.neteasemusicnoads
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate
+Filename: debs/网易云音乐 NoAds_1.0-1.deb
+Size: 140194
+MD5sum: 1859f33674e1746ee64e03dd2b581e99
+SHA1: bd0e720c66445e5b2a911465874cbe8c228b0d0b
+SHA256: 906b963e4104e85f41707476ffe100c4b5e674ce7e18e0aa695244e1f1b5a13e
+Section: Tweaks
+Description: 网易云音乐开启播放VIP歌曲及免费下载普通音质VIP歌曲（设置页面开启后，进入歌单等待加载完毕后点击下载普通音质），去启动广告，留言区域广告
+Author: 7Loopy
+Name: 网易云音乐 NoAds
+Sponsor: Nets
+
+Package: com.netskao.wfnoads
+Version: 1.6-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: debs/威锋 NoAds_1.6-6.deb
+Size: 111948
+MD5sum: b98fe2cbb26ace5e88eeb82b867abba4
+SHA1: d0b73aa223bea8a6d96fe4435aee32b419b35be1
+SHA256: 69d5b6bb2e0989598e98f537c572e8810138734b64cc97e2969bdf4ee3809a72
+Section: Tweaks
+Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，仅支持6.8.5及以上版本
+Author: Netskao
+Installed-Size: 400
+Name: 威锋 NoAds
+Sponsor: 野心源™ <http://apt.ambier.cn/>
+
+Package: com.yanshen.analyticswechat
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Asmo
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/微信分析 (AnalyticsWeChat)_0.1.0.deb
+Size: 771142
+MD5sum: aa774d6732cc9f87f3cf1218dbe64aca
+SHA1: b3416c6204b90085fb007ec74b4ab08596dc0340
+SHA256: 15443bc71864aab45d8f80c61c6760118c0433f4123980497b91b1e339b67631
+Section: Tweaks
+Description: 分析用户好友和聊天数据   可统计好友数量、性别数量和占比、省份分布，统计个人和群聊消息量以及排行。
+Author: Asmo
+Installed-Size: 3920
+Name: 微信分析 (AnalyticsWeChat)
+Sponsor: Asmo
+Tag: purpose::extension
+
+Package: com.arwayaw.xyunoads
+Version: 0.0.1.1+debug
+Architecture: iphoneos-arm
+Maintainer: Arway_Aw
+Depends: mobilesubstrate
+Filename: debs/闲鱼 NoAds_0.0.1.1+debug.deb
+Size: 6334
+MD5sum: d0a2e70a6908c34c68277bc47f02fc5d
+SHA1: ae9844b3379b97b7acf090ed2156b2b8475ad451
+SHA256: db3f0894de83e418aed21bcd33540a5546d9ce693e2dfb25ae0e822ab5513910
+Section: Tweaks
+Description: 反馈和定制请联系微信：Arway_aw，关注公众号解锁更多技巧：吾爱补丁。更新支持最新版本去广告。
+Author: Arway_Aw
+Installed-Size: 284
+Name: 闲鱼 NoAds
+Sponsor: 野心源™ <http://apt.ambier.cn/>
 
