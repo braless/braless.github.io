@@ -58,23 +58,6 @@ Installed-Size: 368
 Name: Amber
 Sponsor: 野心源™ <http://apt.ambier.cn/>
 
-Package: xyz.cypwn.anthocrack
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: CyPwn
-Depends: firmware (>= 12.2)
-Filename: debs/AnthoCrack.0.0.2.deb
-Size: 35426
-MD5sum: c50e1257bc252c853396a1d301a61d67
-SHA1: e9e5e27ff6442442c209772979dedd5a3acc3128
-SHA256: 7806617e6c8cabfa5ca8f5ed778db5984c2888b66fa59f8a5f174673b18d2571
-Section: Tweaks
-Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!
-Author: Paisseon
-Depiction: https://repo.cypwn.xyz/depiction/1524
-Name: AnthoCrack
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1524
-
 Package: com.hk.appdata.old
 Version: 1.2.6
 Architecture: iphoneos-arm
@@ -218,6 +201,23 @@ SHA256: a7f55257eb4328ac55f293b273f89e7f77b2f0a8cf8b826235b6c8d92780cb07
 Section: Tweaks
 Author: 妖刀
 Name: CC++(iOS15)
+
+Package: com.yanshen.anthocrack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/AnthoCrack_0.0.1.deb
+Size: 19152
+MD5sum: 9b49a640a47a45cbb079f91ca76f6b4c
+SHA1: 7f209498b56a62403e34cc9d5f2831dd01c28865
+SHA256: d97f048eafb95762d6be5fd114cd1d195449eb45e4acce49ace6b1031b44ed26
+Section: Tweaks
+Description: 禁用 AnthoPak 调整提醒。这是为 95% 的盗版者准备的！
+Author: Paisseon
+Installed-Size: 164
+Name: AnthoCrack
+Sponsor: Paisseon
 
 Package: cn.wechat.callkit
 Version: 1.0k
@@ -1045,6 +1045,22 @@ Name: RocketBootstrap
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, role::developer
 dev: rpetrich
+
+Package: com.yanshen.anthocrack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: firmware (>= 12.2)
+Filename: debs/AnthoCrack_0.0.2.deb
+Size: 30086
+MD5sum: 01bbf7f181abcf95b1578deef0bbe094
+SHA1: 88fcb618891086825716cd1a59c9a823346bf2cb
+SHA256: 1b8ac7a41f658bf4711cc4669500b1413745442e44c40d25f32aebd4a1f7e6eb
+Section: Tweaks
+Description: 禁用 AnthoPak 调整提醒。这是为 95% 的盗版者准备的！
+Author: Paisseon
+Name: AnthoCrack
+Sponsor: Paisseon
 
 Package: com.gpsmanager
 Version: 1.8.8
@@ -2475,4 +2491,24 @@ Author: Plat-Ykor <plat-ykor@libero.it>
 Installed-Size: 468
 Name: Tenmetsu 专业手电筒
 Sponsor: Plat-Ykor <plat-ykor@libero.it>
+
+Package: net.limneos.voicechangerx
+Version: 2.4-10
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: debs/net.limneos.voicechangerx_2.4-10_iphoneos-arm.deb
+Size: 252822
+MD5sum: ad41116f29201fa8c8e201a90a79d3a8
+SHA1: e3108e2b1d518b8f75766ffba4a7556262001983
+SHA256: 733f8a1a4178948df854210a33ea3616e712d800443de9b7613dc3b8601248dc
+Section: Tweaks
+Description: Change your voice during a call!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
+Installed-Size: 1420
+MainLibMD5: 95b043ad4be47413b25c80f465cb2c32
+Name: VoiceChanger XS (iOS 11 to 16)
 
