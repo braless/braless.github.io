@@ -1297,22 +1297,6 @@ Installed-Size: 680
 Name: 减法相册Pro
 Sponsor: Ai-小苹果™
 
-Package: com.ejiaogl.tuboshuhook
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Maintainer: 土拨鼠
-Depends: mobilesubstrate
-Filename: debs/土拨鼠.deb
-Size: 17160
-MD5sum: b30a3af425c4032211bbf42e801e67f6
-SHA1: 7b89004c9b016a26f9cab56f89d807dbb349a18b
-SHA256: 562a5653b6f1a2fda403fbe6f01f2146924cefa8894042d79f9ead82e2f7b5a2
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: 土拨鼠
-Installed-Size: 316
-Name: 土拨鼠个人插件
-
 Package: com.hk.jrttnoads
 Version: 1.3-3
 Architecture: iphoneos-arm
@@ -1901,21 +1885,6 @@ Author: Snail <mu514983786@gmail.com>
 Installed-Size: 688
 Name: 锁屏美化
 
-Package: com.snail.xianyunoad
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: debs/闲鱼去广告.0.0.1.deb
-Size: 10732
-MD5sum: d7a9a820f728a28aa501b343e92499f5
-SHA1: cbb9ea7ca6e475bc4bd97743fa41571b30743bfd
-SHA256: f12c2da7d3dbed7c33757b487f97bffd7328a6c3d2d386c3aceaa5be943fc64c
-Section: 插件
-Description: 咸鱼去广告，支持所有版本。
-Author: Snail <snailsohi@gmail.com>
-Installed-Size: 216
-Name: 闲鱼去广告
-
 Package: cn.net.videos
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -2439,4 +2408,20 @@ Section: Tweaks
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)
+
+Package: com.ejiaogl.tuboshuhook
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 土拨鼠
+Depends: mobilesubstrate
+Filename: debs/土拨鼠1.0.0.deb
+Size: 17160
+MD5sum: b30a3af425c4032211bbf42e801e67f6
+SHA1: 7b89004c9b016a26f9cab56f89d807dbb349a18b
+SHA256: 562a5653b6f1a2fda403fbe6f01f2146924cefa8894042d79f9ead82e2f7b5a2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 土拨鼠
+Installed-Size: 316
+Name: 土拨鼠个人插件
 
