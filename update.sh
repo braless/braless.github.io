@@ -1,9 +1,13 @@
 #!/bin/sh
 
 #发送通知..
+
+# 检查是否传递了文件内容参数
+
+file_content="$1"
 TOKEN="6222369978:AAE7hkZEJhuU0KFgzdLziX-Y-GN_mn4Ucxk"	#TG机器人token
 chat_ID=275642085		#用户ID或频道、群ID
-message_text="越狱软件源.检测到更新..正在推送到Github"		#要发送的信息
+message_text="越狱软件源检测到文件:$file_content ,正在推送到Github"		#要发送的信息
 MODE='Markdown'		#解析模式，可选HTML或Markdown
 URL="https://tg.bilin.eu.org/bot${TOKEN}/sendMessage"		#api接口
 #测试1：终端有日志
