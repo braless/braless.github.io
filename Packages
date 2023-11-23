@@ -2425,3 +2425,18 @@ Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
 Name: Debra
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1528
 
+Package: com.HBWechatHelper.ailun
+Version: 1.6.5
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/黄白助手1.6.5.deb
+Size: 9716518
+MD5sum: 590c007a6d1ed738284b007b6e3a8afa
+SHA1: 94f331521b868bd4d4dfefd4684e8f3b907f335c
+SHA256: 923f28b3a93ecf4afc93baa0dcd4000a14fd3da77a8acebd5d5af63a8f001bd4
+Section: Tweaks
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)
+
