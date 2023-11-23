@@ -202,22 +202,6 @@ Section: Tweaks
 Author: 妖刀
 Name: CC++(iOS15)
 
-Package: com.hk.ccplus15.cn
-Version: 1.0.7
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic, netskao.ccsim-rootless, netskao.ccsim
-Filename: debs/CC++iOS15.1.0.7.deb
-Size: 234730
-MD5sum: f324b5c436ef6531db434c9fa4e9dd23
-SHA1: 5817c04a1f53c3996c24bc5f7156b5532738fa7b
-SHA256: bb94e8acd37b2f0dffd5c67570d8365525a2c5c1c7714a531cac27a0e145428c
-Section: 嗨-工具
-Description: 控制中心多合一模块，来自多位开发大佬。模块：截屏/VPN切换/锁屏/定位/音量和亮度小模块/一键静音/微信扫一扫/支付宝扫一扫/双卡切换蜂窝数据/注销/一键清通知角标等，支持iOS15。感谢Netskao、jaibreak365等大佬开发的模块。
-Author: 妖刀
-Name: CC++(iOS15)
-
 Package: cn.wechat.callkit
 Version: 1.0k
 Architecture: iphoneos-arm
@@ -957,6 +941,22 @@ Section: 汉化
 Description: VoiceChanger Xs 简体中文包。VoiceChanger Xs 介绍在通话过程中改变你的声音！
 Author: Ball
 Name: VoiceChanger Xs 简体中文包
+
+Package: com.hk.ccplus15.cn
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic, netskao.ccsim-rootless, netskao.ccsim
+Filename: debs/CC++iOS15.1.0.7.deb
+Size: 234666
+MD5sum: 92630e4b6575ab8e2bf096e25a8cf95a
+SHA1: 85a3d54a7f5b333cce137044c675374c943f9912
+SHA256: 872d355702089cd30745f9863a68e640b284ea46f30fb0cc862d9cf70517cfaf
+Section: Tweaks
+Description: 控制中心多合一模块，来自多位开发大佬。模块：截屏/VPN切换/锁屏/定位/音量和亮度小模块/一键静音/微信扫一扫/支付宝扫一扫/双卡切换蜂窝数据/注销/一键清通知角标等，支持iOS15。感谢Netskao、jaibreak365等大佬开发的模块。
+Author: 妖刀
+Name: CC++(iOS15)
 
 Package: com.hk.ytlite
 Version: 2.3.1
