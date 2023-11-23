@@ -2425,3 +2425,20 @@ Installed-Size: 244
 Name: 哔哩哔-会员画质
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/bilibilihzsileo
 
+Package: com.netskao.showtouch
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/ShowTouch_1.0.4-2.deb
+Size: 104930
+MD5sum: 4808906f66236e596f43a999a50c18a2
+SHA1: 3e6f7b1187914d03f1ece629e0cb74709f5ce89d
+SHA256: 67ccc7a81a1be53191f6efff0ce3a247570023dbe39f754148cab569abd8087f
+Section: Tweaks
+Description: Shows where you touch the screen
+Author: LonestarX
+Installed-Size: 564
+Name: ShowTouch
+Sponsor: Nets
+
