@@ -1,11 +1,4 @@
 #!/bin/sh
-
-#发送通知..
-
-# 检查是否传递了文件内容参数
-
-
-
 #压缩打包
 cd /APP-JD/braless.github.io/
 echo "开始生成Pakages..."

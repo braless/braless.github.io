@@ -973,23 +973,23 @@ Section: Tweaks
 Author: dvntm
 Name: YTLite
 
-Package: com.lenglengyu.bilibilihz
-Version: 0.0.1
+Package: acreson.zq.autohome
+Version: 1.0.0-1
 Architecture: iphoneos-arm
-Maintainer: lenglengyu <lenglengyu@126.com>
+Maintainer: 糖醋丶炒排骨
 Depends: mobilesubstrate
-Filename: debs/bilibili会员画质.deb
-Size: 79080
-MD5sum: c4bafb2374672ea094d731ec8bd20607
-SHA1: fb53d5fce70b43947c5496bf3eb1b60a261bbdae
-SHA256: a4b094bb81e9b616051494fd16fa07dd41a662c5c0fa93a8bc45229287be2ef8
+Filename: debs/汽车之家_NoAds.deb
+Size: 12220
+MD5sum: 1c1d5c100da5feff20b74f5c9670c176
+SHA1: 9ec92b9e6b99d857bfb2359f67ba8219cbbc6bbf
+SHA256: 884cb53dd1aca81a3af53aa86a3b9db1dcef041a178f43f8162a32d0c835a162
 Section: Tweaks
-Description: 解锁大会员画质。
-Author: lenglengyu <lenglengyu@126.com>
-Depiction: https://repo.lenglengyu.top/packageInfo/bilibilihz.html
-Installed-Size: 244
-Name: 哔哩哔-会员画质
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/bilibilihzsileo
+Description: 汽车之家去广告
+Author: 糖醋丶炒排骨
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
+Installed-Size: 72
+Name: 汽车之家去广告
+Sponsor: Acreson <342080124@qq.com>
 
 Package: com.tencent.voices
 Version: 1.0-4
@@ -2378,24 +2378,6 @@ Author: Netskao
 Installed-Size: 1140
 Name: WeChatNotiAvatar
 
-Package: acreson.zq.autohome
-Version: 1.0.0-1
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Depends: mobilesubstrate
-Filename: debs/Auto-home汽车之家.deb
-Size: 12220
-MD5sum: 1c1d5c100da5feff20b74f5c9670c176
-SHA1: 9ec92b9e6b99d857bfb2359f67ba8219cbbc6bbf
-SHA256: 884cb53dd1aca81a3af53aa86a3b9db1dcef041a178f43f8162a32d0c835a162
-Section: Tweaks
-Description: 汽车之家去广告
-Author: 糖醋丶炒排骨
-Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
-Installed-Size: 72
-Name: 汽车之家去广告
-Sponsor: Acreson <342080124@qq.com>
-
 Package: com.hk.atlas.cn
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -2424,4 +2406,22 @@ Description: 小红书去除启动广告, 去除信息流视频流广告, 修改
 Author: Netskao
 Installed-Size: 392
 Name: 小红书 NoAds
+
+Package: com.lenglengyu.bilibilihz
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: debs/Bilibili会员画质.deb
+Size: 79080
+MD5sum: c4bafb2374672ea094d731ec8bd20607
+SHA1: fb53d5fce70b43947c5496bf3eb1b60a261bbdae
+SHA256: a4b094bb81e9b616051494fd16fa07dd41a662c5c0fa93a8bc45229287be2ef8
+Section: Tweaks
+Description: 解锁大会员画质。
+Author: lenglengyu <lenglengyu@126.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/bilibilihz.html
+Installed-Size: 244
+Name: 哔哩哔-会员画质
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/bilibilihzsileo
 
