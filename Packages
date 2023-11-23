@@ -2442,3 +2442,20 @@ Installed-Size: 564
 Name: ShowTouch
 Sponsor: Nets
 
+Package: com.yanshen.tenmetsu
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Plat-Ykor <plat-ykor@libero.it>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Tenmetsu 专业手电筒_1.1.deb
+Size: 123004
+MD5sum: bdb3b553f754511341daf3569781cafe
+SHA1: baf83af533418f9d531775d9640df736ca179e5a
+SHA256: e7a1dc37e39bb73f34b5486c965c317208806b2ce7d45070e21af4603fc429fe
+Section: Tweaks
+Description: Tenmetsu 是一项越狱插件，让 iPhone 或 iPad 的后置 LED 闪光灯的操作更像是Fenix 或 Nitecore 制造的专业手电筒。它通过添加频闪模式、SOS 模式和定时器模式等功能来实现这一点，所有这些都使你能够做更多的事情，而不仅仅是用 LED 手电筒。
+Author: Plat-Ykor <plat-ykor@libero.it>
+Installed-Size: 468
+Name: Tenmetsu 专业手电筒
+Sponsor: Plat-Ykor <plat-ykor@libero.it>
+
