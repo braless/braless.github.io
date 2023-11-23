@@ -41,6 +41,23 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension
 dev: limneos
 
+Package: com.ps.amber1
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: debs/Amber_1.2.0.deb
+Size: 10158
+MD5sum: fdbded16e30e3b93285fae82d59bff04
+SHA1: 77795612d62186b8845e72458763c1d536758114
+SHA256: 9b4e61cf982e2ff13457d2f18eb3ffc6b64a8c274356951784472ffd918b9125
+Section: Tweaks
+Description: Amber-ify your LED torch. Amber 插件让你可以选择使用哪种 LED 二极管来作为手电筒光泽，包括你想要的色调和强度。Amber: 可让越狱者使用琥珀色 LED 闪光二极管作为手电筒。
+Author: PoomSmart
+Installed-Size: 368
+Name: Amber
+Sponsor: 野心源™ <http://apt.ambier.cn/>
+
 Package: xyz.cypwn.anthocrack
 Version: 0.0.2
 Architecture: iphoneos-arm
