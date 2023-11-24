@@ -1,8 +1,10 @@
 #!/bin/sh
 #压缩打包
-# 通知脚本
+#通知脚本
 notify_script="/APP-JD/my-shell/telegram.sh"
 bash "$notify_script" "Waiting for 120 seconds..."
+
+
 sleep 120
 cd /APP-JD/braless.github.io/
 echo "开始生成Pakages..."

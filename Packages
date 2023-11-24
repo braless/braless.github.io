@@ -2563,3 +2563,20 @@ Installed-Size: 344
 Name: Videoleap Crack
 Sponsor: Huayuarc
 
+Package: com.yanshen.nfcwriterx
+Version: 4.0-100k
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: debs/NFCWriter XS Crack_4.0-100k.deb
+Size: 639070
+MD5sum: 408aa08b63e46606cbc19b677e7b64c1
+SHA1: c123ea65df64507864ce0c5d9e21e1aeee6afe75
+SHA256: 9e3a2d7756d3da9f2976e9db2c8b92d10faba520e13f5be0f787928c6269a2fe
+Section: Tweaks
+Description: 著名的 NFC 模拟/写入 App。它可以读取外部的 NFC tag，然后模拟出来。例如，可以用来模拟小区门禁卡。NFCWriter XS for iOS 11-16
+Author: Elias Limneos
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/nfcwriter.png
+Name: NFCWriter XS Crack
+Sponsor: Huayuarc
+
