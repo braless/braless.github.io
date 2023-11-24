@@ -58,6 +58,23 @@ Installed-Size: 368
 Name: Amber
 Sponsor: 野心源™ <http://apt.ambier.cn/>
 
+Package: com.huayiarc.sixteenmusic
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/SixteenMusic_1.6.deb
+Size: 441234
+MD5sum: 60ae4c5df5bfbc0e92f4d8e9ad5aab80
+SHA1: 329f7e9e2a9d9b7f1898e69902878dcf5724dfad
+SHA256: ca091e6f314c08718952d40402add8ace102f5d3680df0ca005c786aa27e6a28
+Section: Tweaks
+Description: SixteenMusic UI 为用户提供了专辑插图的良好视图和易于理解的媒体控件，以前使用过 iOS 16 设备，这些控件的外观和感觉应该很熟悉。
+Author: Ethan Whited
+Icon: https://media.havoc.app/63def90098112480293d2456
+Name: SixteenMusic
+Sponsor: Ethan Whited
+
 Package: com.hk.appdata.old
 Version: 1.2.6
 Architecture: iphoneos-arm
