@@ -2512,3 +2512,20 @@ Installed-Size: 1420
 MainLibMD5: 95b043ad4be47413b25c80f465cb2c32
 Name: VoiceChanger XS (iOS 11 to 16)
 
+Package: com.yanshen.videoleapcrack
+Version: 0.0.1.1+debug
+Architecture: iphoneos-arm
+Maintainer: Huayuarc
+Depends: mobilesubstrate
+Filename: debs/Videoleap Crack_0.0.1.1+debug.deb
+Size: 11176
+MD5sum: c61001d3ef73c38382df78511dd518d9
+SHA1: bc27951ec2a253dc705acc068b4de9bb134b724a
+SHA256: 847691f5af16e51adb3ce4e3f7f827c7dfb2e129bc0ea530e4d29f43fb8124f0
+Section: Tweaks
+Description: 开启会员权限.解除会员限制.
+Author: Huayuarc
+Installed-Size: 344
+Name: Videoleap Crack
+Sponsor: Huayuarc
+
