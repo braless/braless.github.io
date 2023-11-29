@@ -1666,15 +1666,15 @@ Installed-Size: 216
 Name: 照片直接删除&无限放大
 
 Package: com.xybp888.callassist15
-Version: 1.4.4
+Version: 2.4.4
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/电话助手1.4.4.deb
-Size: 2945604
-MD5sum: 8722ef4880d9d92aa520905e6765f92e
-SHA1: afe5fb243165fcb2816d95e999a1fb031f26f5d7
-SHA256: 71b34f05be0f0366e8c2670f3ae9ae44a265f2baf7126d2639df3f1133cae3b2
+Size: 3421620
+MD5sum: e9a4f53a371b7795ae2c4250b190f309
+SHA1: 9f4eb93b2d28eb23024a966f8f3f98fdc770f9f7
+SHA256: 1ee8317d196d5d0fbc4f34c5614a019a102668deb32182072e455a197ba9b93a
 Section: Tweaks
 Description: 电话助手授权版本,T9双卡选卡拨号键盘,短信双卡选卡,通话录音,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
 Author: xybp888 <8657156@qq.com>
