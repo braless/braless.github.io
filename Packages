@@ -1351,6 +1351,28 @@ Installed-Size: 240
 Name: 威锋去广告
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/weiphonesileo
 
+Package: com.shemeshapps.notiblock
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common, preferenceloader, applist
+Filename: debs/notiblock_0.0.6.deb
+Size: 368454
+MD5sum: 40bb59e63841e0fd33ed23b428d4e4a6
+SHA1: 6dfe086ba2fbe9df817282f0c284db7acd1eb9a8
+SHA256: 9b99a92df8e981532ee694a69bfeab55c4965ee65acf37a2c6d951936dcdcd0d
+Section: Tweaks
+Description: Block notifications and take control of your digital well-being
+Author: ShemeshApps <tomerjshemesh@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notiblockDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notiblockDp
+Icon: file:///Library/PreferenceBundles/NotiBlockPref.bundle/icon@2x.png
+Installed-Size: 728
+Name: NotiBlock
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: shemeshapps
+
 Package: com.aifeng.su
 Version: 0.1
 Architecture: iphoneos-arm
