@@ -2265,23 +2265,6 @@ Installed-Size: 320
 Name: 美团外卖 NoSplash
 Sponsor: Nets
 
-Package: com.netskao.weibonoads
-Version: 1.9-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: debs/微博 NoAds_1.9-8.deb
-Size: 34428
-MD5sum: 73c0e08590adcff1d6cfc540aa856935
-SHA1: 1aefdee9b4b3372d3bac4e020dd1adc2f052ecda
-SHA256: 08cbfe959862a5aab64216c8e79e56b7df19201b42405c524b243ac93e6d3d54
-Section: Tweaks
-Description: 微博去除启动广告, 去除各种信息流中广告, 仅支持微博13.9.0及以上版本
-Author: Netskao
-Installed-Size: 156
-Name: 微博 NoAds
-Sponsor: Nets
-
 Package: com.netskao.wyyyynoads
 Version: 1.2-6
 Architecture: iphoneos-arm
@@ -2299,23 +2282,6 @@ Installed-Size: 2116
 Name: 网易云音乐 NoAds
 Sponsor: 野心源™ <http://apt.ambier.cn/>
 
-Package: com.netskao.weibonoads
-Version: 1.9-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: debs/微博 NoAds_1.9-2.deb
-Size: 156764
-MD5sum: 59a170731d09682ee1beb2315005320c
-SHA1: 5da794c7d0f393ddb396e5d854e898516aabef68
-SHA256: e9514cdfb1abb32f3233c940a3746e8a2e3d8a2c8558aee826de016dd82b7706
-Section: Tweaks
-Description: 微博去除启动广告，去除首页信息流中广告，去除发现信息流中广告，去除个人详情页信息流中广告，去除搜索中广告，去除热搜榜中的广告，去除视频号信息流中广告，去除全屏视频流中的视频广告，去除评论中广，去除热搜榜页面底部潮物按钮，去除发现页面上方的广告横幅和随机出现的视频广告，去除首页顶部故事，去除首页顶部随机弹出的红包，去除首页红包悬浮窗，去除用户头像上方的挂件，去除信息卡片上的个性装饰，去除我的页面任务和推荐关注，去除底部视频或超话随机出现的更新提示，去除截图后分享提示，去除网址拦截，修改复制评论不带用户ID，增加视频详情页面按钮保存视频到相册，增加视频流和视频号页面双击保存视频到相册，支持720P/420P/360P选择等，仅支持微博13.7.0及以上版本
-Author: Netskao
-Installed-Size: 556
-Name: 微博 NoAds
-Sponsor: Nets
-
 Package: com.yanshen.neteasemusicnoads
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -2331,23 +2297,6 @@ Description: 网易云音乐开启播放VIP歌曲及免费下载普通音质VIP�
 Author: 7Loopy
 Name: 网易云音乐 NoAds
 Sponsor: Nets
-
-Package: com.netskao.wfnoads
-Version: 1.6-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: debs/威锋 NoAds_1.6-6.deb
-Size: 111948
-MD5sum: b98fe2cbb26ace5e88eeb82b867abba4
-SHA1: d0b73aa223bea8a6d96fe4435aee32b419b35be1
-SHA256: 69d5b6bb2e0989598e98f537c572e8810138734b64cc97e2969bdf4ee3809a72
-Section: Tweaks
-Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，仅支持6.8.5及以上版本
-Author: Netskao
-Installed-Size: 400
-Name: 威锋 NoAds
-Sponsor: 野心源™ <http://apt.ambier.cn/>
 
 Package: com.yanshen.analyticswechat
 Version: 0.1.0
@@ -2366,23 +2315,6 @@ Installed-Size: 3920
 Name: 微信分析 (AnalyticsWeChat)
 Sponsor: Asmo
 Tag: purpose::extension
-
-Package: com.arwayaw.xyunoads
-Version: 0.0.1.1+debug
-Architecture: iphoneos-arm
-Maintainer: Arway_Aw
-Depends: mobilesubstrate
-Filename: debs/闲鱼 NoAds_0.0.1.1+debug.deb
-Size: 6334
-MD5sum: d0a2e70a6908c34c68277bc47f02fc5d
-SHA1: ae9844b3379b97b7acf090ed2156b2b8475ad451
-SHA256: db3f0894de83e418aed21bcd33540a5546d9ce693e2dfb25ae0e822ab5513910
-Section: Tweaks
-Description: 反馈和定制请联系微信：Arway_aw，关注公众号解锁更多技巧：吾爱补丁。更新支持最新版本去广告。
-Author: Arway_Aw
-Installed-Size: 284
-Name: 闲鱼 NoAds
-Sponsor: 野心源™ <http://apt.ambier.cn/>
 
 Package: gawk
 Version: 4.2.1-1
@@ -2616,4 +2548,72 @@ Section: Tweaks
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)
+
+Package: com.arwayaw.xyunoads
+Version: 0.0.1.1+debug
+Architecture: iphoneos-arm
+Maintainer: Arway_Aw
+Depends: mobilesubstrate
+Filename: debs/闲鱼NoAds_0.0.1.1+debug.deb
+Size: 6334
+MD5sum: d0a2e70a6908c34c68277bc47f02fc5d
+SHA1: ae9844b3379b97b7acf090ed2156b2b8475ad451
+SHA256: db3f0894de83e418aed21bcd33540a5546d9ce693e2dfb25ae0e822ab5513910
+Section: Tweaks
+Description: 反馈和定制请联系微信：Arway_aw，关注公众号解锁更多技巧：吾爱补丁。更新支持最新版本去广告。
+Author: Arway_Aw
+Installed-Size: 284
+Name: 闲鱼 NoAds
+Sponsor: 野心源™ <http://apt.ambier.cn/>
+
+Package: com.netskao.weibonoads
+Version: 1.9-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/微博NoAds_1.9-2.deb
+Size: 156764
+MD5sum: 59a170731d09682ee1beb2315005320c
+SHA1: 5da794c7d0f393ddb396e5d854e898516aabef68
+SHA256: e9514cdfb1abb32f3233c940a3746e8a2e3d8a2c8558aee826de016dd82b7706
+Section: Tweaks
+Description: 微博去除启动广告，去除首页信息流中广告，去除发现信息流中广告，去除个人详情页信息流中广告，去除搜索中广告，去除热搜榜中的广告，去除视频号信息流中广告，去除全屏视频流中的视频广告，去除评论中广，去除热搜榜页面底部潮物按钮，去除发现页面上方的广告横幅和随机出现的视频广告，去除首页顶部故事，去除首页顶部随机弹出的红包，去除首页红包悬浮窗，去除用户头像上方的挂件，去除信息卡片上的个性装饰，去除我的页面任务和推荐关注，去除底部视频或超话随机出现的更新提示，去除截图后分享提示，去除网址拦截，修改复制评论不带用户ID，增加视频详情页面按钮保存视频到相册，增加视频流和视频号页面双击保存视频到相册，支持720P/420P/360P选择等，仅支持微博13.7.0及以上版本
+Author: Netskao
+Installed-Size: 556
+Name: 微博 NoAds
+Sponsor: Nets
+
+Package: com.netskao.weibonoads
+Version: 1.9-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/微博NoAds_1.9-8.deb
+Size: 34428
+MD5sum: 73c0e08590adcff1d6cfc540aa856935
+SHA1: 1aefdee9b4b3372d3bac4e020dd1adc2f052ecda
+SHA256: 08cbfe959862a5aab64216c8e79e56b7df19201b42405c524b243ac93e6d3d54
+Section: Tweaks
+Description: 微博去除启动广告, 去除各种信息流中广告, 仅支持微博13.9.0及以上版本
+Author: Netskao
+Installed-Size: 156
+Name: 微博 NoAds
+Sponsor: Nets
+
+Package: com.netskao.wfnoads
+Version: 1.6-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: debs/威锋NoAds_1.6-6.deb
+Size: 111948
+MD5sum: b98fe2cbb26ace5e88eeb82b867abba4
+SHA1: d0b73aa223bea8a6d96fe4435aee32b419b35be1
+SHA256: 69d5b6bb2e0989598e98f537c572e8810138734b64cc97e2969bdf4ee3809a72
+Section: Tweaks
+Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，仅支持6.8.5及以上版本
+Author: Netskao
+Installed-Size: 400
+Name: 威锋 NoAds
+Sponsor: 野心源™ <http://apt.ambier.cn/>
 
