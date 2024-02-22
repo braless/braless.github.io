@@ -218,18 +218,18 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/nfcwriter.png
 Name: NFCWriter XS Crack
 Sponsor: Huayuarc
 
-Package: com.huayuarc.battsafepro
+Package: com.yanshen.battsafepro
 Version: 1.1.8
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: com.udevs.battsafe
 Filename: /root/jailbreak/braless.github.io/debs/BattSafePro_1.1.8.deb
-Size: 207860
-MD5sum: a0df84b1207d117c45938f7f55733c45
-SHA1: 643285212825d9d96eeb5e0075b552b00e8fc0cb
-SHA256: ddf6cdcdf43dd3fcee8cc160670e4bef865c36c6ce60c41c089ef31cc6e2affc
-Section: A - Tweaks
+Size: 143668
+MD5sum: dad995277ae52398d976c173d9767609
+SHA1: f9f7a7e09880cf90f1db2f3163cf97e05a175d9e
+SHA256: c272b236828b2637f5990d0648fe6c0a9285a2647ab4a8158189093121fd0f49
+Section: Tweaks
 Description: 可以为越狱设备设置充电时可充电最大电量；在达到设定值时充电停止。
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafepro/icon/icon.png
@@ -964,6 +964,24 @@ Installed-Size: 604
 Name: Souvenir锁屏美化
 Sponsor: 搬运工
 
+Package: com.yanshen.flyjbx
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Conflicts: kr.xsf1re.flyjb, kr.xsf1re.flyjbx, netskao.flyjb, apt.cydiakk.flyjb
+Filename: /root/jailbreak/braless.github.io/debs/FlyJB_X_1.1.2.deb
+Size: 976720
+MD5sum: a8f220a85633401b21d41cfb71e5189d
+SHA1: 5d9cf14a5790c8247faa7b22cfdc082f9252f246
+SHA256: d6f9509e7965838112171fa9fd5f73f92b8cfc6aa9ac70457586670cc042fc43
+Section: Tweaks
+Description: FlyJB越狱屏蔽插件是一款IOS13越狱必装的插件之一 、很多时候越狱完成之后就像安卓的ROOT以后，都会被一些软件检测到你的手机已经越狱了，很多功能不能用，很多游戏打开会闪退，等等一些问题、安装了FlyJB越狱屏蔽插件之后，一切问题迎刃而解、它可以屏蔽几乎所有的软件检测，以及系统自带检测。
+Author: XsF1re
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/flyjbx.png
+Name: FlyJB X
+Sponsor: XsF1re
+
 Package: com.arwayaw.xyunoads
 Version: 0.0.1.1+debug
 Architecture: iphoneos-arm
@@ -996,6 +1014,24 @@ Description: Conveniently switch between logged-in accounts, long press the desk
 Author: Netskao
 Installed-Size: 300
 Name: StoreSwitchAccounts
+
+Package: com.yanshen.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjbx
+Filename: /root/jailbreak/braless.github.io/debs/FlyJB_X_1.2.5.deb
+Size: 651544
+MD5sum: f7d19c37e6fb1de5613d3eb5c621ee88
+SHA1: f22223118f41ef1f2a09e66546e609d2a1b9038d
+SHA256: da73dee974e962de86659f52b3cc65315b31a93327f75d134ef39a94f5219066
+Section: Tweaks
+Description: FlyJB越狱屏蔽插件是一款IOS13越狱必装的插件之一 、很多时候越狱完成之后就像安卓的ROOT以后，都会被一些软件检测到你的手机已经越狱了，很多功能不能用，很多游戏打开会闪退，等等一些问题、安装了FlyJB越狱屏蔽插件之后，一切问题迎刃而解、它可以屏蔽几乎所有的软件检测，以及系统自带检测。
+Author: XsF1re
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/flyjbx.png
+Name: FlyJB X
+Sponsor: CyPwn
 
 Package: com.25mao.wxurlexpand
 Version: 0.2-0
@@ -1216,24 +1252,6 @@ Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(Enhance).png
 Installed-Size: 140
 Name: NeteaseMusicHook
 Sponsor: Acreson <342080124@qq.com>
-
-Package: com.huayuarc.flyjbx
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: XsF1re
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Conflicts: kr.xsf1re.flyjb, kr.xsf1re.flyjbx, netskao.flyjb, apt.cydiakk.flyjb
-Filename: /root/jailbreak/braless.github.io/debs/FlyJB X_1.1.2.deb
-Size: 1124188
-MD5sum: f3d124b63e70fb27c79b45efc262f77c
-SHA1: 5a1846cd1f04216c7bb49fe612e61ce4ed3e3823
-SHA256: 7c36525f8d2e4a9bde1cde967348aec3117edc33e2e081187a7cd20bd1c62793
-Section: A - Tweaks
-Description: FlyJB越狱屏蔽插件是一款IOS13越狱必装的插件之一 、很多时候越狱完成之后就像安卓的ROOT以后，都会被一些软件检测到你的手机已经越狱了，很多功能不能用，很多游戏打开会闪退，等等一些问题、安装了FlyJB越狱屏蔽插件之后，一切问题迎刃而解、它可以屏蔽几乎所有的软件检测，以及系统自带检测。
-Author: XsF1re
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/flyjbx.png
-Name: FlyJB X
-Sponsor: XsF1re
 
 Package: cn.yanshen.qqpurification
 Version: 1.9-9.8
@@ -2552,24 +2570,6 @@ Icon: https://piniponselvagem.github.io/cydia/assets/repo/tweaks/ChidoriCharge/i
 Installed-Size: 588
 Name: ChidoriCharge
 Sponsor: PiniponSelvagem
-
-Package: com.huayuarc.flyjbx
-Version: 1.2.5
-Architecture: iphoneos-arm
-Maintainer: CyPwn
-Depends: mobilesubstrate
-Conflicts: kr.xsf1re.flyjbx
-Filename: /root/jailbreak/braless.github.io/debs/FlyJB X_1.2.5.deb
-Size: 765326
-MD5sum: a5818fa47834b7f8fa7a5a146be28a6d
-SHA1: 1609210c67dd5c510da63d2fd5e094613c6a0d92
-SHA256: 35b21e12ecb8085ffa93fa960296622eeecabaa1a2e14aaabe0a5612cbf6a278
-Section: A - Tweaks
-Description: FlyJB越狱屏蔽插件是一款IOS13越狱必装的插件之一 、很多时候越狱完成之后就像安卓的ROOT以后，都会被一些软件检测到你的手机已经越狱了，很多功能不能用，很多游戏打开会闪退，等等一些问题、安装了FlyJB越狱屏蔽插件之后，一切问题迎刃而解、它可以屏蔽几乎所有的软件检测，以及系统自带检测。
-Author: XsF1re
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/flyjbx.png
-Name: FlyJB X
-Sponsor: CyPwn
 
 Package: com.yanshen.analyticswechat
 Version: 0.1.0
