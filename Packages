@@ -121,10 +121,10 @@ Architecture: iphoneos-arm
 Maintainer: HuangBai
 Depends: mobilesubstrate
 Filename: /root/jailbreak/braless.github.io/debs/黄白助手(微信插件)_1.6.8.deb
-Size: 9551668
-MD5sum: 45e9e6edbe1c3e7506837b7bdfa4a315
-SHA1: 9e8df4ff4f10ea58fe84c897db365cc34ad8e1ab
-SHA256: 9c1f97bbbd81e7940d1eb00f05e3123338b8f6667f469864938478801bd2bb2f
+Size: 9551496
+MD5sum: 3f8475c9fa651282d318bada1ea1b090
+SHA1: 48b1bbf66f904b1cab0fb828877c48a77a7084b9
+SHA256: 6262f29c948fd31f9d2ef0eacd2302e35e82462940745e66b3b355450f5c042e
 Section: Tweaks
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai
@@ -1277,10 +1277,10 @@ Architecture: iphoneos-arm
 Maintainer: HuangBai
 Depends: mobilesubstrate
 Filename: /root/jailbreak/braless.github.io/debs/黄白助手(微信插件)_1.6.9.deb
-Size: 9257132
-MD5sum: 4622a2eb7b0b6074ea9cc26777c9f486
-SHA1: 8cc08c7afe2e3e211ab3acc1e3ac1c5b38a0b860
-SHA256: 3a20d99b69e167fa5c8f458a0ee51e8efbe333f5b90a77069c641a0bc066a5b2
+Size: 9255368
+MD5sum: d8e89441ec658ddb173116af6ff93012
+SHA1: e432f1dd6cf049a7b917f701ec78742bbb8e7141
+SHA256: 4cb9ef613786a1c4edd6373ac8e9b87ba4ec918050daf0940573764d9d28d4cc
 Section: Tweaks
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai
@@ -1397,10 +1397,10 @@ Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: /root/jailbreak/braless.github.io/debs/YTLite_2.6.2.deb
-Size: 72796
-MD5sum: 61e471ca0ec49b2bbf1cb01064282db7
-SHA1: 8bbe1b8ce7929ec60ceb95033f583753ae670d49
-SHA256: 5071e1afa1deb88be6e9415845a9a88457b5ca872be1a79377a541600c33c2ee
+Size: 72792
+MD5sum: 0966049a79c7d912b5040b67acc2aa57
+SHA1: e5f8795211b0deb9d4d6665cf6f6b685e737eb4f
+SHA256: 69a0c142006139fea9ab898afb5135b619738a34d7fe1c68e29fd823d738321e
 Section: Tweaks
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -1652,10 +1652,10 @@ Architecture: iphoneos-arm
 Maintainer: lclrc(SquidForce)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
 Filename: /root/jailbreak/braless.github.io/debs/Hammer It_1.5.0.deb
-Size: 435760
-MD5sum: b9ba494543afce13f2191e8337d4ebb5
-SHA1: fa4cafb4d454b62ffdd5e7d0528fd05d8788cd99
-SHA256: bd32403f9fd23157ec52a0b5dc683b18961bdf252f580d30e6e719cd87c05a5d
+Size: 437592
+MD5sum: 52d21e500435936f0f2be6f774126670
+SHA1: a40d6e553172209e514dd0307725ec9bc4ecd93e
+SHA256: 87c35c37b522258f3387935506b7c91cf7fd21677963ce4dd082e1552ce50d5f
 Section: Tweaks
 Description: HammerIt 窗口，并可将选中的文本或复制的内容分词、翻译、搜索等。 功能特点 - HammerIt 窗口 - 按选定顺序或原始顺序输出 - 预览所选文本 - 连续复制 - 打开链接、搜索、翻译 - 长按复制按钮可执行更多操作 - 长按搜索按钮可在其他应用程序中搜索 - 长按字块可再次分开字块 - 双击词块进行编辑 - 翻译窗口 - 长按浮球可快速唤醒 - 比较原文和译文 - 自动文字语言识别 - 轻按提示标签重新翻译 - 长按提示标签可切换其他翻译服务 - 图像 OCR - 复制图像后会出现浮球 - 点击浮球对图像进行 OCR 识别并分词 - 长按浮球可对图像进行 OCR 识别和翻译 - 控制中心 - 全屏截图 OCR 并分词 - 全屏截图 OCR 和翻译 - 分割剪贴板上的最新记录 - 手势
 Author: lclrc(SquidForce)
@@ -1958,10 +1958,10 @@ Architecture: iphoneos-arm
 Maintainer: lclrc(SquidForce)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
 Filename: /root/jailbreak/braless.github.io/debs/SquidGesture_1.3.4.deb
-Size: 189020
-MD5sum: b1f387339e58147181ab30c2d20aa046
-SHA1: ee0a086378d93c050a52349d2291c10eb16d560e
-SHA256: 69ee85a1bb4d1367f2d5e6aea2ce6b8dc19073a334036be59148c5f740c64571
+Size: 189176
+MD5sum: f32e23a8a2546ff0986352c16ee4a20e
+SHA1: 8e987f535a6d0df566ac031573c9c8f59090641a
+SHA256: f8c526030eeee174e70461072833600cf80d26705b623c729196cbf5043033b9
 Section: Tweaks
 Description: SquidGesture简介:手势调整。现在包括来自手机底部边缘和状态栏的触发器，并内置了一些常用操作。-触发方式-底部边缘手势与系统的应用切换器手势相同,不同的滑动距离会触发不同的操作。-状态栏手势包括单击、双击、长按、向左轻扫、向右轻扫-Dock向上轻扫、向左轻扫、向右轻扫-硬件按钮等…..-包含的操作-系统截图-控制中心-通知中心-聚光灯-记录屏幕锁定屏幕-打开/关闭VPN-播放/暂停-上一曲目-下一曲目-可达性-切换旋转锁-打开特定应用程序-切换手电筒-启动应用程序-切换旋转锁-快捷方式(在iOS14和iOS15上测试)-音乐控制-
 Author: lclrc(SquidForce)
@@ -2011,10 +2011,10 @@ Architecture: iphoneos-arm
 Maintainer: AhmedBafkir
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: /root/jailbreak/braless.github.io/debs/DLEasy_2.14.2.deb
-Size: 5552712
-MD5sum: 2f5b98e9a3e0505cfe7a7f61eb6ede21
-SHA1: a89da07bdbc8c2ae36cf1b0a4b8448dfd2142658
-SHA256: f9beb98787cbdf28c427fb545dc44ba9e14ffaa263a858d857eeb4b58856ce11
+Size: 5556596
+MD5sum: 9be57861fe18248df2f2525bcff87f89
+SHA1: cacb6218eb60d72b4fe539e1c098a425f3dd6c21
+SHA256: 509786f20ecb314d66b0894a94204da0dd0d6d4f87176f64a4a900fb8be66e4d
 Section: Tweaks
 Description: DLEasy,知名的国外社交App视频下载神器。
 Author: AhmedBafkir
@@ -2218,10 +2218,10 @@ Architecture: iphoneos-arm
 Maintainer: Asmo
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: /root/jailbreak/braless.github.io/debs/微信分析 (AnalyticsWeChat)_0.4.1.deb
-Size: 1734340
-MD5sum: 7fb3026ae6061677d6542930955cc54f
-SHA1: 93b5e77827bab770c9d3cbac0e87679776600e4c
-SHA256: b0ae86b5bed81a7d49ebc6c8573a4c215cf88ae46a51f7c31f2c66881f197dd7
+Size: 1732760
+MD5sum: 3295d26929debeafd199d80e0109761d
+SHA1: b301cdaf2bef2a5e943257c1bf06e2e4073bf30a
+SHA256: 07f891d7840570fc0e877ec3049c0c4e0df8d9a8ea0982159d2dbc2567fc2a86
 Section: Tweaks
 Description: 分析微信朋友圈、好友和聊天数据。可统计好友数量、性别数量和占比、好友添加方式、省份分布，统计个人和群聊消息量以及排行。统计朋友圈谁发的多、发的时间、有什么类型以及朋友圈词云展示等。支持导出统计页面为PDF。个人消息和群聊自动回复，大模型智能聊天。
 Author: Asmo
@@ -2932,9 +2932,9 @@ Maintainer: Kiran Patil
 Depends: mobilesubstrate
 Filename: /root/jailbreak/braless.github.io/debs/EZSwipe_1.1.1.deb
 Size: 22328
-MD5sum: 2497399445b8737d3e7fbf3b47d259ac
-SHA1: 0c8232ef1954f5e58afe7a85b68837cc470e144f
-SHA256: b295e1e2ccf1233d62b11f16ee539a0dd14d75b0a17874ce565926fef50d714a
+MD5sum: 2742144608817b7543a351cdbf58afc8
+SHA1: 7dd5140fd918033526c5cc3e4877745af4532861
+SHA256: bff2962d367c001bfec5218fa36ac6b2e1c4557a5a9576ba718aea60f29abbf2
 Section: Tweaks
 Description: EZSwipe 插件，取代主屏幕下滑呼出聚焦搜索，可以自定义下滑的操作。EZSwipe 设置中，开启开关后，可以在设置中自定义左边、中间、右边，三个位置下滑的操作。
 Author: Kiran Patil
