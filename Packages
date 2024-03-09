@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: netskao.kanosplash
-Filename: /root/jailbreak/braless.github.io/debs/酷安NoAds.deb
+Filename: debs/酷安NoAds.deb
 Size: 104956
 MD5sum: 8181fcfa7c69d1b0318f53b7f98d688a
 SHA1: 79409094afbbf710134c65ebdd0bb0922cd22a29
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158), firmware (>= 11.0)
 Conflicts: net.limneos.audiorecorder (<= 1.7-4)
-Filename: /root/jailbreak/braless.github.io/debs/AnsweringMachine_2.0-17.deb
+Filename: debs/AnsweringMachine_2.0-17.deb
 Size: 497004
 MD5sum: c70a1c2daa416b71cab56c625ed9ad68
 SHA1: 32d16faf91711093691da39b638e4edc22926294
@@ -43,7 +43,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Ball
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/NFCWriterXS简体中文包.1.1.deb
+Filename: debs/NFCWriterXS简体中文包.1.1.deb
 Size: 16430
 MD5sum: 598105ce8980982e11b4d11e9ddf3c06
 SHA1: 0408354f196a7e88948a0cc5b1c4ec6a351870c5
@@ -57,7 +57,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/高德地图优化_1.0.2.deb
+Filename: debs/高德地图优化_1.0.2.deb
 Size: 95292
 MD5sum: 886ce6e35c2b532c7f72eb9c25fce5f0
 SHA1: 503f45bcb935561d554e584473e1aba439f45960
@@ -74,7 +74,7 @@ Version: 1.0.4-2
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/ShowTouch_1.0.4-2.deb
+Filename: debs/ShowTouch_1.0.4-2.deb
 Size: 104930
 MD5sum: 4808906f66236e596f43a999a50c18a2
 SHA1: 3e6f7b1187914d03f1ece629e0cb74709f5ce89d
@@ -89,7 +89,7 @@ Sponsor: Nets
 Package: com.ball.sneakycam.ch.cn
 Version: 2.0.4
 Architecture: iphoneos-arm
-Filename: /root/jailbreak/braless.github.io/debs/SneakyCam简体中文包.2.0.4.deb
+Filename: debs/SneakyCam简体中文包.2.0.4.deb
 Size: 2260
 MD5sum: 3a312735d899e4a47f2e5f5b77942a95
 SHA1: d3d3d9150438b76a510bf06e196fcece1f822efc
@@ -103,7 +103,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/威锋 Noads_1.1.deb
+Filename: debs/威锋 Noads_1.1.deb
 Size: 4100
 MD5sum: b6b1b4a3ac1b61bae9a517b0ad62b8bd
 SHA1: 0d01a2543f40f4221187b149b7434535badcbe62
@@ -120,7 +120,7 @@ Version: 1.6.8
 Architecture: iphoneos-arm
 Maintainer: HuangBai
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/黄白助手(微信插件)_1.6.8.deb
+Filename: debs/黄白助手(微信插件)_1.6.8.deb
 Size: 9551496
 MD5sum: 3f8475c9fa651282d318bada1ea1b090
 SHA1: 48b1bbf66f904b1cab0fb828877c48a77a7084b9
@@ -136,7 +136,7 @@ Version: 1.4.17
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Filename: /root/jailbreak/braless.github.io/debs/Dictmojix_1.4.17.deb
+Filename: debs/Dictmojix_1.4.17.deb
 Size: 52932
 MD5sum: eb1932a8788aaec6fb3d976dd154a699
 SHA1: 4e8fe1f95e85d737a5929ee774c40dd556213616
@@ -155,7 +155,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0)
 Conflicts: 
-Filename: /root/jailbreak/braless.github.io/debs/CoreUI.deb
+Filename: debs/CoreUI.deb
 Size: 6776
 MD5sum: 7b1a8a4bbeebfd8e18dab86910dee7f2
 SHA1: 954aef053dbbf2823e7b6a460fcffb98d610a0dd
@@ -173,7 +173,7 @@ Version: 1.2-6
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/网易云音乐 NoAds_1.2-6.deb
+Filename: debs/网易云音乐 NoAds_1.2-6.deb
 Size: 476816
 MD5sum: 3f21c8897d7b99c06880b22e04b466e2
 SHA1: cae9db5e73cc50d9910a48181ccb9d6eba2ad2d0
@@ -190,7 +190,7 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/TrollStore简体中文包.1.1-1.deb
+Filename: debs/TrollStore简体中文包.1.1-1.deb
 Size: 17498
 MD5sum: 6537163c2ebb0c0e91099ce61917c55b
 SHA1: e38636b6715a6e3a8b48b880f97604b38e5bd23d
@@ -206,7 +206,7 @@ Version: 4.0-100k
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate, net.limneos.libbulletin
-Filename: /root/jailbreak/braless.github.io/debs/NFCWriter XS Crack_4.0-100k.deb
+Filename: debs/NFCWriter XS Crack_4.0-100k.deb
 Size: 639070
 MD5sum: 408aa08b63e46606cbc19b677e7b64c1
 SHA1: c123ea65df64507864ce0c5d9e21e1aeee6afe75
@@ -224,7 +224,7 @@ Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: com.udevs.battsafe
-Filename: /root/jailbreak/braless.github.io/debs/BattSafePro_1.1.8.deb
+Filename: debs/BattSafePro_1.1.8.deb
 Size: 143668
 MD5sum: dad995277ae52398d976c173d9767609
 SHA1: f9f7a7e09880cf90f1db2f3163cf97e05a175d9e
@@ -241,7 +241,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: /root/jailbreak/braless.github.io/debs/AddToFolder.1.4.deb
+Filename: debs/AddToFolder.1.4.deb
 Size: 124080
 MD5sum: 5d70ed0a135284c6d0229eba69c01066
 SHA1: 1187250eae875f3fec917b43b4b9b5a074342cd3
@@ -261,7 +261,7 @@ Version: 0.3-5
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0)
-Filename: /root/jailbreak/braless.github.io/debs/libnotifications.0.3-5.deb
+Filename: debs/libnotifications.0.3-5.deb
 Size: 97606
 MD5sum: 7dd6bfb80ab9ac4ba57a87d6481e6294
 SHA1: 9ba1fbf106afb4584e34ae2cfa96d59b45638a78
@@ -283,7 +283,7 @@ Version: 1.6-6
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/威锋NoAds_1.6-6.deb
+Filename: debs/威锋NoAds_1.6-6.deb
 Size: 111948
 MD5sum: b98fe2cbb26ace5e88eeb82b867abba4
 SHA1: d0b73aa223bea8a6d96fe4435aee32b419b35be1
@@ -300,7 +300,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Ai-小苹果™
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/减法相册Pro.1.0-1.deb
+Filename: debs/减法相册Pro.1.0-1.deb
 Size: 164640
 MD5sum: b89f0202029e7d06e211112b7cdf3331
 SHA1: 82bec9d2ff068b690d682a1667732e344aa27359
@@ -320,7 +320,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/CocoaTop汉化.deb
+Filename: debs/CocoaTop汉化.deb
 Size: 24814
 MD5sum: 20c0b64fb85b469c5a5500f28bc2514d
 SHA1: 25489099c07244024e033d48dcaff63fea90cef4
@@ -337,7 +337,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: app.weiphone.tinyapps.location360pro
-Filename: /root/jailbreak/braless.github.io/debs/虚拟定位-原版.deb
+Filename: debs/虚拟定位-原版.deb
 Size: 4049596
 MD5sum: 194187888dd21eb1041577b702aa6b0d
 SHA1: c2adef1c13bd7de1c1960888a61ad6f1913143e9
@@ -355,7 +355,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/LocalIAPStore13「内购破解」.0.0.2.deb
+Filename: debs/LocalIAPStore13「内购破解」.0.0.2.deb
 Size: 8686
 MD5sum: af0c65c6c86db17ce718967dd3f583a1
 SHA1: 40c2ff01c36a446fb128930120073bff86580364
@@ -374,7 +374,7 @@ Version: 1.8.8
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Filename: /root/jailbreak/braless.github.io/debs/虚拟定位-补丁1.8.8.deb
+Filename: debs/虚拟定位-补丁1.8.8.deb
 Size: 313050
 MD5sum: 77f7f6ef769e2586f5da1654725a1d04
 SHA1: 1d7daf87026a6680a6f6a1bbf00ad901b445210e
@@ -391,7 +391,7 @@ Version: 1.2-7
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/哔哩哔哩 NoAds_1.2-7.deb
+Filename: debs/哔哩哔哩 NoAds_1.2-7.deb
 Size: 83728
 MD5sum: 6e9f13796a8d4e37a6cad8856a089b05
 SHA1: bb1dd73619813363addcab39e12c646344507b13
@@ -408,7 +408,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/网易云NoAds.deb
+Filename: debs/网易云NoAds.deb
 Size: 140202
 MD5sum: 233db794d73dfb9b4764029481e03358
 SHA1: c7d7b7dec7af2741081eec1a676b93e52257c630
@@ -425,7 +425,7 @@ Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
-Filename: /root/jailbreak/braless.github.io/debs/YTLite.2.3.1.deb
+Filename: debs/YTLite.2.3.1.deb
 Size: 63654
 MD5sum: 8dbeda4056b6d15c0208fb037ae4ddbf
 SHA1: 6610b468c5a7ac12565bdd282d6660fd483dc768
@@ -439,7 +439,7 @@ Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common, preferenceloader, applist
-Filename: /root/jailbreak/braless.github.io/debs/notiblock_0.0.6.deb
+Filename: debs/notiblock_0.0.6.deb
 Size: 368454
 MD5sum: 40bb59e63841e0fd33ed23b428d4e4a6
 SHA1: 6dfe086ba2fbe9df817282f0c284db7acd1eb9a8
@@ -461,7 +461,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/数字人民币屏蔽越狱_1.0.1.deb
+Filename: debs/数字人民币屏蔽越狱_1.0.1.deb
 Size: 17444
 MD5sum: f7b665c9c018aa9143f93f6e06f66bb4
 SHA1: 3af24ddb3bd4f63ec0a4ffd7ee02daf20d3ec63b
@@ -478,7 +478,7 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/SixteenMusic_1.6.deb
+Filename: debs/SixteenMusic_1.6.deb
 Size: 441234
 MD5sum: 60ae4c5df5bfbc0e92f4d8e9ad5aab80
 SHA1: 329f7e9e2a9d9b7f1898e69902878dcf5724dfad
@@ -495,7 +495,7 @@ Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: /root/jailbreak/braless.github.io/debs/LatchKey-2.3.deb
+Filename: debs/LatchKey-2.3.deb
 Size: 263066
 MD5sum: 03db84bf21771a1bab221df20f14528f
 SHA1: 364177d2826bab50625912810f034f5563269f1b
@@ -514,7 +514,7 @@ Version: 1.1-7
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信头像1.1.4.deb
+Filename: debs/微信头像1.1.4.deb
 Size: 258596
 MD5sum: 611e655c49b45fa1f7a229f42fbb9074
 SHA1: d4d06f9a3e5983bcbab835e0b496fdb1d2f6beab
@@ -531,7 +531,7 @@ Architecture: iphoneos-arm
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: /root/jailbreak/braless.github.io/debs/AutoTouch_Crack_6.1.2.deb
+Filename: debs/AutoTouch_Crack_6.1.2.deb
 Size: 28683192
 MD5sum: 3c5ff7c549fedbb272629e4c9649e844
 SHA1: 240d14a314c8691a3d9f4318af57542d4ee3dc9d
@@ -549,7 +549,7 @@ Version: 1.0k
 Architecture: iphoneos-arm
 Maintainer: Jianan Tian <409774743@qq.com>
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/Callkit.deb
+Filename: debs/Callkit.deb
 Size: 9558
 MD5sum: e828120bce6211c1b25215265a024b59
 SHA1: 8354cb6b02f27d4b6aeb921609dc3b5c5137acd5
@@ -568,7 +568,7 @@ Version: 1.6.1
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common
-Filename: /root/jailbreak/braless.github.io/debs/Airaw_1.6.1.deb
+Filename: debs/Airaw_1.6.1.deb
 Size: 11103304
 MD5sum: c1ab5f2f32cb3809d05cd666f4123514
 SHA1: e2fd4337354a320352cc3bde84fbe46fed73a008
@@ -585,7 +585,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/BHTikTok简体中文包.0.0.1-1.deb
+Filename: debs/BHTikTok简体中文包.0.0.1-1.deb
 Size: 11928
 MD5sum: 9edb7ffeb3503c187a892607956571fc
 SHA1: d377eacf7cb8b31be86dd0ad3b3c878fea2dd139
@@ -599,7 +599,7 @@ Version: 0.4-3
 Architecture: iphoneos-arm
 Maintainer: Curtin curtinlv@126.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/PKC.0.4-3.deb
+Filename: debs/PKC.0.4-3.deb
 Size: 337208
 MD5sum: d87192e5ea98907e22dcf5893856014e
 SHA1: 21ba092de588b6c190f52fbff1216c8652f9bf54
@@ -618,7 +618,7 @@ Version: 1.9-8
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微博NoAds_1.9-8.deb
+Filename: debs/微博NoAds_1.9-8.deb
 Size: 34428
 MD5sum: 73c0e08590adcff1d6cfc540aa856935
 SHA1: 1aefdee9b4b3372d3bac4e020dd1adc2f052ecda
@@ -635,7 +635,7 @@ Version: 1.3-7
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/小红书 NoAds_1.3-7.deb
+Filename: debs/小红书 NoAds_1.3-7.deb
 Size: 102936
 MD5sum: 17379e2291a5aa45e7f213c92e178ee2
 SHA1: c2140435b3f7485acdc486f521baebcfc46bcdcc
@@ -652,7 +652,7 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Maintainer: 搬运工
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/随机小姐姐.deb
+Filename: debs/随机小姐姐.deb
 Size: 24370
 MD5sum: 58de9d819e0226a6475284b7bf61a1e8
 SHA1: 1e0e80fb95c07a90a0e97e421f8f0a0022158593
@@ -671,7 +671,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: com.hk.toutiao
-Filename: /root/jailbreak/braless.github.io/debs/头条NoAds.1.3-3.deb
+Filename: debs/头条NoAds.1.3-3.deb
 Size: 86536
 MD5sum: d9072230c92be0626a0eb0f300c2bb4e
 SHA1: a2f321e00c96deabd062201b3937851670035e2c
@@ -687,7 +687,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic, netskao.ccsim-rootless, netskao.ccsim
-Filename: /root/jailbreak/braless.github.io/debs/CC++iOS15.1.0.7.deb
+Filename: debs/CC++iOS15.1.0.7.deb
 Size: 234666
 MD5sum: 92630e4b6575ab8e2bf096e25a8cf95a
 SHA1: 85a3d54a7f5b333cce137044c675374c943f9912
@@ -702,7 +702,7 @@ Version: 0.3.2
 Architecture: iphoneos-arm
 Maintainer: parrotgeek1
 Depends: mobilesubstrate, firmware (>= 9)
-Filename: /root/jailbreak/braless.github.io/debs/Globalize.0.3.2.deb
+Filename: debs/Globalize.0.3.2.deb
 Size: 16912
 MD5sum: 9c4b3cb877d5cd9c593853996494dac7
 SHA1: 2e9e3143e7d2dded33f30df0d07d10439267f059
@@ -718,7 +718,7 @@ Version: 1.0.1.3-1
 Architecture: iphoneos-arm
 Maintainer: niceios
 Depends: com.niceios.nicehelper (>= 4.4), preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/NiceLogX.1.0.1.3-1.deb
+Filename: debs/NiceLogX.1.0.1.3-1.deb
 Size: 2171860
 MD5sum: ac20f07c235cd2364e47ae74e4d4f0d2
 SHA1: 903092aec4fbe0fd87bd2bf5a23a4e40dbd1fe6f
@@ -736,7 +736,7 @@ Architecture: iphoneos-arm
 Maintainer: Editornah
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
-Filename: /root/jailbreak/braless.github.io/debs/钉钉助手.deb
+Filename: debs/钉钉助手.deb
 Size: 101486
 MD5sum: d47578f6d57c4c27766fc896977588ff
 SHA1: d73d08fb19c0863b1eb598df167d1a07805a6df7
@@ -755,7 +755,7 @@ Version: 2.9-6
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: /root/jailbreak/braless.github.io/debs/抖音净化2.9.6.deb
+Filename: debs/抖音净化2.9.6.deb
 Size: 1258704
 MD5sum: 5650bb8236f63e69e890e7d7c5b0dcc9
 SHA1: 113a223503f3bd89bdd147194e05ff908c956149
@@ -772,7 +772,7 @@ Architecture: iphoneos-arm
 Maintainer: 搬运工
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: netskao.wceablefriendsstar
-Filename: /root/jailbreak/braless.github.io/debs/微信朋友圈置顶.deb
+Filename: debs/微信朋友圈置顶.deb
 Size: 66196
 MD5sum: 5bf7eec91cfda92c468fc3ed2d5c6653
 SHA1: e008c2653c85c74be030ae386b1c80a6952750c1
@@ -789,7 +789,7 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/美团外卖 NoSplash_1.1-1.deb
+Filename: debs/美团外卖 NoSplash_1.1-1.deb
 Size: 89530
 MD5sum: 490daff458ebacdef1e28d3fb95aa120
 SHA1: 15a2353c8dad74f67556da9e6a22e93315a97e50
@@ -806,7 +806,7 @@ Version: 1.6.4
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/黄白助手1.6.4.deb
+Filename: debs/黄白助手1.6.4.deb
 Size: 9893584
 MD5sum: 56c951e52616c4fb421e3aefd12c2bf8
 SHA1: 6662af269f81b46bb8f06c99c10d5a7d59af92de
@@ -821,7 +821,7 @@ Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/VSCO Crack_1.1-3.deb
+Filename: debs/VSCO Crack_1.1-3.deb
 Size: 107870
 MD5sum: f76659596a8c570e20c76308b28f70a2
 SHA1: ec54d28bf196a25d0b24d8afacbbcf35e14a86cb
@@ -838,7 +838,7 @@ Version: 1.0.10~beta2
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/com.rpetrich.rocketbootstrap_1.0.10~beta2_iphoneos-arm.deb
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.10~beta2_iphoneos-arm.deb
 Size: 23176
 MD5sum: b733716ebee3effcc80ade57633a7a65
 SHA1: f3b651b8baeedf6a9e43cab5a40459fc137b1741
@@ -859,7 +859,7 @@ Version: 1.6.6
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/黄白助手1.6.6.deb
+Filename: debs/黄白助手1.6.6.deb
 Size: 11388166
 MD5sum: 70ee78b9aa8d4c9b1176adeef55dd29d
 SHA1: 6db0b2655884b12853b3800947009e351dea8f4f
@@ -874,7 +874,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: lenglengyu <lenglengyu@126.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/Bilibili会员画质.deb
+Filename: debs/Bilibili会员画质.deb
 Size: 79080
 MD5sum: c4bafb2374672ea094d731ec8bd20607
 SHA1: fb53d5fce70b43947c5496bf3eb1b60a261bbdae
@@ -892,7 +892,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/汽水音乐-NoAds_1.0.1.deb
+Filename: debs/汽水音乐-NoAds_1.0.1.deb
 Size: 22644
 MD5sum: 59fc47ff2ef6f46fa7ae8db6c35e8b04
 SHA1: f8d980adb2aa4a5eb802b6c1ea1254a09fcd6bf2
@@ -909,7 +909,7 @@ Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: Ai-小苹果
 Depends: mobilesubstrate, preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/ShieldAlert屏蔽弹窗.1.2.2.deb
+Filename: debs/ShieldAlert屏蔽弹窗.1.2.2.deb
 Size: 52062
 MD5sum: 7add92d4647fd2b41119342c5ab7ab0b
 SHA1: 50bb43a70295bf221507b7088abc1f8b4e57fba5
@@ -931,7 +931,7 @@ Maintainer: Curtin curtinlv@126.com
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: 
 Replaces: 
-Filename: /root/jailbreak/braless.github.io/debs/PKC微信助手.deb
+Filename: debs/PKC微信助手.deb
 Size: 67670
 MD5sum: 3760c50297d497f5c133facfd2bfb042
 SHA1: 33634b8bae183a52faa0918f4364120b0db5f264
@@ -951,7 +951,7 @@ Version: 1.22
 Architecture: iphoneos-arm
 Maintainer: 搬运工
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/Souvenir.deb
+Filename: debs/Souvenir.deb
 Size: 110390
 MD5sum: 5b630aa7945f112796692f14716d4865
 SHA1: b2ee6e1133a9a778c25dd2a23197ae54d99a0bb1
@@ -970,7 +970,7 @@ Architecture: iphoneos-arm
 Maintainer: XsF1re
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
 Conflicts: kr.xsf1re.flyjb, kr.xsf1re.flyjbx, netskao.flyjb, apt.cydiakk.flyjb
-Filename: /root/jailbreak/braless.github.io/debs/FlyJB_X_1.1.2.deb
+Filename: debs/FlyJB_X_1.1.2.deb
 Size: 976720
 MD5sum: a8f220a85633401b21d41cfb71e5189d
 SHA1: 5d9cf14a5790c8247faa7b22cfdc082f9252f246
@@ -987,7 +987,7 @@ Version: 0.0.1.1+debug
 Architecture: iphoneos-arm
 Maintainer: Arway_Aw
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/闲鱼NoAds_0.0.1.1+debug.deb
+Filename: debs/闲鱼NoAds_0.0.1.1+debug.deb
 Size: 6334
 MD5sum: d0a2e70a6908c34c68277bc47f02fc5d
 SHA1: ae9844b3379b97b7acf090ed2156b2b8475ad451
@@ -1004,7 +1004,7 @@ Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/StoreSwitchAccounts.1.1-2.deb
+Filename: debs/StoreSwitchAccounts.1.1-2.deb
 Size: 54838
 MD5sum: 5242bff623c57c5e95d1511859bcb52f
 SHA1: 239e0d67e9d19a89d02ba2f3c2cc8b8f43db1a25
@@ -1021,7 +1021,7 @@ Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjbx
-Filename: /root/jailbreak/braless.github.io/debs/FlyJB_X_1.2.5.deb
+Filename: debs/FlyJB_X_1.2.5.deb
 Size: 651544
 MD5sum: f7d19c37e6fb1de5613d3eb5c621ee88
 SHA1: f22223118f41ef1f2a09e66546e609d2a1b9038d
@@ -1038,7 +1038,7 @@ Version: 0.2-0
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信URL扩展.0.2-0.deb
+Filename: debs/微信URL扩展.0.2-0.deb
 Size: 42792
 MD5sum: 712001055336f7059577bacee50c506d
 SHA1: 0535c5a77f0251a5e44d3a0724ce4633ed09b106
@@ -1055,7 +1055,7 @@ Version: 3.6.4k
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: /root/jailbreak/braless.github.io/debs/xyz.cypwn.lastlook.deb
+Filename: debs/xyz.cypwn.lastlook.deb
 Size: 425996
 MD5sum: c086f8a2c3040580e96dc2a7735b225f
 SHA1: 14207198d64f3f6310a90e344baff5cf17cdfb1f
@@ -1073,7 +1073,7 @@ Version: 1.3.9
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/Crane中文修复包.1.3.9.deb
+Filename: debs/Crane中文修复包.1.3.9.deb
 Size: 11732
 MD5sum: 545d563c9e388a442b76872c9037a035
 SHA1: b91825db5995f78f3d07936b41ba9d06f0340587
@@ -1087,7 +1087,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: iCraze
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/KeepMyJB.1.1.deb
+Filename: debs/KeepMyJB.1.1.deb
 Size: 9114
 MD5sum: 44fbe170cb7d2b8a7e602957bd42a64e
 SHA1: 471330ae428766c6c52fe049a056141e93fa47f8
@@ -1105,7 +1105,7 @@ Maintainer: jjolano
 Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
 Conflicts: me.jjolano.shadow.beta
 Replaces: me.jjolano.shadow.beta
-Filename: /root/jailbreak/braless.github.io/debs/shadow_3.6.1.deb
+Filename: debs/shadow_3.6.1.deb
 Size: 172340
 MD5sum: 7dc6939cea6937cc94f8ec9ec712c828
 SHA1: ac04c30cf1c93b8ec68c5836ae8fb18850ebfdc1
@@ -1123,7 +1123,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/数字人民币屏蔽越狱_1.0.2.deb
+Filename: debs/数字人民币屏蔽越狱_1.0.2.deb
 Size: 22252
 MD5sum: b66c8660e42d16d48c89470ed65fcb3d
 SHA1: 4a921d98c2c71d08fc03179f7886e7e6381f82d5
@@ -1140,7 +1140,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: HBS
 Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: /root/jailbreak/braless.github.io/debs/屏蔽35更新.deb
+Filename: debs/屏蔽35更新.deb
 Size: 750
 MD5sum: 658c0db213f0acf6a138d0005d360f3e
 SHA1: 2f92d53bd5fc31208664573156e739b686f450c0
@@ -1156,7 +1156,7 @@ Version: 3.6.3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/LastLook简体中文包.3.6.3.deb
+Filename: debs/LastLook简体中文包.3.6.3.deb
 Size: 8682
 MD5sum: f6043c59c1575c93a2e7825e1cf1185d
 SHA1: ce8d2ae43c15a01c988d16b7de76f3c19b83c945
@@ -1171,7 +1171,7 @@ Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
-Filename: /root/jailbreak/braless.github.io/debs/Amber_1.2.0.deb
+Filename: debs/Amber_1.2.0.deb
 Size: 10158
 MD5sum: fdbded16e30e3b93285fae82d59bff04
 SHA1: 77795612d62186b8845e72458763c1d536758114
@@ -1188,7 +1188,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/Snail-Cracks_1.0.0.deb
+Filename: debs/Snail-Cracks_1.0.0.deb
 Size: 9176
 MD5sum: 54a8f6d9ca5b09d2d3e9b7f616acc7e4
 SHA1: c2e42c8881f2662ec1517d02d6b8479ec6dd4625
@@ -1206,7 +1206,7 @@ Version: 2.4.4
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/电话助手1.4.4.deb
+Filename: debs/电话助手1.4.4.deb
 Size: 3421620
 MD5sum: e9a4f53a371b7795ae2c4250b190f309
 SHA1: 9f4eb93b2d28eb23024a966f8f3f98fdc770f9f7
@@ -1223,7 +1223,7 @@ Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: Huayuarc
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/高德地图 NoAds_0.0.1-1+debug.deb
+Filename: debs/高德地图 NoAds_0.0.1-1+debug.deb
 Size: 3822
 MD5sum: 40239a343fb9d2675f6e46547bfd09dd
 SHA1: 5d9faeecb3711fa710c925d3f9598e104b281a0b
@@ -1240,7 +1240,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/网易云增强.deb
+Filename: debs/网易云增强.deb
 Size: 12442
 MD5sum: d241e2791add60d7d9793fa121ab9844
 SHA1: afdab6dd26b388db9bc4cdbe5ae7106bc7f9acfa
@@ -1258,7 +1258,7 @@ Version: 1.9-9.8
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: /root/jailbreak/braless.github.io/debs/QQ净化_1.9-9.deb
+Filename: debs/QQ净化_1.9-9.deb
 Size: 161948
 MD5sum: ce34dc2b3680f9fa9c2411707d433294
 SHA1: d5e378e109810688cbed8b276bf8b22401bf800f
@@ -1276,7 +1276,7 @@ Version: 1.6.9
 Architecture: iphoneos-arm
 Maintainer: HuangBai
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/黄白助手(微信插件)_1.6.9.deb
+Filename: debs/黄白助手(微信插件)_1.6.9.deb
 Size: 9255368
 MD5sum: d8e89441ec658ddb173116af6ff93012
 SHA1: e432f1dd6cf049a7b917f701ec78742bbb8e7141
@@ -1292,7 +1292,7 @@ Version: 2.4.8
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: /root/jailbreak/braless.github.io/debs/Lynx 2_2.4.8.deb
+Filename: debs/Lynx 2_2.4.8.deb
 Size: 552368
 MD5sum: 08c8200345efcb1ac19bdf3ad7ab227f
 SHA1: 9cae325d0d548ccd34bca0b510d900c3fc482e4e
@@ -1309,7 +1309,7 @@ Version: 2.1-3
 Architecture: iphoneos-arm
 Maintainer: pingfan
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/虚拟视频_2.1-3.deb
+Filename: debs/虚拟视频_2.1-3.deb
 Size: 3542012
 MD5sum: 6f02a092432e904865039ba5eaef1671
 SHA1: ed16ad74d372e7e6deb2e3fd4d1af95f7e5b653e
@@ -1324,7 +1324,7 @@ Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/汽车之家_NoAds.deb
+Filename: debs/汽车之家_NoAds.deb
 Size: 12220
 MD5sum: 1c1d5c100da5feff20b74f5c9670c176
 SHA1: 9ec92b9e6b99d857bfb2359f67ba8219cbbc6bbf
@@ -1342,7 +1342,7 @@ Version: 1.1-4
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/StormSniffer Crack_1.1-4.deb
+Filename: debs/StormSniffer Crack_1.1-4.deb
 Size: 99898
 MD5sum: d8364949203ec071c3ff0ce2c4fd3cb8
 SHA1: b1f18966b44fd34104c812aa4abcd71cd539b423
@@ -1359,7 +1359,7 @@ Version: 2.8.5
 Architecture: all
 Maintainer: CyPwn
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: /root/jailbreak/braless.github.io/debs/xyz.cypwn.debra_2.8.5_all.deb
+Filename: debs/xyz.cypwn.debra_2.8.5_all.deb
 Size: 14484
 MD5sum: 2a0d414cf7b120a7cb6e80c3bd5d8629
 SHA1: 7118ae22c964fbde430975477762a1b35ad9cba4
@@ -1377,7 +1377,7 @@ Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Pay Ne
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/FileballRootless.deb
+Filename: debs/FileballRootless.deb
 Size: 19610
 MD5sum: abdcc069d9bb9e6a8ef843f1eeeb4cd8
 SHA1: 64bde0c52870f697ecb4f00771094a8ac1ce039c
@@ -1396,7 +1396,7 @@ Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
-Filename: /root/jailbreak/braless.github.io/debs/YTLite_2.6.2.deb
+Filename: debs/YTLite_2.6.2.deb
 Size: 72792
 MD5sum: 0966049a79c7d912b5040b67acc2aa57
 SHA1: e5f8795211b0deb9d4d6665cf6f6b685e737eb4f
@@ -1412,7 +1412,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: /root/jailbreak/braless.github.io/debs/AnthoCrack_0.0.1.deb
+Filename: debs/AnthoCrack_0.0.1.deb
 Size: 19152
 MD5sum: 9b49a640a47a45cbb079f91ca76f6b4c
 SHA1: 7f209498b56a62403e34cc9d5f2831dd01c28865
@@ -1428,7 +1428,7 @@ Package: com.snail.photoskipdelandinfinitezoom
 Version: 0.0.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/照片删除无需确认.deb
+Filename: debs/照片删除无需确认.deb
 Size: 3656
 MD5sum: 66659c51f7d42043699e69536a4404aa
 SHA1: f6882088521c4596e3247b4161a415693867d385
@@ -1446,7 +1446,7 @@ Version: 1.3-7
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/小红书 NoAds_1.3.6.deb
+Filename: debs/小红书 NoAds_1.3.6.deb
 Size: 109776
 MD5sum: ce2f36179b93af41266eb72fbe100efe
 SHA1: 8fd77c96b7aaa975a22478494c8945ffdc8418aa
@@ -1462,7 +1462,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: firmware (>= 12.2)
-Filename: /root/jailbreak/braless.github.io/debs/AnthoCrack_0.0.2.deb
+Filename: debs/AnthoCrack_0.0.2.deb
 Size: 30086
 MD5sum: 01bbf7f181abcf95b1578deef0bbe094
 SHA1: 88fcb618891086825716cd1a59c9a823346bf2cb
@@ -1478,7 +1478,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Nepeta
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/Relocate-虚拟定位工具_1.0.1.deb
+Filename: debs/Relocate-虚拟定位工具_1.0.1.deb
 Size: 80900
 MD5sum: bcc363ace6dcfc76f2835a0762ef7d1c
 SHA1: e19f1512f6fe49b4cc5835dd4a5e63734fb34155
@@ -1493,7 +1493,7 @@ Sponsor: Nepeta
 Package: com.voicecgangerxs.cn
 Version: 2.0-12
 Architecture: iphoneos-arm
-Filename: /root/jailbreak/braless.github.io/debs/VoiceChangerXs简体.deb
+Filename: debs/VoiceChangerXs简体.deb
 Size: 2430
 MD5sum: d49b132a4a490b7a4ba43e0081d95a71
 SHA1: 42d986f291594fd6ae8aac69d67d52b83dd1065f
@@ -1507,7 +1507,7 @@ Package: com.hk.atlas.cn
 Version: 1.0.4
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/Atlas.1.0.4.简体中文包.1.0.4.deb
+Filename: debs/Atlas.1.0.4.简体中文包.1.0.4.deb
 Size: 1460
 MD5sum: c65f26e1c8137481b9061dceffbcb8f6
 SHA1: 761982e5ff97fe24be664789a35c8a413af089a5
@@ -1521,7 +1521,7 @@ Version: 1.9-2
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微博NoAds_1.9-2.deb
+Filename: debs/微博NoAds_1.9-2.deb
 Size: 156764
 MD5sum: 59a170731d09682ee1beb2315005320c
 SHA1: 5da794c7d0f393ddb396e5d854e898516aabef68
@@ -1538,7 +1538,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: iCraze
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/NotiCopy15.1.1.deb
+Filename: debs/NotiCopy15.1.1.deb
 Size: 11700
 MD5sum: 37af7662a6768effec894225cf62ff10
 SHA1: f96e6a4ab22195156e15a247257db27da1ba3955
@@ -1554,7 +1554,7 @@ Version: 1.0.4-2+debug
 Architecture: iphoneos-arm
 Maintainer: 搬运工
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信公众号去广告.1.0.4-2.deb
+Filename: debs/微信公众号去广告.1.0.4-2.deb
 Size: 9474
 MD5sum: 06608d106f937ef89940c316bd39609a
 SHA1: 8f5a95eac7693bfdbde03aa02f3e38e4f983f76e
@@ -1572,7 +1572,7 @@ Version: 0.4.0-1
 Architecture: iphoneos-arm
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: com.parrotgeek.globalize, com.michael.suer, mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/GlobalizeFix.0.4.0-1.deb
+Filename: debs/GlobalizeFix.0.4.0-1.deb
 Size: 9622
 MD5sum: 95021e25d8ba6b1b7d3e4a71d935c5ab
 SHA1: d911c7c1a78e06e2512860eb3883a0465a61726d
@@ -1589,7 +1589,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, netskao.ccsim, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
-Filename: /root/jailbreak/braless.github.io/debs/CC++iOS15.1.0.5.deb
+Filename: debs/CC++iOS15.1.0.5.deb
 Size: 239252
 MD5sum: 10c783c5f62af183863192ded146395b
 SHA1: 2c5d6eb2c87d48c5218f0e5ebbed3d80953e67c8
@@ -1603,7 +1603,7 @@ Version: 0.0.1.1+debug
 Architecture: iphoneos-arm
 Maintainer: Huayuarc
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/中国农业银行 屏蔽越狱检测_0.0.1.1+debug.deb
+Filename: debs/中国农业银行 屏蔽越狱检测_0.0.1.1+debug.deb
 Size: 6320
 MD5sum: 032072b3a24a67746794d02754a67144
 SHA1: 9ee2bb5bcac2a9b6ed9969fe0d65980735ef070e
@@ -1620,7 +1620,7 @@ Version: 1.2-32
 Architecture: iphoneos-arm
 Maintainer: Sandy0
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/AnsweringMachine-汉化.deb
+Filename: debs/AnsweringMachine-汉化.deb
 Size: 6746
 MD5sum: 293fbde250730b0a498b1fe36a860cfa
 SHA1: 7da9862cbd3d15c2792780e9a834cf5829aaab98
@@ -1634,7 +1634,7 @@ Package: com.niceios.nicehelper
 Version: 5.3-63
 Architecture: iphoneos-arm
 Maintainer: niceios
-Filename: /root/jailbreak/braless.github.io/debs/NiceHelper.5.3-63.deb
+Filename: debs/NiceHelper.5.3-63.deb
 Size: 836274
 MD5sum: 80de1ca4ee56bacff3c8cb7777e3a40f
 SHA1: dc70c849e38e7c6129311aae9b7dd9fe25524f13
@@ -1651,7 +1651,7 @@ Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: lclrc(SquidForce)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
-Filename: /root/jailbreak/braless.github.io/debs/Hammer It_1.5.0.deb
+Filename: debs/Hammer It_1.5.0.deb
 Size: 437592
 MD5sum: 52d21e500435936f0f2be6f774126670
 SHA1: a40d6e553172209e514dd0307725ec9bc4ecd93e
@@ -1669,7 +1669,7 @@ Version: 1.1-9
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/FakeModel.1.1-9.deb
+Filename: debs/FakeModel.1.1-9.deb
 Size: 186136
 MD5sum: a265ca6fe0fae5d078ee93fc2bb5cfe5
 SHA1: aae71bc10b7b923246f06986b42a9acba30335a6
@@ -1685,7 +1685,7 @@ Version: 1.1-5
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/ImgPlay Crack_1.1-5.deb
+Filename: debs/ImgPlay Crack_1.1-5.deb
 Size: 126274
 MD5sum: ec1c50b8d881f548f1fad4abacca6f5a
 SHA1: 2187165a6f39b12cb3bb9829c34f4514a53c77a4
@@ -1703,7 +1703,7 @@ Architecture: iphoneos-arm
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: /root/jailbreak/braless.github.io/debs/net.limneos.voicechangerx_2.4-10_iphoneos-arm.deb
+Filename: debs/net.limneos.voicechangerx_2.4-10_iphoneos-arm.deb
 Size: 252822
 MD5sum: ad41116f29201fa8c8e201a90a79d3a8
 SHA1: e3108e2b1d518b8f75766ffba4a7556262001983
@@ -1722,7 +1722,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/Smartnotifion汉化.deb
+Filename: debs/Smartnotifion汉化.deb
 Size: 17048
 MD5sum: 19e7cc73b3e5588e0511df18f6aa7dd7
 SHA1: 570e376dd7f548d11b29920d6d6610405fa65092
@@ -1738,7 +1738,7 @@ Version: 1.3-5
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/小红书 NoAds_1.3-5.deb
+Filename: debs/小红书 NoAds_1.3-5.deb
 Size: 157988
 MD5sum: ee1497fd97436586706b70a5597b6212
 SHA1: 596f22253cfc08dd3dc897988a60c7008a6aeaa8
@@ -1756,7 +1756,7 @@ Architecture: iphoneos-arm
 Maintainer: Devvix
 Depends: mobilesubstrate
 Conflicts: com.devvix.nocshare
-Filename: /root/jailbreak/braless.github.io/debs/NoCShareiOS13-15.1.1.2.deb
+Filename: debs/NoCShareiOS13-15.1.1.2.deb
 Size: 9880
 MD5sum: 000508df754a4a306fac8e2ee6a4b3d8
 SHA1: eda1477b5a844fe1ff7b628ab0de5a696f1ab810
@@ -1770,7 +1770,7 @@ Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/中国建设银行 Jailbreaked Bypass_1.1-2.deb
+Filename: debs/中国建设银行 Jailbreaked Bypass_1.1-2.deb
 Size: 60902
 MD5sum: 6c69f307571977a30719563a04298504
 SHA1: bdcdfdd9bb031f4103819afb149b5d7e2c942db6
@@ -1787,7 +1787,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
 Depends: firmware (>= 14), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/StoreSenior.deb
+Filename: debs/StoreSenior.deb
 Size: 44680
 MD5sum: 523be2304af9615b1a8a2f736e3cdb18
 SHA1: 61eadc758ca1aa62da8232d1dc2f24d2a94a2fdf
@@ -1806,7 +1806,7 @@ Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: lenglengyu <lenglengyu@126.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/威锋去广告.0.0.5.deb
+Filename: debs/威锋去广告.0.0.5.deb
 Size: 72296
 MD5sum: 7c2691f2bd8a10228e0d53aa58cb1a79
 SHA1: ece785d87b5b65382f296cf9600bf711f62ece25
@@ -1824,7 +1824,7 @@ Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/黄白助手1.6.2.deb
+Filename: debs/黄白助手1.6.2.deb
 Size: 11310586
 MD5sum: 06c71532e91b90125dd68f3485ff47a2
 SHA1: 2fd32e25e3d7936a493b2ee05f93268764717461
@@ -1841,7 +1841,7 @@ Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 12.0)
 Conflicts: netskao.wechatpurification
 Replaces: netskao.wechatpurification
-Filename: /root/jailbreak/braless.github.io/debs/微信净化_4.2-6.deb
+Filename: debs/微信净化_4.2-6.deb
 Size: 8127356
 MD5sum: 2fe7d60a873a3ccb2679b5dce3f3ef2c
 SHA1: daf2b9a34226548ffa46f1b58b982ca7d276bda5
@@ -1858,7 +1858,7 @@ Version: 3~Beta98-xina
 Architecture: iphoneos-arm
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=15.0)
-Filename: /root/jailbreak/braless.github.io/debs/Flex3Patch.deb
+Filename: debs/Flex3Patch.deb
 Size: 279014
 MD5sum: c2ce3a5114c8d3b57c9751c1d5f4ea8c
 SHA1: 0c82c3444d1af690b94c455944c2d0e9a06be7eb
@@ -1873,7 +1873,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Plat-Ykor <plat-ykor@libero.it>
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/Tenmetsu 专业手电筒_1.1.deb
+Filename: debs/Tenmetsu 专业手电筒_1.1.deb
 Size: 123004
 MD5sum: bdb3b553f754511341daf3569781cafe
 SHA1: baf83af533418f9d531775d9640df736ca179e5a
@@ -1890,7 +1890,7 @@ Version: 1.1-8
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/PullClearNC.1.1-8.deb
+Filename: debs/PullClearNC.1.1-8.deb
 Size: 14492
 MD5sum: e570d3e4b96e4133a39d2429dd0733db
 SHA1: 38b9b297181a34cfb60458f4c190bc7b1a16e013
@@ -1906,7 +1906,7 @@ Version: 0.0.2-8
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/支付宝步数.deb
+Filename: debs/支付宝步数.deb
 Size: 8268
 MD5sum: 19e6da04da1b7692b996f20fe9fdc25c
 SHA1: 73e9c5efbf18c4003de1661c1988d8fea0baa465
@@ -1925,7 +1925,7 @@ Version: 1.4.6
 Architecture: iphoneos-arm
 Maintainer: Yanshen
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/Choicy简体中文包.1.4.6.deb
+Filename: debs/Choicy简体中文包.1.4.6.deb
 Size: 4226
 MD5sum: f4a297d1fac022ca5b94e853e4033a23
 SHA1: f495168a9e076ac86c7edd4b333692af78c6718c
@@ -1940,7 +1940,7 @@ Version: 0.6.5
 Architecture: iphoneos-arm
 Maintainer: halo_michael <yc992147156@me.com>
 Depends: firmware (>= 9.0)
-Filename: /root/jailbreak/braless.github.io/debs/suer.0.6.5.deb
+Filename: debs/suer.0.6.5.deb
 Size: 19638
 MD5sum: 2c02f4ebafc92492d691b942b50b68bc
 SHA1: 016363c9d7d1a9a28d385975b5eb46905fc8f89e
@@ -1957,7 +1957,7 @@ Version: 1.3.4
 Architecture: iphoneos-arm
 Maintainer: lclrc(SquidForce)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
-Filename: /root/jailbreak/braless.github.io/debs/SquidGesture_1.3.4.deb
+Filename: debs/SquidGesture_1.3.4.deb
 Size: 189176
 MD5sum: f32e23a8a2546ff0986352c16ee4a20e
 SHA1: 8e987f535a6d0df566ac031573c9c8f59090641a
@@ -1975,7 +1975,7 @@ Version: 2.2-3
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: /root/jailbreak/braless.github.io/debs/微信净化2.2.3.deb
+Filename: debs/微信净化2.2.3.deb
 Size: 650452
 MD5sum: ed9b9f2eedf0bf2ac51e506a324bf178
 SHA1: 65d7bffb41ea0d5be9e9e69df272097f447eac01
@@ -1993,7 +1993,7 @@ Version: 0.0.1.1+debug
 Architecture: iphoneos-arm
 Maintainer: Huayuarc
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/Videoleap Crack_0.0.1.1+debug.deb
+Filename: debs/Videoleap Crack_0.0.1.1+debug.deb
 Size: 11176
 MD5sum: c61001d3ef73c38382df78511dd518d9
 SHA1: bc27951ec2a253dc705acc068b4de9bb134b724a
@@ -2010,7 +2010,7 @@ Version: 2.14.2
 Architecture: iphoneos-arm
 Maintainer: AhmedBafkir
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/DLEasy_2.14.2.deb
+Filename: debs/DLEasy_2.14.2.deb
 Size: 5556596
 MD5sum: 9be57861fe18248df2f2525bcff87f89
 SHA1: cacb6218eb60d72b4fe539e1c098a425f3dd6c21
@@ -2027,7 +2027,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/网易云音乐 NoAds_1.0-1.deb
+Filename: debs/网易云音乐 NoAds_1.0-1.deb
 Size: 140194
 MD5sum: 1859f33674e1746ee64e03dd2b581e99
 SHA1: bd0e720c66445e5b2a911465874cbe8c228b0d0b
@@ -2043,7 +2043,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/番茄小说-Hook_1.0.2.deb
+Filename: debs/番茄小说-Hook_1.0.2.deb
 Size: 53540
 MD5sum: b0032466137d86bfbf7105781b3a16e9
 SHA1: 83e78975a29d2467b5c1938d9286011c7c536dbe
@@ -2060,7 +2060,7 @@ Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: Jan
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/JanWechat.deb
+Filename: debs/JanWechat.deb
 Size: 693172
 MD5sum: 75fa457297b04b7635473c90b7dda63c
 SHA1: afa9f70eebfeee62b4472db273a664c19e966b00
@@ -2078,7 +2078,7 @@ Package: com.snail.smzdmnoad
 Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/什么值得买无广告.deb
+Filename: debs/什么值得买无广告.deb
 Size: 8320
 MD5sum: f278cfa7435d979de96523fe3d1d851d
 SHA1: 50d7f32cffea3c8f32d1079045856bcb8f9793ee
@@ -2094,7 +2094,7 @@ Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: 来了老弟
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/阳光惠生活屏蔽越獄檢測_0.0.1-2+debug.deb
+Filename: debs/阳光惠生活屏蔽越獄檢測_0.0.1-2+debug.deb
 Size: 3166
 MD5sum: a94d1dd3837135408ea37c2905cfc69c
 SHA1: 651ef82df73c85c73f2c907b27a83238bad07f73
@@ -2112,7 +2112,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: apt.tinyapps.location360pro
-Filename: /root/jailbreak/braless.github.io/debs/虚拟定位-修改.deb
+Filename: debs/虚拟定位-修改.deb
 Size: 4049916
 MD5sum: 4843827c7ea369eef50912e70b1db9c8
 SHA1: 441eff8369f02b19953703556826d115a00c9503
@@ -2130,7 +2130,7 @@ Version: 1.6.3
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/黄白助手1.6.3.deb
+Filename: debs/黄白助手1.6.3.deb
 Size: 11315184
 MD5sum: 6d9ea9137b78617e3f8a83306fb09d0a
 SHA1: baf4283f77d2f0bb47491faaade05a6d4a079767
@@ -2147,7 +2147,7 @@ Maintainer:
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: 
 Replaces: 
-Filename: /root/jailbreak/braless.github.io/debs/wecahtHelper_1.1.0.deb
+Filename: debs/wecahtHelper_1.1.0.deb
 Size: 204386
 MD5sum: be3ee4de0ab9da4c933a039fda17d5cc
 SHA1: 682cf55d6729bac78d2eaeb4eae7a9844c3d133c
@@ -2167,7 +2167,7 @@ Version: 0.0.1.1+debug
 Architecture: iphoneos-arm
 Maintainer: Huayuarc
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/中国移动 NoAds_0.0.1.1+debug.deb
+Filename: debs/中国移动 NoAds_0.0.1.1+debug.deb
 Size: 7252
 MD5sum: 1fde81ff8cba8d206854b7e4d15d31e7
 SHA1: 185829efcc854ea7c5ef4cce24ced14c34894426
@@ -2184,7 +2184,7 @@ Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信头像1.1.3.deb
+Filename: debs/微信头像1.1.3.deb
 Size: 259954
 MD5sum: cd2812ee801788992b452cca3f6f8f6b
 SHA1: dca6f5a359921aa45eff558d2da2ddad73390e12
@@ -2202,7 +2202,7 @@ Architecture: iphoneos-arm
 Maintainer: julioverne
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi, com.alucard.goodwifi.cn
-Filename: /root/jailbreak/braless.github.io/debs/GoodWiFi中文版.deb
+Filename: debs/GoodWiFi中文版.deb
 Size: 73398
 MD5sum: 633fb1bb169bad1e036cf28832e63b5c
 SHA1: be3e4912bdf6e46aa209a7be4a2c3d76772270bb
@@ -2217,7 +2217,7 @@ Version: 0.4.1
 Architecture: iphoneos-arm
 Maintainer: Asmo
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信分析 (AnalyticsWeChat)_0.4.1.deb
+Filename: debs/微信分析 (AnalyticsWeChat)_0.4.1.deb
 Size: 1732760
 MD5sum: 3295d26929debeafd199d80e0109761d
 SHA1: b301cdaf2bef2a5e943257c1bf06e2e4073bf30a
@@ -2235,7 +2235,7 @@ Version: 1.2-1
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/淘宝 NoAds_1.2-1.deb
+Filename: debs/淘宝 NoAds_1.2-1.deb
 Size: 71950
 MD5sum: 30cf708ddfdf07d06e9d8930f81541d7
 SHA1: 955b29df55a3dfd0b18e3ce841fe571d5106c8fe
@@ -2252,7 +2252,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: 土拨鼠
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/土拨鼠1.0.0.deb
+Filename: debs/土拨鼠1.0.0.deb
 Size: 17160
 MD5sum: b30a3af425c4032211bbf42e801e67f6
 SHA1: 7b89004c9b016a26f9cab56f89d807dbb349a18b
@@ -2268,7 +2268,7 @@ Version: 1.8.8
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Filename: /root/jailbreak/braless.github.io/debs/gpsManager.deb
+Filename: debs/gpsManager.deb
 Size: 3387596
 MD5sum: bfe1d85c86cd58e725f8762831853806
 SHA1: 3462f6699658cc72080487ca3db4c25fcf77ab5b
@@ -2288,7 +2288,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 佚名
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信朋友圈去广告.deb
+Filename: debs/微信朋友圈去广告.deb
 Size: 4532
 MD5sum: e8b3e34f2eab1bee9780e4c13676b591
 SHA1: 199e72e9d787c5aeb97b4034f6e1c0ff9af38871
@@ -2304,7 +2304,7 @@ Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Chr1s
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.15.1)
-Filename: /root/jailbreak/braless.github.io/debs/Atlas.1.0.4.deb
+Filename: debs/Atlas.1.0.4.deb
 Size: 110610
 MD5sum: aac8fc5cace96eeeddd89e5773212235
 SHA1: 4b6cf0f647a4ffb8b5a114a5005eb6e9eb72732d
@@ -2321,7 +2321,7 @@ Version: 0.0.1-61+debug
 Architecture: iphoneos-arm
 Maintainer: xina520 <3608063@qq.com>
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/禁止注入.deb
+Filename: debs/禁止注入.deb
 Size: 40280
 MD5sum: b3bbd9a3fb9c184c9f3678085091b6d0
 SHA1: e56940fac8238db9a29f30ee163af3fdde828ed9
@@ -2334,7 +2334,7 @@ Package: com.FileballCrack
 Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/FileballRootful.deb
+Filename: debs/FileballRootful.deb
 Size: 19816
 MD5sum: 603588358e0299d9f44038f6909dc11a
 SHA1: 16f4a74e357caabc8f9aa0c2bf5fc99dbcbf6b7c
@@ -2352,7 +2352,7 @@ Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: Nightwind <nightwinddev@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/SearchDots.1.1.5.deb
+Filename: debs/SearchDots.1.1.5.deb
 Size: 116406
 MD5sum: 1fe474e4caa688f6268f95f0beb8bac7
 SHA1: ba54efb3a750482e4c8e962415ee86a6c9665791
@@ -2370,7 +2370,7 @@ Package: com.kdt.caperfhud
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: khanhduy032
-Filename: /root/jailbreak/braless.github.io/debs/CAPerfHUD_0.0.1.deb
+Filename: debs/CAPerfHUD_0.0.1.deb
 Size: 10248
 MD5sum: 058b977a41a217d50a5609d44bfa087d
 SHA1: 266b8e86faf6d164418864a866a1d6b152ad863b
@@ -2386,7 +2386,7 @@ Version: 0.0.1.1+debug
 Architecture: iphoneos-arm
 Maintainer: 5201314zhang
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/京东 NoAds_0.0.1.1+debug.deb
+Filename: debs/京东 NoAds_0.0.1.1+debug.deb
 Size: 11752
 MD5sum: 35eeb339a246ea35fc92d77c62df6552
 SHA1: 4214e000022c80ac48d40303ba223bef8e1b63c9
@@ -2403,7 +2403,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Mo <cydia778899@gmail.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信公众号去广告1.1.deb
+Filename: debs/微信公众号去广告1.1.deb
 Size: 4928
 MD5sum: 294bcfcb4762c3ad77221ee4c3a6ebd2
 SHA1: e66b44f52b6bf4974e9ace2d9e0697d12bdbf381
@@ -2419,7 +2419,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Huayuarc
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/咪咕音乐 NoAds_0.0.1-1.deb
+Filename: debs/咪咕音乐 NoAds_0.0.1-1.deb
 Size: 5132
 MD5sum: 9949e3de1c7574fe5ffe5c459ec264dc
 SHA1: da5bc29809f3f2d75963c3f530426323bdc34f18
@@ -2437,7 +2437,7 @@ Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.cokepokes.libnotifications
 Conflicts: com.eliassfeir.smartnotifications
-Filename: /root/jailbreak/braless.github.io/debs/SmartNotifications2.1.7.deb
+Filename: debs/SmartNotifications2.1.7.deb
 Size: 2511002
 MD5sum: af144658adfb49a0cbb5ecb84d19f8d4
 SHA1: cf948f06fd8218abc10ccc5b8ae9bdbb8ac22fc8
@@ -2455,7 +2455,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 小奶罩
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/JDNoad.deb
+Filename: debs/JDNoad.deb
 Size: 3448
 MD5sum: 2cd7ec8f0d08e5f9b9aa7f241d663def
 SHA1: bce4626baa2f6401647186ffd18bf7a9213dc770
@@ -2473,7 +2473,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: 搬运工
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/虚拟摄像头.deb
+Filename: debs/虚拟摄像头.deb
 Size: 58720
 MD5sum: 4cd1a74a4285aac23c6dcc4954146b29
 SHA1: e1709ea6b828b796b2ff00388cb6cf3cd974885a
@@ -2491,7 +2491,7 @@ Version: 1.0-4
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/语音包_1.0-4.deb
+Filename: debs/语音包_1.0-4.deb
 Size: 716468
 MD5sum: 3be813470d027054439a049bac96e92f
 SHA1: fb9bfab8a075ae77f40e2e3b7205e1d5cddc29b8
@@ -2508,7 +2508,7 @@ Version: 1.2.6
 Architecture: iphoneos-arm
 Maintainer: Ball & Netskao
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/AppData.1.2.6.deb
+Filename: debs/AppData.1.2.6.deb
 Size: 188660
 MD5sum: 56ccc8045a5e0a60cfd65263e67447c6
 SHA1: 719bb541cca4cc44880c52771f9042a35474e716
@@ -2522,7 +2522,7 @@ Package: gawk
 Version: 4.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Filename: /root/jailbreak/braless.github.io/debs/gawk_4.2.1-1_iphoneos-arm.deb
+Filename: debs/gawk_4.2.1-1_iphoneos-arm.deb
 Size: 286996
 MD5sum: 7e986572e0d837e044b1a0d6455c5348
 SHA1: 56021a27ae94c604fa3283607031212825106d9f
@@ -2541,7 +2541,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/百度地图优化_1.0.1.deb
+Filename: debs/百度地图优化_1.0.1.deb
 Size: 96484
 MD5sum: cde71eefa94d1da06b0ee3ff5195c56a
 SHA1: e16f0748622b6ad2f2ce8cbf54f2a25e1475449e
@@ -2558,7 +2558,7 @@ Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: PiniponSelvagem
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), ws.hbang.common, com.opa334.ccsupport
-Filename: /root/jailbreak/braless.github.io/debs/ChidoriCharge_1.2.1.deb
+Filename: debs/ChidoriCharge_1.2.1.deb
 Size: 74244
 MD5sum: e82b70a56f2794d1074d05c7f31281e6
 SHA1: 5a2a02a5e9e6c115c49402c88dfef36a108ea513
@@ -2576,7 +2576,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: Asmo
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信分析 (AnalyticsWeChat)_0.1.0.deb
+Filename: debs/微信分析 (AnalyticsWeChat)_0.1.0.deb
 Size: 771142
 MD5sum: aa774d6732cc9f87f3cf1218dbe64aca
 SHA1: b3416c6204b90085fb007ec74b4ab08596dc0340
@@ -2595,7 +2595,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
 Conflicts: netskao.smallbanners-rootless, netskao.smallbanners
-Filename: /root/jailbreak/braless.github.io/debs/微信头像.deb
+Filename: debs/微信头像.deb
 Size: 235744
 MD5sum: e7aa314872d7ce44cf753c9b1a0e1eb1
 SHA1: fbdda06d2f17cc7e702e2f0925eec3ed77876a7d
@@ -2612,7 +2612,7 @@ Version: 1.1-8
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微博轻享版NoAds.1.1-8.deb
+Filename: debs/微博轻享版NoAds.1.1-8.deb
 Size: 107382
 MD5sum: d4019446e0cdf5a82c49c2e1cb2d8a61
 SHA1: 9522fd7bb8ef68ea4ef0c3892898f16bccd3c6d9
@@ -2628,7 +2628,7 @@ Version: 1.6.5
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/黄白助手1.6.5.deb
+Filename: debs/黄白助手1.6.5.deb
 Size: 9716518
 MD5sum: 590c007a6d1ed738284b007b6e3a8afa
 SHA1: 94f331521b868bd4d4dfefd4684e8f3b907f335c
@@ -2643,7 +2643,7 @@ Version: 3.6.2
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: /root/jailbreak/braless.github.io/debs/Lastlook-zh.deb
+Filename: debs/Lastlook-zh.deb
 Size: 8678
 MD5sum: 479c7c2218517dcca8658adea3571758
 SHA1: 3089893f31355b1f98d2ea45c0bb15b8830712fa
@@ -2662,7 +2662,7 @@ Version: 1.9.0
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
-Filename: /root/jailbreak/braless.github.io/debs/satella_1.9.0.deb
+Filename: debs/satella_1.9.0.deb
 Size: 76972
 MD5sum: 2f21e0ab4f5dbfc7be9589cec9112459
 SHA1: 100cbdb63a9329726e7813ae5ebcd1530c17d130
@@ -2681,7 +2681,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/SwitchAccounts简体中文包.1.0.1.deb
+Filename: debs/SwitchAccounts简体中文包.1.0.1.deb
 Size: 8660
 MD5sum: 63255251906c94c0366d9e671c7d68b8
 SHA1: cdc24594a736b3eb63db35d8a55b100938f16e02
@@ -2696,7 +2696,7 @@ Version: 2.0.6
 Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate, preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/SneakyCam.2.0.6.deb
+Filename: debs/SneakyCam.2.0.6.deb
 Size: 121170
 MD5sum: d615a29393be1a60ed39b5e7c33e8fec
 SHA1: 0fa11bd40943f6e8b53e2e06e31d92a4ca1b63d8
@@ -2712,7 +2712,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/七猫小说-Hook_1.0.2.deb
+Filename: debs/七猫小说-Hook_1.0.2.deb
 Size: 66004
 MD5sum: 89ed214531582b97261423f0a998dfb2
 SHA1: 6d66f2eade94e29ec559b3c9a6a6b222e8024414
@@ -2728,7 +2728,7 @@ Package: com.snail.swipeunlocktext
 Version: 1.1.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: /root/jailbreak/braless.github.io/debs/锁屏美化.deb
+Filename: debs/锁屏美化.deb
 Size: 162312
 MD5sum: 74cb8ee15795f10e500a1adfe286f046
 SHA1: 495c632e0d5063d652accc46fb82b52c943938b0
@@ -2744,7 +2744,7 @@ Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: /root/jailbreak/braless.github.io/debs/LimneosCrack.1.1-3.deb
+Filename: debs/LimneosCrack.1.1-3.deb
 Size: 10306
 MD5sum: af35723d0ae117578c2a90ebd4b15a9d
 SHA1: 7ed1d5381f9a2109fbd63101878cccd8e212cdba
@@ -2760,7 +2760,7 @@ Version: 0.1-5
 Architecture: iphoneos-arm
 Maintainer: Mao
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/拍了拍所有人.0.1-5.deb
+Filename: debs/拍了拍所有人.0.1-5.deb
 Size: 470420
 MD5sum: 83a21b4e5ee0600dc1264b0679152dc5
 SHA1: 2bf4c5572f070f3d2aacfa42aec76133b6a29c4d
@@ -2780,7 +2780,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Conflicts: com.creaturecoding.libcspreferences, com.creaturecoding.shuffle, com.hk.ball.shuffle.cn, com.cpdigitaldarkroom.placeholder, com.hk.shuffle.xina, com.hk.shuffle
-Filename: /root/jailbreak/braless.github.io/debs/ShuffleXinaA15专版.1.0.deb
+Filename: debs/ShuffleXinaA15专版.1.0.deb
 Size: 1072460
 MD5sum: ae01d35f5bd13dab07e63b7defcbe959
 SHA1: 69daf8dc1bae58deffc64c3378ca8094425e7ff1
@@ -2794,7 +2794,7 @@ Version: 0.0.2-8
 Architecture: iphoneos-arm
 Maintainer: 他是个疯子 <409774743@qq.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/支付宝随机刷步数.deb
+Filename: debs/支付宝随机刷步数.deb
 Size: 8352
 MD5sum: 52953d50ae9b35bbdb750b0cd20ec9f9
 SHA1: ef8495b615bce5e1ce29862890394a32012c1293
@@ -2813,7 +2813,7 @@ Version: 1.2-6
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/哔哩哔哩净化 NoAds_1.2-6.deb
+Filename: debs/哔哩哔哩净化 NoAds_1.2-6.deb
 Size: 929746
 MD5sum: 0047e6814dee3ad43fd248cb3ea576ae
 SHA1: a232a46c8cff2a02d24a3293b659a88883d90371
@@ -2830,7 +2830,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: 搬运工
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /root/jailbreak/braless.github.io/debs/时间主宰1.4.deb
+Filename: debs/时间主宰1.4.deb
 Size: 3870
 MD5sum: 4647215591596509193ceadf5d317838
 SHA1: 40ec89f293021ef498ff39f820b19725a1a7b3d6
@@ -2848,7 +2848,7 @@ Version: 1.1-3
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/netskao.qqnotiavatar_1.1-3_iphoneos-arm.deb
+Filename: debs/netskao.qqnotiavatar_1.1-3_iphoneos-arm.deb
 Size: 47874
 MD5sum: b57675d3fb5f69c8772b51b1855b32be
 SHA1: 3f15c0f69ce17df1a1563447d3d73de75cb8f983
@@ -2865,7 +2865,7 @@ Architecture: iphoneos-arm
 Maintainer: BandarHL
 Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
-Filename: /root/jailbreak/braless.github.io/debs/BHTwitter中文修复版.3.9.1.deb
+Filename: debs/BHTwitter中文修复版.3.9.1.deb
 Size: 893606
 MD5sum: 1d3741a3e000ac6eed92227fdfe310f7
 SHA1: 265de518f15ce1f9e7add6bb93d2ecc7e946fbd1
@@ -2880,7 +2880,7 @@ Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: /root/jailbreak/braless.github.io/debs/netskao.joker_1.1-2_iphoneos-arm.deb
+Filename: debs/netskao.joker_1.1-2_iphoneos-arm.deb
 Size: 58130
 MD5sum: 5a467ce90400e1870096624735427d4b
 SHA1: f6037001076b9b8a1c9f50cebed5c2067ad0f73b
@@ -2896,7 +2896,7 @@ Version: 1.5-1x
 Architecture: iphoneos-arm
 Maintainer: lenglengyu <lenglengyu@126.com>
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: /root/jailbreak/braless.github.io/debs/LocalIAPStore内购破解.1.5-1x.deb
+Filename: debs/LocalIAPStore内购破解.1.5-1x.deb
 Size: 52338
 MD5sum: 6434e724e3c7b80a40fb3a1868a6b888
 SHA1: f3c28888853f3d110d635fbe2ce45e08f7ef205a
@@ -2913,7 +2913,7 @@ Version: 1.0-5.1
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/消息屏蔽助手.1.0-5.1.deb
+Filename: debs/消息屏蔽助手.1.0-5.1.deb
 Size: 143766
 MD5sum: 9c6ec996a14b13d41b4441bf8b784b67
 SHA1: 22d784dbbb0a49182f0823229aaaf9290dea110a
@@ -2930,7 +2930,7 @@ Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: Kiran Patil
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/EZSwipe_1.1.1.deb
+Filename: debs/EZSwipe_1.1.1.deb
 Size: 22328
 MD5sum: 2742144608817b7543a351cdbf58afc8
 SHA1: 7dd5140fd918033526c5cc3e4877745af4532861
@@ -2948,7 +2948,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: apt.tinyapps.location360pro
-Filename: /root/jailbreak/braless.github.io/debs/虚拟定位-补丁1.8.1.deb
+Filename: debs/虚拟定位-补丁1.8.1.deb
 Size: 346958
 MD5sum: 67477b2875014e0c5175b8da36cff0a6
 SHA1: 8b5db794ad207890abe7d5fa5bc7c353c719957a
@@ -2965,7 +2965,7 @@ Package: com.spark.libsparkapplist
 Version: 1.0.10
 Architecture: iphoneos-arm
 Maintainer: Spark
-Filename: /root/jailbreak/braless.github.io/debs/libSparkAppList.1.0.10.deb
+Filename: debs/libSparkAppList.1.0.10.deb
 Size: 40094
 MD5sum: f39c92f911308d67eb4fd0ccfc47a8f1
 SHA1: e0a28b189c4884e2544093c856158eaa28c9fe9f
@@ -2984,7 +2984,7 @@ Maintainer: Spark
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: /root/jailbreak/braless.github.io/debs/SnowBoard.1.5.21-Beta3.deb
+Filename: debs/SnowBoard.1.5.21-Beta3.deb
 Size: 1534098
 MD5sum: 4eb4189dc54bf96ff3057d24aeda653d
 SHA1: 82f21e695eb28714fd2cc353332d9d27f7fe9d75
@@ -3001,7 +3001,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: lenglengyu <lenglengyu@126.com>
 Depends: mobilesubstrate
-Filename: /root/jailbreak/braless.github.io/debs/微信公众号强制关注.0.0.1.deb
+Filename: debs/微信公众号强制关注.0.0.1.deb
 Size: 66558
 MD5sum: 3cecde3d8071f4a0c12a81555a14bfc1
 SHA1: a8e1367a3ae1d821bfe10a8f3181ff9bad9151e6
