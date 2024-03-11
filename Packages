@@ -2162,6 +2162,23 @@ Name: dkWechatHelper
 Priority: optional
 dev: 
 
+Package: com.yanshen.wnsmcrack
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Huayuarc
+Depends: mobilesubstrate
+Filename: debs/com.yanshen.wnsmcrack_0.0.1-1_iphoneos-arm.deb
+Size: 7468
+MD5sum: 0606bc19ca47295deb5006db8c0b9f82
+SHA1: dd70e75581e36998a6843a7f4c11f7c58951fa33
+SHA256: cca464b176538449b52cbb3c2d0746f576594e89b1a476750f0f57f458caeac6
+Section: Tweaks
+Description: 解锁除自然音外的所有会员音频。
+Author: Huayuarc
+Installed-Size: 72
+Name: 蜗牛睡眠 Crack
+Sponsor: Huayuarc
+
 Package: com.cike.zhonguoydnoads
 Version: 0.0.1.1+debug
 Architecture: iphoneos-arm
@@ -2397,23 +2414,6 @@ Author: 5201314zhang
 Installed-Size: 260
 Name: 京东 NoAds
 Sponsor: 5201314zhang
-
-Package: com.yanshen.wnsmcrack
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Maintainer: Huayuarc
-Depends: mobilesubstrate
-Filename: debs/蜗牛睡眠Crack.deb
-Size: 7468
-MD5sum: c0d837a64fd7c8a2f9b1d9f4f4d0d933
-SHA1: 94e535b0ef292be8a52836d21dca612b49c86ea4
-SHA256: 00e50ee13e06416acd17f7b3d51a9d696e93475bc031899285e4a5927c0c7aeb
-Section: A - Tweaks
-Description: 解锁除自然音外的所有会员音频。
-Author: Huayuarc
-Installed-Size: 72
-Name: 蜗牛睡眠 Crack
-Sponsor: Huayuarc
 
 Package: com.daodao.rootless.vfa
 Version: 1.1
