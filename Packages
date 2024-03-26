@@ -688,10 +688,10 @@ Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic, netskao.ccsim-rootless, netskao.ccsim
 Filename: debs/CC++iOS15.1.0.7.deb
-Size: 234666
-MD5sum: 92630e4b6575ab8e2bf096e25a8cf95a
-SHA1: 85a3d54a7f5b333cce137044c675374c943f9912
-SHA256: 872d355702089cd30745f9863a68e640b284ea46f30fb0cc862d9cf70517cfaf
+Size: 233242
+MD5sum: 482b97bc64bcd1926cca38197cb2072e
+SHA1: b47c70e6e8a9048050c05b8309c41294f1525c48
+SHA256: d0bc3618d33d73b72e4502c11d971405109ba3fb8abf3db31684a98e8a7f53f3
 Section: Tweaks
 Description: 控制中心多合一模块，来自多位开发大佬。模块：截屏/VPN切换/锁屏/定位/音量和亮度小模块/一键静音/微信扫一扫/支付宝扫一扫/双卡切换蜂窝数据/注销/一键清通知角标等，支持iOS15。感谢Netskao、jaibreak365等大佬开发的模块。
 Author: 妖刀
@@ -1049,24 +1049,6 @@ Author: Mao
 Name: 微信URL扩展
 Priority: optional
 Sponsor: admin@25mao.com
-
-Package: xyz.cypwn.lastlook
-Version: 3.6.4k
-Architecture: iphoneos-arm
-Maintainer: CyPwn
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: debs/xyz.cypwn.lastlook.deb
-Size: 425996
-MD5sum: c086f8a2c3040580e96dc2a7735b225f
-SHA1: 14207198d64f3f6310a90e344baff5cf17cdfb1f
-SHA256: f71dc241e4f496f78cb2b963a14ab6d22e5bfb4e3e1000dbb095fbd0721faaf3
-Section: Tweaks
-Description: An AOD tweak that feels stock, with endless possibilities!
-Author: AnthoPak
-Depiction: https://repo.cypwn.xyz/depiction/1251
-Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
-Name: LastLook
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1251
 
 Package: com.hk.crane.cn
 Version: 1.3.9
@@ -2415,6 +2397,24 @@ Installed-Size: 260
 Name: 京东 NoAds
 Sponsor: 5201314zhang
 
+Package: com.yanshen.lastlook
+Version: 3.6.4
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Filename: debs/Lastlook3.6.4.deb
+Size: 451378
+MD5sum: 365a5920ea68e01dc3631dc0c24c81cb
+SHA1: 9b1a25bc801ceb45124913782e0fb3f2e6381f41
+SHA256: 9d12879fb249f4772ef0138fbe4da9d560495206a78301e1dcc1d105a111f162
+Section: Tweaks
+Description: An AOD tweak that feels stock, with endless possibilities!
+Author: AnthoPak
+Depiction: https://repo.cypwn.xyz/depiction/1251
+Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
+Name: LastLook
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1251
+
 Package: com.daodao.rootless.vfa
 Version: 1.1
 Architecture: iphoneos-arm
@@ -2503,6 +2503,26 @@ Installed-Size: 288
 Name: 虚拟摄像头
 Sponsor: 搬运工
 
+Package: com.opa334.ccsupport
+Version: 1.3.10-2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Depends: mobilesubstrate, firmware (>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: debs/com.opa334.ccsupport_1.3.10-2_iphoneos-arm.deb
+Size: 59458
+MD5sum: d282fb43c3fc5b11092b3c975e55795d
+SHA1: 6e4d64bb3a8ce2a50ae78f865ec276ec9e70155e
+SHA256: 81e2eaa9d5c7811b7877333196300f68186816f56722f33e60a29244056d46c1
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Installed-Size: 460
+Name: CCSupport
+Provides: com.ioscreatix.silo
+
 Package: com.tencent.voices
 Version: 1.0-4
 Architecture: iphoneos-arm
@@ -2519,6 +2539,23 @@ Author: Mao
 Name: 语音包
 Priority: optional
 Sponsor: Mao
+
+Package: com.yanshen.wnsmcrack
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Huayuarc
+Depends: mobilesubstrate
+Filename: debs/蜗牛睡眠_0.0.1-1_iphoneos-arm.deb
+Size: 7468
+MD5sum: 0606bc19ca47295deb5006db8c0b9f82
+SHA1: dd70e75581e36998a6843a7f4c11f7c58951fa33
+SHA256: cca464b176538449b52cbb3c2d0746f576594e89b1a476750f0f57f458caeac6
+Section: Tweaks
+Description: 解锁除自然音外的所有会员音频。
+Author: Huayuarc
+Installed-Size: 72
+Name: 蜗牛睡眠 Crack
+Sponsor: Huayuarc
 
 Package: com.hk.appdata.old
 Version: 1.2.6
