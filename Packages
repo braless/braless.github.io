@@ -1379,11 +1379,11 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: debs/ImgPlay Crack-Rootless_1.1-5_iphoneos-arm64.deb
-Size: 109528
-MD5sum: ab9f272bd0b8284264a322c934e81aec
-SHA1: 0f8662eb61f7f8e7791cc9b545cefb1d5292ef56
-SHA256: 9e7c2f9788273499fe6600b17f94c77b8f8e4c17f613d298bca20dc7b057e9fd
-Section: Netskao-Cracks
+Size: 109504
+MD5sum: ab2e338afad5dec040086ca60762f0d7
+SHA1: 9ef4a5a852a89cabc6d90ca8dfcba496f542481a
+SHA256: d24f6d167220f193644bf65edc66feece1668c5e31a4c13e54575c184b18b550
+Section: Tweaks
 Description: ImgPlay解锁全功能，仅支持6.3.2及以上版本
 Author: Netskao
 Installed-Size: 440
