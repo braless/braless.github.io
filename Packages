@@ -86,6 +86,24 @@ Installed-Size: 564
 Name: ShowTouch
 Sponsor: Nets
 
+Package: xyz.cypwn.flex3
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/Flex 3_3.0_iphoneos-arm64.deb
+Size: 1540096
+MD5sum: e223ee57e621d714208499f5ef1befcc
+SHA1: 742f9869cff98a1d2d5ff8e900e20f371153d911
+SHA256: cf351e80bf41203023285a9166106b29ff7b0f0484c4eecd547255ca5fc7b566
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Depiction: https://repo.cypwn.xyz/depiction/1988
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/flex3.png
+Name: Flex 3
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1988
+
 Package: com.ball.sneakycam.ch.cn
 Version: 2.0.4
 Architecture: iphoneos-arm
@@ -332,6 +350,27 @@ Icon2: 1.png
 Installed-Size: 680
 Name: 减法相册Pro
 Sponsor: Ai-小苹果™
+
+Package: com.swing.mihome
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/米家NoAds-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 8136
+MD5sum: bea621532006fc6ced11b5ab5de3d84b
+SHA1: 372685e7309dd028543e057b62bd14187bab7ded
+SHA256: 6186244ae1bb278d8c0b8b00131acb97dc08ad15579e6088d7fec10e92d9cd2a
+Section: Tweaks
+Description: 米家去广告插件!
+Author: SWING <swing1993@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mihomenoadsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mihomenoadsDp
+Installed-Size: 175
+Name: 米家NoAds-Rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: swing
 
 Package: cn.llld.cocoatop
 Version: 0.0.1
@@ -981,6 +1020,22 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Installed-Size: 604
 Name: Souvenir锁屏美化
 Sponsor: 搬运工
+
+Package: netskao.imgplaycrack-rootless
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/ImgPlay Crack-Rootless_1.1-5_iphoneos-arm64.deb
+Size: 109528
+MD5sum: ab9f272bd0b8284264a322c934e81aec
+SHA1: 0f8662eb61f7f8e7791cc9b545cefb1d5292ef56
+SHA256: 9e7c2f9788273499fe6600b17f94c77b8f8e4c17f613d298bca20dc7b057e9fd
+Section: Netskao-Cracks
+Description: ImgPlay解锁全功能，仅支持6.3.2及以上版本
+Author: Netskao
+Installed-Size: 440
+Name: ImgPlay Crack-Rootless
 
 Package: com.yanshen.flyjbx
 Version: 1.1.2
@@ -2089,6 +2144,30 @@ Author: Snail <mu514983786@gmail.com>
 Installed-Size: 168
 Name: 什么值得买去首页广告 // SMZDMNOAD
 
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: debs/Shuffle_1.6.2_iphoneos-arm64.deb
+Size: 254020
+MD5sum: 8018d90c8e2e074af46dd3d990d0f3d8
+SHA1: f4700f062b0f3802003db683d0b68240be5ebbd5
+SHA256: 9d8c50e8f4767ed77776cc1100f1cbac5afb9f4c6d571d0035619a4f1147e2c3
+Section: Tweaks
+Description: Organize your settings
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+Homepage: https://creaturecoding.com/
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Installed-Size: 1484
+Name: Shuffle
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+Tag: purpose::extension, compatible_min::ios10
+
 Package: com.llld.yghsh
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
@@ -2678,6 +2757,39 @@ Author: Netskao
 Icon: https://s1.ax1x.com/2022/10/27/xfarCj.png
 Installed-Size: 1060
 Name: 微信头像
+
+Package: com.squidforce.disablepastealert16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Filename: debs/禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16_1.0_iphoneos-arm64.deb
+Size: 4052
+MD5sum: 3f433ee60d42361769599bcfd653b68d
+SHA1: c3a51248992773dfd320f0ef91114cb764234255
+SHA256: c3d603e9d5c4791b5a9de3ac720955bc6f414644f3fd1f74a5b52bdead8c734a
+Section: Tweaks
+Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
+ 2. 禁用粘贴提醒
+ * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
+Author: SquidForce
+Installed-Size: 168
+Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
+
+Package: com.icraze.noticopy15
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/NotiCopy15_1.1_iphoneos-arm64.deb
+Size: 5844
+MD5sum: 31183e829731bffd0194f888bb0d1624
+SHA1: 4b61f7ee084f45b7cede5bd5d882a834c6c247f6
+SHA256: ce0d89cb3c6071d438afd0244cc74413fa5aa927b414416b082194dfd3fdeb4c
+Section: Tweaks
+Description: Tap a notification with two fingers to copy its text. Hold with two fingers to copy its title.
+Author: iCraze
+Installed-Size: 168
+Name: NotiCopy15
 
 Package: netskao.weibooverseasnoads
 Version: 1.1-8
