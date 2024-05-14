@@ -6,12 +6,12 @@
     <title>File List</title>
 </head>
 <body>
-    <h1>Project File List</h1>
+    <h1>资源列表</h1>
     <ul id="fileList"></ul>
 
     <script>
         function listFiles() {
-            fetch('/files.json')
+            fetch('/arm64.json')
                 .then(response => response.json())
                 .then(data => {
                     const fileList = document.getElementById('fileList');
