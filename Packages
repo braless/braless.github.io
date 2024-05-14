@@ -571,6 +571,23 @@ Author: iCraze & AlexBurneikis
 Installed-Size: 168
 Name: ComplicationsFix
 
+Package: com.chr1s.atlas
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Chr1s
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.chr1s.atlas_1.0.4_iphoneos-arm64.deb
+Size: 24188
+MD5sum: 6ce76a02bdd62a4d5f0f683463cf32f0
+SHA1: acffe26213fe361d82592adbfd83a4b7c998c6fc
+SHA256: c3b8bb3517c28659f8b69d8c50ca877ed808753247c00f902338f0227c1deb38
+Section: Tweaks
+Description: Minimalistic video player replacement
+Author: Chr1s
+Icon: https://chr1s.dev/assets/atlasRound.png
+Installed-Size: 236
+Name: Atlas
+
 Package: com.yanshen.sneakycam
 Version: 2.0.7
 Architecture: iphoneos-arm64

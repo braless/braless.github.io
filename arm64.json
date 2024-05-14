@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 97,
+  "total": 100,
   "data": [
     {
       "Version": "0.0.6",
@@ -134,6 +134,13 @@
       "Filename": "debs/arm64/TrollStore Helper_2.0.9_iphoneos-arm64.deb",
       "path": "/debs/arm64/TrollStore Helper_2.0.9_iphoneos-arm64.deb",
       "Name": "TrollStore Helper"
+    },
+    {
+      "Version": "1.2.3",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/ws.hbang.alderis_1.2.3_iphoneos-arm64.deb",
+      "path": "/debs/arm64/ws.hbang.alderis_1.2.3_iphoneos-arm64.deb",
+      "Name": "Alderis Color Picker"
     },
     {
       "Version": "2.0.14",
@@ -465,6 +472,13 @@
       "Name": "ClassicFolders 3"
     },
     {
+      "Version": "1.4.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/me.lau.atria_1.4.1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/me.lau.atria_1.4.1_iphoneos-arm64.deb",
+      "Name": "Atria"
+    },
+    {
       "Version": "0.0.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/PhotoSkipDelAndInfiniteZoom_0.0.1_iphoneos-arm64.deb",
@@ -498,6 +512,13 @@
       "Filename": "debs/arm64/TweakSettings_1.0.8_iphoneos-arm64.deb",
       "path": "/debs/arm64/TweakSettings_1.0.8_iphoneos-arm64.deb",
       "Name": "TweakSettings"
+    },
+    {
+      "Version": "1.4.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.hk.atria.cn.rl_1.4.1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.hk.atria.cn.rl_1.4.1_iphoneos-arm64.deb",
+      "Name": "Atria 简体中文包(rootless)"
     },
     {
       "Version": "0.1-3",
