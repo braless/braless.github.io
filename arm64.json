@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 96,
+  "total": 97,
   "data": [
     {
       "Version": "0.0.6",
@@ -463,6 +463,13 @@
       "Filename": "debs/arm64/微博去广告_1.0.1_iphoneos-arm64.deb",
       "path": "/debs/arm64/微博去广告_1.0.1_iphoneos-arm64.deb",
       "Name": "微博去广告"
+    },
+    {
+      "Version": "3.0.3.7",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/xyz.cypwn.classicfolders3_3.0.3.7_iphoneos-arm64.deb",
+      "path": "/debs/arm64/xyz.cypwn.classicfolders3_3.0.3.7_iphoneos-arm64.deb",
+      "Name": "ClassicFolders 3"
     },
     {
       "Version": "0.0.1",

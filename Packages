@@ -1090,20 +1090,6 @@ Installed-Size: 3364
 Name: SmartNotifications iOS16
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2169
 
-Package: oldabi
-Version: 0.3.2
-Architecture: iphoneos-arm64
-Maintainer: Evelyn
-Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
-Filename: debs/arm64/Legacy arm64e Support_0.3.2_iphoneos-arm64.deb
-Size: 14872
-MD5sum: 4bf37c9b33d1d835f709824ec2afccdf
-SHA1: 60c5ed20570937eb2ecc05fb621e92fff4dd2384
-SHA256: 6fef999bb33bb82633d94d8271ec56dd10e610713bddc2e205f7ea3e53210446
-Description: Support for legacy arm64e ABI in iOS 15.0+
-Author: Evelyn
-Name: Legacy arm64e Support
-
 Package: netskao.appdata-rootless
 Version: 1.4.1
 Architecture: iphoneos-arm64
@@ -1360,6 +1346,21 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Installed-Size: 168
 Name: 双指下滑截图-Rootless
 Sponsor: 搬运工
+
+Package: oldabi
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Maintainer: Evelyn
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: debs/arm64/Legacy_arm64e_Support_0.3.2_iphoneos-arm64.deb
+Size: 14920
+MD5sum: eb88bb34506364e59df2d4444b8129db
+SHA1: 2f0dbb6ede8cdf9979ce891dc98e6d3ff168e8e0
+SHA256: ab01b614807453200af12b9fd418e85b059c4e4f709e4be680373c30a9d96b39
+Section: Tweaks
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Author: Evelyn
+Name: Legacy arm64e Support
 
 Package: xyz.cypwn.photoleappro
 Version: 1.0
