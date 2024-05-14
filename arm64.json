@@ -430,13 +430,6 @@
       "Name": "SmartNotifications iOS16"
     },
     {
-      "Version": "0.3.2",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/Legacy arm64e Support_0.3.2_iphoneos-arm64.deb",
-      "path": "/debs/arm64/Legacy arm64e Support_0.3.2_iphoneos-arm64.deb",
-      "Name": "Legacy arm64e Support"
-    },
-    {
       "Version": "1.4.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/AppData-Rootless_1.4.1_iphoneos-arm64.deb",
@@ -533,6 +526,13 @@
       "Filename": "debs/arm64/双指下滑截图-Rootless_1.0_iphoneos-arm64.deb",
       "path": "/debs/arm64/双指下滑截图-Rootless_1.0_iphoneos-arm64.deb",
       "Name": "双指下滑截图-Rootless"
+    },
+    {
+      "Version": "0.3.2",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/Legacy_arm64e_Support_0.3.2_iphoneos-arm64.deb",
+      "path": "/debs/arm64/Legacy_arm64e_Support_0.3.2_iphoneos-arm64.deb",
+      "Name": "Legacy arm64e Support"
     },
     {
       "Version": "1.0",
