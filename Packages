@@ -1180,6 +1180,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension
 dev: swing
 
+Package: xyz.cypwn.classicfolders3
+Version: 3.0.3.7
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/arm64/xyz.cypwn.classicfolders3_3.0.3.7_iphoneos-arm64.deb
+Size: 3296284
+MD5sum: a3714782a844a4447698c19bced3efba
+SHA1: 21b98382052e3716430426734a35a3ab8df3228c
+SHA256: 7fa26ddf1994e32c6de4a6b9a227d925605927eeefa7e36497c8735cd04547dd
+Section: Tweaks
+Description: iOS 6 folders with a modern twist
+Author: CoolStar
+Depiction: https://repo.cypwn.xyz/depiction/2477
+Icon: https://repo.cypwn.xyz/packages/ClassicFolders3-Rootless/icon.png
+Name: ClassicFolders 3
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2477
+
 Package: xyz.cypwn.photoskipdelandinfinitezoom
 Version: 0.0.1
 Architecture: iphoneos-arm64
