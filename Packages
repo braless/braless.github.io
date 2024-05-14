@@ -288,6 +288,25 @@ Name: LibGcUniversal
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
 Tag: role::developer
 
+Package: com.imkpatil.ezswipe
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/arm64/com.imkpatil.ezswipe_1.1.1_iphoneos-arm64.deb
+Size: 23816
+MD5sum: 667317ac7033248d93f31df20822e2f6
+SHA1: a4e4e3adf85b8ac60a842ed7aac106e17b9c18eb
+SHA256: af85783c38357f9982c64cf00d6b4e9472e4218d015cc8434bf5df058ad9e0d6
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.ezswipe
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.ezswipe/icon.png
+Installed-Size: 404
+Name: EZSwipe
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.ezswipe.json
+
 Package: xyz.cypwn.anthocrack2
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -621,6 +640,25 @@ Description: Notiblock简体中文包
 Author: 来了老弟 X: h_h_x_t
 Installed-Size: 168
 Name: notiblock通知过滤汉化-rootless
+
+Package: com.julioverne.screendump13
+Version: 0.0.3d-2
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cosmosgenius.screendump
+Filename: debs/arm64/com.julioverne.screendump13_0.0.3d-2_iphoneos-arm64.deb
+Size: 1209824
+MD5sum: 68decb7228900ec884efcdce7537a4af
+SHA1: a7eb4cc54cd582a3fe2c9238cbd484c6e6cbb086
+SHA256: 3088a8491a49e26c2eb7961a52f335677aa041aec5009f391159fc805c1bf0ad
+Section: Tweaks
+Description: VNC for ios (rootless/Ellekit)
+Author: julioverne, Sharat M R
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.screendump13
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/screendump/ScreenDump@2x.png
+Installed-Size: 3152
+Name: screendump (iOS 13+)
 
 Package: org.coolstar.sileo
 Version: 2.5
@@ -1183,6 +1221,21 @@ Depiction: https://repo.cypwn.xyz/depiction/2170
 Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
 Name: LastLook
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2170
+
+Package: com.hk.ezswipe.cn.rl
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/arm64/com.hk.ezswipe.cn.rl_1.1.1_iphoneos-arm64.deb
+Size: 1648
+MD5sum: 10840d8bbb67f5159aa226fc5b9da054
+SHA1: b724219e18aa926579c0645abf75140c659af610
+SHA256: 6e7bb1d8eb6e38f051853074030c7be23a253926ce5efcc3734c19983ef423c7
+Section: Tweaks
+Description: EZSwipe 简体中文包(rootless)。
+Author: 妖刀
+Name: EZSwipe 简体中文包(rootless)
 
 Package: com.swing.weibo
 Version: 1.0.1
