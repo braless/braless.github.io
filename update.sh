@@ -8,7 +8,8 @@ bash "$notify_script" "Waiting for 120 seconds..."
 sleep 120
 cd /APP-JD/braless.github.io/
 echo "开始生成Pakages..."
-python3 dpkg-scanpackages.py -m debs > Packages
+python3 dpkg-scanpackages.py -m debs/arm64 > Packages
+python3 dpkg-scanpackages.py -m debs/arm >> Packages
 echo "生成Packages完成！"
 
 echo "进入项目目录..."
