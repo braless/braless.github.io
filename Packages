@@ -337,6 +337,28 @@ Author: opa334
 Installed-Size: 4300
 Name: TrollStore Helper
 
+Package: ws.hbang.alderis
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Filename: debs/arm64/ws.hbang.alderis_1.2.3_iphoneos-arm64.deb
+Size: 291924
+MD5sum: 7dfb8b2ce2aaf8de17c1dfc1fc1b77ce
+SHA1: 68041581f106f35fec7344e83d6d43fce12e1548
+SHA256: 4e250f370da14730feec0f71051af06a6817a0b78c1c481da5c75885dcd89ae0
+Section: Tweaks
+Description: Color picker support library for tweaks
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/alderis
+Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
+Installed-Size: 2463
+Name: Alderis Color Picker
+Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible_min::ios12.0
+
 Package: byg.iosios.net.trollstore
 Version: 2.0.14
 Architecture: iphoneos-arm64
@@ -1184,6 +1206,26 @@ Icon: https://repo.cypwn.xyz/packages/ClassicFolders3-Rootless/icon.png
 Name: ClassicFolders 3
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2477
 
+Package: me.lau.atria
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: debs/arm64/me.lau.atria_1.4.1_iphoneos-arm64.deb
+Size: 236884
+MD5sum: 688e6bbfd685b7cb369bbecdac810c4c
+SHA1: 98e6ba2a94e0af665ce8a8248d05b930e7a7da0b
+SHA256: d707c732cca70f37866fd1cc8209bed9efa65e0e6a03fc7d927bf5f077c184d0
+Section: Tweaks
+Description: A proper homescreen layout editor for iOS 13-16
+Author: ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/get/atria
+Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
+Installed-Size: 886
+Name: Atria
+Tag: compatible_min::ios13.0
+
 Package: xyz.cypwn.photoskipdelandinfinitezoom
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1275,6 +1317,21 @@ Priority: optional
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 Tag: purpose::application, compatible_min::ios10
 dev: CreatureSurvive
+
+Package: com.hk.atria.cn.rl
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/arm64/com.hk.atria.cn.rl_1.4.1_iphoneos-arm64.deb
+Size: 8736
+MD5sum: aa5a8e8f5d31ed54c0e815ce0181c496
+SHA1: 6ebaafbf66f8a875cd55cec1135dc5a38c0ba38a
+SHA256: c4e35c8bff59a465d4962630a52d0ce774f73ea77c48fb224385e80b32b14d18
+Section: Tweaks
+Description: Atria 简体中文包(rootless)。
+Author: Alucard/妖刀
+Name: Atria 简体中文包(rootless)
 
 Package: com.25mao.wcplugins.rootless
 Version: 0.1-3
