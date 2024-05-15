@@ -1584,6 +1584,27 @@ Name: 魔术师(iOS15)
 SileoDepiction: https://apt.htv123.com/sileo/14
 Sponsor: xybp888
 
+Package: com.icraze.easynotifications
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.icraze.easynotifications_3.0_iphoneos-arm64.deb
+Size: 2932
+MD5sum: ddfa513257fae0c3cf0e5a49cc69a72d
+SHA1: 99a552e92981559624638c8a67c6d964e6f70955
+SHA256: 7e1f1306884108dbf1044c1b8e05ad3383af759c8a516438e0066c091b09484e
+Section: Tweaks
+Description: Dismiss notifications with just one swipe
+Author: iCraze <icrazeios@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easynotificationsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easynotificationsDp
+Installed-Size: 172
+Name: Easy Notifications
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: icraze
+
 Package: com.xx.ecnyhook
 Version: 1.0.2
 Architecture: iphoneos-arm64

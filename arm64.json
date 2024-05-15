@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 101,
+  "total": 104,
   "data": [
     {
       "Version": "0.0.6",
@@ -113,6 +113,13 @@
       "Filename": "debs/arm64/LibGcUniversal_1.6.4_iphoneos-arm64.deb",
       "path": "/debs/arm64/LibGcUniversal_1.6.4_iphoneos-arm64.deb",
       "Name": "LibGcUniversal"
+    },
+    {
+      "Version": "1.1.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.imkpatil.ezswipe_1.1.1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.imkpatil.ezswipe_1.1.1_iphoneos-arm64.deb",
+      "Name": "EZSwipe"
     },
     {
       "Version": "1.0.0",
@@ -246,6 +253,13 @@
       "Filename": "debs/arm64/notihh_0.0.1_iphoneos-arm64.deb",
       "path": "/debs/arm64/notihh_0.0.1_iphoneos-arm64.deb",
       "Name": "notiblock通知过滤汉化-rootless"
+    },
+    {
+      "Version": "0.0.3d-2",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.julioverne.screendump13_0.0.3d-2_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.julioverne.screendump13_0.0.3d-2_iphoneos-arm64.deb",
+      "Name": "screendump (iOS 13+)"
     },
     {
       "Version": "2.5",
@@ -463,6 +477,13 @@
       "Filename": "debs/arm64/LastLook_4.1.1k_iphoneos-arm64.deb",
       "path": "/debs/arm64/LastLook_4.1.1k_iphoneos-arm64.deb",
       "Name": "LastLook"
+    },
+    {
+      "Version": "1.1.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.hk.ezswipe.cn.rl_1.1.1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.hk.ezswipe.cn.rl_1.1.1_iphoneos-arm64.deb",
+      "Name": "EZSwipe 简体中文包(rootless)"
     },
     {
       "Version": "1.0.1",
