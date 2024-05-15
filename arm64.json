@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 104,
+  "total": 105,
   "data": [
     {
       "Version": "0.0.6",
@@ -617,6 +617,13 @@
       "Filename": "debs/arm64/魔术师(iOS15)_0.0.1-4258_iphoneos-arm64.deb",
       "path": "/debs/arm64/魔术师(iOS15)_0.0.1-4258_iphoneos-arm64.deb",
       "Name": "魔术师(iOS15)"
+    },
+    {
+      "Version": "3.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.icraze.easynotifications_3.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.icraze.easynotifications_3.0_iphoneos-arm64.deb",
+      "Name": "Easy Notifications"
     },
     {
       "Version": "1.0.2",

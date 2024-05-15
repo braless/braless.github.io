@@ -252,6 +252,25 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension
 dev: swing
 
+Package: com.mtac.launchlogo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Depends: firmware (>=14.0)
+Filename: debs/arm64/com.mtac.launchlogo_1.0_iphoneos-arm64.deb
+Size: 32740
+MD5sum: 475ac64746977cce3999d7846d53b4c5
+SHA1: 16b57694a9987f3a9e500968ea503388c056429b
+SHA256: 746541bd5839c8a75ad4160c41aba1a6eac4d3108afaf0a4eadd1dd0a77f2e6e
+Section: Tweaks
+Description: Show the Apple logo during respring
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.launchlogo/icon-rounded.png
+Installed-Size: 432
+Name: LaunchLogo
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.launchlogo.json
+Tag: purpose::extension, role::developer
+
 Package: byg.iosios.net.otadisabler
 Version: 0.5
 Architecture: iphoneos-arm64
