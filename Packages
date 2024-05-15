@@ -1422,6 +1422,25 @@ Description: Atria 简体中文包(rootless)。
 Author: Alucard/妖刀
 Name: Atria 简体中文包(rootless)
 
+Package: com.mtac.hydra
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.mtac.hydra_2.1_iphoneos-arm64.deb
+Size: 688488
+MD5sum: c1b1bd1e2f1bbe5f9103b214bc4cdfdc
+SHA1: 97a59c9771d2ad15fd5d7a9b12eb0dd97f24dfe3
+SHA256: abb0ab5fe07db11e7610d1da08527d8e42c4f58fcb888211dc30072def2e88e8
+Section: Tweaks
+Description: Easy app shortcuts
+Author: MTAC
+Depiction: https://mtac.app/repo/depiction/web/com.mtac.hydra.html
+Icon: https://mtac.app/repo/assets/com.mtac.hydra/icon-rounded.png
+Installed-Size: 1184
+Name: Hydra
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.hydra.json
+
 Package: com.25mao.wcplugins.rootless
 Version: 0.1-3
 Architecture: iphoneos-arm64

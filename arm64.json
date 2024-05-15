@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 105,
+  "total": 106,
   "data": [
     {
       "Version": "0.0.6",
@@ -99,6 +99,13 @@
       "Filename": "debs/arm64/米家NoAds-Rootless_1.0.0_iphoneos-arm64.deb",
       "path": "/debs/arm64/米家NoAds-Rootless_1.0.0_iphoneos-arm64.deb",
       "Name": "米家NoAds-Rootless"
+    },
+    {
+      "Version": "1.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.mtac.launchlogo_1.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.mtac.launchlogo_1.0_iphoneos-arm64.deb",
+      "Name": "LaunchLogo"
     },
     {
       "Version": "0.5",
