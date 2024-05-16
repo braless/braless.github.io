@@ -375,6 +375,22 @@ Author: opa334
 Installed-Size: 4300
 Name: TrollStore Helper
 
+Package: preferenceloader
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Depends: mobilesubstrate
+Filename: debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb
+Size: 17512
+MD5sum: a1e89b51087c8df1fbd8dcd21fc7fa4e
+SHA1: dc1d4491fa729a354f51c52054d9d4e3a0ac39fa
+SHA256: 91e83411b2f028d09989b4e446c6fcf02dab2e9a8aff9759cd8ac74bee77f14e
+Section: Tweaks
+Description: load preferences in style
+Author: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 370
+Name: PreferenceLoader
+
 Package: ws.hbang.alderis
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -558,6 +574,29 @@ Section: Tweaks
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
 Name: YTLite(rootless)
+
+Package: topme.ios.fakegps
+Version: 3.9.11
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: debs/arm64/topme.ios.fakegps_3.9.11_iphoneos-arm64.deb
+Size: 1995196
+MD5sum: ce6aa8878d532f8049e28300b412d2c9
+SHA1: 71a03f83268ff6648f25771320679b39ff992e93
+SHA256: 8100b714b24ccd3ce0c3cc814623d853de4ab7335aac98e28fb5f54f884f496f
+Section: Tweaks
+Description: 定位修改大师，Fake GPS Location, 360度全球虚拟定位到想要的任何地方。
+Author: suifeng <bestapps@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakelocationDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakelocationDp
+Icon: file:///Applications/FakeGps.app/AppIcon29x29@2x.png
+Installed-Size: 7332
+Name: 定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: suifeng
 
 Package: com.dao.infuseplus
 Version: 1.1.5
@@ -1543,6 +1582,29 @@ Author: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/1861
 Name: Photoleap Pro
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1861
+
+Package: me.liuming.locationexpert
+Version: 3.3.3
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
+Filename: debs/arm64/me.liuming.locationexpert_3.3.3_iphoneos-arm64.deb
+Size: 4513980
+MD5sum: b0a0007a7d7467e887bfeba1b4c92e68
+SHA1: 908953fed4e132f5f11ebe8387ef363e7dddd62a
+SHA256: 03c9638c507351dd5b382eacd8e95c6b1986f147ce4e702a4c9031c9ef1133f4
+Section: Tweaks
+Description: 虚拟定位专家，模拟导航和GPS定位。
+Author: liuming <liuminggui1993@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationexpertDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationexpertDp
+Icon: file:///Applications/LocationExpert.app/AppIcon29x29@2x.png
+Installed-Size: 16333
+Name: 虚拟定位专家(GPS Faker Expert)-模拟导航，扫街
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, role::enduser
+dev: liuming
 
 Package: com.hk.rootless.cc
 Version: 2.0.1

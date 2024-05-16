@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 106,
+  "total": 107,
   "data": [
     {
       "Version": "0.0.6",
@@ -554,6 +554,13 @@
       "Filename": "debs/arm64/com.hk.atria.cn.rl_1.4.1_iphoneos-arm64.deb",
       "path": "/debs/arm64/com.hk.atria.cn.rl_1.4.1_iphoneos-arm64.deb",
       "Name": "Atria 简体中文包(rootless)"
+    },
+    {
+      "Version": "2.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.mtac.hydra_2.1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.mtac.hydra_2.1_iphoneos-arm64.deb",
+      "Name": "Hydra"
     },
     {
       "Version": "0.1-3",
