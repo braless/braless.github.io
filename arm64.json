@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 107,
+  "total": 110,
   "data": [
     {
       "Version": "0.0.6",
@@ -150,6 +150,13 @@
       "Name": "TrollStore Helper"
     },
     {
+      "Version": "2.2.7",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb",
+      "path": "/debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb",
+      "Name": "PreferenceLoader"
+    },
+    {
       "Version": "1.2.3",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/ws.hbang.alderis_1.2.3_iphoneos-arm64.deb",
@@ -218,6 +225,13 @@
       "Filename": "debs/arm64/YTLite(rootless)_3.0.2_iphoneos-arm64.deb",
       "path": "/debs/arm64/YTLite(rootless)_3.0.2_iphoneos-arm64.deb",
       "Name": "YTLite(rootless)"
+    },
+    {
+      "Version": "3.9.11",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/topme.ios.fakegps_3.9.11_iphoneos-arm64.deb",
+      "path": "/debs/arm64/topme.ios.fakegps_3.9.11_iphoneos-arm64.deb",
+      "Name": "定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行"
     },
     {
       "Version": "1.1.5",
@@ -603,6 +617,13 @@
       "Filename": "debs/arm64/Photoleap Pro_1.0_iphoneos-arm64.deb",
       "path": "/debs/arm64/Photoleap Pro_1.0_iphoneos-arm64.deb",
       "Name": "Photoleap Pro"
+    },
+    {
+      "Version": "3.3.3",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/me.liuming.locationexpert_3.3.3_iphoneos-arm64.deb",
+      "path": "/debs/arm64/me.liuming.locationexpert_3.3.3_iphoneos-arm64.deb",
+      "Name": "虚拟定位专家(GPS Faker Expert)-模拟导航，扫街"
     },
     {
       "Version": "2.0.1",

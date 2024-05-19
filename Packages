@@ -1146,6 +1146,22 @@ Installed-Size: 172
 Name: HookKit Module (fishhook)
 Pre-Depends: me.jjolano.fmwk.hookkit
 
+Package: com.dao.infuseplus
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: debs/arm64/com.dao.infuseplus_1.1.6_iphoneos-arm64.deb
+Size: 167212
+MD5sum: 34870471e3bb92723bd42cefe3eec760
+SHA1: a40ba9fefe46348ba9d7a2926f64c8b72f9749f6
+SHA256: 2d15203434a0d2c9c111e90df8eb36f47bd4f8859c45c84f99502fc7052ea321
+Section: Tweaks
+Description: Infuse的破解/增强插件。
+Author: dvntm
+Name: Infuse Plus(rootless)
+
 Package: com.25mao.msgfilt.rootless
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
@@ -1496,6 +1512,24 @@ Author: Mao
 Name: 微信插件管理-Rootless
 Priority: optional
 Sponsor: admin@25mao.com
+
+Package: xyz.cypwn.classicfolders3
+Version: 3.0.3.11
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/arm64/xyz.cypwn.classicfolders3_3.0.3.11_iphoneos-arm64.deb
+Size: 3281180
+MD5sum: 55c98d2c0b1c4a8f21339646348fd60a
+SHA1: 64acd89e5640484069c5296fbebad2bb587bc83a
+SHA256: d874212c4647d4d3e5e902a3c84921e20d5bb421a37642c8b4821ef4ea4de94b
+Section: Tweaks
+Description: iOS 6 folders with a modern twist!
+Author: CoolStar
+Depiction: https://repo.cypwn.xyz/depiction/2493
+Icon: https://repo.cypwn.xyz/packages/ClassicFolders3-Rootless/icon.png
+Name: ClassicFolders 3
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2493
 
 Package: me.jjolano.fmwk.hookkit
 Version: 1.0.15
