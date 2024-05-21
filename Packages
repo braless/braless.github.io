@@ -977,6 +977,25 @@ Installed-Size: 168
 Name: 什么值得买 去广告-Rootless
 Sponsor: 搬运工
 
+Package: net.awemepurification-rootless
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.awemepurification
+Filename: debs/arm64/net.awemepurification-rootless_3.deb
+Size: 1176132
+MD5sum: bbc3195377d1c954dbab10c757528b61
+SHA1: b57779f2b13c5f3c21a66c8155bbf55f43d9c829
+SHA256: 7dbbddc0e69927ebf43ea315028d398a11e031b5d68b360ee914bfa2e493441a
+Section: Tweaks
+Description: 抖音净化最新版插件不消失效！设置位于抖音-设置，仅支持25.8.0及以上版本抖音，佚名：分享无罪，若丢了做人本分，那就可耻！
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 2480
+Name: 抖音净化
+Sponsor: 搬运工
+
 Package: com.zqbb.fix120hz
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1198,6 +1217,28 @@ Installed-Size: 456
 Name: Satella
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1570
 
+Package: com.tomaszpoliszuk.keyboardcontroller
+Version: 1.2.1-1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: debs/arm64/com.tomaszpoliszuk.keyboardcontroller_1.2.1-1_iphoneos-arm64.deb
+Size: 71132
+MD5sum: f4523ebd1dc4b04a249804b935bd1672
+SHA1: dc489f81fba3b2658bd040766d26571b125e43db
+SHA256: 0df6780cad2ac44f75b5ba9855cba147955e53c0ff1d451db13470fa4a6e9b11
+Section: Tweaks
+Description: Control your Keyboard. 对键盘做一些自定义调整, 适配多巴胺。
+Author: Tomasz Poliszuk
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
+Installed-Size: 460
+Name: Keyboard Controller
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: tomaszpoliszuk
+
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64
@@ -1386,6 +1427,25 @@ Author: Snail
 Depiction: https://repo.cypwn.xyz/depiction/1635
 Name: PhotoSkipDelAndInfiniteZoom
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1635
+
+Package: com.udevs.dockx
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: debs/arm64/com.udevs.dockx_2.6.0_iphoneos-arm64.deb
+Size: 306968
+MD5sum: 0a355fb5af6167e468f4db00918f49b1
+SHA1: 90b7d149252df2372290829d315fd8efff149164
+SHA256: 27c50790736a348fa4b75dad6d2c71a18132d138f79cd82cf6de3a9397ab8792
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Installed-Size: 1648
+Name: DockX
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
 Package: com.xybp888.callassist16.dopamine
 Version: 1.4.4
@@ -1655,6 +1715,22 @@ Section: Tweaks
 Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标(目前不支持iOS16)、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
+
+Package: com.squidforce.doubletapflipcamera
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Depends: mobilesubstrate (>= 1.1.5000)
+Filename: debs/arm64/com.squidforce.doubletapflipcamera_1.1_iphoneos-arm64.deb
+Size: 4932
+MD5sum: ec14ac3dabe55fbe4ef702f5ea7f36ae
+SHA1: 3365a7b398881e2a333530fa4a903105ccc3f94d
+SHA256: d391d56b377b311873b7c1d43fc2bea93ca8e01c75208fbc54eb23673c0b67d6
+Section: Tweaks
+Description: 双击取景框翻转相机前置和后置镜头，无设置项。目前支持系统相机拍照和录像，微信拍照和视频，QQ拍照。理论上调用系统相机拍照的应用都可以，在DoubleTapFlipCamera.plist中加入应用的BundleId即可。
+Author: SquidForce
+Installed-Size: 168
+Name: 双击翻转相机镜头 - DoubleTapFlipCamera
 
 Package: xyz.cypwn.betteralarmrootless
 Version: 1.4.1

@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 110,
+  "total": 112,
   "data": [
     {
       "Version": "0.0.6",
@@ -451,6 +451,13 @@
       "Name": "HookKit Module (fishhook)"
     },
     {
+      "Version": "1.1.6",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.dao.infuseplus_1.1.6_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.dao.infuseplus_1.1.6_iphoneos-arm64.deb",
+      "Name": "Infuse Plus(rootless)"
+    },
+    {
       "Version": "1.0-5.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/消息屏蔽助手-Rootless_1.0-5.1_iphoneos-arm64.deb",
@@ -582,6 +589,13 @@
       "Filename": "debs/arm64/微信插件管理-Rootless_0.1-3_iphoneos-arm64.deb",
       "path": "/debs/arm64/微信插件管理-Rootless_0.1-3_iphoneos-arm64.deb",
       "Name": "微信插件管理-Rootless"
+    },
+    {
+      "Version": "3.0.3.11",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/xyz.cypwn.classicfolders3_3.0.3.11_iphoneos-arm64.deb",
+      "path": "/debs/arm64/xyz.cypwn.classicfolders3_3.0.3.11_iphoneos-arm64.deb",
+      "Name": "ClassicFolders 3"
     },
     {
       "Version": "1.0.15",
