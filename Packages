@@ -215,6 +215,22 @@ Name: Enable known networks
 Pre-Depends: firmware (>= 11.0)
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableknownnetworks/js.json
 
+Package: com.xx.xhshook
+Version: 1.0.7-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.xx.xhshook_1.0.7-1_iphoneos-arm64.deb
+Size: 63940
+MD5sum: db29ce213220d6ca3343edcdbd178f75
+SHA1: efe8c62843f881f8a286d2deb165b42a6e71bdac
+SHA256: b0dec9bb1b2605461652e183f3e17c6bf2eb7bb4df37154ac66cc534f62aa686
+Section: Tweaks
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.7更新内容：修复一些问题
+Author: x✨
+Installed-Size: 192
+Name: 小红薯调整
+
 Package: com.hopeless.wechatnoads
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -431,6 +447,22 @@ Installed-Size: 184
 Name: TrollStore巨魔通用汉化包-Rootless
 Sponsor: 搬运工
 
+Package: com.xx.qqhook
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.xx.qqhook_1.1.0_iphoneos-arm64.deb
+Size: 134172
+MD5sum: 4b0eee98f67c12f4aec502ebe6f3f54b
+SHA1: fbebf5d6db6565aad4b44ab78cf58b6ee70cd7f0
+SHA256: 7cccfe46b95f6f4f5c0a16e61960a9441699c3a1208d007e125f51d2731418dc
+Section: Tweaks
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Author: x✨
+Installed-Size: 536
+Name: QQ新版防撤回
+
 Package: com.wxhbts.homeremovediscover.rootless
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -536,6 +568,24 @@ Name: libSandy
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, role::developer
 dev: opa334
+
+Package: com.squidforce.copyvault
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/arm64/com.squidforce.copyvault_1.0.2_iphoneos-arm64.deb
+Size: 1693320
+MD5sum: 6c04c1bcb298bc5441a01be3920b25d3
+SHA1: 94766a65a331a6e8e7a2a2c54d5913cd8a2b6770
+SHA256: 95ff27ead57baf89a7cf396545af73f8b0afa197a48f031a612ee80adfd384c5
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+Installed-Size: 6488
+Name: CopyVault
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
 
 Package: me.jjolano.shadow
 Version: 3.7.6
@@ -1282,6 +1332,22 @@ Installed-Size: 3364
 Name: SmartNotifications iOS16
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2169
 
+Package: com.kitten.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64
+Maintainer: 预言小猫
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/arm64/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb
+Size: 10902
+MD5sum: ae2334ee47ded91250db9520bbd270f3
+SHA1: edca1565b145844647c7ecd334dbf147c6f335fb
+SHA256: 97b61f68a904597484636416a73f57c9402db9c4eae3365fb0e57750e887ea9b
+Section: Tweaks
+Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具
+Author: 预言小猫
+Name: 一键备份和恢复工具-Rootless
+SileoDepiction: https://Ketty0725.github.io/repo/depictions/native/com.kitten.tweaktool/depiction.json
+
 Package: netskao.appdata-rootless
 Version: 1.4.1
 Architecture: iphoneos-arm64
@@ -1318,6 +1384,23 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/artikuspreferenceloader.png
 Name: PreferenceLoader
 Provides: preferenceloader (= 2.2.6)
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2126
+
+Package: com.xx.dyhook
+Version: 1.2.6-2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.xx.dyhook_1.2.6-2_iphoneos-arm64.deb
+Size: 606000
+MD5sum: df9917df6afddf3358bfab5d3cc18cf5
+SHA1: db40c4de7fc4f14bbee6a10db869fa880f053394
+SHA256: 5741da4004a569611e7d520a6d15efe32574aef03fea4f226a13728bc853f88d
+Section: Tweaks
+Description: 自用
+Author: x✨
+Installed-Size: 2200
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: xyz.cypwn.lastlook
 Version: 4.1.1k

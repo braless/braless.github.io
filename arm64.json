@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 112,
+  "total": 116,
   "data": [
     {
       "Version": "0.0.6",
@@ -388,6 +388,13 @@
       "Name": "什么值得买 去广告-Rootless"
     },
     {
+      "Version": "3.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/net.awemepurification-rootless_3.deb",
+      "path": "/debs/arm64/net.awemepurification-rootless_3.deb",
+      "Name": "抖音净化"
+    },
+    {
       "Version": "1.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/fix120hz 突破动态刷新率限制_1.1_iphoneos-arm64.deb",
@@ -472,6 +479,13 @@
       "Name": "Satella"
     },
     {
+      "Version": "1.2.1-1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.tomaszpoliszuk.keyboardcontroller_1.2.1-1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.tomaszpoliszuk.keyboardcontroller_1.2.1-1_iphoneos-arm64.deb",
+      "Name": "Keyboard Controller"
+    },
+    {
       "Version": "1.6.2",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/Shuffle_1.6.2_iphoneos-arm64.deb",
@@ -540,6 +554,13 @@
       "Filename": "debs/arm64/PhotoSkipDelAndInfiniteZoom_0.0.1_iphoneos-arm64.deb",
       "path": "/debs/arm64/PhotoSkipDelAndInfiniteZoom_0.0.1_iphoneos-arm64.deb",
       "Name": "PhotoSkipDelAndInfiniteZoom"
+    },
+    {
+      "Version": "2.6.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.udevs.dockx_2.6.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.udevs.dockx_2.6.0_iphoneos-arm64.deb",
+      "Name": "DockX"
     },
     {
       "Version": "1.4.4",
@@ -645,6 +666,13 @@
       "Filename": "debs/arm64/CCLess++(rootless)_2.0.1_iphoneos-arm64.deb",
       "path": "/debs/arm64/CCLess++(rootless)_2.0.1_iphoneos-arm64.deb",
       "Name": "CCLess++(rootless)"
+    },
+    {
+      "Version": "1.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.squidforce.doubletapflipcamera_1.1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.squidforce.doubletapflipcamera_1.1_iphoneos-arm64.deb",
+      "Name": "双击翻转相机镜头 - DoubleTapFlipCamera"
     },
     {
       "Version": "1.4.1",
