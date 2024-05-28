@@ -1,0 +1,234 @@
+{
+  "type": "arm64e",
+  "total": 38,
+  "data": [
+    {
+      "Version": "1.1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1793.deb",
+      "Name": "FixSet-Roothide"
+    },
+    {
+      "Version": "1.0",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1659.deb",
+      "Name": "FixSet-Roothide"
+    },
+    {
+      "Version": "1.4",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1689.deb",
+      "Name": "1a1时间主宰-Roothide"
+    },
+    {
+      "Version": "0.2",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1791.deb",
+      "Name": "全局透明 Max-Roothide"
+    },
+    {
+      "Version": "1.2",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1323.deb",
+      "Name": "AppsDump-Roothide"
+    },
+    {
+      "Version": "1.5.8",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1663.deb",
+      "Name": "libCSPreferences-Roothide"
+    },
+    {
+      "Version": "7.10.0",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1657.deb",
+      "Name": "iCleaner Pro-Roothide"
+    },
+    {
+      "Version": "1.11~nezuko",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1823.deb",
+      "Name": "A-Font 字体更换工具-Roothide"
+    },
+    {
+      "Version": "1.4.1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1824.deb",
+      "Name": "Atria-Roothide"
+    },
+    {
+      "Version": "1.5",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1825.deb",
+      "Name": "Axon-Roothide"
+    },
+    {
+      "Version": "1.3.1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1727.deb",
+      "Name": "蜗牛拜拜开屏广告-Roothide"
+    },
+    {
+      "Version": "1.8.7",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1462.deb",
+      "Name": "电话助手iOS15-正式版-Roothide"
+    },
+    {
+      "Version": "1.0.2~roothide",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1864.deb",
+      "Name": "CCPowerMenu-Roothide"
+    },
+    {
+      "Version": "4.2.2",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1821.deb",
+      "Name": "Dodo-Roothide"
+    },
+    {
+      "Version": "1.4.1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1822.deb",
+      "Name": "Eneko-Roothide"
+    },
+    {
+      "Version": "1.1.1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1906.deb",
+      "Name": "EZSwipe-Roothide"
+    },
+    {
+      "Version": "0.0.1-1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1735.deb",
+      "Name": "Fix Repair System Power-Roothide"
+    },
+    {
+      "Version": "1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1502.deb",
+      "Name": "Flex3 Beta-Roothide"
+    },
+    {
+      "Version": "0.0~beta6.5",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1525.deb",
+      "Name": "GoodWiFi 中文版-RootHide"
+    },
+    {
+      "Version": "1.0",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1787.deb",
+      "Name": "灵动岛偏移-Roothide"
+    },
+    {
+      "Version": "09010fuck1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1852.deb",
+      "Name": "去温控组合-Roothide"
+    },
+    {
+      "Version": "2.0.1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1857.deb",
+      "Name": "NoMoreSApps X全屏应用-Roothide"
+    },
+    {
+      "Version": "2.1.4-1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1853.deb",
+      "Name": "PullOver Pro-Roothide"
+    },
+    {
+      "Version": "1.2.3",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1867.deb",
+      "Name": "SettingsWidgets-Roothide"
+    },
+    {
+      "Version": "1.6.2",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1662.deb",
+      "Name": "Shuffle-Roothide"
+    },
+    {
+      "Version": "1.0.2",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1854.deb",
+      "Name": "Snapper 3-Roothide"
+    },
+    {
+      "Version": "1.0.4",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1855.deb",
+      "Name": "Stella-Roothide"
+    },
+    {
+      "Version": "0.0.1-1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1731.deb",
+      "Name": "蜗牛睡眠 Crack-Roothide"
+    },
+    {
+      "Version": "1.1-7",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1668.deb",
+      "Name": "ClassicKeyboardXS-Roothide"
+    },
+    {
+      "Version": "1.0.2",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1874.deb",
+      "Name": "RealCC-Roothide"
+    },
+    {
+      "Version": "1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1790.deb",
+      "Name": "Flex 3 Beta RootHide Dopamine IOS 15.x"
+    },
+    {
+      "Version": "5.1-4",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1809.deb",
+      "Name": "AudioRecorder (roothide iOS 15 to 17)"
+    },
+    {
+      "Version": "1.6.4",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1856.deb",
+      "Name": "LibGcUniversal-Roothide"
+    },
+    {
+      "Version": "0.0.3-beta",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1786.deb",
+      "Name": "Cylinder Remade-Roothide"
+    },
+    {
+      "Version": "0.0.1-1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1734.deb",
+      "Name": "LS - IllLookLater-Roothide"
+    },
+    {
+      "Version": "4.0.1-5",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1826.deb",
+      "Name": "Filza File Manager 64-bit-Roothide"
+    },
+    {
+      "Version": "1",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1789.deb",
+      "Name": "Flex 3 Beta RootHide Bootstrap"
+    },
+    {
+      "Version": "7.0",
+      "Architecture": "iphoneos-arm64e",
+      "Filename": "/debs/1656.deb",
+      "Name": "o2 Pro-Roothide"
+    }
+  ]
+}
