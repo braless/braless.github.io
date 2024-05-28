@@ -1,9 +1,0 @@
-Architectures: iphoneos-arm iphoneos-arm64
-Codename: ios
-Components: main
-Date: Sun, 23 Apr 2023 02:55:56 +0000
-Description: Braless's tweak repository
-Label: 小奶源
-Origin: 小奶源
-Suite: stable
-Version: 1.0
