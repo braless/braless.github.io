@@ -17,7 +17,7 @@ echo "开始压缩Packages..."
 bzip2  -f -k  Packages
 echo "压缩Packages完成！"
 git add --all .
-git commit -m "update repo"
+git commit -m "add trollapps"
 git push
 echo "上传完成！！"
 bash "$notify_script" "上传完成"
