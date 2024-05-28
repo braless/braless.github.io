@@ -128,135 +128,131 @@
 <!-- ... 省略了头部和样式 ... -->
 
 <body>
-    <div id="app" class="container">
-        <h2>文件列表</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>文件名</th>
-                    <th>大小</th>
-                    <th>链接</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr v-for="file in displayedFiles" :key="file.id">
-                    <td>{{ file.ipaName }}</td>
-                    <td>{{ file.size }}</td>
-                    <td>
-                        <a :href="file.downlink" @click="startDownload(file)" target=_blank">下载</a>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
+<div id="app" class="container">
+    <h2>文件列表</h2>
+    <table>
+        <thead>
+        <tr>
+            <th>文件名</th>
+            <th>大小</th>
+            <th>链接</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr v-for="file in displayedFiles" :key="file.id">
+            <td>{{ file.ipaName }}</td>
+            <td>{{ file.size }}</td>
+            <td>
+                <a :href="file.downlink" @click="startDownload(file)" target=_blank">下载</a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
 
-        <!-- Download Popup Modal -->
-        <div class="modal" v-if="showDownloadPopup">
-            <div class="modal-content">
-                <span class="close" @click="closeDownloadPopup">&times;</span>
-                <p>文件名: {{ selectedFile.ipaName }}</p>
-                <p>大小: {{ selectedFile.size }}</p>
-                <p>下载进度: {{ downloadProgress }}%</p>
-            </div>
-        </div>
-        
-        </br>
-        <!-- 分页按钮 -->
-        <div>
-            <button @click="prevPage" :disabled="currentPage === 1">上一页</button>
-            <span>第 {{ currentPage }} 页，共 {{ totalPages }} 页</span>
-            <button @click="nextPage" :disabled="currentPage === totalPages">下一页</button>
+    <!-- Download Popup Modal -->
+    <div class="modal" v-if="showDownloadPopup">
+        <div class="modal-content">
+            <span class="close" @click="closeDownloadPopup">&times;</span>
+            <p>文件名: {{ selectedFile.ipaName }}</p>
+            <p>大小: {{ selectedFile.size }}</p>
+            <p>下载进度: {{ downloadProgress }}%</p>
         </div>
     </div>
 
-    <script>
-        new Vue({
-            el: '#app',
-            data: {
-                files: [],
-                pageSize: 28,
-                currentPage: 1,
-                showDownloadPopup: false,
-                selectedFile: null,
-                downloadProgress: 0
-            },
-            computed: {
-                totalPages() {
-                    return Math.ceil(this.files.length / this.pageSize);
-                },
-                displayedFiles() {
-                    const start = (this.currentPage - 1) * this.pageSize;
-                    const end = start + this.pageSize;
-                    return this.files.slice(start, end);
-                }
-            },
-            created() {
-                this.fetchData();
-            },
-            methods: {
-                fetchData() {
-                    let options = {
-                        method: 'GET',
-                        headers: {
-                            'Content-Type': 'application/json',
-                        },
-                        body: JSON.stringify({
-                            "pageNum": 1,
-                            "pageSize": 100
-                        }),
-                    }
-                    let apiUrl = 'https://repo.bilin.eu.org/troll/file_info.json';
-                    fetch(apiUrl, options)
-                        .then(response => response.json())
-                        .then(data => {
-                            if (data.code === 200) {
-                                this.files = data.data;
-                            } else {
-                                console.error('获取数据失败:', data);
-                            }
-                        })
-                        .catch(error => {
-                            console.error('获取数据错误:', error);
-                        });
-                },
-                goToPage(page) {
-                    if (page >= 1 && page <= this.totalPages) {
-                        this.currentPage = page;
-                    }
-                },
-                nextPage() {
-                    if (this.currentPage < this.totalPages) {
-                        this.currentPage++;
-                    }
-                },
-                prevPage() {
-                    if (this.currentPage > 1) {
-                        this.currentPage--;
-                    }
-                },
-                startDownload(file) {
-                    this.selectedFile = file;
-                    this.showDownloadPopup = true;
+    </br>
+    <!-- 分页按钮 -->
+    <div>
+        <button @click="prevPage" :disabled="currentPage === 1">上一页</button>
+        <span>第 {{ currentPage }} 页，共 {{ totalPages }} 页</span>
+        <button @click="nextPage" :disabled="currentPage === totalPages">下一页</button>
+    </div>
+</div>
 
-                    // 模拟下载进度
-                    let progress = 0;
-                    const interval = setInterval(() => {
-                        progress += 10;
-                        this.downloadProgress = Math.min(progress, 100);
-
-                        if (progress === 100) {
-                            clearInterval(interval);
-                            this.closeDownloadPopup();
-                        }
-                    }, 1000);
-                },
-                closeDownloadPopup() {
-                    this.showDownloadPopup = false;
-                    this.selectedFile = null;
-                    this.downloadProgress = 0;
-                }
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            files: [],
+            pageSize: 28,
+            currentPage: 1,
+            showDownloadPopup: false,
+            selectedFile: null,
+            downloadProgress: 0
+        },
+        computed: {
+            totalPages() {
+                return Math.ceil(this.files.length / this.pageSize);
+            },
+            displayedFiles() {
+                const start = (this.currentPage - 1) * this.pageSize;
+                const end = start + this.pageSize;
+                return this.files.slice(start, end);
             }
-        });
-    </script>
+        },
+        created() {
+            this.fetchData();
+        },
+        methods: {
+            fetchData() {
+                let options = {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                }
+                let apiUrl = 'https://repo.bilin.eu.org/troll/file_info.json';
+                fetch(apiUrl, options)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.code === 200) {
+                            this.files = data.data;
+                        } else {
+                            console.error('获取数据失败:', data);
+                        }
+                    })
+                    .catch(error => {
+                        console.error('获取数据错误:', error);
+                    });
+            },
+            goToPage(page) {
+                if (page >= 1 && page <= this.totalPages) {
+                    this.currentPage = page;
+                }
+            },
+            nextPage() {
+                if (this.currentPage < this.totalPages) {
+                    this.currentPage++;
+                }
+            },
+            prevPage() {
+                if (this.currentPage > 1) {
+                    this.currentPage--;
+                }
+            },
+            startDownload(file) {
+                this.selectedFile = file;
+                this.showDownloadPopup = true;
+
+                // 模拟下载进度
+                let progress = 0;
+                const interval = setInterval(() => {
+                    progress += 10;
+                    this.downloadProgress = Math.min(progress, 100);
+
+                    if (progress === 100) {
+                        clearInterval(interval);
+                        this.closeDownloadPopup();
+                    }
+                }, 1000);
+            },
+            closeDownloadPopup() {
+                this.showDownloadPopup = false;
+                this.selectedFile = null;
+                this.downloadProgress = 0;
+            }
+        }
+    });
+</script>
 </body>
 
 </html>
