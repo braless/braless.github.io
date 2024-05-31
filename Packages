@@ -1645,10 +1645,10 @@ Architecture: iphoneos-arm64
 Maintainer: zqbb
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: debs/arm64/cn.zqbb.disupdateapp_0.0.3-1_iphoneos-arm64.deb
-Size: 59904
-MD5sum: 79c16d491aa18b1012c3e65d208e2704
-SHA1: 9df213039e7d28e4f2894abf63de2372278d4ea0
-SHA256: 53e70b2cb287e6be3ea35a625eaf2fdb09b2d9aebefe1ff5525ea890dd6eb247
+Size: 59952
+MD5sum: 0813af954404a4812292b06484a5f149
+SHA1: 630ae059c26f24f477248a12dcefd5d2864e6456
+SHA256: fca6fb0dab6621577d0c600028bb7546f09e8fe8c7985cda8164e06ec189abc6
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: zqbb
@@ -1983,6 +1983,22 @@ Description: Tap a notification with two fingers to copy its text. Hold with two
 Author: iCraze
 Installed-Size: 168
 Name: NotiCopy15
+
+Package: com.dao.infuseplus
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: debs/arm64/com.dao.infuseplus_1.2.0_iphoneos-arm64.deb
+Size: 125332
+MD5sum: a9da859743ee445024de4353fc5349f8
+SHA1: e9b9546ee2dbf721afd34c23b92b04684f85e951
+SHA256: 0b68c9f62470827621b931d8de244d64339795ec636c2c67109cebaea1e0bfea
+Section: Tweaks
+Description: Infuse的破解/增强插件。
+Author: dvntm
+Name: Infuse Plus(rootless)
 
 Package: me.jjolano.hkmodule.substrate
 Version: 1.0.8
