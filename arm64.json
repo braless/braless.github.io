@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 116,
+  "total": 121,
   "data": [
     {
       "Version": "0.0.6",
@@ -87,6 +87,13 @@
       "Name": "Enable known networks"
     },
     {
+      "Version": "1.0.7-1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.xx.xhshook_1.0.7-1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.xx.xhshook_1.0.7-1_iphoneos-arm64.deb",
+      "Name": "小红薯调整"
+    },
+    {
       "Version": "0.0.2",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/WeChatNoAds_0.0.2_iphoneos-arm64.deb",
@@ -171,6 +178,13 @@
       "Name": "TrollStore巨魔通用汉化包-Rootless"
     },
     {
+      "Version": "1.1.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.xx.qqhook_1.1.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.xx.qqhook_1.1.0_iphoneos-arm64.deb",
+      "Name": "QQ新版防撤回"
+    },
+    {
       "Version": "1.0.2",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/家庭移除发现-Rootless_1.0.2_iphoneos-arm64.deb",
@@ -211,6 +225,13 @@
       "Filename": "debs/arm64/libSandy_1.1.4_iphoneos-arm64.deb",
       "path": "/debs/arm64/libSandy_1.1.4_iphoneos-arm64.deb",
       "Name": "libSandy"
+    },
+    {
+      "Version": "1.0.2",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.squidforce.copyvault_1.0.2_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.squidforce.copyvault_1.0.2_iphoneos-arm64.deb",
+      "Name": "CopyVault"
     },
     {
       "Version": "3.7.6",
@@ -500,6 +521,13 @@
       "Name": "SmartNotifications iOS16"
     },
     {
+      "Version": "2.0.0-beta",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb",
+      "Name": "一键备份和恢复工具-Rootless"
+    },
+    {
       "Version": "1.4.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/AppData-Rootless_1.4.1_iphoneos-arm64.deb",
@@ -512,6 +540,13 @@
       "Filename": "debs/arm64/PreferenceLoader_1.0.16_iphoneos-arm64.deb",
       "path": "/debs/arm64/PreferenceLoader_1.0.16_iphoneos-arm64.deb",
       "Name": "PreferenceLoader"
+    },
+    {
+      "Version": "1.2.6-2",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.xx.dyhook_1.2.6-2_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.xx.dyhook_1.2.6-2_iphoneos-arm64.deb",
+      "Name": "抖音图层"
     },
     {
       "Version": "4.1.1k",
