@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 122,
+  "total": 123,
   "data": [
     {
       "Version": "0.0.6",
@@ -771,6 +771,13 @@
       "Filename": "debs/arm64/NotiCopy15_1.1_iphoneos-arm64.deb",
       "path": "/debs/arm64/NotiCopy15_1.1_iphoneos-arm64.deb",
       "Name": "NotiCopy15"
+    },
+    {
+      "Version": "1.2.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.dao.infuseplus_1.2.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.dao.infuseplus_1.2.0_iphoneos-arm64.deb",
+      "Name": "Infuse Plus(rootless)"
     },
     {
       "Version": "1.0.8",
