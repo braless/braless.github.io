@@ -283,34 +283,24 @@
       "downLink": "https://repo.bilin.eu.org/troll/XinaA15_1.1.8.tipa"
     },
     {
-      "ipaName": "多多阅读_5.8.tipa",
-      "size": "20.61 Mb",
-      "downLink": "https://repo.bilin.eu.org/troll/多多阅读_5.8.tipa"
-    },
-    {
       "ipaName": "减法相册_3.1.0.tipa",
       "size": "35.13 Mb",
       "downLink": "https://repo.bilin.eu.org/troll/减法相册_3.1.0.tipa"
     },
     {
-      "ipaName": "酷安NoAds.tipa",
-      "size": "34.12 Mb",
-      "downLink": "https://repo.bilin.eu.org/troll/酷安NoAds.tipa"
+      "ipaName": "多多阅读_5.8.tipa",
+      "size": "20.61 Mb",
+      "downLink": "https://repo.bilin.eu.org/troll/多多阅读_5.8.tipa"
     },
     {
-      "ipaName": "铃声管理_1.1-2.tipa",
-      "size": "7.14 Mb",
-      "downLink": "https://repo.bilin.eu.org/troll/铃声管理_1.1-2.tipa"
+      "ipaName": "小草_2.3.4.tipa",
+      "size": "14.28 Mb",
+      "downLink": "https://repo.bilin.eu.org/troll/小草_2.3.4.tipa"
     },
     {
-      "ipaName": "青龙面板_1.0.3.tipa",
-      "size": "5.66 Mb",
-      "downLink": "https://repo.bilin.eu.org/troll/青龙面板_1.0.3.tipa"
-    },
-    {
-      "ipaName": "青龙面板Lite_1.0.3.tipa",
-      "size": "4.93 Mb",
-      "downLink": "https://repo.bilin.eu.org/troll/青龙面板Lite_1.0.3.tipa"
+      "ipaName": "应用降级_1.1-7.tipa",
+      "size": "556.76 Kb",
+      "downLink": "https://repo.bilin.eu.org/troll/应用降级_1.1-7.tipa"
     },
     {
       "ipaName": "微博_3.3.30.tipa",
@@ -323,9 +313,9 @@
       "downLink": "https://repo.bilin.eu.org/troll/微博4.6.2NoAds.tipa"
     },
     {
-      "ipaName": "小草_2.3.4.tipa",
-      "size": "14.28 Mb",
-      "downLink": "https://repo.bilin.eu.org/troll/小草_2.3.4.tipa"
+      "ipaName": "纸塘壁纸_1.6.0.tipa",
+      "size": "9.52 Mb",
+      "downLink": "https://repo.bilin.eu.org/troll/纸塘壁纸_1.6.0.tipa"
     },
     {
       "ipaName": "虚拟定位_1.3.7.tipa",
@@ -353,14 +343,24 @@
       "downLink": "https://repo.bilin.eu.org/troll/虚拟定位_1.8.8.tipa"
     },
     {
-      "ipaName": "应用降级_1.1-7.tipa",
-      "size": "556.76 Kb",
-      "downLink": "https://repo.bilin.eu.org/troll/应用降级_1.1-7.tipa"
+      "ipaName": "酷安NoAds.tipa",
+      "size": "34.12 Mb",
+      "downLink": "https://repo.bilin.eu.org/troll/酷安NoAds.tipa"
     },
     {
-      "ipaName": "纸塘壁纸_1.6.0.tipa",
-      "size": "9.52 Mb",
-      "downLink": "https://repo.bilin.eu.org/troll/纸塘壁纸_1.6.0.tipa"
+      "ipaName": "铃声管理_1.1-2.tipa",
+      "size": "7.14 Mb",
+      "downLink": "https://repo.bilin.eu.org/troll/铃声管理_1.1-2.tipa"
+    },
+    {
+      "ipaName": "青龙面板_1.0.3.tipa",
+      "size": "5.66 Mb",
+      "downLink": "https://repo.bilin.eu.org/troll/青龙面板_1.0.3.tipa"
+    },
+    {
+      "ipaName": "青龙面板Lite_1.0.3.tipa",
+      "size": "4.93 Mb",
+      "downLink": "https://repo.bilin.eu.org/troll/青龙面板Lite_1.0.3.tipa"
     }
   ]
 }
