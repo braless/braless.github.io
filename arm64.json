@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 123,
+  "total": 125,
   "data": [
     {
       "Version": "0.0.6",
@@ -190,6 +190,13 @@
       "Filename": "debs/arm64/家庭移除发现-Rootless_1.0.2_iphoneos-arm64.deb",
       "path": "/debs/arm64/家庭移除发现-Rootless_1.0.2_iphoneos-arm64.deb",
       "Name": "家庭移除发现-Rootless"
+    },
+    {
+      "Version": "1.0-1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/cn.zqbb.disupdateapp_1.0-1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/cn.zqbb.disupdateapp_1.0-1_iphoneos-arm64.deb",
+      "Name": "BlockAppUpdate 屏蔽App Store更新"
     },
     {
       "Version": "1.0.1",
@@ -813,6 +820,13 @@
       "Filename": "debs/arm64/iCleaner Pro(rootless)_7.10.0_iphoneos-arm64.deb",
       "path": "/debs/arm64/iCleaner Pro(rootless)_7.10.0_iphoneos-arm64.deb",
       "Name": "iCleaner Pro(rootless)"
+    },
+    {
+      "Version": "2.0.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.xx.dyhook_2.0.1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.xx.dyhook_2.0.1_iphoneos-arm64.deb",
+      "Name": "抖音图层"
     },
     {
       "Version": "1.3.5",

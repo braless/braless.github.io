@@ -407,6 +407,24 @@ Author: Dhinak G <dhinak@dhinak.net>
 Installed-Size: 370
 Name: PreferenceLoader
 
+Package: zp.zv.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Filename: debs/arm64/zp.zv.rootless_1.0.0_iphoneos-arm64.deb
+Size: 3384
+MD5sum: 27fff2c023e444f3fa80ed022ad35d78
+SHA1: 56e879dbe5033de17d69a233662eaddea4303e6a
+SHA256: acd67273cea80fde32bbb985167c1f52854012e3d6db6cbc62330e8eb164c53d
+Section: Tweaks
+Description: shell命令如下:
+ - openVPN: " zv 1 "
+ - stopVPN: " zv 0 "
+ - 请搭配快捷指令自动化食用
+Author: zqbb
+Installed-Size: 164
+Name: 命令行开关vpn
+
 Package: ws.hbang.alderis
 Version: 1.2.3
 Architecture: iphoneos-arm64
