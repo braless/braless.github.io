@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 125,
+  "total": 126,
   "data": [
     {
       "Version": "0.0.6",
@@ -162,6 +162,13 @@
       "Filename": "debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb",
       "path": "/debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb",
       "Name": "PreferenceLoader"
+    },
+    {
+      "Version": "1.0.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/zp.zv.rootless_1.0.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/zp.zv.rootless_1.0.0_iphoneos-arm64.deb",
+      "Name": "命令行开关vpn"
     },
     {
       "Version": "1.2.3",

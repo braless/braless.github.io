@@ -1233,6 +1233,24 @@ Installed-Size: 408
 Name: libSparkAppList
 Tag: role::developer
 
+Package: com.nan.localhostssh
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Filename: debs/arm64/com.nan.localhostssh_0.3.2_iphoneos-arm64.deb
+Size: 1616
+MD5sum: b2aba97ddab8781a2432168db22b2966
+SHA1: 6c9a99359b3a9c9d9340c60818e263347a88a57a
+SHA256: aafc65c1182cfd32eaff8105a898ab2d4b157137916af338d652485fa3dc6fe6
+Section: Tweaks
+Description: 仅为 iOS 本地 SSH 访问启用 2222 端口
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/image.png
+Name: Local SSH
+Pre-Depends: sed, openssh-server | openssh
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/js.json
+
 Package: me.jjolano.hkmodule.fishhook
 Version: 1.0.8
 Architecture: iphoneos-arm64
