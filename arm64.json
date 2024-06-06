@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 126,
+  "total": 127,
   "data": [
     {
       "Version": "0.0.6",
@@ -484,6 +484,13 @@
       "Filename": "debs/arm64/libSparkAppList_1.1.0~rootless_iphoneos-arm64.deb",
       "path": "/debs/arm64/libSparkAppList_1.1.0~rootless_iphoneos-arm64.deb",
       "Name": "libSparkAppList"
+    },
+    {
+      "Version": "0.3.2",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.nan.localhostssh_0.3.2_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.nan.localhostssh_0.3.2_iphoneos-arm64.deb",
+      "Name": "Local SSH"
     },
     {
       "Version": "1.0.8",

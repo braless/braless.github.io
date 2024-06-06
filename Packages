@@ -1945,6 +1945,27 @@ Name: 魔术师(iOS15)
 SileoDepiction: https://apt.htv123.com/sileo/14
 Sponsor: xybp888
 
+Package: netskao.wechatpurification
+Version: 4.2-6
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/微信净化_4.2-6(新版无限制)_无根_刀刀.deb
+Size: 6276688
+MD5sum: 5870fe90866fa514b35c4dadf786d057
+SHA1: 30b6bf793e205d57f1492f1b48a11f64ddf8d904
+SHA256: 54237547fd9b93095b1b13a95c0eb9ba11bd7caae5472d2b566507eaf67b1eeb
+Section: Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Installed-Size: 17233
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: netskao
+
 Package: com.icraze.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
