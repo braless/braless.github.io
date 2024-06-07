@@ -1217,6 +1217,27 @@ Author: x✨
 Installed-Size: 340
 Name: 高德地图优化
 
+Package: netskao.wechatpurification
+Version: 5.0-0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/微信净化5.0.0.deb
+Size: 6275364
+MD5sum: 775edbfdd88a8b702a5974d2a2777b11
+SHA1: aa6a2cfb9553ff1d9cdb5c001a9e3a6caa217486
+SHA256: 4125475ff078474449745f0c5128dd72706b6852435ac928bff8233dfb0c8ef3
+Section: Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Installed-Size: 17233
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: netskao
+
 Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
 Architecture: iphoneos-arm64

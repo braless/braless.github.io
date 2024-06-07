@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 127,
+  "total": 128,
   "data": [
     {
       "Version": "0.0.6",
@@ -757,6 +757,13 @@
       "Filename": "debs/arm64/魔术师(iOS15)_0.0.1-4258_iphoneos-arm64.deb",
       "path": "/debs/arm64/魔术师(iOS15)_0.0.1-4258_iphoneos-arm64.deb",
       "Name": "魔术师(iOS15)"
+    },
+    {
+      "Version": "4.2-6",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/微信净化_4.2-6(新版无限制)_无根_刀刀.deb",
+      "path": "/debs/arm64/微信净化_4.2-6(新版无限制)_无根_刀刀.deb",
+      "Name": "微信净化"
     },
     {
       "Version": "3.0",
