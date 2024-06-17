@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 129,
+  "total": 130,
   "data": [
     {
       "Version": "0.0.6",
@@ -203,7 +203,7 @@
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/cn.zqbb.disupdateapp_1.0-1_iphoneos-arm64.deb",
       "path": "/debs/arm64/cn.zqbb.disupdateapp_1.0-1_iphoneos-arm64.deb",
-      "Name": "BlockAppUpdate 屏蔽App Store更新"
+      "Name": "屏蔽App Store更新"
     },
     {
       "Version": "1.0.1",
@@ -561,6 +561,13 @@
       "Filename": "debs/arm64/AppData-Rootless_1.4.1_iphoneos-arm64.deb",
       "path": "/debs/arm64/AppData-Rootless_1.4.1_iphoneos-arm64.deb",
       "Name": "AppData-Rootless"
+    },
+    {
+      "Version": "1.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/cn.llld.qqdsqqc_1.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/cn.llld.qqdsqqc_1.0_iphoneos-arm64.deb",
+      "Name": "QQ精简版"
     },
     {
       "Version": "1.0.16",

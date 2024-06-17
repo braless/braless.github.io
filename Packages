@@ -1442,10 +1442,10 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/arm64/cn.llld.qqdsqqc_1.0_iphoneos-arm64.deb
-Size: 79140
-MD5sum: 5e3b9de825f473968f407fc6467f8891
-SHA1: e06fbcdad4eeb7b7fc0a67bf26ab55d15e60c403
-SHA256: b13d9aaf33e27e4ec120a2c268db8de3f4b80bf84cf2ee5f40dd8d73e7b3b88f
+Size: 79116
+MD5sum: 4b47feca2d1f92660fe96f597b3870f3
+SHA1: 20f08c919d4236126338d24a40065b86c0aafa7a
+SHA256: 0fad397d3c47b340c19ff71ad963aab74355baa543f7d7d3bfb275ebb1bbb960
 Section: Tweaks
 Description: 芭比Q精简功能版，去除 全局视图颜色控制和全局视图透明调节 功能。插件功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.20，别的版本需自测。
 Author: 来了老弟 X：h_h_x_t
