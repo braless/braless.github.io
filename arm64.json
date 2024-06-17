@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 128,
+  "total": 129,
   "data": [
     {
       "Version": "0.0.6",
@@ -477,6 +477,13 @@
       "Filename": "debs/arm64/高德地图优化_1.0.3_iphoneos-arm64.deb",
       "path": "/debs/arm64/高德地图优化_1.0.3_iphoneos-arm64.deb",
       "Name": "高德地图优化"
+    },
+    {
+      "Version": "5.0-0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/微信净化5.0.0.deb",
+      "path": "/debs/arm64/微信净化5.0.0.deb",
+      "Name": "微信净化"
     },
     {
       "Version": "1.1.0~rootless",
