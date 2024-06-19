@@ -642,6 +642,23 @@ Provides: me.jjolano.shadow.beta
 Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
 Suggests: com.ps.injectionfoundation
 
+Package: com.llld.minivx.rootless
+Version: 1.01
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: debs/arm64/com.llld.minivx.rootless_1.01_iphoneos-arm64.deb
+Size: 13916
+MD5sum: 591aa01b63e2db103dbbafc6c40681d4
+SHA1: 9cacce4fa7cbcf3624d14078df223780e17d65b1
+SHA256: ed35fefaaba42f6a45b56ad7c138abd1dd81e53e51d838493ae5607a4e19ab29
+Section: Tweaks
+Description: 微信简洁辅助(抢红包｜防撤回)-roootless
+Author: 来了老弟
+Installed-Size: 108
+Name: 微信辅助(微生物)-Rootless
+Sponsor: 来了老弟
+
 Package: com.dao.ytlite
 Version: 3.0.2
 Architecture: iphoneos-arm64
@@ -714,6 +731,22 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Installed-Size: 168
 Name: 酷安 去广告-Rootless
 Sponsor: 搬运工
+
+Package: com.swiftyper.wechatredenvelop
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: 请叫我小锅
+Depends: mobilesubstrate
+Filename: debs/arm64/com.swiftyper.wechatredenvelop_2.0.0_iphoneos-arm64.deb
+Size: 107344
+MD5sum: be4c94a0a647f5c83f66c9a57276e884
+SHA1: 5fd7959ab4615326f9d3e1d7db08992d0aca34c5
+SHA256: 407397723c7a6979e3a3148d0d43a11506192eaa5458af323bc3d88cc57e837a
+Section: Tweaks
+Description: 微信抢红包插件
+Author: 请叫我小锅
+Installed-Size: 296
+Name: 微信抢红包
 
 Package: com.icraze.complicationsfix
 Version: 3.0
