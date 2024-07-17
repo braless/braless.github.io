@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 130,
+  "total": 132,
   "data": [
     {
       "Version": "0.0.6",
@@ -255,6 +255,13 @@
       "Name": "Shadow"
     },
     {
+      "Version": "1.01",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.llld.minivx.rootless_1.01_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.llld.minivx.rootless_1.01_iphoneos-arm64.deb",
+      "Name": "微信辅助(微生物)-Rootless"
+    },
+    {
       "Version": "3.0.2",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/YTLite(rootless)_3.0.2_iphoneos-arm64.deb",
@@ -281,6 +288,13 @@
       "Filename": "debs/arm64/酷安 去广告-Rootless_1.0_iphoneos-arm64.deb",
       "path": "/debs/arm64/酷安 去广告-Rootless_1.0_iphoneos-arm64.deb",
       "Name": "酷安 去广告-Rootless"
+    },
+    {
+      "Version": "2.0.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.swiftyper.wechatredenvelop_2.0.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.swiftyper.wechatredenvelop_2.0.0_iphoneos-arm64.deb",
+      "Name": "微信抢红包"
     },
     {
       "Version": "3.0",

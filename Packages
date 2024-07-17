@@ -1286,6 +1286,22 @@ Installed-Size: 408
 Name: libSparkAppList
 Tag: role::developer
 
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+Size: 522700
+MD5sum: 50409b872a85150cb30b7513a15d4b71
+SHA1: 0bc07575fd92d2852cda943aee7d4e706dfcfca3
+SHA256: 9a47bd853e87ec65d69d9f6ea9500828cc083d9636f084038fe162b6d1cafe82
+Section: Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Installed-Size: 2336
+Name: WeChatNotiAvatar
+
 Package: com.nan.localhostssh
 Version: 0.3.2
 Architecture: iphoneos-arm64
