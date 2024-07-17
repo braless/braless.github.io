@@ -31,6 +31,21 @@ Depiction: https://opa334.github.io/depic/Choicy/index.html
 Installed-Size: 884
 Name: Choicy
 
+Package: cn.llld.hhxt
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X :h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/arm64/cn.llld.hhxt_1.1_iphoneos-arm64.deb
+Size: 8992
+MD5sum: 138ad1fedb8673287ed199a82e734009
+SHA1: f194cfa40557c30d3535ea62931d1b8694403d42
+SHA256: 567cada3a7b2522f25a2b541d936493a72f52987f2f5a596ba7693f83050e1bc
+Section: Tweaks
+Description: rootful tweak can be used on xina2 or rootless (first release the first version, the root tweak is waiting for me to upload it, it is useless to install it alone, it needs to be combined with the tweak I uploaded)。让有根插件可以在xina2或者rootless上使用，(先发个初版，单独装这个没用，需要搭配我上传的插件,目前部分插件在：兼容层oldabi-rootless，以后（有别的分区或修复去掉oldabi,仅装这个即可）
+Author: 来了老弟 h_h_x_t
+Name: xina2-rootless串联
+
 Package: byg.iosios.net.wechatpurification-rootless
 Version: 4.2-6.3
 Architecture: iphoneos-arm64

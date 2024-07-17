@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 132,
+  "total": 133,
   "data": [
     {
       "Version": "0.0.6",
@@ -505,6 +505,13 @@
       "Filename": "debs/arm64/libSparkAppList_1.1.0~rootless_iphoneos-arm64.deb",
       "path": "/debs/arm64/libSparkAppList_1.1.0~rootless_iphoneos-arm64.deb",
       "Name": "libSparkAppList"
+    },
+    {
+      "Version": "1.2-5",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb",
+      "Name": "WeChatNotiAvatar"
     },
     {
       "Version": "0.3.2",
