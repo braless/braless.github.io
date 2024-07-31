@@ -223,6 +223,11 @@
       "downLink": "https://repo.bilin.eu.org/troll/NiceBattery_TS.tipa"
     },
     {
+      "ipaName": "OTADisabler_1.1.0.tipa",
+      "size": "443.45 Kb",
+      "downLink": "https://repo.bilin.eu.org/troll/OTADisabler_1.1.0.tipa"
+    },
+    {
       "ipaName": "Paste-4.0.1 [MacKed].tipa",
       "size": "25.39 Mb",
       "downLink": "https://repo.bilin.eu.org/troll/Paste-4.0.1 [MacKed].tipa"
