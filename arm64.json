@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 133,
+  "total": 134,
   "data": [
     {
       "Version": "0.0.6",
@@ -15,6 +15,13 @@
       "Filename": "debs/arm64/Choicy_1.4.10-3_iphoneos-arm64.deb",
       "path": "/debs/arm64/Choicy_1.4.10-3_iphoneos-arm64.deb",
       "Name": "Choicy"
+    },
+    {
+      "Version": "1.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/cn.llld.hhxt_1.1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/cn.llld.hhxt_1.1_iphoneos-arm64.deb",
+      "Name": "xina2-rootless串联"
     },
     {
       "Version": "4.2-6.3",

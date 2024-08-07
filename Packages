@@ -595,6 +595,25 @@ Author: Netskao
 Installed-Size: 440
 Name: ImgPlay Crack-Rootless
 
+Package: xyz.cypwn.hikari
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/arm64/xyz.cypwn.hikari_1.0_iphoneos-arm64.deb
+Size: 945512
+MD5sum: a7aa84c457e3ddd05abe2199484b3a0e
+SHA1: bc84acbaec81f3dc9408950db16f01280575ebbd
+SHA256: f843909f096a5cba402f3f6dac0485d64a7db9bb77227420995eeb81972c8a91
+Section: Tweaks
+Description: Hikari lets you customize and enhance your device’s sound effects with ease.
+Author: Hitori
+Crakage: com.hitori.hikari
+Depiction: https://repo.cypwn.xyz/depiction/2739
+Icon: https://repo.cypwn.xyz/packages/Hikari-Rootless/icon.png
+Name: Hikari
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2739
+
 Package: com.opa334.libsandy
 Version: 1.1.4
 Architecture: iphoneos-arm64
