@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 134,
+  "total": 135,
   "data": [
     {
       "Version": "0.0.6",
@@ -239,6 +239,13 @@
       "Filename": "debs/arm64/ImgPlay Crack-Rootless_1.1-5_iphoneos-arm64.deb",
       "path": "/debs/arm64/ImgPlay Crack-Rootless_1.1-5_iphoneos-arm64.deb",
       "Name": "ImgPlay Crack-Rootless"
+    },
+    {
+      "Version": "1.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/xyz.cypwn.hikari_1.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/xyz.cypwn.hikari_1.0_iphoneos-arm64.deb",
+      "Name": "Hikari"
     },
     {
       "Version": "1.1.4",

@@ -2192,6 +2192,26 @@ Description: Infuse的破解/增强插件。
 Author: dvntm
 Name: Infuse Plus(rootless)
 
+Package: MisakaHelper
+Version: 2.1-0
+Architecture: iphoneos-arm64
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Filename: debs/arm64/Misaka_2.1.0_无根.deb
+Size: 13145216
+MD5sum: ad2b62fd2074abb612e2f5f1df95b19f
+SHA1: c2b9a99c7af380dd26938e974da0629c179114fa
+SHA256: 965a971feb33f121b811be169f9e34f774e76d46018a276c96d65785d0d2df75
+Section: Tweaks
+Description: MisakaHelper
+Author: Misaka
+Essential: no
+Name: MisakaHelper
+Priority: optional
+Provides: MisakaHelper
+
 Package: me.jjolano.hkmodule.substrate
 Version: 1.0.8
 Architecture: iphoneos-arm64
