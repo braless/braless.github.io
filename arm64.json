@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 135,
+  "total": 136,
   "data": [
     {
       "Version": "0.0.6",
@@ -855,6 +855,13 @@
       "Filename": "debs/arm64/com.dao.infuseplus_1.2.0_iphoneos-arm64.deb",
       "path": "/debs/arm64/com.dao.infuseplus_1.2.0_iphoneos-arm64.deb",
       "Name": "Infuse Plus(rootless)"
+    },
+    {
+      "Version": "2.1-0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/Misaka_2.1.0_无根.deb",
+      "path": "/debs/arm64/Misaka_2.1.0_无根.deb",
+      "Name": "MisakaHelper"
     },
     {
       "Version": "1.0.8",

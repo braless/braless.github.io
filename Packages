@@ -406,6 +406,21 @@ Author: opa334
 Installed-Size: 4300
 Name: TrollStore Helper
 
+Package: com.HBWechatHelper.ailun
+Version: 1.7.3
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/arm64/黄白助手1.7.3_无根.deb
+Size: 9039044
+MD5sum: 438352dad7b7e3b14904ee54d41fc1d7
+SHA1: cc333cc9a70ef42ea9a5fd9e0aed7083e2ef5050
+SHA256: 59890862baea062b51bf0fa5fd3ec831dca009311b451f27cf25f90bfad7dcc6
+Section: Tweaks
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
 Package: preferenceloader
 Version: 2.2.7
 Architecture: iphoneos-arm64
