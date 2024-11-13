@@ -883,6 +883,27 @@ Icon: file:///var/jb/Library/PreferenceLoader/Preferences/screendump/ScreenDump@
 Installed-Size: 3152
 Name: screendump (iOS 13+)
 
+Package: netskao.wechatpurification
+Version: 4.2-6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/微信净化_4.2-6(新版无限制)_有根_刀刀.deb
+Size: 6278148
+MD5sum: d6a5ec7c6856620e6bcdbbd5fb1aa359
+SHA1: b3d9cb42c27b209c06b3a947a81093c7a354db1a
+SHA256: ef23e043a5a36c619e9811640cce4d883278efe8ab250f58ef17db33a722d6c2
+Section: Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Installed-Size: 17133
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: netskao
+
 Package: org.coolstar.sileo
 Version: 2.5
 Architecture: iphoneos-arm64
