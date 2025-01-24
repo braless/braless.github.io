@@ -173,6 +173,23 @@ Author: Netskao
 Installed-Size: 460
 Name: StoreSwitchAccounts
 
+Package: byg.iosios.net.duanian.wxhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: debs/arm64/net.duanian.wxhook_1.0.deb
+Size: 65512
+MD5sum: a99c57b112de56f97d95a6c7692ffac2
+SHA1: a22baf15c7270bea5b03db02db3a929079f5c818
+SHA256: c4febdbda9faeb3a19ee6d36c4c4a18ebcd9509d7f401761e675e83441decddf
+Section: Tweaks
+Description: 本插件功能如下：抢红包、自动登录、屏蔽广告、超强防封（我不知道啥用）动态背景等。功能不多但是很十分的实用！有喜欢的小伙们可以下载体验啦，搬运工源，搬你所想！爱你所爱！
+Author: 萌萌
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信萌萌助手
+Sponsor: 搬运工
+
 Package: xyz.cypwn.applist
 Version: 1.5.16
 Architecture: iphoneos-arm64
@@ -1007,6 +1024,23 @@ Author: Mao
 Name: 微信URL扩展-Rootless
 Priority: optional
 Sponsor: admin@25mao.com
+
+Package: com.yourepo.trollstore.8
+Version: 0.0.1-5
+Architecture: iphoneos-arm64
+Maintainer: halo-michael <qiaozhani000@163.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.github.wxsmalltab
+Filename: debs/arm64/com.yourepo.trollstore.8_0.0.1-5_iphoneos-arm64.deb
+Size: 12012
+MD5sum: 8f986c3e8931563124f98af975bbebb9
+SHA1: cb2aa769c5207240366a076b52349439ed0de0d2
+SHA256: c05b10a24dc97a49de0d34a388393cc8349a5034d847f67b59c2507032385db3
+Section: Tweaks
+Description: 微信底栏悬浮显示
+Author: Michael <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信小底栏
 
 Package: zp.stopautolaunchapps
 Version: 1.0.2

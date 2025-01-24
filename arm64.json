@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 137,
+  "total": 140,
   "data": [
     {
       "Version": "0.0.6",
@@ -176,6 +176,13 @@
       "Filename": "debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb",
       "path": "/debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb",
       "Name": "PreferenceLoader"
+    },
+    {
+      "Version": "1.0.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/byg.iosios.net.simplecncallkitenabler_1.0.0_iphoneos-arm64.deb",
+      "path": "/debs/arm64/byg.iosios.net.simplecncallkitenabler_1.0.0_iphoneos-arm64.deb",
+      "Name": "微信Callkit-Rootless"
     },
     {
       "Version": "1.0.0",
@@ -437,6 +444,13 @@
       "Name": "哔哩哔哩 NoAds-Rootless"
     },
     {
+      "Version": "1.2-1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/byg.iosios.net.wcmypageinfocenters_1.2-1_iphoneos-arm64.deb",
+      "path": "/debs/arm64/byg.iosios.net.wcmypageinfocenters_1.2-1_iphoneos-arm64.deb",
+      "Name": "微信资料居中-Rootless"
+    },
+    {
       "Version": "1.0.11",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/AltList_1.0.11_iphoneos-arm64.deb",
@@ -617,6 +631,13 @@
       "Filename": "debs/arm64/PreferenceLoader_1.0.16_iphoneos-arm64.deb",
       "path": "/debs/arm64/PreferenceLoader_1.0.16_iphoneos-arm64.deb",
       "Name": "PreferenceLoader"
+    },
+    {
+      "Version": "1.7-8",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb",
+      "path": "/debs/arm64/byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb",
+      "Name": "微信黄白助手-Rootless"
     },
     {
       "Version": "1.2.6-2",
