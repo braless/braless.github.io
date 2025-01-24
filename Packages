@@ -437,6 +437,25 @@ Author: Dhinak G <dhinak@dhinak.net>
 Installed-Size: 370
 Name: PreferenceLoader
 
+Package: byg.iosios.net.simplecncallkitenabler
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.torrekie.simplecncallkitenabler
+Filename: debs/arm64/byg.iosios.net.simplecncallkitenabler_1.0.0_iphoneos-arm64.deb
+Size: 7504
+MD5sum: b5c451a1a8df7926d77adb0fd662cdc6
+SHA1: 1fd61651b5597844a1292065cd8229eaf242bc8c
+SHA256: d9d167b2f92c66651b66cc8588855dc8b5cea71d8f9e99421a350660170dcbeb
+Section: Tweaks
+Description: 启用微信的Callkit，插件无设置项，安装即生效，需要单独Callkit插件的可以使用这个！已安装其它插件带此功能的最好关闭再安装，防止功能相同造成冲突！如果不行就降级微信版本，具体自测，还不行就卸载插件，没啥用，搬运工源提供技术服务！
+Author: x✨
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 72
+Name: 微信Callkit-Rootless
+Sponsor: 搬运工
+
 Package: zp.zv.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -787,10 +806,10 @@ Architecture: iphoneos-arm64
 Maintainer: 请叫我小锅
 Depends: mobilesubstrate
 Filename: debs/arm64/com.swiftyper.wechatredenvelop_2.0.0_iphoneos-arm64.deb
-Size: 107344
-MD5sum: be4c94a0a647f5c83f66c9a57276e884
-SHA1: 5fd7959ab4615326f9d3e1d7db08992d0aca34c5
-SHA256: 407397723c7a6979e3a3148d0d43a11506192eaa5458af323bc3d88cc57e837a
+Size: 107376
+MD5sum: f5795d5d64aa4fcfc065092d4b600f3b
+SHA1: 50421a2f5cb780812099fa780ce51489856867a4
+SHA256: 0ecca500677555bbff586ad5ecdf954fe621df152abdcac6e2182976ae6b858c
 Section: Tweaks
 Description: 微信抢红包插件
 Author: 请叫我小锅
@@ -1106,6 +1125,25 @@ Description: 哔哩哔哩去除启动广告, 去除青少年提示, 去除AppSto
 Author: Netskao
 Installed-Size: 328
 Name: 哔哩哔哩 NoAds-Rootless
+
+Package: byg.iosios.net.wcmypageinfocenters
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: debs/arm64/byg.iosios.net.wcmypageinfocenters_1.2-1_iphoneos-arm64.deb
+Size: 65352
+MD5sum: 8cb916bdcbefee2cfb59fb3bff16cbdf
+SHA1: 8b2469d115320eaefb6d9503454a9f6d04b4ecbe
+SHA256: 1321770a360eace10909eeace1147aeaf8888efc676d8707cdc2820558c2da22
+Section: Tweaks
+Description: 微信个人资料居中*效果看截图！支持点击微信号自定义文本内容！ 仅支持微信 8.0.31 及更高版本，可收纳在老猫收纳插件内！搬运工源搬你所想，爱你所爱！
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 220
+Name: 微信资料居中-Rootless
+Sponsor: 搬运工
 
 Package: com.opa334.altlist
 Version: 1.0.11
@@ -1591,6 +1629,23 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/artikuspreferenceloader.png
 Name: PreferenceLoader
 Provides: preferenceloader (= 2.2.6)
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2126
+
+Package: byg.iosios.net.HBWechatHelper.rootlless
+Version: 1.7-8
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: debs/arm64/byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb
+Size: 11248520
+MD5sum: 282df849abdc908c33af22643f49f589
+SHA1: 243f8d7080423e5ed81afea5ac51914d97ad8610
+SHA256: 24cebfdee9f7f39751980bac27b84722072ffccbb3485962dde8b676a4fbe92a
+Section: Tweaks
+Description: 支持文字转语音功能，一大特色，转语音闪退的话先设置音色！黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，朋友圈转发，防撤回，转发语音，自定义拍一拍 百变小尾巴 实时尾巴时间等功能 此为内测版，很多功能要付费才行，大家自行决定！
+Author: HuangBai
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 微信黄白助手-Rootless
+Sponsor: 搬运工
 
 Package: com.xx.dyhook
 Version: 1.2.6-2

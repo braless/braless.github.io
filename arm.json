@@ -1,7 +1,14 @@
 {
   "type": "arm",
-  "total": 178,
+  "total": 179,
   "data": [
+    {
+      "Version": "4.2-6",
+      "Architecture": "iphoneos-arm",
+      "Filename": "debs/arm64/微信净化_4.2-6(新版无限制)_有根_刀刀.deb",
+      "path": "/debs/arm64/微信净化_4.2-6(新版无限制)_有根_刀刀.deb",
+      "Name": "微信净化"
+    },
     {
       "Version": "1.1-2",
       "Architecture": "iphoneos-arm",
