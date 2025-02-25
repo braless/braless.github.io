@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 143,
+  "total": 144,
   "data": [
     {
       "Version": "0.0.6",
@@ -456,6 +456,13 @@
       "Filename": "debs/arm64/哔哩哔哩 NoAds-Rootless_1.1-2_iphoneos-arm64.deb",
       "path": "/debs/arm64/哔哩哔哩 NoAds-Rootless_1.1-2_iphoneos-arm64.deb",
       "Name": "哔哩哔哩 NoAds-Rootless"
+    },
+    {
+      "Version": "1.0-5",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/顶栏元素1.0.5.deb",
+      "path": "/debs/arm64/顶栏元素1.0.5.deb",
+      "Name": "WCNicknameAvatarStyle"
     },
     {
       "Version": "1.2-1",

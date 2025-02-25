@@ -1092,6 +1092,23 @@ Description: AppStore帐户页面(左上角图标)中快速切换账号。
 Author: subdiox
 Name: StoreSwitcher2(rootless)
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.0
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: debs/arm64/黄白助手_1.8.0_无根.deb
+Size: 11228100
+MD5sum: e7ecd0e6a58727a134630ded1c804696
+SHA1: 1fc97826645fb9b77adc3725f9ac331ad31b7b54
+SHA256: 59d22425f3c38d3fe69caac138098a6dfe6f0c12b7285f8d04a4cb44e210284a
+Section: 微信
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
+
 Package: com.hk.choicy.cn.rl
 Version: 1.4.6
 Architecture: iphoneos-arm64
