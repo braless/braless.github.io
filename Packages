@@ -1160,6 +1160,24 @@ Author: Netskao
 Installed-Size: 328
 Name: 哔哩哔哩 NoAds-Rootless
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000) 
+Filename: debs/arm64/顶栏元素1.0.5.deb
+Size: 36424
+MD5sum: 81c9a9707dfa5705be69dc682ff0cc01
+SHA1: 13b66f7182206c10b58d4e9126a239c1c516c4ab
+SHA256: bc151986ccc96b551fe749752837f5c92d1338968bb0508ea3d233f44260e9dd
+Section: 微信
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Installed-Size: 272
+Name: WCNicknameAvatarStyle
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
+
 Package: byg.iosios.net.wcmypageinfocenters
 Version: 1.2-1
 Architecture: iphoneos-arm64

@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 142,
+  "total": 143,
   "data": [
     {
       "Version": "0.0.6",
@@ -813,6 +813,13 @@
       "Filename": "debs/arm64/me.liuming.locationexpert_3.3.3_iphoneos-arm64.deb",
       "path": "/debs/arm64/me.liuming.locationexpert_3.3.3_iphoneos-arm64.deb",
       "Name": "虚拟定位专家(GPS Faker Expert)-模拟导航，扫街"
+    },
+    {
+      "Version": "1.0-2",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/微信增强_1.0-2_无根.deb",
+      "path": "/debs/arm64/微信增强_1.0-2_无根.deb",
+      "Name": "WCEhance微信增强"
     },
     {
       "Version": "2.0.1",
