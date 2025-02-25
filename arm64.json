@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 144,
+  "total": 145,
   "data": [
     {
       "Version": "0.0.6",
@@ -428,6 +428,13 @@
       "Filename": "debs/arm64/StoreSwitcher2(rootless)_1.0.4_iphoneos-arm64.deb",
       "path": "/debs/arm64/StoreSwitcher2(rootless)_1.0.4_iphoneos-arm64.deb",
       "Name": "StoreSwitcher2(rootless)"
+    },
+    {
+      "Version": "1.8.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/黄白助手_1.8.0_无根.deb",
+      "path": "/debs/arm64/黄白助手_1.8.0_无根.deb",
+      "Name": "黄白助手(微信插件)-Rootless"
     },
     {
       "Version": "1.4.6",

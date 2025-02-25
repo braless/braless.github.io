@@ -1825,6 +1825,22 @@ Installed-Size: 886
 Name: Atria
 Tag: compatible_min::ios13.0
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000) 
+Filename: debs/arm64/顶栏元素1.0.6.deb
+Size: 38336
+MD5sum: 04328dc209e8e331884e8da1197ece2b
+SHA1: e704709f6f4de86471d2ac928a7ec722bb75554d
+SHA256: 5483334157057326143ffc372df2b9d66200bdbe75866a834aef8f7c1b0e0ae0
+Section: 微信
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Installed-Size: 288
+Name: WCNicknameAvatarStyle
+
 Package: xyz.cypwn.photoskipdelandinfinitezoom
 Version: 0.0.1
 Architecture: iphoneos-arm64
