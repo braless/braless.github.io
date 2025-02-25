@@ -2095,6 +2095,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, role::enduser
 dev: liuming
 
+Package: com.Axs.WCEhance
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/arm64/微信增强_1.0-2_无根.deb
+Size: 42500
+MD5sum: ddff3f229c09a18abe131922c4d70594
+SHA1: 687004d292467d7259bb1e522b49eb89450b5009
+SHA256: b6446fd3a26e6f5390818352a2063aaacaa76163b5a49003dab55a3e25e67958
+Section: 微信
+Description: WeChat enhancement, used to optimize some anti human designs and enhance functionality
+Author: huami&Lxcloud
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WCEhance微信增强
+Priority: optional
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.hk.rootless.cc
 Version: 2.0.1
 Architecture: iphoneos-arm64

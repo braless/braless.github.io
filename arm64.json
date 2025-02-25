@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 140,
+  "total": 142,
   "data": [
     {
       "Version": "0.0.6",
@@ -71,6 +71,13 @@
       "Filename": "debs/arm64/StoreSwitchAccounts_1.1-4_iphoneos-arm64.deb",
       "path": "/debs/arm64/StoreSwitchAccounts_1.1-4_iphoneos-arm64.deb",
       "Name": "StoreSwitchAccounts"
+    },
+    {
+      "Version": "1.0.2",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/net.duanian.wxhook_1.0.deb",
+      "path": "/debs/arm64/net.duanian.wxhook_1.0.deb",
+      "Name": "微信萌萌助手"
     },
     {
       "Version": "1.5.16",
@@ -393,6 +400,13 @@
       "Filename": "debs/arm64/微信URL扩展-Rootless_0.2-0_iphoneos-arm64.deb",
       "path": "/debs/arm64/微信URL扩展-Rootless_0.2-0_iphoneos-arm64.deb",
       "Name": "微信URL扩展-Rootless"
+    },
+    {
+      "Version": "0.0.1-5",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.yourepo.trollstore.8_0.0.1-5_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.yourepo.trollstore.8_0.0.1-5_iphoneos-arm64.deb",
+      "Name": "微信小底栏"
     },
     {
       "Version": "1.0.2",
