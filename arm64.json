@@ -129,18 +129,18 @@
       "Name": "LaunchLogo"
     },
     {
-      "Version": "0.5",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/OTADisabler屏蔽系统更新-Rootless_0.5_iphoneos-arm64.deb",
-      "path": "/debs/arm64/OTADisabler屏蔽系统更新-Rootless_0.5_iphoneos-arm64.deb",
-      "Name": "OTADisabler屏蔽系统更新-Rootless"
-    },
-    {
       "Version": "1.6.4",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/LibGcUniversal_1.6.4_iphoneos-arm64.deb",
       "path": "/debs/arm64/LibGcUniversal_1.6.4_iphoneos-arm64.deb",
       "Name": "LibGcUniversal"
+    },
+    {
+      "Version": "3.6.3",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/LastLook 简体中文包(rootless)_3.6.3.deb",
+      "path": "/debs/arm64/LastLook 简体中文包(rootless)_3.6.3.deb",
+      "Name": "LastLook 简体中文包(rootless)"
     },
     {
       "Version": "1.1.1",
@@ -164,6 +164,13 @@
       "Name": "微信助手-Rootless"
     },
     {
+      "Version": "2.0.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/微信抢红包(自用).deb",
+      "path": "/debs/arm64/微信抢红包(自用).deb",
+      "Name": "微信抢红包"
+    },
+    {
       "Version": "2.0.9",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/TrollStore Helper_2.0.9_iphoneos-arm64.deb",
@@ -183,13 +190,6 @@
       "Filename": "debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb",
       "path": "/debs/arm64/preferenceloader_2.2.7_iphoneos-arm64.deb",
       "Name": "PreferenceLoader"
-    },
-    {
-      "Version": "1.0.0",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/byg.iosios.net.simplecncallkitenabler_1.0.0_iphoneos-arm64.deb",
-      "path": "/debs/arm64/byg.iosios.net.simplecncallkitenabler_1.0.0_iphoneos-arm64.deb",
-      "Name": "微信Callkit-Rootless"
     },
     {
       "Version": "1.0.0",
@@ -227,13 +227,6 @@
       "Name": "家庭移除发现-Rootless"
     },
     {
-      "Version": "1.0-1",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/cn.zqbb.disupdateapp_1.0-1_iphoneos-arm64.deb",
-      "path": "/debs/arm64/cn.zqbb.disupdateapp_1.0-1_iphoneos-arm64.deb",
-      "Name": "屏蔽App Store更新"
-    },
-    {
       "Version": "1.0.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/RootBridge Framework_1.0.1_iphoneos-arm64.deb",
@@ -253,13 +246,6 @@
       "Filename": "debs/arm64/SettingsRevamp 简体中文包(rootless)_2.1.1_iphoneos-arm64.deb",
       "path": "/debs/arm64/SettingsRevamp 简体中文包(rootless)_2.1.1_iphoneos-arm64.deb",
       "Name": "SettingsRevamp 简体中文包(rootless)"
-    },
-    {
-      "Version": "1.1-5",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/ImgPlay Crack-Rootless_1.1-5_iphoneos-arm64.deb",
-      "path": "/debs/arm64/ImgPlay Crack-Rootless_1.1-5_iphoneos-arm64.deb",
-      "Name": "ImgPlay Crack-Rootless"
     },
     {
       "Version": "1.0",
@@ -283,6 +269,13 @@
       "Name": "CopyVault"
     },
     {
+      "Version": "7.10.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/iCleaner Pro(rootless)_7.10.0_.deb",
+      "path": "/debs/arm64/iCleaner Pro(rootless)_7.10.0_.deb",
+      "Name": "iCleaner Pro(rootless)"
+    },
+    {
       "Version": "3.7.6",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/Shadow_3.7.6_iphoneos-arm64.deb",
@@ -304,6 +297,13 @@
       "Name": "YTLite(rootless)"
     },
     {
+      "Version": "1.7-8",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/黄白助手1.7.8.deb",
+      "path": "/debs/arm64/黄白助手1.7.8.deb",
+      "Name": "微信黄白助手-Rootless"
+    },
+    {
       "Version": "3.9.11",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/topme.ios.fakegps_3.9.11_iphoneos-arm64.deb",
@@ -311,25 +311,11 @@
       "Name": "定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行"
     },
     {
-      "Version": "1.1.5",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/Infuse Plus(rootless)_1.1.5_iphoneos-arm64.deb",
-      "path": "/debs/arm64/Infuse Plus(rootless)_1.1.5_iphoneos-arm64.deb",
-      "Name": "Infuse Plus(rootless)"
-    },
-    {
       "Version": "1.0",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/酷安 去广告-Rootless_1.0_iphoneos-arm64.deb",
       "path": "/debs/arm64/酷安 去广告-Rootless_1.0_iphoneos-arm64.deb",
       "Name": "酷安 去广告-Rootless"
-    },
-    {
-      "Version": "2.0.0",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/com.swiftyper.wechatredenvelop_2.0.0_iphoneos-arm64.deb",
-      "path": "/debs/arm64/com.swiftyper.wechatredenvelop_2.0.0_iphoneos-arm64.deb",
-      "Name": "微信抢红包"
     },
     {
       "Version": "3.0",
@@ -374,6 +360,13 @@
       "Name": "Sileo"
     },
     {
+      "Version": "0.5",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/OTADisabler屏蔽系统更新.deb",
+      "path": "/debs/arm64/OTADisabler屏蔽系统更新.deb",
+      "Name": "OTADisabler屏蔽系统更新-Rootless"
+    },
+    {
       "Version": "0.0.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/网易云音乐去广告-Rootless_0.0.1_iphoneos-arm64.deb",
@@ -416,18 +409,18 @@
       "Name": "听我说谢谢你 - rootless"
     },
     {
-      "Version": "1.7.1",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/黄白助手(微信插件)-Rootless_1.7.1_iphoneos-arm64.deb",
-      "path": "/debs/arm64/黄白助手(微信插件)-Rootless_1.7.1_iphoneos-arm64.deb",
-      "Name": "黄白助手(微信插件)-Rootless"
-    },
-    {
       "Version": "1.0.4",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/StoreSwitcher2(rootless)_1.0.4_iphoneos-arm64.deb",
       "path": "/debs/arm64/StoreSwitcher2(rootless)_1.0.4_iphoneos-arm64.deb",
       "Name": "StoreSwitcher2(rootless)"
+    },
+    {
+      "Version": "1.0-1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/屏蔽商店更新(真皮).deb",
+      "path": "/debs/arm64/屏蔽商店更新(真皮).deb",
+      "Name": "屏蔽App Store更新"
     },
     {
       "Version": "1.8.0",
@@ -458,6 +451,13 @@
       "Name": "Saily - rootless (zp)"
     },
     {
+      "Version": "1.7.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/黄白助手1.7.1.deb",
+      "path": "/debs/arm64/黄白助手1.7.1.deb",
+      "Name": "黄白助手(微信插件)-Rootless"
+    },
+    {
       "Version": "1.1-2",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/哔哩哔哩 NoAds-Rootless_1.1-2_iphoneos-arm64.deb",
@@ -470,13 +470,6 @@
       "Filename": "debs/arm64/顶栏元素1.0.5.deb",
       "path": "/debs/arm64/顶栏元素1.0.5.deb",
       "Name": "WCNicknameAvatarStyle"
-    },
-    {
-      "Version": "1.2-1",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/byg.iosios.net.wcmypageinfocenters_1.2-1_iphoneos-arm64.deb",
-      "path": "/debs/arm64/byg.iosios.net.wcmypageinfocenters_1.2-1_iphoneos-arm64.deb",
-      "Name": "微信资料居中-Rootless"
     },
     {
       "Version": "1.0.11",
@@ -570,13 +563,6 @@
       "Name": "libSparkAppList"
     },
     {
-      "Version": "1.2-5",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb",
-      "path": "/debs/arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb",
-      "Name": "WeChatNotiAvatar"
-    },
-    {
       "Version": "0.3.2",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/com.nan.localhostssh_0.3.2_iphoneos-arm64.deb",
@@ -589,6 +575,13 @@
       "Filename": "debs/arm64/HookKit Module (fishhook)_1.0.8_iphoneos-arm64.deb",
       "path": "/debs/arm64/HookKit Module (fishhook)_1.0.8_iphoneos-arm64.deb",
       "Name": "HookKit Module (fishhook)"
+    },
+    {
+      "Version": "1.1.5",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/Infuse Plus(rootless)_1.1.5.deb",
+      "path": "/debs/arm64/Infuse Plus(rootless)_1.1.5.deb",
+      "Name": "Infuse Plus(rootless)"
     },
     {
       "Version": "1.1.6",
@@ -661,13 +654,6 @@
       "Name": "PreferenceLoader"
     },
     {
-      "Version": "1.7-8",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb",
-      "path": "/debs/arm64/byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb",
-      "Name": "微信黄白助手-Rootless"
-    },
-    {
       "Version": "1.2.6-2",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/com.xx.dyhook_1.2.6-2_iphoneos-arm64.deb",
@@ -717,6 +703,13 @@
       "Name": "WCNicknameAvatarStyle"
     },
     {
+      "Version": "1.2-5",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/微信头像1.2.5.deb",
+      "path": "/debs/arm64/微信头像1.2.5.deb",
+      "Name": "WeChatNotiAvatar"
+    },
+    {
       "Version": "0.0.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/PhotoSkipDelAndInfiniteZoom_0.0.1_iphoneos-arm64.deb",
@@ -736,13 +729,6 @@
       "Filename": "debs/arm64/电话助手iOS16-正式版(完整越狱)_1.4.4_iphoneos-arm64.deb",
       "path": "/debs/arm64/电话助手iOS16-正式版(完整越狱)_1.4.4_iphoneos-arm64.deb",
       "Name": "电话助手iOS16-正式版(完整越狱)"
-    },
-    {
-      "Version": "3.6.3",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/LastLook 简体中文包(rootless)_3.6.3_iphoneos-arm64.deb",
-      "path": "/debs/arm64/LastLook 简体中文包(rootless)_3.6.3_iphoneos-arm64.deb",
-      "Name": "LastLook 简体中文包(rootless)"
     },
     {
       "Version": "1.2.1",
@@ -778,6 +764,13 @@
       "Filename": "debs/arm64/cn.zqbb.disupdateapp_0.0.3-1_iphoneos-arm64.deb",
       "path": "/debs/arm64/cn.zqbb.disupdateapp_0.0.3-1_iphoneos-arm64.deb",
       "Name": "BlockAppUpdate 屏蔽APP更新"
+    },
+    {
+      "Version": "1.2-1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/微信顶栏居中.deb",
+      "path": "/debs/arm64/微信顶栏居中.deb",
+      "Name": "微信资料居中-Rootless"
     },
     {
       "Version": "0.1-3",
@@ -834,6 +827,13 @@
       "Filename": "debs/arm64/me.liuming.locationexpert_3.3.3_iphoneos-arm64.deb",
       "path": "/debs/arm64/me.liuming.locationexpert_3.3.3_iphoneos-arm64.deb",
       "Name": "虚拟定位专家(GPS Faker Expert)-模拟导航，扫街"
+    },
+    {
+      "Version": "1.1-5",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/ImgPlay Crack-Rootless_1.1-5.deb",
+      "path": "/debs/arm64/ImgPlay Crack-Rootless_1.1-5.deb",
+      "Name": "ImgPlay Crack-Rootless"
     },
     {
       "Version": "1.0-2",
@@ -913,6 +913,13 @@
       "Name": "RocketBootstrap"
     },
     {
+      "Version": "1.0.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/Callkit_Enable.deb",
+      "path": "/debs/arm64/Callkit_Enable.deb",
+      "Name": "微信Callkit-Rootless"
+    },
+    {
       "Version": "1.1",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/NotiCopy15_1.1_iphoneos-arm64.deb",
@@ -960,13 +967,6 @@
       "Filename": "debs/arm64/SnowBoard_1.5.26-Beta4-rootless_iphoneos-arm64.deb",
       "path": "/debs/arm64/SnowBoard_1.5.26-Beta4-rootless_iphoneos-arm64.deb",
       "Name": "SnowBoard"
-    },
-    {
-      "Version": "7.10.0",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/iCleaner Pro(rootless)_7.10.0_iphoneos-arm64.deb",
-      "path": "/debs/arm64/iCleaner Pro(rootless)_7.10.0_iphoneos-arm64.deb",
-      "Name": "iCleaner Pro(rootless)"
     },
     {
       "Version": "2.0.1",
