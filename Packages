@@ -2394,6 +2394,22 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 
+Package: com.yourepo.trollstore.wcehance
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/微信插件/com.yourepo.trollstore.wcehance_1.2.0_iphoneos-arm64.deb
+Size: 232744
+MD5sum: 8f62db6235386ed9fa198217ba5f1c17
+SHA1: 91fa763887847e09f58efd6b3e75083b98df9166
+SHA256: 911309db7c37b7507d42cc488c1b800b8498c7410ddae0f50ccad41d37ce067e
+Section: Tweaks
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: A <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhance微信增强
+
 Package: byg.iosios.net.HBWechatHelper.rootlless
 Version: 1.7-8
 Architecture: iphoneos-arm64
