@@ -15,6 +15,27 @@ Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubi
 Installed-Size: 464
 Name: 芭比QQ精简版-rootless
 
+Package: com.squidforce.hidenotificationbadges
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Conflicts: com.squidforce.hidenotificationbadge
+Replaces: com.squidforce.hidenotificationbadge
+Filename: debs/arm64/隐藏通知角标.deb
+Size: 2964
+MD5sum: ebddc04412c77d9692dc20083d94bc1d
+SHA1: 44888ff721e0d6e68c30ac58b3f0f392d94c8329
+SHA256: 1443822ab7fccbda1d6adf8855575b9d1e8e19a3e94b8070739b88f3288ca35e
+Section: Tweaks
+Description: HideNotificationBadge
+ * 隐藏推送通知图标右下角标
+ * 可配合 WeChatNotiAvatar 插件使用
+Author: SquidForce
+Installed-Size: 168
+Name: 移除通知角标
+Provides: com.squidforce.hidenotificationbadge
+icon: https://s21.ax1x.com/2025/04/02/pEy0KJA.png
+
 Package: com.llld.minivx.rootless
 Version: 1.01
 Architecture: iphoneos-arm64

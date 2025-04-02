@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 149,
+  "total": 150,
   "data": [
     {
       "Version": "1.0",
@@ -8,6 +8,13 @@
       "Filename": "debs/arm64/芭比QQ精简版-rootless_1.0.deb",
       "path": "/debs/arm64/芭比QQ精简版-rootless_1.0.deb",
       "Name": "芭比QQ精简版-rootless"
+    },
+    {
+      "Version": "0.0.1",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/隐藏通知角标.deb",
+      "path": "/debs/arm64/隐藏通知角标.deb",
+      "Name": "移除通知角标"
     },
     {
       "Version": "1.01",
