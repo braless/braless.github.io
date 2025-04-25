@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 150,
+  "total": 151,
   "data": [
     {
       "Version": "1.0",
@@ -561,6 +561,13 @@
       "Filename": "debs/arm64/com.imkpatil.ezswipe_1.1.1.deb",
       "path": "/debs/arm64/com.imkpatil.ezswipe_1.1.1.deb",
       "Name": "EZSwipe"
+    },
+    {
+      "Version": "2.2-4-232",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.yourepo.trollstore.dyyy_2.2-4-232_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.yourepo.trollstore.dyyy_2.2-4-232_iphoneos-arm64.deb",
+      "Name": "DYYY"
     },
     {
       "Version": "1.3.5",

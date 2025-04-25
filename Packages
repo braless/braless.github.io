@@ -1426,6 +1426,21 @@ Installed-Size: 404
 Name: EZSwipe
 SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.ezswipe.json
 
+Package: com.yourepo.trollstore.dyyy
+Version: 2.2-4-232
+Architecture: iphoneos-arm64
+Maintainer: huami <qiaozhani000@163.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/arm64/com.yourepo.trollstore.dyyy_2.2-4-232_iphoneos-arm64.deb
+Size: 362484
+MD5sum: e8354e834cc02023301c913b57271106
+SHA1: b62e60e47c760cf69ab28100c248db7fc11bc931
+SHA256: 756599df759847e2050cdd1e229977da1350d3b4495cf7550cabe088f3f7d037
+Section: Tweaks
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami <qiaozhani000@163.com>
+Name: DYYY
+
 Package: com.lclrc.squidgesture
 Version: 1.3.5
 Architecture: iphoneos-arm64
