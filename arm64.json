@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 151,
+  "total": 152,
   "data": [
     {
       "Version": "1.0",
@@ -295,6 +295,13 @@
       "Filename": "debs/arm64/SmartNotifications iOS16_1.0.deb",
       "path": "/debs/arm64/SmartNotifications iOS16_1.0.deb",
       "Name": "SmartNotifications iOS16"
+    },
+    {
+      "Version": "1.0-6",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/com.huami.WCPulse_1.0-6_iphoneos-arm64.deb",
+      "path": "/debs/arm64/com.huami.WCPulse_1.0-6_iphoneos-arm64.deb",
+      "Name": "WCPulse"
     },
     {
       "Version": "1.2.1-1",
