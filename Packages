@@ -750,22 +750,6 @@ Installed-Size: 3364
 Name: SmartNotifications iOS16
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2169
 
-Package: com.huami.WCPulse
-Version: 1.0-6
-Architecture: iphoneos-arm64
-Maintainer: huami
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/arm64/com.huami.WCPulse_1.0-6_iphoneos-arm64.deb
-Size: 51176
-MD5sum: b7295743ea527e26f10bdc087367f618
-SHA1: f0ced8aa3e88368cbff833884f9d1b80ee00c4c2
-SHA256: 825967c83eb5a8247c3048ac5e9307007f1b173dd3c12983247fa3e288197207
-Section: 微信
-Description: WCPulse
-Author: huami
-Installed-Size: 336
-Name: WCPulse
-
 Package: com.tomaszpoliszuk.keyboardcontroller
 Version: 1.2.1-1
 Architecture: iphoneos-arm64
@@ -2478,6 +2462,22 @@ Author: HuangBai
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信黄白助手-Rootless
 Sponsor: 搬运工
+
+Package: com.huami.WCPulse
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/微信插件/com.huami.WCPulse_1.0-6_iphoneos-arm64.deb
+Size: 51176
+MD5sum: b7295743ea527e26f10bdc087367f618
+SHA1: f0ced8aa3e88368cbff833884f9d1b80ee00c4c2
+SHA256: 825967c83eb5a8247c3048ac5e9307007f1b173dd3c12983247fa3e288197207
+Section: 微信
+Description: WCPulse
+Author: huami
+Installed-Size: 336
+Name: WCPulse
 
 Package: netskao.wechatpurification
 Version: 4.2-6
