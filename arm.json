@@ -1,7 +1,14 @@
 {
   "type": "arm",
-  "total": 179,
+  "total": 180,
   "data": [
+    {
+      "Version": "1.3.1",
+      "Architecture": "iphoneos-arm",
+      "Filename": "debs/arm64/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb",
+      "path": "/debs/arm64/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb",
+      "Name": "SpringCuts"
+    },
     {
       "Version": "4.2-6",
       "Architecture": "iphoneos-arm",

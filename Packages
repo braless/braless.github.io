@@ -1074,6 +1074,22 @@ Author: Fouad Raheb
 Installed-Size: 23032
 Name: AppData-Rootless
 
+Package: com.anthopak.springcuts
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, firmware (>= 14.0), com.muirey03.libmryipc (>= 2.0)
+Filename: debs/arm64/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb
+Size: 41136
+MD5sum: 4cfa3dea5c1bd38f30e3125055a26d85
+SHA1: 80c0f9883ae5a39e28b259de5a8796cd8538d815
+SHA256: 8cf7d5458557bd942235510ba049cd8afb1e5e761aa6c3374341280d2657d94f
+Section: Tweaks
+Description: Run Shortcuts from SpringBoard (Support library, Activator actions, CLI command)
+Author: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 464
+Name: SpringCuts
+
 Package: com.dao.storeswitcher2
 Version: 1.0.4
 Architecture: iphoneos-arm64
