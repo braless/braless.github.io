@@ -412,10 +412,10 @@ Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/arm64/WCPush2Chat_1.0-arm64.deb
-Size: 8464
-MD5sum: 450dacaa3e8e65b9234ac155d38a46f3
-SHA1: 4f35ee13530bb8fd05c6ba833c4c816772b9d61c
-SHA256: 026e788b470d3861e87ed3020fd039582fa67587baa4d3ef151454b3a36d1aee
+Size: 8456
+MD5sum: d2e04e9b69834d68debae8a2fee66ead
+SHA1: b23fe73e5adcd0d2e1b245404fef8ce931187188
+SHA256: fd8e2e03770961ae425131302a60ca5745a15e389488763f82eac5fadc43eee1
 Section: Tweaks
 Description: WCPush2Chat
 Author: huami
@@ -1179,9 +1179,9 @@ Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/arm64/WCPush2Chat_1.0-arm.deb
 Size: 8396
-MD5sum: 56602b41677470d676ff9a47ffdac7a0
-SHA1: 3a7d86d19321a1f3fd1e49f5d4bec5b0a255f402
-SHA256: a4b43a1d3a1d7e7fabb26a5017d8a5c2c35065068289d4dda49cf46448b89e41
+MD5sum: 0f6d2a004cfd1dfaa3e6fa11c35f18f5
+SHA1: 99102783ce68ded61181fa5211ec48717f82ea7e
+SHA256: bde57ca7db8d64d40e0483e9837d39a4aada1a092ff9ea8f836432bd41c20fbc
 Section: Tweaks
 Description: WCPush2Chat
 Author: huami
