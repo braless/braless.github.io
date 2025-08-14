@@ -373,6 +373,22 @@ Description: Atria 简体中文包(rootless)。
 Author: Alucard/妖刀
 Name: Atria 简体中文包(rootless)
 
+Package: com.huami.WCPush2Chat
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/WCPush2Chat_1.0-2-arm64.deb
+Size: 35652
+MD5sum: c6009028d5bfda8d7cab17c9053e77e0
+SHA1: 77a31bd06da127253a9a6fdeb9e1e9f0c19de853
+SHA256: ede77ee303929cb21d7eaab1da9759d7deaff1c0ec78106a057be0c3f23bc678
+Section: Tweaks
+Description: WCPush2Chat
+Author: huami
+Installed-Size: 272
+Name: WCPush2Chat
+
 Package: com.hk.lastlook.cn.rl
 Version: 3.6.3
 Architecture: iphoneos-arm64
@@ -1517,11 +1533,11 @@ Architecture: iphoneos-arm64
 Maintainer: 搬运工
 Depends: firmware (>= 15.0)
 Filename: debs/arm64/AutoTouch_8.0.11k_arm64.deb
-Size: 33332938
-MD5sum: c0acfd9f36c80e935b882da778194511
-SHA1: 95c938ba382d5e5614d1c93cb2334b87d91cd29b
-SHA256: e992a8af07b10ffaa888ef8a9a17eda5632f225122e7587e4e88a1cdd7d0b117
-Section: 杂七杂八
+Size: 5756692
+MD5sum: 7b91bc98a17c7734a53b9c58c8cb2829
+SHA1: 66f33307b7698938ff35bbc2615cfb9e2eac2084
+SHA256: ea384d84c0fea1524ca7256b270f80787ef4fe14ee812ca1b789317e4ae3ce8f
+Section: Tweaks
 Description: Record and playback touch operations, play macro scripts automatically.打开闪退的请进系统设置-显示与亮度，关闭粗体显示即可！如果安全模式，缷载还是安全模式，多注销几次即可，本源插件都是源主测试过才上架，放心使用。插件介绍：AutoTouch用来录制和回放您在移动设备上的各种触摸和点击操作，它还可以运行事先用Lua语言写好的脚本，通过模拟人的触摸操作，来实现更多意想不到的功能。您可以用它自动玩游戏打怪赚取金币、批量编辑照片、进行程序自动化测试或者自动登入邮箱等。
 Author: Kent Krantz
 Icon: https://chinesebuilding.club/pic/cydia.png

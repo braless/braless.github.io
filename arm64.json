@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 153,
+  "total": 154,
   "data": [
     {
       "Version": "1.0",
@@ -148,6 +148,13 @@
       "Filename": "debs/arm64/com.hk.atria.cn.rl_1.4.1.deb",
       "path": "/debs/arm64/com.hk.atria.cn.rl_1.4.1.deb",
       "Name": "Atria 简体中文包(rootless)"
+    },
+    {
+      "Version": "1.0-2",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/WCPush2Chat_1.0-2-arm64.deb",
+      "path": "/debs/arm64/WCPush2Chat_1.0-2-arm64.deb",
+      "Name": "WCPush2Chat"
     },
     {
       "Version": "3.6.3",
