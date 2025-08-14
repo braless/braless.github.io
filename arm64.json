@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 152,
+  "total": 153,
   "data": [
     {
       "Version": "1.0",
@@ -162,6 +162,13 @@
       "Filename": "debs/arm64/什么值得买 去广告-Rootless_0.0.2.deb",
       "path": "/debs/arm64/什么值得买 去广告-Rootless_0.0.2.deb",
       "Name": "什么值得买 去广告-Rootless"
+    },
+    {
+      "Version": "1.0",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/WCPush2Chat_1.0-arm64.deb",
+      "path": "/debs/arm64/WCPush2Chat_1.0-arm64.deb",
+      "Name": "WCPush2Chat"
     },
     {
       "Version": "1.4.10-3",

@@ -406,6 +406,22 @@ Installed-Size: 168
 Name: 什么值得买 去广告-Rootless
 Sponsor: 搬运工
 
+Package: com.huami.WCPush2Chat
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/WCPush2Chat_1.0-arm64.deb
+Size: 8472
+MD5sum: 7708138a165975d36a4eebacb63deaa8
+SHA1: 2d768852d9807bee2b33a580d8a05ce4e36ced96
+SHA256: 2d260ed51d747a0163b5faae342719e9cd0fdf753fa2facb1bec3ffde6be869c
+Section: Tweaks
+Description: WCPush2Chat
+Author: huami
+Installed-Size: 168
+Name: WCPush2Chat
+
 Package: com.opa334.choicy
 Version: 1.4.10-3
 Architecture: iphoneos-arm64
@@ -1162,10 +1178,10 @@ Architecture: iphoneos-arm
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/arm64/WCPush2Chat_1.0-arm.deb
-Size: 8408
-MD5sum: aeb5a391841e0a28124dde64330bd475
-SHA1: f310e6f6b214df7fdf88584e19c3ef177d64359f
-SHA256: c6412c48fb9dc97bf5c2b8fb174e5178a93f830a77bc836cbccf6ea8a3fc672f
+Size: 8412
+MD5sum: 1ea270f6dd4cdbff1fa2bf6f2791ca4c
+SHA1: 13778efeda7afc81cbbea1163a13729a9391c695
+SHA256: fa4e55b826bdc56ea92843369adaf1b521472dd248959e1fdb14e67d325034b3
 Section: Tweaks
 Description: WCPush2Chat
 Author: huami
