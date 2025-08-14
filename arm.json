@@ -1,6 +1,6 @@
 {
   "type": "arm",
-  "total": 180,
+  "total": 181,
   "data": [
     {
       "Version": "1.3.1",
@@ -8,6 +8,13 @@
       "Filename": "debs/arm64/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb",
       "path": "/debs/arm64/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb",
       "Name": "SpringCuts"
+    },
+    {
+      "Version": "1.0",
+      "Architecture": "iphoneos-arm",
+      "Filename": "debs/arm64/WCPush2Chat_1.0-arm.deb",
+      "path": "/debs/arm64/WCPush2Chat_1.0-arm.deb",
+      "Name": "WCPush2Chat"
     },
     {
       "Version": "4.2-6",

@@ -1156,6 +1156,22 @@ Description: Block App Store Updates!
 Author: zqbb
 Name: 屏蔽App Store更新
 
+Package: com.huami.WCPush2Chat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/WCPush2Chat_1.0-arm.deb
+Size: 8416
+MD5sum: e0838c2626e2b1236cab2a4f217a8cb0
+SHA1: 92c51ee84a490bb42c78d64de312f2d602630fb5
+SHA256: c9efe61ab8924a19737e808d7d7ab5229b077e9ddee7758ffd53d44aff3b6c0e
+Section: Tweaks
+Description: WCPush2Chat
+Author: huami
+Installed-Size: 168
+Name: WCPush2Chat
+
 Package: wiki.qaq.chromatic.rootless
 Version: 2.1-REL-1700097956.e9752be
 Architecture: iphoneos-arm64
