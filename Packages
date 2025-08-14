@@ -1529,21 +1529,21 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::library
 dev: opa334
 
-Package: byg.iosios.net.autotouch
+Package: com.yanshen.net.autotouch
 Version: 8.0.11k
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: Oaife
 Depends: firmware (>= 15.0)
 Filename: debs/arm64/AutoTouch_8.0.11k_arm64.deb
-Size: 21632448
-MD5sum: fd00a26a273b0fc4e179c21ad224fdad
-SHA1: e8220dc378fc9e66cf79f4eab0c65cb0c58affb9
-SHA256: 63a470c262dd37ee109bb3c06cf4775f31ef0e36c36ec271b9674b98e3911aeb
+Size: 21631632
+MD5sum: 7b468fd4fef2c030e1cc1aa8a75c28fc
+SHA1: fdebdc878b86ba816c6a7dedafc595c82bbc5906
+SHA256: d93d3cb66818f16b4678a7a9d719e760192f4ebf18549101d411aa13eaab0dad
 Section: Tweaks
 Description: Record and playback touch operations, play macro scripts automatically.打开闪退的请进系统设置-显示与亮度，关闭粗体显示即可！如果安全模式，缷载还是安全模式，多注销几次即可，本源插件都是源主测试过才上架，放心使用。插件介绍：AutoTouch用来录制和回放您在移动设备上的各种触摸和点击操作，它还可以运行事先用Lua语言写好的脚本，通过模拟人的触摸操作，来实现更多意想不到的功能。您可以用它自动玩游戏打怪赚取金币、批量编辑照片、进行程序自动化测试或者自动登入邮箱等。
 Author: Kent Krantz
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: AutoTouch连点器（按键精灵）-Rootless
+Icon: https://i.postimg.cc/DZ2PWZp6/Auto-Touch.png
+Name: AutoTouch
 Sponsor: 搬运工
 
 Package: me.jjolano.hkmodule.substrate
