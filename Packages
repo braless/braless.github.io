@@ -763,6 +763,26 @@ Installed-Size: 1184
 Name: Hydra
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.hydra.json
 
+Package: com.anthopak.addtofolder-rootless
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: debs/arm64/Addtofolder_1.4_arm64.deb
+Size: 112256
+MD5sum: 129149626dce097876f018cc8295f1ef
+SHA1: 4a8e3a2dced75bed1ebf1620c119411c296ad4db
+SHA256: f7000a5d75f19d2efe3168e60ccf7bc97e8438f1f7d00e4b3bc50efd7cc3bde7
+Section: Tweaks
+Description: Easily move apps to your folders
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
+Homepage: https://repo.anthopak.dev
+Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+Name: AddToFolder (Rootless)
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
+
 Package: xyz.cypwn.smartnotificationsios16
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1335,24 +1355,6 @@ Author: Netskao
 Installed-Size: 328
 Name: 哔哩哔哩 NoAds-Rootless
 
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Depends: mobilesubstrate (>= 0.9.5000) 
-Filename: debs/arm64/顶栏元素1.0.5.deb
-Size: 36424
-MD5sum: 81c9a9707dfa5705be69dc682ff0cc01
-SHA1: 13b66f7182206c10b58d4e9126a239c1c516c4ab
-SHA256: bc151986ccc96b551fe749752837f5c92d1338968bb0508ea3d233f44260e9dd
-Section: 微信
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Installed-Size: 272
-Name: WCNicknameAvatarStyle
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
-
 Package: com.xx.dyhook
 Version: 1.2.6-1
 Architecture: iphoneos-arm64
@@ -1533,10 +1535,10 @@ Architecture: iphoneos-arm64
 Maintainer: 搬运工
 Depends: firmware (>= 15.0)
 Filename: debs/arm64/AutoTouch_8.0.11k_arm64.deb
-Size: 5756692
-MD5sum: 7b91bc98a17c7734a53b9c58c8cb2829
-SHA1: 66f33307b7698938ff35bbc2615cfb9e2eac2084
-SHA256: ea384d84c0fea1524ca7256b270f80787ef4fe14ee812ca1b789317e4ae3ce8f
+Size: 21632448
+MD5sum: fd00a26a273b0fc4e179c21ad224fdad
+SHA1: e8220dc378fc9e66cf79f4eab0c65cb0c58affb9
+SHA256: 63a470c262dd37ee109bb3c06cf4775f31ef0e36c36ec271b9674b98e3911aeb
 Section: Tweaks
 Description: Record and playback touch operations, play macro scripts automatically.打开闪退的请进系统设置-显示与亮度，关闭粗体显示即可！如果安全模式，缷载还是安全模式，多注销几次即可，本源插件都是源主测试过才上架，放心使用。插件介绍：AutoTouch用来录制和回放您在移动设备上的各种触摸和点击操作，它还可以运行事先用Lua语言写好的脚本，通过模拟人的触摸操作，来实现更多意想不到的功能。您可以用它自动玩游戏打怪赚取金币、批量编辑照片、进行程序自动化测试或者自动登入邮箱等。
 Author: Kent Krantz
@@ -2089,26 +2091,6 @@ Description: ImgPlay解锁全功能，仅支持6.3.2及以上版本
 Author: Netskao
 Installed-Size: 440
 Name: ImgPlay Crack-Rootless
-
-Package: com.anthopak.addtofolder-rootless
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: debs/arm64/AddToFolder (Rootless)_1.4.deb
-Size: 112256
-MD5sum: 129149626dce097876f018cc8295f1ef
-SHA1: 4a8e3a2dced75bed1ebf1620c119411c296ad4db
-SHA256: f7000a5d75f19d2efe3168e60ccf7bc97e8438f1f7d00e4b3bc50efd7cc3bde7
-Section: Tweaks
-Description: Easily move apps to your folders
-Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder-rootless.php
-Homepage: https://repo.anthopak.dev
-Icon: https://repo.anthopak.dev/assets/com.anthopak.addtofolder-rootless/icon.png
-ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
-Name: AddToFolder (Rootless)
-SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder-rootless.json
 
 Package: com.nan.enableknownnetworks
 Version: 0.1.0
