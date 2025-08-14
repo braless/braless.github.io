@@ -1090,22 +1090,6 @@ Author: Fouad Raheb
 Installed-Size: 23032
 Name: AppData-Rootless
 
-Package: com.anthopak.springcuts
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: mobilesubstrate, firmware (>= 14.0), com.muirey03.libmryipc (>= 2.0)
-Filename: debs/arm64/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb
-Size: 41136
-MD5sum: 4cfa3dea5c1bd38f30e3125055a26d85
-SHA1: 80c0f9883ae5a39e28b259de5a8796cd8538d815
-SHA256: 8cf7d5458557bd942235510ba049cd8afb1e5e761aa6c3374341280d2657d94f
-Section: Tweaks
-Description: Run Shortcuts from SpringBoard (Support library, Activator actions, CLI command)
-Author: AnthoPak <anthopakdev@gmail.com>
-Installed-Size: 464
-Name: SpringCuts
-
 Package: com.dao.storeswitcher2
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -1171,22 +1155,6 @@ Section: Tweaks
 Description: Block App Store Updates!
 Author: zqbb
 Name: 屏蔽App Store更新
-
-Package: com.huami.WCPush2Chat
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: huami
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/arm64/WCPush2Chat_1.0-arm.deb
-Size: 8416
-MD5sum: 304c6768379aeb2f883e9a88aeb8fdf6
-SHA1: 7d1f0e30963bd21c1cf1db1db612bda51f6a9d54
-SHA256: c96a8788729aed99168ef92cfac2c1b5c96c9bd276dc538795884e809d3028b7
-Section: Tweaks
-Description: WCPush2Chat
-Author: huami
-Installed-Size: 168
-Name: WCPush2Chat
 
 Package: wiki.qaq.chromatic.rootless
 Version: 2.1-REL-1700097956.e9752be
@@ -1543,6 +1511,23 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::library
 dev: opa334
 
+Package: byg.iosios.net.autotouch
+Version: 8.0.11k
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: firmware (>= 15.0)
+Filename: debs/arm64/AutoTouch_8.0.11k_arm64.deb
+Size: 33332938
+MD5sum: c0acfd9f36c80e935b882da778194511
+SHA1: 95c938ba382d5e5614d1c93cb2334b87d91cd29b
+SHA256: e992a8af07b10ffaa888ef8a9a17eda5632f225122e7587e4e88a1cdd7d0b117
+Section: 杂七杂八
+Description: Record and playback touch operations, play macro scripts automatically.打开闪退的请进系统设置-显示与亮度，关闭粗体显示即可！如果安全模式，缷载还是安全模式，多注销几次即可，本源插件都是源主测试过才上架，放心使用。插件介绍：AutoTouch用来录制和回放您在移动设备上的各种触摸和点击操作，它还可以运行事先用Lua语言写好的脚本，通过模拟人的触摸操作，来实现更多意想不到的功能。您可以用它自动玩游戏打怪赚取金币、批量编辑照片、进行程序自动化测试或者自动登入邮箱等。
+Author: Kent Krantz
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: AutoTouch连点器（按键精灵）-Rootless
+Sponsor: 搬运工
+
 Package: me.jjolano.hkmodule.substrate
 Version: 1.0.8
 Architecture: iphoneos-arm64
@@ -1559,24 +1544,6 @@ Author: jjolano
 Installed-Size: 168
 Name: HookKit Module (Cydia Substrate)
 Pre-Depends: me.jjolano.fmwk.hookkit
-
-Package: xyz.cypwn.autotouch
-Version: 8.0.11k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>= 15.0)
-Filename: debs/arm64/AutoTouch_8.0.11k.deb
-Size: 21633184
-MD5sum: 930b4f1afb2e43b0c2a000654916b9f6
-SHA1: 646bc093ee5c644682267cb7628bbd36c792d394
-SHA256: b213d51dd05af15a53a1b2f738b7511f30ec833646652d4b8c84c0e75f471ce6
-Section: Tweaks
-Description: Record and playback touch operations, play macro scripts automatically.
-Author: Kent Krantz
-Depiction: https://repo.cypwn.xyz/depiction/1987
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/autotouch.png
-Name: AutoTouch
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1987
 
 Package: xyz.cypwn.flex3
 Version: 3.0
@@ -4083,6 +4050,22 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: pingfan
 Name: 虚拟视频
 
+Package: com.anthopak.springcuts
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, firmware (>= 14.0), com.muirey03.libmryipc (>= 2.0)
+Filename: debs/arm/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb
+Size: 41136
+MD5sum: 4cfa3dea5c1bd38f30e3125055a26d85
+SHA1: 80c0f9883ae5a39e28b259de5a8796cd8538d815
+SHA256: 8cf7d5458557bd942235510ba049cd8afb1e5e761aa6c3374341280d2657d94f
+Section: Tweaks
+Description: Run Shortcuts from SpringBoard (Support library, Activator actions, CLI command)
+Author: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 464
+Name: SpringCuts
+
 Package: acreson.zq.autohome
 Version: 1.0.0-1
 Architecture: iphoneos-arm
@@ -4266,6 +4249,22 @@ Section: 汉化
 Description: VoiceChanger Xs 简体中文包。VoiceChanger Xs 介绍在通话过程中改变你的声音！
 Author: Ball
 Name: VoiceChanger Xs 简体中文包
+
+Package: com.huami.WCPush2Chat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm/WCPush2Chat_1.0-arm.deb
+Size: 8416
+MD5sum: 304c6768379aeb2f883e9a88aeb8fdf6
+SHA1: 7d1f0e30963bd21c1cf1db1db612bda51f6a9d54
+SHA256: c96a8788729aed99168ef92cfac2c1b5c96c9bd276dc538795884e809d3028b7
+Section: Tweaks
+Description: WCPush2Chat
+Author: huami
+Installed-Size: 168
+Name: WCPush2Chat
 
 Package: com.hk.atlas.cn
 Version: 1.0.4

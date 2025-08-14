@@ -598,18 +598,18 @@
       "Name": "AltList"
     },
     {
+      "Version": "8.0.11k",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/AutoTouch_8.0.11k_arm64.deb",
+      "path": "/debs/arm64/AutoTouch_8.0.11k_arm64.deb",
+      "Name": "AutoTouch连点器（按键精灵）-Rootless"
+    },
+    {
       "Version": "1.0.8",
       "Architecture": "iphoneos-arm64",
       "Filename": "debs/arm64/HookKit Module (Cydia Substrate)_1.0.8.deb",
       "path": "/debs/arm64/HookKit Module (Cydia Substrate)_1.0.8.deb",
       "Name": "HookKit Module (Cydia Substrate)"
-    },
-    {
-      "Version": "8.0.11k",
-      "Architecture": "iphoneos-arm64",
-      "Filename": "debs/arm64/AutoTouch_8.0.11k.deb",
-      "path": "/debs/arm64/AutoTouch_8.0.11k.deb",
-      "Name": "AutoTouch"
     },
     {
       "Version": "3.0",

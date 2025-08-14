@@ -3,20 +3,6 @@
   "total": 181,
   "data": [
     {
-      "Version": "1.3.1",
-      "Architecture": "iphoneos-arm",
-      "Filename": "debs/arm64/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb",
-      "path": "/debs/arm64/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb",
-      "Name": "SpringCuts"
-    },
-    {
-      "Version": "1.0",
-      "Architecture": "iphoneos-arm",
-      "Filename": "debs/arm64/WCPush2Chat_1.0-arm.deb",
-      "path": "/debs/arm64/WCPush2Chat_1.0-arm.deb",
-      "Name": "WCPush2Chat"
-    },
-    {
       "Version": "4.2-6",
       "Architecture": "iphoneos-arm",
       "Filename": "debs/arm64/微信插件/微信净化_4.2-6(新版无限制)_有根_刀刀.deb",
@@ -549,6 +535,13 @@
       "Name": "虚拟视频"
     },
     {
+      "Version": "1.3.1",
+      "Architecture": "iphoneos-arm",
+      "Filename": "debs/arm/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb",
+      "path": "/debs/arm/com.anthopak.springcuts_1.3.1_iphoneos-arm.deb",
+      "Name": "SpringCuts"
+    },
+    {
       "Version": "1.0.0-1",
       "Architecture": "iphoneos-arm",
       "Filename": "debs/arm/汽车之家_NoAds.deb",
@@ -617,6 +610,13 @@
       "Filename": "debs/arm/VoiceChangerXs简体.deb",
       "path": "/debs/arm/VoiceChangerXs简体.deb",
       "Name": "VoiceChanger Xs 简体中文包"
+    },
+    {
+      "Version": "1.0",
+      "Architecture": "iphoneos-arm",
+      "Filename": "debs/arm/WCPush2Chat_1.0-arm.deb",
+      "path": "/debs/arm/WCPush2Chat_1.0-arm.deb",
+      "Name": "WCPush2Chat"
     },
     {
       "Version": "1.0.4",
