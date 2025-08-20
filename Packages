@@ -306,6 +306,24 @@ Installed-Size: 88
 Name: fix120hz 突破动态刷新率限制
 SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.fix120hz
 
+Package: yan.wcplugins.arm64
+Version: 0.1-3.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: firmware (>= 5.0)
+Filename: debs/arm64/wcplugins+.deb
+Size: 23492
+MD5sum: 9a45050986c6b36fdc3be00c67b13d41
+SHA1: c69cd8d5ca2697854341785bb9577bcde282d904
+SHA256: 828fc2c156c669f23f31ca68b532a6a63495b364df0749c541d0e830c88bc694
+Section: Tweaks
+Description: 描述：解决新版本微信，插件设置不显示问题！而且搬运工源这是微信插件收纳可隐藏版，入口在我页面，长按图标开启密码，开启后需输入密码才能显示插件！在首页或通讯录页面的搜索框中输入密码！非常的棒，搬运工源，万古长青！
+Author: Mao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 微信插件管理
+Priority: optional
+Sponsor: 搬运工
+
 Package: com.kitten.tweaktool
 Version: 2.0.0-beta
 Architecture: iphoneos-arm64
