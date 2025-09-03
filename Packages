@@ -199,24 +199,6 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 微信萌萌助手
 Sponsor: 搬运工
 
-Package: com.yanshen.sneakycam
-Version: 2.0.7
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Depends: mobilesubstrate, preferenceloader, oldabi
-Filename: debs/arm64/SenakyCamera-arm64.deb
-Size: 104628
-MD5sum: 8f71619354be0afac689ed92d2e72a48
-SHA1: 74e2875d2d6d2c655470744333b715d15429fc93
-SHA256: 0fb236de7579accfac0b281b1d0bd5e1179df0ffc565555c79f051d2e502988e
-Section: Tweaks
-Description: iOS16用户用不了请去搬运工群看教程！Discretely take a photo or record a video from anywhere, even with your screen off.感谢威锋论坛@默契的足迹经过原版转换兼容多巴胺越狱，替换@Smile潃 修正的SneakyCam.plist，精简了ac的相关文件，安装使用本插件不会造成任何卡注销情况也能打开设置进行设置，接近完美。使用方法∶快速按两次音量上键开始录制视频，再次按两次停止录制，快速按两次音量下键拍摄照片。此插件为转插，需要legacy64插件支持，有可能会出现黑屏，卡注销情况，谨慎使用，有问题请缷载！更新支持汉化！
-Author: Spark
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/sneakycam.png
-Installed-Size: 560
-Name: SneakyCam
-Sponsor: 搬运工
-
 Package: com.nan.localhostssh
 Version: 0.3.2
 Architecture: iphoneos-arm64
@@ -457,6 +439,24 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Installed-Size: 168
 Name: 什么值得买 去广告-Rootless
 Sponsor: 搬运工
+
+Package: xyz.cypwn.sneakycam
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: debs/arm64/SneakyCam-2.2.2.deb
+Size: 106952
+MD5sum: 2da1f141f72ed6bc030713742a2173e1
+SHA1: 8475306ef0766f307027a2e5872e0fd3fd546060
+SHA256: 02965f9f766efc4d72e5ec56e242be0062519bc451cbcbae8b1ccf9566a6bc24
+Section: Tweaks
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Author: Spark
+Depiction: https://repo.cypwn.xyz/depiction/2450
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/sneakycam.png
+Name: SneakyCam
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2450
 
 Package: com.huami.WCPush2Chat
 Version: 1.0
@@ -1195,6 +1195,1205 @@ Depiction: https://repo.cypwn.xyz/depiction/2170
 Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
 Name: LastLook
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2170
+
+Package: xyz.cypwn.photoskipdelandinfinitezoom
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/arm64/PhotoSkipDelAndInfiniteZoom_0.0.1.deb
+Size: 4364
+MD5sum: 9a81e5cefbcfe83313e0c3b26e6e9ace
+SHA1: 13a181115bff27d26769c76f2b6408591df637ca
+SHA256: 159a697356dfcea12c03c02e65768aa0be91af9c98252d3ef996c7e3d3d20f0d
+Section: Tweaks
+Description: No confirmation is required for deleting pictures on the Photos APP and unlimited photo enlargement.
+Author: Snail
+Depiction: https://repo.cypwn.xyz/depiction/1635
+Name: PhotoSkipDelAndInfiniteZoom
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1635
+
+Package: cn.zqbb.disupdateapp
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/arm64/屏蔽商店更新(真皮).deb
+Size: 96732
+MD5sum: bda166e558476b9461aee7ac50a93739
+SHA1: e9145bb010ea1930b52f8094e161149a785cdb84
+SHA256: 041b3f9d30b6c0d50ef2cfca6446620842d5f710f09b6879d731a9851e930cc8
+Section: Tweaks
+Description: Block App Store Updates!
+Author: zqbb
+Name: 屏蔽App Store更新
+
+Package: wiki.qaq.chromatic.rootless
+Version: 2.1-REL-1700097956.e9752be
+Architecture: iphoneos-arm64
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Conflicts: wiki.qaq.chromatic
+Filename: debs/arm64/Saily - rootless (zp)_2.1-REL-1700097956.e9752be.deb
+Size: 1260
+MD5sum: 2828d63abed2a4c8ded41274e940ee49
+SHA1: db709efcbb053083b440a21b696894ea386b09a6
+SHA256: 0b9a08561e527e0e9e83b2a469fa1f1fa9cc255e09e1218020e0491b3651cf0d
+Section: Tweaks
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Homepage: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily - rootless (zp)
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Website: https://sailyteam.github.io/Saily/index.html
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.1.0~rootless
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/arm64/RocketBootstrap_1.1.0~rootless.deb
+Size: 21920
+MD5sum: 70a6841eed6e6b24ea67a9294bb652e8
+SHA1: f90c4e30dbbe60994177828b87f1c7a9ec843231
+SHA256: 3aaab6a3e27686f575dcf769d9f7cd482c2b857b7c1a5350fd43689b379558ba
+Section: Tweaks
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://repo.cypwn.xyz/depiction/1854
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Installed-Size: 552
+Name: RocketBootstrap
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1854
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.icraze.complicationsfix
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/arm64/ComplicationsFix_3.0.deb
+Size: 4744
+MD5sum: 7e4c59296af53413afd78d2aceebafda
+SHA1: 5e46df6a9416a86ae9ef808c5deeb54dfb2d1b1e
+SHA256: 19e24aa15122f16564811981369a0b079b4f6168086a7ee4f5e2802628a025d2
+Section: Tweaks
+Description: Fix Complications tweak on iOS 15-17
+Author: iCraze & AlexBurneikis
+Installed-Size: 168
+Name: ComplicationsFix
+
+Package: com.opa334.libsandy
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: debs/arm64/libSandy_1.1.4.deb
+Size: 12536
+MD5sum: 3d1f4d1b1daf2b11436a35572e6151b3
+SHA1: db44b50446ae2e988926e185274e032cc99a0c2f
+SHA256: 120863e7495127ce5041e988c778a4a4c2f5cad0805c7e17525be6207c2683c9
+Section: Tweaks
+Description: Securely extend the sandbox of system processes and user applications
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Installed-Size: 268
+Name: libSandy
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, role::developer
+dev: opa334
+
+Package: xyz.cypwn.preferenceloader
+Version: 1.0.16
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Conflicts: preferenceloader
+Replaces: preferenceloader
+Filename: debs/arm64/PreferenceLoader_1.0.16.deb
+Size: 27340
+MD5sum: c30270a0b9bcbd4151e6031489864fdd
+SHA1: 213190b558158cf883f70b9c792b621fa9c8570c
+SHA256: d050c622aa803962a356ad8a128341b1e8fcf82645844f1cd87c33adb2707469
+Section: Tweaks
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Author: ArtikusHG
+Depiction: https://repo.cypwn.xyz/depiction/2126
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/artikuspreferenceloader.png
+Name: PreferenceLoader
+Provides: preferenceloader (= 2.2.6)
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2126
+
+Package: com.hk.crane.cn.rl
+Version: 1.3.9-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/arm64/Crane 中文修复包(rootless)_1.3.9-1.deb
+Size: 11800
+MD5sum: 48fe795238d492129a26ae80f42a6604
+SHA1: 293be27a1b7e99262570f8895346aae5fd562fe0
+SHA256: eea429fb58fc3e82165ec64d493e31a400c6674938824bafa5f8e33bb3633d16
+Section: Tweaks
+Description: Crane 中文修复包(rootless)。
+Author: 妖刀
+Name: Crane 中文修复包(rootless)
+
+Package: com.dao.infuseplus
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: debs/arm64/com.dao.infuseplus_1.2.0.deb
+Size: 125332
+MD5sum: a9da859743ee445024de4353fc5349f8
+SHA1: e9b9546ee2dbf721afd34c23b92b04684f85e951
+SHA256: 0b68c9f62470827621b931d8de244d64339795ec636c2c67109cebaea1e0bfea
+Section: Tweaks
+Description: Infuse的破解/增强插件。
+Author: dvntm
+Name: Infuse Plus(rootless)
+
+Package: com.hk.rootless.crane
+Version: 1.3.14-6
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.hk.crane.cn.rl, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
+Filename: debs/arm64/Crane(rootless)_1.3.14-6.deb
+Size: 573548
+MD5sum: 9d81aeb3a5e01c6ac7b67a07d3efff32
+SHA1: 412f44e48f6d28b838c8a2f9e850880d888f7fb4
+SHA256: 01820ed88e9904a51a6f8a8cd616b66409bcc0eca72db6076fb8e06a78780e0d
+Section: Tweaks
+Description: 为应用程序提供多个容器，账号多开神器。
+Author: opa334
+Name: Crane(rootless)
+
+Package: netskao.blblnoads-rootless
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/arm64/哔哩哔哩 NoAds-Rootless_1.1-2.deb
+Size: 73532
+MD5sum: 9cf346c39f27984fbe24c6f9797861ef
+SHA1: 0968357f26be12beae5a59303be712e1110f68c7
+SHA256: ca635a5e289b0c4a3aad181099f45d67720824da9d3ac9e281dbb5192559bc18
+Section: Tweaks
+Description: 哔哩哔哩去除启动广告, 去除青少年提示, 去除AppStore评分提示, 去除底部动态\发布\会员购按钮, 去除瀑布流中插入广告, 去除视频详情页面推荐视频中的创作推广, 去除评论区顶部会员推广, 我的页面推广等, 仅支持7.48.0及以上版本
+Author: Netskao
+Installed-Size: 328
+Name: 哔哩哔哩 NoAds-Rootless
+
+Package: com.Axs.trollvnc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/arm64/trollvnc_1.0_arm64.deb
+Size: 343240
+MD5sum: c40bf28474f182e8e463bfdc1cf49a8f
+SHA1: 515536d8f01c288d981c413fbe81d950f392f90e
+SHA256: c016297d67ec8c0ee4f680b1673c5f0c322191f06936ccfd9357085bef9a82b8
+Section: 系统增强
+Description: iOS设备的VNC服务器，允许远程访问和控制设备的屏幕。
+Author: 82Flex
+Depiction: https://axs66.github.io/repo
+Icon: https://axs66.github.io/repo/icon/trollvnc.png
+Name: TrollVNC
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/trollvnc/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.6-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/抖音图层_1.2.6-1.deb
+Size: 479504
+MD5sum: 7f472e1b70597d0fcac65fd086cfb981
+SHA1: f84d9665304152586eb2b5099609949b8308c522
+SHA256: 1c2c79fb9f70067c6c43386bf10632e61d3785abea5c9f952870926959aeb195
+Section: Tweaks
+Description: 自用
+Author: x✨
+Installed-Size: 1816
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: byg.iosios.net.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/arm64/TweakTool插件备份-Rootless_2.0.0-beta.deb
+Size: 10576
+MD5sum: 617f3bef709db6a95b39b87404ac9178
+SHA1: 260d048a4c31c7a315eb9cdfea46051ac0f3443a
+SHA256: 9d112220fd5384d4d5ad91da224abce8b48a59360c720b6ba9bfc6ea209eda06
+Section: Tweaks
+Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具，非常的不错，感谢预言小猫。本插件使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件即可，非常的简单，傻瓜式操作！插件也会保存在这个目录里！
+Author: 预言小猫
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: TweakTool插件备份-Rootless
+Sponsor: 搬运工
+
+Package: zp.stopshortcutsautomationnotif.rootless
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Depends: mobilesubstrate
+Filename: debs/arm64/屏蔽快捷指令自动化通知 - rootless_1.0.1.deb
+Size: 3196
+MD5sum: 98c02a14c2e092fdc06cabcd990bf2af
+SHA1: 5a0ef4a4998126c2b149851446165ca905d71097
+SHA256: 3d9f52578307f71cde741dbc3489573fdc53d45592ac464408a73b90c11d1ae1
+Section: Tweaks
+Description: 屏蔽快捷指令自动化通知!
+Author: zqbb
+Installed-Size: 168
+Name: 屏蔽快捷指令自动化通知 - rootless
+
+Package: xyz.cypwn.anthocrack2
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/arm64/AnthoCrack2_1.0.0.deb
+Size: 2916
+MD5sum: f7d221cfe4dd24eb3876e77f87c8d973
+SHA1: a50d0e87afd8c0d14e1fb629dbdef59bccc10f98
+SHA256: 86a174a6381e9b17195026280a2c085b009759b8dde9ec4ccbfadca8bebcb2bd
+Section: Tweaks
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!
+Author: CBZ
+Depiction: https://repo.cypwn.xyz/depiction/2153
+Name: AnthoCrack2
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2153
+
+Package: net.awemepurification-rootless
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.awemepurification
+Filename: debs/arm64/net.awemepurification-rootless_3.deb
+Size: 1176132
+MD5sum: bbc3195377d1c954dbab10c757528b61
+SHA1: b57779f2b13c5f3c21a66c8155bbf55f43d9c829
+SHA256: 7dbbddc0e69927ebf43ea315028d398a11e031b5d68b360ee914bfa2e493441a
+Section: Tweaks
+Description: 抖音净化最新版插件不消失效！设置位于抖音-设置，仅支持25.8.0及以上版本抖音，佚名：分享无罪，若丢了做人本分，那就可耻！
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 2480
+Name: 抖音净化
+Sponsor: 搬运工
+
+Package: com.imkpatil.ezswipe
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/arm64/com.imkpatil.ezswipe_1.1.1.deb
+Size: 23816
+MD5sum: 667317ac7033248d93f31df20822e2f6
+SHA1: a4e4e3adf85b8ac60a842ed7aac106e17b9c18eb
+SHA256: af85783c38357f9982c64cf00d6b4e9472e4218d015cc8434bf5df058ad9e0d6
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.imkpatil.ezswipe
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.imkpatil.ezswipe/icon.png
+Installed-Size: 404
+Name: EZSwipe
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.imkpatil.ezswipe.json
+
+Package: com.yourepo.trollstore.dyyy
+Version: 2.2-4-232
+Architecture: iphoneos-arm64
+Maintainer: huami <qiaozhani000@163.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/arm64/com.yourepo.trollstore.dyyy_2.2-4-232_iphoneos-arm64.deb
+Size: 362484
+MD5sum: e8354e834cc02023301c913b57271106
+SHA1: b62e60e47c760cf69ab28100c248db7fc11bc931
+SHA256: 756599df759847e2050cdd1e229977da1350d3b4495cf7550cabe088f3f7d037
+Section: Tweaks
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami <qiaozhani000@163.com>
+Name: DYYY
+
+Package: com.lclrc.squidgesture
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
+Filename: debs/arm64/SquidGesture_1.3.5.deb
+Size: 187300
+MD5sum: 9356a6babe4c7731b147b465d8151de7
+SHA1: d27ec9fd298728431f7103e0e71da5412155aa58
+SHA256: 73d01671f1d1d6d86b2b19f59cd93da9845971b1a810357089631ab3a015bd2d
+Section: Tweaks
+Description: Gestures
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
+Installed-Size: 996
+Name: SquidGesture
+
+Package: com.daodao.nocshare
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: 老Mo
+Depends: mobilesubstrate
+Conflicts: com.devvix.nocshare
+Filename: debs/arm64/NoCShare(rootless)_1.1.3.deb
+Size: 7116
+MD5sum: 9a1c300b0040657d0d7bbf5ec2884a9d
+SHA1: 376f3f0afa8a2ed9177376d29e0736988c7a7de3
+SHA256: 4dfdfd8b2a21f5225d5406f4dcb3f007349c6e36a9cbb7be2c40387538230dbb
+Section: Tweaks
+Description: 移除分享菜单中烦人的投送和联系人，基于i_82的源码修复支持16系统。
+Author: Devvix
+Name: NoCShare(rootless)
+
+Package: com.opa334.altlist
+Version: 1.0.11
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0)
+Filename: debs/arm64/AltList_1.0.11.deb
+Size: 26984
+MD5sum: a4c37efef93fcdcac982badb76a1b86d
+SHA1: ebf7acec413d612ccba95453b71870439159677f
+SHA256: 53f764c46a78dca8e5ca1f7f2e07e2e2fab0d53faf4bcc8a00a7e62ae977c60b
+Section: Tweaks
+Description: A modern AppList alternative
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Installed-Size: 256
+Name: AltList
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::library
+dev: opa334
+
+Package: com.yanshen.net.autotouch
+Version: 8.0.11k
+Architecture: iphoneos-arm64
+Maintainer: Oaife
+Depends: firmware (>= 15.0)
+Filename: debs/arm64/AutoTouch_8.0.11k_arm64.deb
+Size: 21631632
+MD5sum: 7b468fd4fef2c030e1cc1aa8a75c28fc
+SHA1: fdebdc878b86ba816c6a7dedafc595c82bbc5906
+SHA256: d93d3cb66818f16b4678a7a9d719e760192f4ebf18549101d411aa13eaab0dad
+Section: Tweaks
+Description: Record and playback touch operations, play macro scripts automatically.打开闪退的请进系统设置-显示与亮度，关闭粗体显示即可！如果安全模式，缷载还是安全模式，多注销几次即可，本源插件都是源主测试过才上架，放心使用。插件介绍：AutoTouch用来录制和回放您在移动设备上的各种触摸和点击操作，它还可以运行事先用Lua语言写好的脚本，通过模拟人的触摸操作，来实现更多意想不到的功能。您可以用它自动玩游戏打怪赚取金币、批量编辑照片、进行程序自动化测试或者自动登入邮箱等。
+Author: Kent Krantz
+Icon: https://i.postimg.cc/DZ2PWZp6/Auto-Touch.png
+Name: AutoTouch
+Sponsor: 搬运工
+
+Package: me.jjolano.hkmodule.substrate
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Depends: mobilesubstrate
+Filename: debs/arm64/HookKit Module (Cydia Substrate)_1.0.8.deb
+Size: 3956
+MD5sum: 010ed200647da953fc822fdf22790aca
+SHA1: 27c6ab0e43daa3fc43994ce357773840439e2fec
+SHA256: 8aae57da66bc185005560c66bc9580b559a5ee1f56c1405057d3be4abfb36e41
+Section: Tweaks
+Description: This module provides the Cydia Substrate API for HookKit Framework.
+Author: jjolano
+Installed-Size: 168
+Name: HookKit Module (Cydia Substrate)
+Pre-Depends: me.jjolano.fmwk.hookkit
+
+Package: xyz.cypwn.flex3
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/arm64/Flex 3_3.0.deb
+Size: 16859968
+MD5sum: 31b1bf4945e5befe2cd5985b80ed3dac
+SHA1: 313b0cd3e711713a94975346058e7217e98d2879
+SHA256: cf7c9c69c5b95b6ba9d6658914afcf25e7f4d1a38a072f9bfa181f7954e848c1
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Depiction: https://repo.cypwn.xyz/depiction/1988
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/flex3.png
+Name: Flex 3
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1988
+
+Package: com.squidforce.disablepastealert16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Filename: debs/arm64/禁用iOS16+粘贴警告弹窗和粘贴提醒.deb
+Size: 4056
+MD5sum: 03ff9de69600d3a63dcb0b07c1a56b36
+SHA1: b31d7b2690d85ea4906599dc8fe9acc085efdb98
+SHA256: c184963e8f3ad3c8c7f3aaf1f93ee89aa1edb27ead9318eb42c4ea35c4cd84a9
+Section: Tweaks
+Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
+ 2. 禁用粘贴提醒
+ * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
+Author: SquidForce
+Installed-Size: 168
+Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
+
+Package: byg.iosios.net.163music.rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/网易云音乐去广告-Rootless_0.0.1.deb
+Size: 4136
+MD5sum: bf591196ef6c91494cd95608d00b4706
+SHA1: 9e0c6ffc76e2948aeb3f0049160b25b244dbb94f
+SHA256: e4ccc52a191a5732b1b597f59e4c32548ac223584246ec885622bc715f2d51bc
+Section: Tweaks
+Description: 去除启动广告，去除首页横幅，去除搜索页面横幅广告，去除播放页面右上角直播，去除评论间推荐以及评论顶部查看十年关注报告横幅，去除个人页面看直播领黑胶横幅提示。本插件由搬运工源iOSign免费首发，不需要广告终结者的可以单独安装，已整合进广告终结者！
+Author: iOSign
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 168
+Name: 网易云音乐去广告-Rootless
+Sponsor: 搬运工
+
+Package: com.xx.xhshook
+Version: 1.0.7-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.xx.xhshook_1.0.7-1.deb
+Size: 63940
+MD5sum: db29ce213220d6ca3343edcdbd178f75
+SHA1: efe8c62843f881f8a286d2deb165b42a6e71bdac
+SHA256: b0dec9bb1b2605461652e183f3e17c6bf2eb7bb4df37154ac66cc534f62aa686
+Section: Tweaks
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.7更新内容：修复一些问题
+Author: x✨
+Installed-Size: 192
+Name: 小红薯调整
+
+Package: com.udevs.dockx
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: debs/arm64/com.udevs.dockx_2.6.0.deb
+Size: 306968
+MD5sum: 0a355fb5af6167e468f4db00918f49b1
+SHA1: 90b7d149252df2372290829d315fd8efff149164
+SHA256: 27c50790736a348fa4b75dad6d2c71a18132d138f79cd82cf6de3a9397ab8792
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Installed-Size: 1648
+Name: DockX
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.dao.infuseplus
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: debs/arm64/Infuse Plus(rootless)_1.1.5.deb
+Size: 171412
+MD5sum: d6731323e2993be0efc82f3a262cb538
+SHA1: 1c7443dfa93ccf4f6114191a74bff255b7a1e893
+SHA256: 6df3c4a70695fee2e44f213fa0eb1c38f69edfa5819d2bb06357ca50224baaff
+Section: Tweaks
+Description: Infuse的破解/增强插件。
+Author: dvntm
+Name: Infuse Plus(rootless)
+
+Package: com.opa334.ccsupport
+Version: 1.3.13-2
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: debs/arm64/CCSupport_1.3.13-2.deb
+Size: 58876
+MD5sum: cca610f717bf75448905eba5e6bcc7de
+SHA1: 21b138c672b972c1ef6082c4bd52fed1a09f46a2
+SHA256: d56c7f09cc5a1b4a45e8cfaf4ce2c160b2e4f021774eff3ba62fbdd4bf4f8400
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Installed-Size: 489
+Name: CCSupport
+Provides: com.ioscreatix.silo
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: opa334
+
+Package: com.swing.weibo
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/微博去广告_1.0.1.deb
+Size: 24548
+MD5sum: 916ca4b3f114c30cac93777b8cdb55ef
+SHA1: 8a334443f8b83d0005d1c4d073b32ef09a3d6bd9
+SHA256: 52fa27bd3c74f0d83cebf352a6088e5d29565a73c2fc5f0f62f92d41017062e9
+Section: Tweaks
+Description: 同时支持微博和微博轻享版(原国际版)：删除启动页、信息流、视频流、评论列表、发现等页面的广告，新增支持修改设备型号。
+Author: SWING <swing1993@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weibonoadsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weibonoadsDp
+Installed-Size: 246
+Name: 微博去广告
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: swing
+
+Package: com.icraze.noticopy15
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/NotiCopy15_1.1.deb
+Size: 5840
+MD5sum: 9d9c73495b9a00b36f48ed389b03b07d
+SHA1: 1032a6129798268d9579253501b88767e7c79fe6
+SHA256: c1946175c40ebe9473c9247fe6b571b1621efab7c31bd757d36ed9d242f695b8
+Section: Tweaks
+Description: Tap a notification with two fingers to copy its text. Hold with two fingers to copy its title.
+Author: iCraze
+Installed-Size: 168
+Name: NotiCopy15
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000) 
+Filename: debs/arm64/顶栏元素1.0.6.deb
+Size: 38336
+MD5sum: 04328dc209e8e331884e8da1197ece2b
+SHA1: e704709f6f4de86471d2ac928a7ec722bb75554d
+SHA256: 5483334157057326143ffc372df2b9d66200bdbe75866a834aef8f7c1b0e0ae0
+Section: 微信
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Installed-Size: 288
+Name: WCNicknameAvatarStyle
+
+Package: xyz.cypwn.classicfolders3
+Version: 3.0.3.11
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/arm64/xyz.cypwn.classicfolders3_3.0.3.11.deb
+Size: 3281180
+MD5sum: 55c98d2c0b1c4a8f21339646348fd60a
+SHA1: 64acd89e5640484069c5296fbebad2bb587bc83a
+SHA256: d874212c4647d4d3e5e902a3c84921e20d5bb421a37642c8b4821ef4ea4de94b
+Section: Tweaks
+Description: iOS 6 folders with a modern twist!
+Author: CoolStar
+Depiction: https://repo.cypwn.xyz/depiction/2493
+Icon: https://repo.cypwn.xyz/packages/ClassicFolders3-Rootless/icon.png
+Name: ClassicFolders 3
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2493
+
+Package: cn.llld.hhxt
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X :h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/arm64/cn.llld.hhxt_1.1.deb
+Size: 8992
+MD5sum: 138ad1fedb8673287ed199a82e734009
+SHA1: f194cfa40557c30d3535ea62931d1b8694403d42
+SHA256: 567cada3a7b2522f25a2b541d936493a72f52987f2f5a596ba7693f83050e1bc
+Section: Tweaks
+Description: rootful tweak can be used on xina2 or rootless (first release the first version, the root tweak is waiting for me to upload it, it is useless to install it alone, it needs to be combined with the tweak I uploaded)。让有根插件可以在xina2或者rootless上使用，(先发个初版，单独装这个没用，需要搭配我上传的插件,目前部分插件在：兼容层oldabi-rootless，以后（有别的分区或修复去掉oldabi,仅装这个即可）
+Author: 来了老弟 h_h_x_t
+Name: xina2-rootless串联
+
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: debs/arm64/TweakSettings_1.0.8.deb
+Size: 385784
+MD5sum: c94d14c7163bfde811806739990415c4
+SHA1: 18de6d3f1dc40ad7fd1ca3700217e3138693faad
+SHA256: 0f71b20f342866d85e794c4f784bbb99c81f74c587920bac972d3c076acf7f5b
+Section: Tweaks
+Description: Dedicated settings app for tweaks
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Homepage: https://creaturecoding.com/
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Installed-Size: 1064
+Name: TweakSettings
+Priority: optional
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+Tag: purpose::application, compatible_min::ios10
+dev: CreatureSurvive
+
+Package: xyz.cypwn.betteralarmrootless
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: debs/arm64/BetterAlarm (rootless)_1.4.1.deb
+Size: 295188
+MD5sum: 8ecef7f8dad2e527ca9932373fc7594e
+SHA1: 06c5275ab7fc3089fe297c6a4f9e6e2f857d1219
+SHA256: 1a4800ce812d593fb37de8260ba09789aaa4a8145fb9582d22471aa9f74a0d93
+Section: Tweaks
+Description: A beautiful timer and alarm screen
+Author: NoisyFlake
+Depiction: https://repo.cypwn.xyz/depiction/1168
+Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
+Installed-Size: 748
+Name: betterAlarm (rootless)
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1168
+
+Package: me.lau.atria
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: debs/arm64/me.lau.atria_1.4.1.deb
+Size: 236884
+MD5sum: 688e6bbfd685b7cb369bbecdac810c4c
+SHA1: 98e6ba2a94e0af665ce8a8248d05b930e7a7da0b
+SHA256: d707c732cca70f37866fd1cc8209bed9efa65e0e6a03fc7d927bf5f077c184d0
+Section: Tweaks
+Description: A proper homescreen layout editor for iOS 13-16
+Author: ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/get/atria
+Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
+Installed-Size: 886
+Name: Atria
+Tag: compatible_min::ios13.0
+
+Package: xyz.cypwn.photoleappro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/arm64/Photoleap Pro_1.0.deb
+Size: 11228
+MD5sum: fe5c5784de21b132a66af32066325507
+SHA1: 16453565b3b51532a0a9409fd1efeae971af5664
+SHA256: a73349ed34a3a32b9910a9f9860ed31bfe60d2c2900912610376101517b9a5a3
+Section: Tweaks
+Description: Photoleap Pro for free
+Author: CyPwn
+Depiction: https://repo.cypwn.xyz/depiction/1861
+Name: Photoleap Pro
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1861
+
+Package: byg.iosios.net.trollstore
+Version: 2.0.14
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: debs/arm64/TrollStore巨魔通用汉化包-Rootless_2.0.14.deb
+Size: 14032
+MD5sum: 8eaa72e6755f7df3f1abd3c12930d16e
+SHA1: 281cf69a390d912edad526b24ea5e51ab4f06a65
+SHA256: 60513cf3302bbb483de6372f1fdfeceb9a8eb4a07c39c82a45e13cfb3fb1d1e0
+Section: Tweaks
+Description: TrollStore巨魔通用汉化插件，强迫症福音！受不了巨魔英文的兄弟们冲吧！让你的巨魔变中文！
+Author: 妖刀
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 184
+Name: TrollStore巨魔通用汉化包-Rootless
+Sponsor: 搬运工
+
+Package: com.swing.mihome
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/米家NoAds-Rootless_1.0.0.deb
+Size: 8136
+MD5sum: 7cf1de6b52c3ffc234e586418c0b7305
+SHA1: 8237bcf1588f4882a0bf93914379eaf0036401e6
+SHA256: ff3ddf455f4e109af761df39fc2f4fca4d847ed42aaee38acf5e97da891dc34e
+Section: Tweaks
+Description: 米家去广告插件!
+Author: SWING <swing1993@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mihomenoadsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mihomenoadsDp
+Installed-Size: 175
+Name: 米家NoAds-Rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: swing
+
+Package: me.jjolano.hkmodule.fishhook
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Filename: debs/arm64/HookKit Module (fishhook)_1.0.8.deb
+Size: 6492
+MD5sum: f68e538ba9c08b34c977995d8540272f
+SHA1: d04ee10b1c775e231c3d37fdeea20eb76294beef
+SHA256: 78e3bb9e60a2054ea2af8da40820536c8d9a37f4be549f784f08ab928d32cfe3
+Section: Tweaks
+Description: This module provides fishhook library support for HookKit Framework.
+Author: jjolano
+Installed-Size: 172
+Name: HookKit Module (fishhook)
+Pre-Depends: me.jjolano.fmwk.hookkit
+
+Package: byg.iosios.net.mterminal-rootless
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: firmware (>= 15.0), gettext-localizations, system-cmds, bash | zsh
+Conflicts: mterminal
+Filename: debs/arm64/MTerminal终端-Rootless_1.4-1.deb
+Size: 507336
+MD5sum: 519518f1b1669f1fa1683e84f0bbdcb4
+SHA1: 8ba9edb013ec14808a4bd387e9bb40cb4f150e08
+SHA256: 54757c608e67e49449680b6f72a18742376326a58dd67c3c7416f1feb138f4ba
+Section: Tweaks
+Description: 一款iPhone可以用的终端软件
+Author: lordscotland
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 2236
+Name: MTerminal终端-Rootless
+Pre-Depends: dpkg (>= 1.14.25-8)
+Sponsor: 搬运工
+
+Package: oldabi
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Maintainer: Evelyn
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: debs/arm64/Legacy_arm64e_Support_0.3.2.deb
+Size: 14920
+MD5sum: eb88bb34506364e59df2d4444b8129db
+SHA1: 2f0dbb6ede8cdf9979ce891dc98e6d3ff168e8e0
+SHA256: ab01b614807453200af12b9fd418e85b059c4e4f709e4be680373c30a9d96b39
+Section: Tweaks
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Author: Evelyn
+Name: Legacy arm64e Support
+
+Package: com.icraze.easynotifications
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.icraze.easynotifications_3.0.deb
+Size: 2932
+MD5sum: ddfa513257fae0c3cf0e5a49cc69a72d
+SHA1: 99a552e92981559624638c8a67c6d964e6f70955
+SHA256: 7e1f1306884108dbf1044c1b8e05ad3383af759c8a516438e0066c091b09484e
+Section: Tweaks
+Description: Dismiss notifications with just one swipe
+Author: iCraze <icrazeios@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easynotificationsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easynotificationsDp
+Installed-Size: 172
+Name: Easy Notifications
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: icraze
+
+Package: com.yourepo.trollstore.8
+Version: 0.0.1-5
+Architecture: iphoneos-arm64
+Maintainer: halo-michael <qiaozhani000@163.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.github.wxsmalltab
+Filename: debs/arm64/com.yourepo.trollstore.8_0.0.1-5.deb
+Size: 12012
+MD5sum: 8f986c3e8931563124f98af975bbebb9
+SHA1: cb2aa769c5207240366a076b52349439ed0de0d2
+SHA256: c05b10a24dc97a49de0d34a388393cc8349a5034d847f67b59c2507032385db3
+Section: Tweaks
+Description: 微信底栏悬浮显示
+Author: Michael <qiaozhani000@163.com>
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 微信小底栏
+
+Package: com.chr1s.atlas
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Chr1s
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.chr1s.atlas_1.0.4.deb
+Size: 24188
+MD5sum: 6ce76a02bdd62a4d5f0f683463cf32f0
+SHA1: acffe26213fe361d82592adbfd83a4b7c998c6fc
+SHA256: c3b8bb3517c28659f8b69d8c50ca877ed808753247c00f902338f0227c1deb38
+Section: Tweaks
+Description: Minimalistic video player replacement
+Author: Chr1s
+Icon: https://chr1s.dev/assets/atlasRound.png
+Installed-Size: 236
+Name: Atlas
+
+Package: byg.iosios.net.jdnoad
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: byg.iosios.net.advertisement
+Filename: debs/arm64/京东 去广告-Rootless_1.2.1.deb
+Size: 3676
+MD5sum: 6822d9d5f8863c0492299561ed00ac48
+SHA1: 192c1054080c66893865ca1f0400b0e70938bf26
+SHA256: bbc7d28562145651ed54679945fe7fb35a0a8e11a9ec6c5f5e6714dc08c150b1
+Section: Tweaks
+Description: 去除启动广告、去除个人主页底部推荐、精简搜索栏、屏蔽升级弹窗！本插件有搬运工源iOSign免费首发，且已包含在广告终结者插件，不想安装广告终结者的可以单独安装此插件！
+Author: IOSign
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 168
+Name: 京东 去广告-Rootless
+Sponsor: 搬运工
+
+Package: com.xx.dyhook
+Version: 1.2.6-2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/com.xx.dyhook_1.2.6-2.deb
+Size: 606000
+MD5sum: df9917df6afddf3358bfab5d3cc18cf5
+SHA1: db40c4de7fc4f14bbee6a10db869fa880f053394
+SHA256: 5741da4004a569611e7d520a6d15efe32574aef03fea4f226a13728bc853f88d
+Section: Tweaks
+Description: 自用
+Author: x✨
+Installed-Size: 2200
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: me.jjolano.fmwk.rootbridge
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Depends: firmware (>= 8.0)
+Filename: debs/arm64/RootBridge Framework_1.0.1.deb
+Size: 3928
+MD5sum: b553de81eb3a7d4027416d3fed74379a
+SHA1: e778b047f64d0cff20b419635eea2fcbd434bb87
+SHA256: d7f9fb37aeb6c938c1d016d5f80006e9dd375ee1ea7d853162f858a7e6407046
+Section: Tweaks
+Description: An iOS developer framework for rootless tweak development.
+Author: jjolano
+Installed-Size: 168
+Name: RootBridge Framework
+Tag: role::developer
+
+Package: me.jjolano.shadow
+Version: 3.7.6
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Filename: debs/arm64/Shadow_3.7.6.deb
+Size: 219664
+MD5sum: 2b1d36f1aca253daff7b343b44ca13f0
+SHA1: 58959de84c4c7a946aafc1277e917a77e4aebc95
+SHA256: 122b9e468875d6c809f3671d25edf4bdd57d144fa97a565f9ca7800004da7f8a
+Section: Tweaks
+Description: A modern jailbreak detection bypass.
+Author: jjolano
+Installed-Size: 1076
+Name: Shadow
+Pre-Depends: dpkg
+Provides: me.jjolano.shadow.beta
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+
+Package: netskao.imgplaycrack-rootless
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/arm64/ImgPlay Crack-Rootless_1.1-5.deb
+Size: 109332
+MD5sum: 5c1cf2ef5712f71c709a9466a8089568
+SHA1: 581badd003eb076cfa598a4e10ed072947b5a394
+SHA256: 75c5c442758c0f67e126c08864f41c4bf2d77a8e53a580b6bf00d1bbc0158778
+Section: Tweaks
+Description: ImgPlay解锁全功能，仅支持6.3.2及以上版本
+Author: Netskao
+Installed-Size: 440
+Name: ImgPlay Crack-Rootless
+
+Package: com.nan.enableknownnetworks
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: plutil | com.bingner.plutil
+Filename: debs/arm64/Enable known networks_0.1.0.deb
+Size: 1188
+MD5sum: 9da7cafb3fe04a2e9907c490740be8e9
+SHA1: 5d3658a422329d7098a6870b3fe771cd8a27a004
+SHA256: 9d6cc8174c77d86f84e67bd151254ac53a81f301c8cce90e988b108ad355904e
+Section: Tweaks
+Description: 启用自带 Wi-Fi 下方的已知网络面板
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Name: Enable known networks
+Pre-Depends: firmware (>= 11.0)
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableknownnetworks/js.json
+
+Package: byg.iosios.net.swipedownscreenshot
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Filename: debs/arm64/双指下滑截图-Rootless_1.0.deb
+Size: 4356
+MD5sum: ce2782273869a4e441e4d9c1f60867ad
+SHA1: e0bcf3ca89030462bb2373f3662abab7cc6fe095
+SHA256: 08686cb7349379775e78fc31f9ffb2f5f944c47362340c726033702fa440f03e
+Section: Tweaks
+Description: 双指从任意地方的手机屏幕顶部下滑，即启用截图，无设置项。由M哥开发的一款非常不错的插件！
+Author: M哥
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 168
+Name: 双指下滑截图-Rootless
+Sponsor: 搬运工
+
+Package: org.coolstar.sileo
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/arm64/Sileo_2.5.deb
+Size: 2894428
+MD5sum: 9d2a5b5571394c2ddfb7378aa7fcc2e2
+SHA1: cc37d4efe92b26f4dbf43a25c3808a6e1de47128
+SHA256: ae0776a3eaa88543b11bf628e75f44faf53b3a536d5d42b29ee82033f3385353
+Section: Tweaks
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: com.hk.choicy.cn.rl
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: debs/arm64/Choicy 简体中文包(rootless)_1.4.6.deb
+Size: 4264
+MD5sum: 9827a0230a8fac196bd6a305499ae6d1
+SHA1: 52c96f187dfa4f136a637e0a29a5d0127f155507
+SHA256: 9bbad665d266fcab18eab65e5d3ffcd914434868f8a095667bbb4c563ee0c77b
+Section: Tweaks
+Description: Choicy 简体中文包(rootless)。
+Author: 妖刀
+Name: Choicy 简体中文包(rootless)
+
+Package: com.squidforce.copyvault
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/arm64/com.squidforce.copyvault_1.0.2.deb
+Size: 1693320
+MD5sum: 6c04c1bcb298bc5441a01be3920b25d3
+SHA1: 94766a65a331a6e8e7a2a2c54d5913cd8a2b6770
+SHA256: 95ff27ead57baf89a7cf396545af73f8b0afa197a48f031a612ee80adfd384c5
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+Installed-Size: 6488
+Name: CopyVault
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
+
+Package: xyz.cypwn.filzacrackrootless
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0)
+Filename: debs/arm64/Filza Crack (rootless)_0.0.4.deb
+Size: 28296
+MD5sum: f852fe5787d160d7a53603663010d4e6
+SHA1: aa13f7599a8f9259c8d4a2a2d3013a5152e44e8c
+SHA256: 7488dfe3070553cd20a6a96820cb24a924750efe5eb634dbda1a48766ffc32bf
+Section: Tweaks
+Description: Filza and AppsManager activation for free
+Author: Lilliana
+Depiction: https://repo.cypwn.xyz/depiction/1171
+Installed-Size: 196
+Name: Filza Crack (rootless)
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1171
+
+Package: cn.llld.qqdsqqc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/arm64/cn.llld.qqdsqqc_1.0.deb
+Size: 79172
+MD5sum: 44be2e961eb5a0a87fc32b5b80f18482
+SHA1: d42e527cbf2224ffa0ed071e3e4bdcf9269df524
+SHA256: 0464e29253dea064b7232d490392a0a776d6810b20e8fabda6e025732db6ec62
+Section: Tweaks
+Description: 芭比Q精简功能版，去除 全局视图颜色控制和全局视图透明调节 功能。插件功能在手机"系统设置"。调试版本号：v8.9.58和v9.0.20，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///var/jb/Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: QQ精简版
+
+Package: topme.ios.fakegps
+Version: 3.9.11
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: debs/arm64/topme.ios.fakegps_3.9.11.deb
+Size: 1995196
+MD5sum: ce6aa8878d532f8049e28300b412d2c9
+SHA1: 71a03f83268ff6648f25771320679b39ff992e93
+SHA256: 8100b714b24ccd3ce0c3cc814623d853de4ab7335aac98e28fb5f54f884f496f
+Section: Tweaks
+Description: 定位修改大师，Fake GPS Location, 360度全球虚拟定位到想要的任何地方。
+Author: suifeng <bestapps@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakelocationDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakelocationDp
+Icon: file:///Applications/FakeGps.app/AppIcon29x29@2x.png
+Installed-Size: 7332
+Name: 定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: suifeng
+
+Package: MisakaHelper
+Version: 2.1-0
+Architecture: iphoneos-arm64
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Filename: debs/arm64/Misaka_2.1.0_无根.deb
+Size: 13145216
+MD5sum: ad2b62fd2074abb612e2f5f1df95b19f
+SHA1: c2b9a99c7af380dd26938e974da0629c179114fa
+SHA256: 965a971feb33f121b811be169f9e34f774e76d46018a276c96d65785d0d2df75
+Section: Tweaks
+Description: MisakaHelper
+Author: Misaka
+Essential: no
+Name: MisakaHelper
+Priority: optional
+Provides: MisakaHelper
+
+Package: cn.llld.notihh
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/notihh_0.0.1.deb
+Size: 7308
+MD5sum: a8dad6a30f4bcb06d89cbbc4dca4d125
+SHA1: 80a5cd9b9007fb9fb6d09ebd5c409c512f2e911e
+SHA256: 04c0fd25ccd2e2b6fd059e532a23316bcda8350193a907833b267b19339f7a5a
+Section: Tweaks
+Description: Notiblock简体中文包
+Author: 来了老弟 X: h_h_x_t
+Installed-Size: 168
+Name: notiblock通知过滤汉化-rootless
+
+Package: com.dao.ytlite
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: debs/arm64/YTLite(rootless)_3.0.2.deb
+Size: 123660
+MD5sum: 45677efa092b259e265ef1b00850d0bf
+SHA1: 3c2e34a395d82f2102afa2e913fe40e5297fbddc
+SHA256: 3bdb1b62bc1cf787e2fdc944ac3071167b2d54adce9e6ac2da827957a9102f2d
+Section: Tweaks
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
+Author: dvntm
+Name: YTLite(rootless)
+
+Package: xyz.cypwn.hikari
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/arm64/xyz.cypwn.hikari_1.0.deb
+Size: 945512
+MD5sum: a7aa84c457e3ddd05abe2199484b3a0e
+SHA1: bc84acbaec81f3dc9408950db16f01280575ebbd
+SHA256: f843909f096a5cba402f3f6dac0485d64a7db9bb77227420995eeb81972c8a91
+Section: Tweaks
+Description: Hikari lets you customize and enhance your device’s sound effects with ease.
+Author: Hitori
+Crakage: com.hitori.hikari
+Depiction: https://repo.cypwn.xyz/depiction/2739
+Icon: https://repo.cypwn.xyz/packages/Hikari-Rootless/icon.png
+Name: Hikari
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2739
+
+Package: com.squidforce.disablepastealert16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Filename: debs/arm64/禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16_1.0.deb
+Size: 4056
+MD5sum: 03ff9de69600d3a63dcb0b07c1a56b36
+SHA1: b31d7b2690d85ea4906599dc8fe9acc085efdb98
+SHA256: c184963e8f3ad3c8c7f3aaf1f93ee89aa1edb27ead9318eb42c4ea35c4cd84a9
+Section: Tweaks
+Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
+ 2. 禁用粘贴提醒
+ * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
+Author: SquidForce
+Installed-Size: 168
+Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
+
+Package: com.spark.snowboard
+Version: 1.5.26-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/arm64/SnowBoard_1.5.26-Beta4-rootless.deb
+Size: 1115504
+MD5sum: 01ee60e536a1210ccc8bda19d447f77c
+SHA1: 83addb70e3eaef2bb32144e1dcdfd05b5f5eec9a
+SHA256: d7a653da06fc1272ec4d7c9ef2686d331e56c7610fcde8112ef25c45651c832a
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Installed-Size: 3236
+Name: SnowBoard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 
 Package: byg.iosios.net.vfa-rootless
 Version: 1.0.2-2
