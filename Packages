@@ -440,16 +440,16 @@ Installed-Size: 168
 Name: 什么值得买 去广告-Rootless
 Sponsor: 搬运工
 
-Package: xyz.cypwn.sneakycam
+Package: com.yanshen.sneakycam
 Version: 2.2.2
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate, preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: debs/arm64/SneakyCam-2.2.2.deb
-Size: 106952
-MD5sum: 2da1f141f72ed6bc030713742a2173e1
-SHA1: 8475306ef0766f307027a2e5872e0fd3fd546060
-SHA256: 02965f9f766efc4d72e5ec56e242be0062519bc451cbcbae8b1ccf9566a6bc24
+Size: 106916
+MD5sum: f62c1812a3ebc23ad9065649ef0d27a3
+SHA1: 27d24b82792a631cef99186ff89678d5a0fae976
+SHA256: 593248b60a23bf92a8a7c19c695cb4332a6e0160a809c1db3bcd699b7f0948bd
 Section: Tweaks
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Author: Spark
