@@ -764,6 +764,22 @@ Installed-Size: 408
 Name: libSparkAppList
 Tag: role::developer
 
+Package: com.wechat.enhance
+Version: 1.5-6
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/WechatEnhance_1.5-6_arm64.deb
+Size: 550968
+MD5sum: 9b70eee00c3a115c6a3c42ea63a60ded
+SHA1: a931aaa32a1c8e99773c8e98e8c6ba5801e0acbc
+SHA256: cd3df7d464024a38f80c5dec8abd23f130dd7c3557c1300fb63d1382c4acd0b6
+Section: Tweaks
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Installed-Size: 2620
+Name: WeChatEnhance
+
 Package: com.dao.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64

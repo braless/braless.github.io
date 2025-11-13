@@ -1,6 +1,6 @@
 {
   "type": "arm64",
-  "total": 156,
+  "total": 157,
   "data": [
     {
       "Version": "1.0",
@@ -302,6 +302,13 @@
       "Filename": "debs/arm64/libSparkAppList_1.1.0~rootless.deb",
       "path": "/debs/arm64/libSparkAppList_1.1.0~rootless.deb",
       "Name": "libSparkAppList"
+    },
+    {
+      "Version": "1.5-6",
+      "Architecture": "iphoneos-arm64",
+      "Filename": "debs/arm64/WechatEnhance_1.5-6_arm64.deb",
+      "path": "/debs/arm64/WechatEnhance_1.5-6_arm64.deb",
+      "Name": "WeChatEnhance"
     },
     {
       "Version": "7.10.0",
