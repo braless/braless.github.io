@@ -748,22 +748,6 @@ Installed-Size: 408
 Name: libSparkAppList
 Tag: role::developer
 
-Package: com.wechat.enhance
-Version: 1.5-6
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/arm64/WechatEnhance_1.5-6_arm64.deb
-Size: 550968
-MD5sum: 9b70eee00c3a115c6a3c42ea63a60ded
-SHA1: a931aaa32a1c8e99773c8e98e8c6ba5801e0acbc
-SHA256: cd3df7d464024a38f80c5dec8abd23f130dd7c3557c1300fb63d1382c4acd0b6
-Section: Tweaks
-Description: 微信插件，支持聊天按钮布局自定义等。
-Author: 愫 茶
-Installed-Size: 2620
-Name: WeChatEnhance
-
 Package: com.dao.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -2462,6 +2446,22 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
 
+Package: com.wechat.enhance
+Version: 1.5-6
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/arm64/微信插件/WechatEnhance_1.5-6_arm64.deb
+Size: 550968
+MD5sum: 9b70eee00c3a115c6a3c42ea63a60ded
+SHA1: a931aaa32a1c8e99773c8e98e8c6ba5801e0acbc
+SHA256: cd3df7d464024a38f80c5dec8abd23f130dd7c3557c1300fb63d1382c4acd0b6
+Section: Tweaks
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Installed-Size: 2620
+Name: WeChatEnhance
+
 Package: byg.iosios.net.HBWechatHelper.rootlless
 Version: 1.7-8
 Architecture: iphoneos-arm64
@@ -2679,6 +2679,21 @@ Author: Mao
 Name: 斗图助手-Rootless
 Priority: optional
 Sponsor: admin@25mao.com
+
+Package: com.rexinxuegao.WCElite
+Version: 1.3-7
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/arm64/微信插件/WCElite_1.3-7.deb
+Size: 834058
+MD5sum: ad72be815a25a5681b2e2a520d0c0748
+SHA1: 79d83d20a833a2358ae05340ad783869f831e196
+SHA256: 49f3d6769afa952de8be6b7514a4a5c8d45fcb12101e87f2089d073c13f1d9c5
+Section: Tweaks
+Description: 微信优化，基于WechatEnhance 1.1-9开源版优化。
+Author: 热心网友＆雪糕
+Name: WCElite
+Priority: optional
 
 Package: com.hopeless.wechatnoads
 Version: 0.0.2
