@@ -628,22 +628,6 @@ Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
 Name: SettingsRevamp 简体中文包(rootless)
 
-Package: com.dao.infuseplus
-Version: 1.1.6
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: debs/arm64/com.dao.infuseplus_1.1.6.deb
-Size: 167212
-MD5sum: 34870471e3bb92723bd42cefe3eec760
-SHA1: a40ba9fefe46348ba9d7a2926f64c8b72f9749f6
-SHA256: 2d15203434a0d2c9c111e90df8eb36f47bd4f8859c45c84f99502fc7052ea321
-Section: Tweaks
-Description: Infuse的破解/增强插件。
-Author: dvntm
-Name: Infuse Plus(rootless)
-
 Package: com.xx.gaodehook
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -2375,23 +2359,6 @@ Icon: https://repo.cypwn.xyz/packages/Hikari-Rootless/icon.png
 Name: Hikari
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2739
 
-Package: com.squidforce.disablepastealert16
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: SquidForce
-Filename: debs/arm64/禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16_1.0.deb
-Size: 4056
-MD5sum: 03ff9de69600d3a63dcb0b07c1a56b36
-SHA1: b31d7b2690d85ea4906599dc8fe9acc085efdb98
-SHA256: c184963e8f3ad3c8c7f3aaf1f93ee89aa1edb27ead9318eb42c4ea35c4cd84a9
-Section: Tweaks
-Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
- 2. 禁用粘贴提醒
- * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
-Author: SquidForce
-Installed-Size: 168
-Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
-
 Package: com.spark.snowboard
 Version: 1.5.26-Beta4-rootless
 Architecture: iphoneos-arm64
@@ -2411,47 +2378,29 @@ Installed-Size: 3236
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 
-Package: byg.iosios.net.vfa-rootless
-Version: 1.0.2-2
+Package: com.HBWechatHelper.ailun
+Version: 1.8.0
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: HuangBai
 Depends: mobilesubstrate
-Filename: debs/arm64/微信插件/微信公众号去广告-Rootless_1.0.2-2.deb
-Size: 7156
-MD5sum: 81d100123b225a9d9de40473f16fce94
-SHA1: 9bf00bdea2281a86f3a2c8333432f7176208aa45
-SHA256: 95dbc12516e11971684e51ebcafd29daef9ef7ec91aa4dafd22ea70104b99431
+Filename: debs/arm64/微信插件/黄白助手1.8.0.deb
+Size: 11228304
+MD5sum: 90cd2ede99cdc07c6710afba09be8fc3
+SHA1: 1adf2396a6c57a3e44bb51cc44b1f95cc80ebc34
+SHA256: cbeadebd2d451b5fbbd9292d1c4996d62ae27fb5a096ad075e566e1bec0e0b67
 Section: 微信
-Description: 去掉微信公众号文章内置以及底部的广告
-Author: 糖醋丶炒排骨
-Icon: https://chinesebuilding.club/pic/cydia.png
-Installed-Size: 136
-Name: 微信公众号去广告-Rootless
-Sponsor: 搬运工
-
-Package: com.25mao.doutu.rootless
-Version: 3.1-5
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: debs/arm64/微信插件/斗图助手-Rootless_3.1-5.deb
-Size: 1210256
-MD5sum: acf036b0eaacd7af1af1a74188395654
-SHA1: 025475e5f4adb93f5a21d5b98c9076991fe31c0a
-SHA256: 381ed9a96b630ac45dfed64599f241af7dce952751431fa89139b59854bb5e71
-Section: 微信
-Description: 斗图助手-Rootless
-Author: Mao
-Name: 斗图助手-Rootless
-Priority: optional
-Sponsor: admin@25mao.com
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
 
 Package: com.25mao.wxurlexpand.rootless
 Version: 0.2-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: debs/arm64/微信插件/微信URL扩展-Rootless_0.2-0.deb
+Filename: debs/arm64/微信插件/微信URL扩展0.2-0.deb
 Size: 34004
 MD5sum: f667c938a11b67ce43886d2b383cc11d
 SHA1: dfa5ba40504b4930a33e31fa8e5048521e861aa4
@@ -2503,7 +2452,7 @@ Version: 1.7.3
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: debs/arm64/微信插件/黄白助手1.7.3_无根.deb
+Filename: debs/arm64/微信插件/黄白助手1.7.3.deb
 Size: 9038804
 MD5sum: 92739721aa083d09ac860a42ea798411
 SHA1: a7d128c3a6ccb2b12725a04da7d2331373481323
@@ -2512,22 +2461,6 @@ Section: 微信
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)-Rootless
-
-Package: com.yourepo.trollstore.wcehance
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/arm64/微信插件/com.yourepo.trollstore.wcehance_1.2.0_iphoneos-arm64.deb
-Size: 232744
-MD5sum: 8f62db6235386ed9fa198217ba5f1c17
-SHA1: 91fa763887847e09f58efd6b3e75083b98df9166
-SHA256: 911309db7c37b7507d42cc488c1b800b8498c7410ddae0f50ccad41d37ce067e
-Section: Tweaks
-Description: 微信插件，支持聊天按钮布局自定义等。
-Author: A <qiaozhani000@163.com>
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WeChatEnhance微信增强
 
 Package: byg.iosios.net.HBWechatHelper.rootlless
 Version: 1.7-8
@@ -2545,22 +2478,6 @@ Author: HuangBai
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信黄白助手-Rootless
 Sponsor: 搬运工
-
-Package: com.huami.WCPulse
-Version: 1.0-6
-Architecture: iphoneos-arm64
-Maintainer: huami
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/arm64/微信插件/com.huami.WCPulse_1.0-6_iphoneos-arm64.deb
-Size: 51176
-MD5sum: b7295743ea527e26f10bdc087367f618
-SHA1: f0ced8aa3e88368cbff833884f9d1b80ee00c4c2
-SHA256: 825967c83eb5a8247c3048ac5e9307007f1b173dd3c12983247fa3e288197207
-Section: 微信
-Description: WCPulse
-Author: huami
-Installed-Size: 336
-Name: WCPulse
 
 Package: netskao.wechatpurification
 Version: 4.2-6
@@ -2582,23 +2499,6 @@ Name: 微信净化
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension
 dev: netskao
-
-Package: com.HBWechatHelper.ailun
-Version: 1.8.0
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Filename: debs/arm64/微信插件/黄白助手_1.8.0_无根.deb
-Size: 11228304
-MD5sum: 90cd2ede99cdc07c6710afba09be8fc3
-SHA1: 1adf2396a6c57a3e44bb51cc44b1f95cc80ebc34
-SHA256: cbeadebd2d451b5fbbd9292d1c4996d62ae27fb5a096ad075e566e1bec0e0b67
-Section: 微信
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: 黄白助手(微信插件)-Rootless
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/HBWechat/js.json
 
 Package: com.hbwechathelper.ailun
 Version: 1.7.1
@@ -2686,23 +2586,6 @@ Author: Netskao
 Installed-Size: 2336
 Name: WeChatNotiAvatar
 
-Package: com.25mao.wcplugins.rootless
-Version: 0.1-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: debs/arm64/微信插件/微信插件管理-Rootless_0.1-3.deb
-Size: 19644
-MD5sum: 77845a6c7e269d40ce17831254e6c14b
-SHA1: 323881db1de05ed9b4952a76639aac9832c3cfde
-SHA256: eb1be565b5739c9e29980a5f896c28b41e0af79eb36f2ea83f563b14c2d217d4
-Section: 微信
-Description: 插件管理-Rootless
-Author: Mao
-Name: 微信插件管理-Rootless
-Priority: optional
-Sponsor: admin@25mao.com
-
 Package: byg.iosios.net.wcmypageinfocenters
 Version: 1.2-1
 Architecture: iphoneos-arm64
@@ -2722,23 +2605,23 @@ Installed-Size: 220
 Name: 微信资料居中-Rootless
 Sponsor: 搬运工
 
-Package: com.Axs.WCEhance
-Version: 1.0-2
+Package: byg.iosios.net.vfa-rootless
+Version: 1.0.2-2
 Architecture: iphoneos-arm64
-Maintainer: huami
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/arm64/微信插件/微信增强_1.0-2_无根.deb
-Size: 42444
-MD5sum: 1abac07f1b167f5119aebdea52d90223
-SHA1: ecf9005408bb3f436b4abab36fbce08fb16cbc22
-SHA256: 33b81fbf1366583d77ddd855985dfb55512f31690cf39aa3ee667147f070d769
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: debs/arm64/微信插件/微信公众号去广告1.0.2-2.deb
+Size: 7156
+MD5sum: 81d100123b225a9d9de40473f16fce94
+SHA1: 9bf00bdea2281a86f3a2c8333432f7176208aa45
+SHA256: 95dbc12516e11971684e51ebcafd29daef9ef7ec91aa4dafd22ea70104b99431
 Section: 微信
-Description: WeChat enhancement, used to optimize some anti human designs and enhance functionality
-Author: huami&Lxcloud
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: WCEhance微信增强
-Priority: optional
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/WCEhance/js.json
+Description: 去掉微信公众号文章内置以及底部的广告
+Author: 糖醋丶炒排骨
+Icon: https://chinesebuilding.club/pic/cydia.png
+Installed-Size: 136
+Name: 微信公众号去广告-Rootless
+Sponsor: 搬运工
 
 Package: netskao.wechatpurification
 Version: 4.2-6
@@ -2780,24 +2663,22 @@ Installed-Size: 72
 Name: 微信Callkit-Rootless
 Sponsor: 搬运工
 
-Package: byg.iosios.net.wechatnotiavatar
-Version: 1.2-4
+Package: com.25mao.doutu.rootless
+Version: 3.1-5
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Conflicts: netskao.smallbanners-rootless, netskao.smallbanners
-Filename: debs/arm64/微信插件/微信头像-Rootless_1.2-4.deb
-Size: 242404
-MD5sum: 5161bf817d1b8cde834db2f5e1ead6a2
-SHA1: ccec324976795aa3a52dd065713c49c786f92fd5
-SHA256: 10f54fbfbe2e73e5c6bc0b0897d96a060cb71496a72d14b295d8cf3c86abaee0
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/arm64/微信插件/斗图助手3.1-5.deb
+Size: 1210256
+MD5sum: acf036b0eaacd7af1af1a74188395654
+SHA1: 025475e5f4adb93f5a21d5b98c9076991fe31c0a
+SHA256: 381ed9a96b630ac45dfed64599f241af7dce952751431fa89139b59854bb5e71
 Section: 微信
-Description: Display Notification Avatars for WeChat App using iOS15 APIs微信通知显示好友头像，仅越狱Rootless可用！可以说是非常的骚气的！效果看截图！
-Author: Netskao
-Icon: https://chinesebuilding.club/pic/cydia.png
-Installed-Size: 1140
-Name: 微信头像-Rootless
-Sponsor: 搬运工
+Description: 斗图助手-Rootless
+Author: Mao
+Name: 斗图助手-Rootless
+Priority: optional
+Sponsor: admin@25mao.com
 
 Package: com.hopeless.wechatnoads
 Version: 0.0.2
@@ -2814,6 +2695,23 @@ Description: Fuck Wechat Ads
 Author: hopeless
 Installed-Size: 168
 Name: WeChatNoAds
+
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/arm64/微信插件/微信插件管理0.1-3.deb
+Size: 19644
+MD5sum: 77845a6c7e269d40ce17831254e6c14b
+SHA1: 323881db1de05ed9b4952a76639aac9832c3cfde
+SHA256: eb1be565b5739c9e29980a5f896c28b41e0af79eb36f2ea83f563b14c2d217d4
+Section: 微信
+Description: 插件管理-Rootless
+Author: Mao
+Name: 微信插件管理-Rootless
+Priority: optional
+Sponsor: admin@25mao.com
 
 Package: netskao.kanoads
 Version: 1.1-2
